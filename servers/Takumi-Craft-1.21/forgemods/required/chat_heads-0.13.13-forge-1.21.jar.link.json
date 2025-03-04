@@ -1,0 +1,10 @@
+{
+  "id": "dzwdz.chat_heads:chat_heads:0.13.13@jar",
+  "name": "Chat Heads",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 262836,
+    "url": "https://edge.forgecdn.net/files/6171/102/chat_heads-0.13.13-forge-1.21.jar",
+    "MD5": "d1c74c9deaf9ed8728cb2f45dbb16758"
+  }
+}

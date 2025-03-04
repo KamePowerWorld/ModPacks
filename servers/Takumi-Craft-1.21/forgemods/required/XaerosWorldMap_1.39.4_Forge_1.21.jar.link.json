@@ -1,0 +1,10 @@
+{
+  "id": "xaero.map:xaeroworldmap:1.39.4@jar",
+  "name": "Xaero's World Map",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 929175,
+    "url": "https://edge.forgecdn.net/files/6212/657/XaerosWorldMap_1.39.4_Forge_1.21.jar",
+    "MD5": "0a633883fee5fac723ab376965adc5e1"
+  }
+}
