@@ -4,7 +4,10 @@
     "discord": {
       "clientId": "931890214782259261",
       "smallImageText": "Modランチャー",
-      "smallImageKey": "pack_mod"
+      "smallImageKey": "pack_mod",
+      "shortId": "Minecraft",
+      "largeImageText": "Minecraft",
+      "largeImageKey": "pack_kpw"
     }
   }
 }
