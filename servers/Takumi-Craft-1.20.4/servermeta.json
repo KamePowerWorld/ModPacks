@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Takumi-Craft (Minecraft 1.20.4)",
+    "description": "Takumi-Craft Running Minecraft 1.20.4 (Forge v49.2.0)",
+    "icon": "",
+    "address": "",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "49.2.0"
+  },
+  "untrackedFiles": []
+}
