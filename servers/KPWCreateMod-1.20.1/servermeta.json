@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/softdata/git/KPWModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "KPWCreateMod (Minecraft 1.20.1)",
+    "description": "KPWCreateMod Running Minecraft 1.20.1 (Forge v47.4.0)",
+    "icon": "",
+    "address": "",
+    "discord": {
+      "shortId": "Minecraft",
+      "largeImageText": "Minecraft",
+      "largeImageKey": "pack_kpw"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": []
+}
