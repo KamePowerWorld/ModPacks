@@ -1,0 +1,10 @@
+{
+  "id": "net.bdew.lib:bdlib:1.14.3.12@jar",
+  "name": "BD Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1962731,
+    "url": "https://edge.forgecdn.net/files/2518/31/bdlib-1.14.3.12-mc1.12.2.jar",
+    "MD5": "d2b8ba08414ac12737eb5ecbf92a19d9"
+  }
+}

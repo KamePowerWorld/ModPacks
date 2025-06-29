@@ -1,0 +1,10 @@
+{
+  "id": "ts2k16.core:ts2k16:1.2.10@jar",
+  "name": "Twerk-Sim 2K16",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 95669,
+    "url": "https://edge.forgecdn.net/files/2659/489/TS2K16-1.2.10.jar",
+    "MD5": "9c00338781ad5955e36fbcd532f684bc"
+  }
+}

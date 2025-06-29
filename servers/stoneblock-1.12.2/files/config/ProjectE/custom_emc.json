@@ -1,0 +1,248 @@
+{
+  "entries": [
+    {
+      "item": "projecte:item.pe_philosophers_stone|0",
+      "emc": 500
+    },
+    {
+      "item": "appliedenergistics2:sky_stone_block|0",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|0",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|1",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|2",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|13",
+      "emc": 512
+    },
+    {
+      "item": "appliedenergistics2:material|14",
+      "emc": 512
+    },
+    {
+      "item": "appliedenergistics2:material|15",
+      "emc": 512
+    },
+    {
+      "item": "appliedenergistics2:material|19",
+      "emc": 512
+    },
+    {
+      "item": "botania:manaresource|0",
+      "emc": 1024
+    },
+    {
+      "item": "botania:manaresource|1",
+      "emc": 1024
+    },
+    {
+      "item": "botania:manaresource|2",
+      "emc": 1024
+    },
+    {
+      "item": "botania:manaresource|4",
+      "emc": 10240
+    },
+    {
+      "item": "bigreactors:ingotmetals|5",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 512
+    },
+    {
+      "item": "projecte:condenser_mk1|0",
+      "emc": 2450655
+    },
+    {
+      "item": "projecte:condenser_mk2|0",
+      "emc": 9812381
+    },
+    {
+      "item": "avaritia:resource|5",
+      "emc": 3414419320
+    },
+    {
+      "item": "projecte:transmutation_table|0",
+      "emc": 12470534
+    },
+    {
+      "item": "projecte:item.pe_transmutation_tablet|0",
+      "emc": 24941068
+    },
+    {
+      "item": "projecte:item.pe_tome|0",
+      "emc": 24941068
+    },
+    {
+      "item": "enderstorage:ender_storage|0",
+      "emc": 512
+    },
+    {
+      "item": "enderstorage:ender_storage|1",
+      "emc": 512
+    },
+    {
+      "item": "hatchery:chickenmanure|0",
+      "emc": 37
+    },
+    {
+      "item": "roost:collector|0",
+      "emc": 528
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 262144
+    },
+    {
+      "item": "actuallyadditions:item_misc|19",
+      "emc": 401664
+    },
+    {
+      "item": "exnihilocreatio:item_pebble|0",
+      "emc": 1
+    },
+    {
+      "item": "redstonearsenal:storage|0",
+      "emc": 25056
+    },
+    {
+      "item": "thermalfoundation:material|167",
+      "emc": 1281
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 576
+    },
+    {
+      "item": "extrautils2:flattransfernode|0",
+      "emc": 6
+    },
+    {
+      "item": "extrautils2:flattransfernode|1",
+      "emc": 16
+    },
+    {
+      "item": "projecte:item.pe_covalence_dust|0",
+      "emc": 8
+    },
+    {
+      "item": "projecte:item.pe_covalence_dust|1",
+      "emc": 13
+    },
+    {
+      "item": "projecte:item.pe_covalence_dust|2",
+      "emc": 914
+    },
+    {
+      "item": "projecte:collector_mk1|0",
+      "emc": 82953
+    },
+    {
+      "item": "projecte:collector_mk2|0",
+      "emc": 232969
+    },
+    {
+      "item": "projecte:collector_mk3|0",
+      "emc": 710665
+    },
+    {
+      "item": "projecte:relay_mk1|0",
+      "emc": 74121
+    },
+    {
+      "item": "projecte:relay_mk2|0",
+      "emc": 213833
+    },
+    {
+      "item": "projecte:relay_mk3|0",
+      "emc": 681225
+    },
+    {
+      "item": "extrautils2:machine|0",
+      "emc": 0
+    },
+    {
+      "item": "avaritia:neutron_collector|0",
+      "emc": 3166720
+    },
+    {
+      "item": "minecraft:cactus|0",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|2",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:dye|3",
+      "emc": 16
+    },
+    {
+      "item": "chickens:spawn_egg|0",
+      "emc": 160
+    },
+    {
+      "item": "minecraft:dye|4",
+      "emc": 16
+    },
+    {
+      "item": "minecraft:bone|0",
+      "emc": 48
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 307
+    },
+    {
+      "item": "appliedenergistics2:crystal_seed|1200",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:energy_cell|0",
+      "emc": 0
+    },
+    {
+      "item": "appliedenergistics2:crystal_seed|0",
+      "emc": 0
+    },
+    {
+      "item": "quantumstorage:quantum_battery|0",
+      "emc": 0
+    },
+    {
+      "item": "compactmachines3:wallbreakable|0",
+      "emc": 152
+    },
+    {
+      "item": "compactmachines3:tunneltool|0",
+      "emc": 1033
+    },
+    {
+      "item": "compactmachines3:redstonetunneltool|0",
+      "emc": 652
+    },
+    {
+      "item": "minecraft:iron_nugget|0",
+      "emc": 28
+    },
+    {
+      "item": "tp:dragon_scale|0",
+      "emc": 262144
+    },
+    {
+      "item": "mysticalagradditions:stuff|3",
+      "emc": 262144
+    }
+  ]
+}

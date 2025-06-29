@@ -1,0 +1,10 @@
+{
+  "id": "com.github.atomicblom:shearmadness:1.7.2.4@jar",
+  "name": "Shear Madness",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 302991,
+    "url": "https://edge.forgecdn.net/files/2629/244/shearmadness-1.12.2-1.7.2.4.jar",
+    "MD5": "342df5e3a1395666b1050c5b0c293d48"
+  }
+}

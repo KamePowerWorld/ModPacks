@@ -1,0 +1,10 @@
+{
+  "id": "cofh.thermalexpansion:thermalexpansion:5.5.7.1@jar",
+  "name": "Thermal Expansion",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2345139,
+    "url": "https://edge.forgecdn.net/files/2926/431/ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+    "MD5": "0bf91e166b05e83d22455a9c7ec395bb"
+  }
+}

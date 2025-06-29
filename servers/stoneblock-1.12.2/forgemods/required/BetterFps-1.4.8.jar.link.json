@@ -1,0 +1,10 @@
+{
+  "id": "guichaguri.betterfps:betterfps:1.4.8@jar",
+  "name": "BetterFps",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 155196,
+    "url": "https://edge.forgecdn.net/files/2483/393/BetterFps-1.4.8.jar",
+    "MD5": "d36f4d3c0f96e99a9a1ad2e8eeda1fc4"
+  }
+}

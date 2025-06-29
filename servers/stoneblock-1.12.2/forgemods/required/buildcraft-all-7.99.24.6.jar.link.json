@@ -1,0 +1,10 @@
+{
+  "id": "buildcraft.compat:buildcraftlib:7.99.24.6@jar",
+  "name": "BuildCraft Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4809726,
+    "url": "https://edge.forgecdn.net/files/2914/534/buildcraft-all-7.99.24.6.jar",
+    "MD5": "c06b65abc29f0cb72bfdf110437bea0a"
+  }
+}

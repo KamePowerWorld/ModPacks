@@ -1,0 +1,10 @@
+{
+  "id": "jackyy.gunpowderlib:gunpowderlib:1.12.2-1.0@jar",
+  "name": "GunpowderLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 24639,
+    "url": "https://edge.forgecdn.net/files/2852/431/GunpowderLib-1.12.2-1.0.jar",
+    "MD5": "3db9feb2e7599dcbca3807341f97b592"
+  }
+}

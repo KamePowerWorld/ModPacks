@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:slimyboyos:1.0.0@jar",
+  "name": "SlimyBoyos",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 15097,
+    "url": "https://edge.forgecdn.net/files/2500/372/SlimyBoyos-1.0.0.jar",
+    "MD5": "ab1544744e5a87f491237644c3df6188"
+  }
+}

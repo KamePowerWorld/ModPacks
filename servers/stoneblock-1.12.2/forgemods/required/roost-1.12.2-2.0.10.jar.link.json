@@ -1,0 +1,10 @@
+{
+  "id": "com.timwoodcreates:roost:2.0.10@jar",
+  "name": "Roost",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 335854,
+    "url": "https://edge.forgecdn.net/files/2702/80/roost-1.12.2-2.0.10.jar",
+    "MD5": "f40eb2a747785efcae3929e8017989c0"
+  }
+}

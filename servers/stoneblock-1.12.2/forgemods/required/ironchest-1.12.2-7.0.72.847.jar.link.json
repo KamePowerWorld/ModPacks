@@ -1,0 +1,10 @@
+{
+  "id": "cpw.mods:ironchest:1.12.2-7.0.72.847@jar",
+  "name": "Iron Chests",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 956692,
+    "url": "https://edge.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
+    "MD5": "743179bc3a8f50751efbb019acc759a9"
+  }
+}

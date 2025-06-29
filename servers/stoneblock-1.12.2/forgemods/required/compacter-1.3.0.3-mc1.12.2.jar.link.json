@@ -1,0 +1,10 @@
+{
+  "id": "net.bdew:compacter:1.3.0.3@jar",
+  "name": "Compacter",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 262407,
+    "url": "https://edge.forgecdn.net/files/2490/45/compacter-1.3.0.3-mc1.12.2.jar",
+    "MD5": "b4abff5976314348518efa243e7c5cdd"
+  }
+}

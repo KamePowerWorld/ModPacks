@@ -1,0 +1,10 @@
+{
+  "id": "me.ichun.mods:ichunutil:1.12.2-7.2.2@jar",
+  "name": "IChunUtil",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 581963,
+    "url": "https://edge.forgecdn.net/files/2801/262/iChunUtil-1.12.2-7.2.2.jar",
+    "MD5": "bf13a2044ece544b449c7dc6f8aa40af"
+  }
+}

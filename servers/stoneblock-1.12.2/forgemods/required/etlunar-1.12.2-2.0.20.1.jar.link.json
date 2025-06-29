@@ -1,0 +1,10 @@
+{
+  "id": "com.valkyrieofnight.et.lunar:etlunar:1.12.2-2.0.20.1@jar",
+  "name": "ET Lunar",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 63844,
+    "url": "https://edge.forgecdn.net/files/2691/537/etlunar-1.12.2-2.0.20.1.jar",
+    "MD5": "36c0e72b8e63aa5d497338e6fa74ff95"
+  }
+}

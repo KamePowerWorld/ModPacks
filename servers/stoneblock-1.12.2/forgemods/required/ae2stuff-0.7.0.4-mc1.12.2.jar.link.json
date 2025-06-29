@@ -1,0 +1,10 @@
+{
+  "id": "net.bdew:ae2stuff:0.7.0.4@jar",
+  "name": "AE2 Stuff",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 513374,
+    "url": "https://edge.forgecdn.net/files/2491/32/ae2stuff-0.7.0.4-mc1.12.2.jar",
+    "MD5": "8594b7501c1ecc1bdaaa8ef42b7dbdda"
+  }
+}

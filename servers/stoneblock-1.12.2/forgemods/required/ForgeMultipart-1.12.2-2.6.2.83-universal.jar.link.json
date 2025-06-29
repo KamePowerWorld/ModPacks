@@ -1,0 +1,10 @@
+{
+  "id": "codechicken.microblock.handler:forgemultipartcbe:2.6.2.83@jar",
+  "name": "Forge Multipart CBE",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1304958,
+    "url": "https://edge.forgecdn.net/files/2755/790/ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+    "MD5": "e45e04bc38dc373aaef0415c2e2d441d"
+  }
+}

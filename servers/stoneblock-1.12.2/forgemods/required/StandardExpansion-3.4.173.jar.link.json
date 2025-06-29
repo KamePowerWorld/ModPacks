@@ -1,0 +1,10 @@
+{
+  "id": "bq_standard.core:bq_standard:3.4.173@jar",
+  "name": "Standard Expansion",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 460454,
+    "url": "https://edge.forgecdn.net/files/2863/771/StandardExpansion-3.4.173.jar",
+    "MD5": "a05ed445a2c384e429c124b673cbda2a"
+  }
+}

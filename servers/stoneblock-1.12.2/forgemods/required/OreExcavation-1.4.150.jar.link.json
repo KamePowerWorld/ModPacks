@@ -1,0 +1,10 @@
+{
+  "id": "oreexcavation.core:oreexcavation:1.4.150@jar",
+  "name": "OreExcavation",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 184743,
+    "url": "https://edge.forgecdn.net/files/2897/369/OreExcavation-1.4.150.jar",
+    "MD5": "868369238ff464e7bd081d6d5fc17224"
+  }
+}

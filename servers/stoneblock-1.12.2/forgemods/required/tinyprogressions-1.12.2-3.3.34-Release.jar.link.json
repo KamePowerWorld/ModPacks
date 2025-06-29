@@ -1,0 +1,10 @@
+{
+  "id": "com.kashdeya.tinyprogressions.main:tp:3.2.31@jar",
+  "name": "Tiny Progressions",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1134227,
+    "url": "https://edge.forgecdn.net/files/2721/18/tinyprogressions-1.12.2-3.3.34-Release.jar",
+    "MD5": "edd094aba8bdaa2d42b79af68df17cc4"
+  }
+}

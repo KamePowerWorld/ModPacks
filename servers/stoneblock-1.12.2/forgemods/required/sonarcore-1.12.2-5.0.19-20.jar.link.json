@@ -1,0 +1,10 @@
+{
+  "id": "sonar.core:sonarcore:1.12.2-5.0.19-20@jar",
+  "name": "SonarCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1160618,
+    "url": "https://edge.forgecdn.net/files/2645/156/sonarcore-1.12.2-5.0.19-20.jar",
+    "MD5": "02c6264bdfa66c5895aed1d739109420"
+  }
+}

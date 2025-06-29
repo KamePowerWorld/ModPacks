@@ -1,0 +1,10 @@
+{
+  "id": "quantumstorage:quantumstorage:4.7.0@jar",
+  "name": "QuantumStorage",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 247627,
+    "url": "https://edge.forgecdn.net/files/2764/828/QuantumStorage-1.12-4.7.0.jar",
+    "MD5": "4da452dfc28431b56e76e9ab2431df2c"
+  }
+}

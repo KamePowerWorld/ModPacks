@@ -1,0 +1,10 @@
+{
+  "id": "com.raoulvdberge:refinedstorage:1.6.16@jar",
+  "name": "Refined Storage",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1912377,
+    "url": "https://edge.forgecdn.net/files/2940/914/refinedstorage-1.6.16.jar",
+    "MD5": "0b5e41f29c3ceb1db560531fef9f55a2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "chancecubes:chancecubes:1.12.2-5.0.2.345@jar",
+  "name": "Chance Cubes",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 926090,
+    "url": "https://edge.forgecdn.net/files/2883/181/ChanceCubes-1.12.2-5.0.2.345.jar",
+    "MD5": "0562f1fd64af43102d190f177ea885a0"
+  }
+}

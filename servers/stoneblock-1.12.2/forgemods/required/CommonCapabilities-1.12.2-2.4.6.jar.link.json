@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:commoncapabilities:1.12.2-2.4.6@jar",
+  "name": "CommonCapabilities",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 361473,
+    "url": "https://edge.forgecdn.net/files/2920/804/CommonCapabilities-1.12.2-2.4.6.jar",
+    "MD5": "51c5f7fa82c3a243538397bdca28c6ca"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.minecraftforge:mercurius:1.12.2@jar",
+  "name": "Mercurius",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 38808,
+    "url": "https://edge.forgecdn.net/files/2481/890/Mercurius-1.12.2.jar",
+    "MD5": "3d2ff1b3a4dabad1476cec8ede64a33e"
+  }
+}

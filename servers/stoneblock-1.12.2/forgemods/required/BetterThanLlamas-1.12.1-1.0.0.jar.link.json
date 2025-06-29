@@ -1,0 +1,10 @@
+{
+  "id": "me.ichun.mods:betterthanllamas:1.12.1-1.0.0@jar",
+  "name": "BetterThanLlamas",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 20956,
+    "url": "https://edge.forgecdn.net/files/2477/842/BetterThanLlamas-1.12.1-1.0.0.jar",
+    "MD5": "1263c53a3a73dbbe4f277f6ee97a50af"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "wanion.unidict:unidict:1.12.2-2.9.6@jar",
+  "name": "UniDict",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 184842,
+    "url": "https://edge.forgecdn.net/files/2880/863/UniDict-1.12.2-2.9.6.jar",
+    "MD5": "997757ba2a263a6da929f4735455c018"
+  }
+}

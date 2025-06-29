@@ -1,0 +1,10 @@
+{
+  "id": "com.pam:simplerecipes:1.0@jar",
+  "name": "Pam's Simple Recipes",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 6981,
+    "url": "https://edge.forgecdn.net/files/2520/943/Pam%27s%20Simple%20Recipes%201.12.2c.jar",
+    "MD5": "287f985411e2bd48f68ae874e932796d"
+  }
+}

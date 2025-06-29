@@ -1,0 +1,10 @@
+{
+  "id": "cofh.redstonearsenal:redstonearsenal:2.6.6.1@jar",
+  "name": "Redstone Arsenal",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 243859,
+    "url": "https://edge.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar",
+    "MD5": "d2ca2d7e0987a9f3d1cb82898942bb78"
+  }
+}

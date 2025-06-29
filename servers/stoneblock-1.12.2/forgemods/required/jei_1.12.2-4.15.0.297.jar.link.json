@@ -1,0 +1,10 @@
+{
+  "id": "mezz.jei:jei:4.15.0.297@jar",
+  "name": "Just Enough Items",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 653150,
+    "url": "https://edge.forgecdn.net/files/2995/897/jei_1.12.2-4.15.0.297.jar",
+    "MD5": "a278ec508d11c2eda27370e8c2343c0f"
+  }
+}

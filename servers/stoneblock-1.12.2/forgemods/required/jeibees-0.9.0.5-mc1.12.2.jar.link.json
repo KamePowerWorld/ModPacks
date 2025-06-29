@@ -1,0 +1,10 @@
+{
+  "id": "net.bdew:jeibees:0.9.0.5@jar",
+  "name": "JEI Bees",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 117480,
+    "url": "https://edge.forgecdn.net/files/2490/58/jeibees-0.9.0.5-mc1.12.2.jar",
+    "MD5": "a4fef0a3bb6d401eb236b3fe3e1a4846"
+  }
+}

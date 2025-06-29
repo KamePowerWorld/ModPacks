@@ -1,0 +1,10 @@
+{
+  "id": "at.feldim2425:moreoverlays:1.15.1@jar",
+  "name": "MoreOverlays",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 51284,
+    "url": "https://edge.forgecdn.net/files/2745/657/moreoverlays-1.15.1-mc1.12.2.jar",
+    "MD5": "7b5200f51245b61ef149f7a33860e930"
+  }
+}

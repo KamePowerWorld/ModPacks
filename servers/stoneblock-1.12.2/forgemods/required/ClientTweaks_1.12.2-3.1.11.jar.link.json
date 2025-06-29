@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:clienttweaks:3.1.11@jar",
+  "name": "Client Tweaks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 30515,
+    "url": "https://edge.forgecdn.net/files/2624/712/ClientTweaks_1.12.2-3.1.11.jar",
+    "MD5": "0b0c58701276b30b005bca8aeef29f9c"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "forestry:forestry:5.8.2.387@jar",
+  "name": "Forestry",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 5232265,
+    "url": "https://edge.forgecdn.net/files/2684/780/forestry_1.12.2-5.8.2.387.jar",
+    "MD5": "367a01e7ff21262fa3dfc71e8fbd7332"
+  }
+}

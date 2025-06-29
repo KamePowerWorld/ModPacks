@@ -1,0 +1,10 @@
+{
+  "id": "com.luwin:norecipebook:1.2.1@jar",
+  "name": "No Recipe Book",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4053,
+    "url": "https://edge.forgecdn.net/files/2568/865/noRecipeBook_v1.2.2formc1.12.2.jar",
+    "MD5": "c4fa33c05a45db33c5dd0fa6bec82c61"
+  }
+}

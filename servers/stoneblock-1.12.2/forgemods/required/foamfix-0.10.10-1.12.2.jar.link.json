@@ -1,0 +1,10 @@
+{
+  "id": "pl.asie:foamfix:0.10.10-1.12.2@jar",
+  "name": "FoamFix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 201683,
+    "url": "https://edge.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar",
+    "MD5": "bba94f1ee252fcfbd2d52779f5c2f2b1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "josephcsible.oreberries:oreberries:0.5.0@jar",
+  "name": "Oreberries",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 60516,
+    "url": "https://edge.forgecdn.net/files/2578/45/oreberries-1.12.x-0.5.0.jar",
+    "MD5": "2c088f01c979d9e255d2be99ca931234"
+  }
+}

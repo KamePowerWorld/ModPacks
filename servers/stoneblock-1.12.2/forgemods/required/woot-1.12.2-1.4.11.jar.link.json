@@ -1,0 +1,10 @@
+{
+  "id": "ipsis:woot:1.12.2-1.4.11@jar",
+  "name": "Woot",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 879720,
+    "url": "https://edge.forgecdn.net/files/2712/670/woot-1.12.2-1.4.11.jar",
+    "MD5": "5337f3f9c93f9da1f59797c2275fa288"
+  }
+}

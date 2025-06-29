@@ -1,0 +1,10 @@
+{
+  "id": "com.hancinworld:fw:1.6.0@jar",
+  "name": "Fullscreen Windowed",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 18396,
+    "url": "https://edge.forgecdn.net/files/2456/7/FullscreenWindowed-1.12-1.6.0.jar",
+    "MD5": "c7679200bdf1f6cb71361555407a4c7f"
+  }
+}

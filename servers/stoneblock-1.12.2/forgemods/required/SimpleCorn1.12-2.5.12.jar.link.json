@@ -1,0 +1,10 @@
+{
+  "id": "panda.corn:simplecorn:2.5.12@jar",
+  "name": "Simple Corn",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 83959,
+    "url": "https://edge.forgecdn.net/files/2854/990/SimpleCorn1.12-2.5.12.jar",
+    "MD5": "5b6905149c65fc058f56b5115400b434"
+  }
+}

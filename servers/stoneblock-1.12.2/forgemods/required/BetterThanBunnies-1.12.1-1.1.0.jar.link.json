@@ -1,0 +1,10 @@
+{
+  "id": "me.ichun.mods:betterthanbunnies:1.12.1-1.1.0@jar",
+  "name": "BetterThanBunnies",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 17977,
+    "url": "https://edge.forgecdn.net/files/2477/840/BetterThanBunnies-1.12.1-1.1.0.jar",
+    "MD5": "d3c5597c14a2929a1e6adf6d08744909"
+  }
+}

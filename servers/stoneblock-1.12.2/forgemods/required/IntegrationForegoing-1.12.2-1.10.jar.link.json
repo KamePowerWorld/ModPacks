@@ -1,0 +1,10 @@
+{
+  "id": "jackyy.integrationforegoing:integrationforegoing:1.12.2-1.10@jar",
+  "name": "Integration Foregoing",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 181197,
+    "url": "https://edge.forgecdn.net/files/2904/594/IntegrationForegoing-1.12.2-1.10.jar",
+    "MD5": "93c64021954444ac444ca26c5ee5095a"
+  }
+}

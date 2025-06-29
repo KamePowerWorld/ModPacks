@@ -1,0 +1,10 @@
+{
+  "id": "com.blakebr0:mysticalagriculture:1.7.3@jar",
+  "name": "Mystical Agriculture",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1536124,
+    "url": "https://edge.forgecdn.net/files/2704/562/MysticalAgriculture-1.12.2-1.7.5.jar",
+    "MD5": "b7b81747d20baf1c5547ee302bad1420"
+  }
+}

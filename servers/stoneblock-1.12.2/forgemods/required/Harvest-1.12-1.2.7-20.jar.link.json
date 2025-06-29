@@ -1,0 +1,10 @@
+{
+  "id": "tehnut.harvest:Harvest:1.12-1.2.7-20@jar",
+  "name": "Harvest",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 17988,
+    "url": "https://edge.forgecdn.net/files/2645/984/Harvest-1.12-1.2.7-20.jar",
+    "MD5": "8814b7b1f198b8f8c798bd8c81f59b3c"
+  }
+}

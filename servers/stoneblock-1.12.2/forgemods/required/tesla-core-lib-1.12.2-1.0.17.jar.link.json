@@ -1,0 +1,10 @@
+{
+  "id": "net.ndrei:teslacorelib:1.12.2-1.0.17@jar",
+  "name": "Tesla Core Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1138988,
+    "url": "https://edge.forgecdn.net/files/2891/841/tesla-core-lib-1.12.2-1.0.17.jar",
+    "MD5": "6c76ff8a9251852d00d9a648e72ad25c"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "technicianlp.reauth:reauth:3.6.0@jar",
+  "name": "ReAuth",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 30446,
+    "url": "https://edge.forgecdn.net/files/2560/638/reauth-3.6.0.jar",
+    "MD5": "6024686e40df10b8739042ea2dce7f1a"
+  }
+}

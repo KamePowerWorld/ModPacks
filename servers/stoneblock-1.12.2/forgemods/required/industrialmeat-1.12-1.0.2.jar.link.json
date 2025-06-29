@@ -1,0 +1,10 @@
+{
+  "id": "abused_master.industrialmeat:industrialmeat:1.12-1.0.2@jar",
+  "name": "Industrial Meat",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 48759,
+    "url": "https://edge.forgecdn.net/files/2499/192/industrialmeat-1.12-1.0.2.jar",
+    "MD5": "647c2b5fa3fa9a067762a2be26852b58"
+  }
+}

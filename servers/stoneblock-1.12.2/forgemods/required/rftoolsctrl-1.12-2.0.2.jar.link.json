@@ -1,0 +1,10 @@
+{
+  "id": "mcjty.rftoolscontrol:rftoolscontrol:1.12-2.0.2@jar",
+  "name": "RFTools Control",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 600728,
+    "url": "https://edge.forgecdn.net/files/2705/813/rftoolsctrl-1.12-2.0.2.jar",
+    "MD5": "640e2b3241acde04684bd904829959ad"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:energeticsheep:1.12.2-1.1.5@jar",
+  "name": "EnergeticSheep",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 74008,
+    "url": "https://edge.forgecdn.net/files/2729/172/EnergeticSheep-1.12.2-1.1.5.jar",
+    "MD5": "6bdd6476d02481bfefddea0dbe83092f"
+  }
+}

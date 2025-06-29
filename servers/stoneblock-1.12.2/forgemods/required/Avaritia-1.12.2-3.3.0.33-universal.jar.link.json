@@ -1,0 +1,10 @@
+{
+  "id": "morph.avaritia:Avaritia:3.3.0.33@jar",
+  "name": "Avaritia",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 972581,
+    "url": "https://edge.forgecdn.net/files/2660/801/Avaritia-1.12.2-3.3.0.33-universal.jar",
+    "MD5": "8eedd678495a7ce0958c026a7873fc62"
+  }
+}

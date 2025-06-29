@@ -1,0 +1,10 @@
+{
+  "id": "tk.zeitheron:solarflux:12.3.8@jar",
+  "name": "Solar Flux Reborn",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 706049,
+    "url": "https://edge.forgecdn.net/files/2887/575/SolarFluxReborn_1.12.2-12.3.8.jar",
+    "MD5": "b37e5db94767d409c875d3d0a1950c55"
+  }
+}

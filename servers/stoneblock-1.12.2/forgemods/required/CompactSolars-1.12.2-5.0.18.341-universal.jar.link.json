@@ -1,0 +1,10 @@
+{
+  "id": "cpw.mods:compactsolars:1.12.2-5.0.18.341-universal@jar",
+  "name": "Compact Solar Arrays",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 73134,
+    "url": "https://edge.forgecdn.net/files/2633/646/CompactSolars-1.12.2-5.0.18.341-universal.jar",
+    "MD5": "bcfbc1b879fd0d06443ac9ca2774a5a0"
+  }
+}

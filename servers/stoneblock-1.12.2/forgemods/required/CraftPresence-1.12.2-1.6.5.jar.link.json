@@ -1,0 +1,10 @@
+{
+  "id": "com.gitlab.cdagaming:craftpresence:1.6.5@jar",
+  "name": "CraftPresence",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 421360,
+    "url": "https://edge.forgecdn.net/files/2955/510/CraftPresence-1.12.2-1.6.5.jar",
+    "MD5": "bd5454bc635ca2bb0f2f2e0151ffdd9b"
+  }
+}

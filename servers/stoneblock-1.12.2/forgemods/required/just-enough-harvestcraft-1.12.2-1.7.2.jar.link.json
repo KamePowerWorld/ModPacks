@@ -1,0 +1,10 @@
+{
+  "id": "net.pearx:jehc:1.7.2@jar",
+  "name": "Just Enough HarvestCraft",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 45829,
+    "url": "https://edge.forgecdn.net/files/2997/129/just-enough-harvestcraft-1.12.2-1.7.2.jar",
+    "MD5": "2844aaf4344791b86b7057416ce27c65"
+  }
+}

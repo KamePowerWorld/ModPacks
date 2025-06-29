@@ -1,0 +1,10 @@
+{
+  "id": "com.therandomlabs:randomtweaks:1.12.2-2.8.0.2@jar",
+  "name": "RandomTweaks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 283730,
+    "url": "https://edge.forgecdn.net/files/2948/679/randomtweaks-1.12.2-2.8.0.2.jar",
+    "MD5": "81cbd0f0a556712e04c4640912b6ab59"
+  }
+}

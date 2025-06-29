@@ -1,0 +1,10 @@
+{
+  "id": "org.dave:bonsaitrees:1.1.4-b170@jar",
+  "name": "Bonsai Trees",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 658780,
+    "url": "https://edge.forgecdn.net/files/2846/217/bonsaitrees-1.1.4-b170.jar",
+    "MD5": "136677befb5a253b867c8fde52bfa11b"
+  }
+}

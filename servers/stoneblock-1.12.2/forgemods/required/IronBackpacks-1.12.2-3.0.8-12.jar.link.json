@@ -1,0 +1,10 @@
+{
+  "id": "gr8pefish.ironbackpacks:ironbackpacks:1.12.2-3.0.8-12@jar",
+  "name": "Iron Backpacks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 465363,
+    "url": "https://edge.forgecdn.net/files/2564/573/IronBackpacks-1.12.2-3.0.8-12.jar",
+    "MD5": "9fd50b1827b711704c69789aa94ac2ca"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.gendeathrow:hatchery:2.2.2@jar",
+  "name": "Hatchery",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 674868,
+    "url": "https://edge.forgecdn.net/files/2715/498/hatchery-1.12.2-2.2.2.jar",
+    "MD5": "ac58a1d12d9e0c249f581e4e27f61182"
+  }
+}

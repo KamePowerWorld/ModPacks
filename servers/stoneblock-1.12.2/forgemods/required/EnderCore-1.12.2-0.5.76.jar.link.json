@@ -1,0 +1,10 @@
+{
+  "id": "com.enderio.core:endercore:1.12.2-0.5.76@jar",
+  "name": "EnderCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 647959,
+    "url": "https://edge.forgecdn.net/files/2972/849/EnderCore-1.12.2-0.5.76.jar",
+    "MD5": "6164be012de6ee761e37f54a74074125"
+  }
+}

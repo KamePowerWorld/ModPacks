@@ -1,0 +1,10 @@
+{
+  "id": "knugel.whoosh:whoosh:0.1.12.1@jar",
+  "name": "Whoosh",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 68378,
+    "url": "https://edge.forgecdn.net/files/2623/891/Whoosh-1.12.2-0.1.12.1-universal.jar",
+    "MD5": "82d03da44b93851e3cfaa180d9cf0bbc"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:cyclopscore:1.12.2-1.6.4@jar",
+  "name": "Cyclops Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1060865,
+    "url": "https://edge.forgecdn.net/files/2953/29/CyclopsCore-1.12.2-1.6.4.jar",
+    "MD5": "15264dedd43b16ca7a14ef95f58c8ec6"
+  }
+}

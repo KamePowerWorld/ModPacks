@@ -1,0 +1,10 @@
+{
+  "id": "mekanism.generators:mekanismgenerators:1.12.2-9.8.3.390@jar",
+  "name": "Mekanism: Generators",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 336364,
+    "url": "https://edge.forgecdn.net/files/2835/177/MekanismGenerators-1.12.2-9.8.3.390.jar",
+    "MD5": "d75ddb11a6c1353b046c70d8904fe61e"
+  }
+}

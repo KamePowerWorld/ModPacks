@@ -1,0 +1,10 @@
+{
+  "id": "cofh.thermalcultivation:thermalcultivation:0.3.6.1@jar",
+  "name": "Thermal Cultivation",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 98845,
+    "url": "https://edge.forgecdn.net/files/2920/437/ThermalCultivation-1.12.2-0.3.6.1-universal.jar",
+    "MD5": "28970430074736ae6efbe4f7c353b30a"
+  }
+}

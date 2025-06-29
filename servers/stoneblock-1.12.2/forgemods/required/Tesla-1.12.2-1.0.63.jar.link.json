@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:tesla:1.0.63@jar",
+  "name": "TESLA",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 30925,
+    "url": "https://edge.forgecdn.net/files/2487/959/Tesla-1.12.2-1.0.63.jar",
+    "MD5": "fa040aadae95494411406859f98959c6"
+  }
+}

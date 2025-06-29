@@ -1,0 +1,10 @@
+{
+  "id": "mcjty.nice:nice:1.12-0.4.0@jar",
+  "name": "Nice",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 83536,
+    "url": "https://edge.forgecdn.net/files/2704/410/nice-1.12-0.4.0.jar",
+    "MD5": "2b38e9fd2977625c2f97cc5505ecc14a"
+  }
+}

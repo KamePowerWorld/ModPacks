@@ -1,0 +1,10 @@
+{
+  "id": "cofh.redstoneflux:redstoneflux:2.1.1.1@jar",
+  "name": "Redstone Flux",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 31802,
+    "url": "https://edge.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "MD5": "93b1715f05be1878da93fca36dd37f2a"
+  }
+}

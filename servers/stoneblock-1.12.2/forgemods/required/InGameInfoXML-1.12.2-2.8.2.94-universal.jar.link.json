@@ -1,0 +1,10 @@
+{
+  "id": "com.github.lunatrius.ingameinfo:ingameinfoxml:2.8.2.94@jar",
+  "name": "InGame Info XML",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 315455,
+    "url": "https://edge.forgecdn.net/files/2489/566/InGameInfoXML-1.12.2-2.8.2.94-universal.jar",
+    "MD5": "02a15a0cfbffc4bc530f2bd56b0b1a6c"
+  }
+}

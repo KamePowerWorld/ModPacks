@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:oldjava:1.1.11@jar",
+  "name": "Old Java Warning",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 10102,
+    "url": "https://edge.forgecdn.net/files/2867/50/OldJavaWarning-1.12.2-1.1.11.jar",
+    "MD5": "1c48317607e64f5512df884d1096a8a6"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:modtweaker:4.0.18@jar",
+  "name": "Mod Tweaker",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 488016,
+    "url": "https://edge.forgecdn.net/files/2881/277/modtweaker-4.0.18.jar",
+    "MD5": "d117e26e6b578b18d25848f578e86c3b"
+  }
+}

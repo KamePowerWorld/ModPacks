@@ -1,0 +1,10 @@
+{
+  "id": "com.matt_r__.configchecker:concheckrmd:1.9.5@jar",
+  "name": "Modpack Config Checker",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 157232,
+    "url": "https://edge.forgecdn.net/files/2976/522/Modpack%20Configuration%20Checker-1.12.2-v1.9.5.jar",
+    "MD5": "a7724ee5530d03a10714c7d807858759"
+  }
+}

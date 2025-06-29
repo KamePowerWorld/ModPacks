@@ -1,0 +1,10 @@
+{
+  "id": "com.direwolf20:buildinggadgets:2.8.4@jar",
+  "name": "Building Gadgets",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 719492,
+    "url": "https://edge.forgecdn.net/files/3005/950/BuildingGadgets-2.8.4.jar",
+    "MD5": "d1688618cf1df0e0aaab526fb4922b39"
+  }
+}

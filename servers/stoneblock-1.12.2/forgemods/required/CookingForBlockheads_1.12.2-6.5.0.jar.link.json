@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:cookingforblockheads:6.5.0@jar",
+  "name": "Cooking for Blockheads",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 595301,
+    "url": "https://edge.forgecdn.net/files/2862/651/CookingForBlockheads_1.12.2-6.5.0.jar",
+    "MD5": "f1067937f350aba63a80089093b66724"
+  }
+}

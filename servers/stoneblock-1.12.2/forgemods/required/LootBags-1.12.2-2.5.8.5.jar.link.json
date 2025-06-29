@@ -1,0 +1,10 @@
+{
+  "id": "mal.lootbags:lootbags:2.5.8.5@jar",
+  "name": "Loot Bags",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 279242,
+    "url": "https://edge.forgecdn.net/files/2680/883/LootBags-1.12.2-2.5.8.5.jar",
+    "MD5": "251da8ab30737ef321e2ee2c50a3782e"
+  }
+}

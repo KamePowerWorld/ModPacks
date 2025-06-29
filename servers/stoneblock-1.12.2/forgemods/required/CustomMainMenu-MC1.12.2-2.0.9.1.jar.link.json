@@ -1,0 +1,10 @@
+{
+  "id": "lumien.custommainmenu:custommainmenu:2.0.9.1@jar",
+  "name": "Custom Main Menu",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 91121,
+    "url": "https://edge.forgecdn.net/files/2857/869/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+    "MD5": "c12200ad89f9399d5bdcbe9da7900bb9"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.feed_the_beast.mods:ftbbackups:1.1.0.1@jar",
+  "name": "FTB Backups",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 43764,
+    "url": "https://edge.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar",
+    "MD5": "932a6981ff08c35bbdf83bb9f7af8d17"
+  }
+}

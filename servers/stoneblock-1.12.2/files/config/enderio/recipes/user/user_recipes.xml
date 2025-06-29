@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+  <!-- Disable stuff START-->
+  <recipe name="Alloy: Black Dye Charcoal" required="false" disabled="true">
+    <alloying energy="2000" exp="0.25">
+      <input name="dustCharcoal" amount="6"/>
+      <input name="oredict:slimeball"/>
+      <output name="ORGANIC_BLACK_DYE" amount="2"/>
+    </alloying>
+  </recipe>
+
+  <recipe name="Alloy: Black Dye Charcoal, Variant" required="false" disabled="true">
+    <alloying energy="1500" exp="0.125">
+      <input name="dustCharcoal" amount="3"/>
+      <input name="oredict:egg"/>
+      <output name="ORGANIC_BLACK_DYE"/>
+    </alloying>
+  </recipe>
+
+  <recipe name="Ender Pearl Nuggets" required="true" disabled="true">
+    <crafting>
+      <shapeless>
+        <item name="nuggetEnderpearl"/><item name="nuggetEnderpearl"/><item name="nuggetEnderpearl"/>
+        <item name="nuggetEnderpearl"/><item name="nuggetEnderpearl"/><item name="nuggetEnderpearl"/>
+        <item name="nuggetEnderpearl"/><item name="nuggetEnderpearl"/><item name="nuggetEnderpearl"/>
+      </shapeless>
+      <output name="oredict:enderpearl"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Tweak: Stick from Wood" required="false" disabled="true">
+    <crafting>
+      <grid size="1x2">
+        <item name="logWood"/>
+        <item name="logWood"/>
+      </grid>
+      <output name="stickWood" amount="16" />
+    </crafting>
+  </recipe>
+  <!-- Disable stuff START-->
+
+  <!-- Ex Nihilo Creatio Enchants START-->
+  <recipe name="Enchanter: exnihilocreatio:sieve_fortune" required="true">
+    <enchanting>
+      <input name="excompressum:compressed_block:7" amount="10"/>
+      <enchantment name="exnihilocreatio:sieve_fortune" costMultiplier="1"/>
+    </enchanting>
+  </recipe>
+
+  <recipe name="Enchanter: exnihilocreatio:sieve_efficiency" required="true">
+    <enchanting>
+      <input name="excompressum:compressed_block:6" amount="8"/>
+      <enchantment name="exnihilocreatio:sieve_efficiency" costMultiplier="1"/>
+    </enchanting>
+  </recipe>
+
+  <recipe name="Enchanter: exnihilocreatio:sieve_luck_of_the_sea" required="true">
+    <enchanting>
+      <input name="excompressum:compressed_block" amount="4"/>
+      <enchantment name="exnihilocreatio:sieve_luck_of_the_sea" costMultiplier="1"/>
+    </enchanting>
+  </recipe>
+  <!-- Ex Nihilo Creatio Enchants END-->
+
+
+
+
+
+  <recipe name="Sagmill: Silicon" required="true" disabled="true">
+    <sagmilling energy="720">
+      <input name="oredict:sand"/>
+      <output name="itemSilicon" chance="0.5" />
+    </sagmilling>
+  </recipe>
+  <recipe name="Sagmill: Cobblestone" required="true" disabled="true">
+    <sagmilling energy="2400">
+      <input name="oredict:cobblestone"/>
+      <output name="oredict:gravel" chance="0.7" />
+      <output name="oredict:gravel" chance="0.3" />
+      <output name="oredict:sand" chance="0.1" />
+      <output name="oredict:itemFlint" chance="0.05" />
+    </sagmilling>
+  </recipe>
+  <recipe name="Sagmill: Gravel" required="true" disabled="true">
+    <sagmilling energy="2400">
+      <input name="oredict:gravel"/>
+      <output name="oredict:sand" chance="0.7" />
+      <output name="oredict:sand" chance="0.3" />
+      <output name="oredict:itemFlint" chance="0.3" />
+    </sagmilling>
+  </recipe>
+
+  <recipe name="Cobblestone" required="true">
+    <sagmilling energy="2400">
+      <input name="oredict:cobblestone"/>
+      <output name="oredict:gravel" chance="0.7" />
+      <output name="oredict:gravel" chance="0.3" />
+      <output name="oredict:itemFlint" chance="0.05" />
+    </sagmilling>
+  </recipe>
+  <recipe name="Gravel" required="true">
+    <sagmilling energy="2400">
+      <input name="oredict:gravel"/>
+      <output name="oredict:dirt" chance="0.7" />
+      <output name="oredict:dirt" chance="0.3" />
+    </sagmilling>
+  </recipe>
+  <recipe name="Dirt" required="true">
+    <sagmilling energy="2400">
+      <input name="oredict:dirt"/>
+      <output name="oredict:sand" chance="0.7" />
+      <output name="oredict:sand" chance="0.3" />
+    </sagmilling>
+  </recipe>
+  <recipe name="Sand" required="true">
+    <sagmilling energy="2400">
+      <input name="oredict:sand"/>
+      <output name="oredict:dust" chance="0.7" />
+      <output name="oredict:dust" chance="0.3" />
+    </sagmilling>
+  </recipe>
+
+
+</enderio:recipes>

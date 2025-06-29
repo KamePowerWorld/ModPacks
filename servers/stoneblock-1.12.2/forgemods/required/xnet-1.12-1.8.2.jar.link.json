@@ -1,0 +1,10 @@
+{
+  "id": "mcjty.xnet:xnet:1.12-1.8.2@jar",
+  "name": "XNet",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 496307,
+    "url": "https://edge.forgecdn.net/files/2745/852/xnet-1.12-1.8.2.jar",
+    "MD5": "13935bce3f6b827aa19567a81e5be38f"
+  }
+}

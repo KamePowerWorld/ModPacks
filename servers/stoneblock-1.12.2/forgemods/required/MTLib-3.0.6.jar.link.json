@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:mtlib:3.0.6@jar",
+  "name": "MTLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 30002,
+    "url": "https://edge.forgecdn.net/files/2684/561/MTLib-3.0.6.jar",
+    "MD5": "b46748362c046d70b821121331246aa5"
+  }
+}

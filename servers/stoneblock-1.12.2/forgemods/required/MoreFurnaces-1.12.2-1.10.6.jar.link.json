@@ -1,0 +1,10 @@
+{
+  "id": "cubex2.mods:MoreFurnaces:1.12.2-1.10.6@jar",
+  "name": "More Furnaces",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 122332,
+    "url": "https://edge.forgecdn.net/files/2627/678/MoreFurnaces-1.12.2-1.10.6.jar",
+    "MD5": "d0531330b15f54cc26776ff22936ae59"
+  }
+}

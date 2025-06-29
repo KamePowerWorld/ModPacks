@@ -1,0 +1,10 @@
+{
+  "id": "fluxnetworks:fluxnetworks:1.12.2-4.0.15-32@jar",
+  "name": "Flux Networks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 466686,
+    "url": "https://edge.forgecdn.net/files/2993/739/fluxnetworks-1.12.2-4.0.15-32.jar",
+    "MD5": "c31f24303d56a9f77e94aa4ee4d04acf"
+  }
+}

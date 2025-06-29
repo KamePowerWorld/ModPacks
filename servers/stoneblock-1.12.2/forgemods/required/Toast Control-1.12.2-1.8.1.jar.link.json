@@ -1,0 +1,10 @@
+{
+  "id": "shadows.toaster:toastcontrol:1.12.2-1.8.1@jar",
+  "name": "Toast Control",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 21668,
+    "url": "https://edge.forgecdn.net/files/2707/353/Toast%20Control-1.12.2-1.8.1.jar",
+    "MD5": "e431fec0248132e5c4d03ad70bd4dc6b"
+  }
+}

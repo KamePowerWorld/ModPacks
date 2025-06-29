@@ -1,0 +1,10 @@
+{
+  "id": "com.blackducksoftware.integration.minecraft:duckymod:0.1.1@jar",
+  "name": "Ducky Mod",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 109068,
+    "url": "https://edge.forgecdn.net/files/2645/82/ducky-mod-1.12.2-0.1.1.jar",
+    "MD5": "8e52755172b9b0e2ec755980d77f1339"
+  }
+}

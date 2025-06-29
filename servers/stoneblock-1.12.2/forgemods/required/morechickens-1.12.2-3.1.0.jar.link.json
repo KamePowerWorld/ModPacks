@@ -1,0 +1,10 @@
+{
+  "id": "com.gendeathrow.morechickens.core:morechickens:3.1.0@jar",
+  "name": "More Chickens",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 225142,
+    "url": "https://edge.forgecdn.net/files/2521/137/morechickens-1.12.2-3.1.0.jar",
+    "MD5": "96fc5aca484b41b4dbe08ea044082e1a"
+  }
+}

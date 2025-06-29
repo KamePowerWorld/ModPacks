@@ -1,0 +1,10 @@
+{
+  "id": "appeng.core:appliedenergistics2:rv6-stable-7@jar",
+  "name": "Applied Energistics 2",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4062630,
+    "url": "https://edge.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar",
+    "MD5": "b8667d60a761d5b5ae3c8a15192f9e28"
+  }
+}

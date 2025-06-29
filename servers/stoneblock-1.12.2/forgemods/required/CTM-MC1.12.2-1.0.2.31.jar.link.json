@@ -1,0 +1,10 @@
+{
+  "id": "team.chisel:ctm:MC1.12.2-1.0.2.31@jar",
+  "name": "CTM",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 199045,
+    "url": "https://edge.forgecdn.net/files/2915/363/CTM-MC1.12.2-1.0.2.31.jar",
+    "MD5": "77a8bb5486c97e3eaa6f45e5bd768864"
+  }
+}

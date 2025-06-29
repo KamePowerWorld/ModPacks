@@ -1,0 +1,10 @@
+{
+  "id": "tehnut.xtones:xtones:1.12-1.0.8-11@jar",
+  "name": "Xtones",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 449444,
+    "url": "https://edge.forgecdn.net/files/2531/411/Xtones-1.12-1.0.8-11.jar",
+    "MD5": "a0dda7a3c7aac216e75260d2142cc7f3"
+  }
+}

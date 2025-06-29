@@ -1,0 +1,10 @@
+{
+  "id": "io.alwa.featuredserver:featuredservers:1.12-1.0.6@jar",
+  "name": "Featured Servers",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4919,
+    "url": "https://edge.forgecdn.net/files/2634/364/FeaturedServers-1.12-1.0.6.jar",
+    "MD5": "4f3a2c847b38321d900c986f663f4068"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.blakebr0:mysticalagradditions:1.3.2@jar",
+  "name": "Mystical Agradditions",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 134055,
+    "url": "https://edge.forgecdn.net/files/2704/832/MysticalAgradditions-1.12.2-1.3.2.jar",
+    "MD5": "ead0f02e214ab12b4f7b86c79fc23ffa"
+  }
+}

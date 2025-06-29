@@ -1,0 +1,10 @@
+{
+  "id": "com.sb205:missing_pieces:4.3.0@jar",
+  "name": "Missing Pieces",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 884941,
+    "url": "https://edge.forgecdn.net/files/2490/951/missing_pieces-1.12.2-4.3.0.jar",
+    "MD5": "3e39a513a3d3ee172561be35725f65ca"
+  }
+}

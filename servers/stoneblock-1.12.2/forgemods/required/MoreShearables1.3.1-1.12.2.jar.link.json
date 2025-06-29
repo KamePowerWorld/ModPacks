@@ -1,0 +1,10 @@
+{
+  "id": "lellson.moreshearable:shear:1.1.3@jar",
+  "name": "More Shearables",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 86812,
+    "url": "https://edge.forgecdn.net/files/2575/252/MoreShearables1.3.1-1.12.2.jar",
+    "MD5": "8fde8c48a98ef9716d6ac62624b63b12"
+  }
+}

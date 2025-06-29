@@ -1,0 +1,10 @@
+{
+  "id": "com.github.lunatrius.core:lunatriuscore:1.2.0.42@jar",
+  "name": "LunatriusCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 76753,
+    "url": "https://edge.forgecdn.net/files/2489/549/LunatriusCore-1.12.2-1.2.0.42-universal.jar",
+    "MD5": "0dae43ef5376822db0399ad254207aa3"
+  }
+}

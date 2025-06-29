@@ -1,0 +1,10 @@
+{
+  "id": "com.lothrazar:cyclicmagic:1.20.2@jar",
+  "name": "Cyclic",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3991719,
+    "url": "https://edge.forgecdn.net/files/2934/381/Cyclic-1.12.2-1.20.2.jar",
+    "MD5": "283005d52612d10315582837bdafdc58"
+  }
+}

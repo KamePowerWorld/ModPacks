@@ -1,0 +1,10 @@
+{
+  "id": "cubex2.cxlibrary:cxlibrary:1.12.1-1.6.1@jar",
+  "name": "CXLibrary",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 65319,
+    "url": "https://edge.forgecdn.net/files/2463/886/cxlibrary-1.12.1-1.6.1.jar",
+    "MD5": "be35c47a1ab0d2c26bfe84b3f7938662"
+  }
+}

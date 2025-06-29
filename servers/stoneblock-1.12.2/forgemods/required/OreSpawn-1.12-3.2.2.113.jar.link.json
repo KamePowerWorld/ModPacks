@@ -1,0 +1,10 @@
+{
+  "id": "com.mcmoddev:orespawn:3.2.2@jar",
+  "name": "OreSpawn",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 157687,
+    "url": "https://edge.forgecdn.net/files/2533/164/OreSpawn-1.12-3.2.2.113.jar",
+    "MD5": "de350787be746f5d20dcbbd6bb8f67e0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mcmultipart:mcmultipart:2.5.3@jar",
+  "name": "MCMultiPart",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 173426,
+    "url": "https://edge.forgecdn.net/files/2615/930/MCMultiPart-2.5.3.jar",
+    "MD5": "47987d111d6f1e48403bc3cbb23f5503"
+  }
+}

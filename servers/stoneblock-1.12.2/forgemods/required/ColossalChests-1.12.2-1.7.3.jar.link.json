@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:colossalchests:1.12.2-1.7.3@jar",
+  "name": "Colossal Chests",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 200954,
+    "url": "https://edge.forgecdn.net/files/2718/588/ColossalChests-1.12.2-1.7.3.jar",
+    "MD5": "6f692a7a9a54dc300edb4d9403fcdcf5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.shadowfacts:forgelin:1.8.4@jar",
+  "name": "Shadowfacts' Forgelin",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 6278399,
+    "url": "https://edge.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar",
+    "MD5": "2da79fce72265eab0541e565636d389d"
+  }
+}

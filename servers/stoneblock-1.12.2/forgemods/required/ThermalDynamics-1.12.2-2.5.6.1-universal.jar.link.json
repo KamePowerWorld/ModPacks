@@ -1,0 +1,10 @@
+{
+  "id": "cofh.thermaldynamics:thermaldynamics:2.5.6.1@jar",
+  "name": "Thermal Dynamics",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 728082,
+    "url": "https://edge.forgecdn.net/files/2920/505/ThermalDynamics-1.12.2-2.5.6.1-universal.jar",
+    "MD5": "38a0c024f5775b0cf783de839033f8db"
+  }
+}

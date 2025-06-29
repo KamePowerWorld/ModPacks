@@ -1,0 +1,10 @@
+{
+  "id": "slimeknights.tconstruct:tconstruct:1.12.2-2.13.0.183@jar",
+  "name": "Tinkers' Construct",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 4023372,
+    "url": "https://edge.forgecdn.net/files/2902/483/TConstruct-1.12.2-2.13.0.183.jar",
+    "MD5": "710d64342d41042b7d6ced891448e727"
+  }
+}

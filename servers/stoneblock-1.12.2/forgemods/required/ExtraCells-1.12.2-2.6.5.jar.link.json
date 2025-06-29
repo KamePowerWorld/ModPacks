@@ -1,0 +1,10 @@
+{
+  "id": "extracells:extracells:2.6.5@jar",
+  "name": "Extra Cells 2",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2520745,
+    "url": "https://edge.forgecdn.net/files/2855/967/ExtraCells-1.12.2-2.6.5.jar",
+    "MD5": "a96d3b8fd1cc8b41fdde9469bacc5c99"
+  }
+}

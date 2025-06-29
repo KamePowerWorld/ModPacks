@@ -1,0 +1,10 @@
+{
+  "id": "com.setycz:chickens:6.1.0@jar",
+  "name": "Chickens",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 253835,
+    "url": "https://edge.forgecdn.net/files/2545/467/chickens-6.1.0.jar",
+    "MD5": "9827f7e76e178b7deca07fd3131771b0"
+  }
+}

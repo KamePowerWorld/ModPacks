@@ -1,0 +1,10 @@
+{
+  "id": "cofh.thermalfoundation:thermalfoundation:2.6.7.1@jar",
+  "name": "Thermal Foundation",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2219736,
+    "url": "https://edge.forgecdn.net/files/2926/428/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+    "MD5": "6eca041bbf28949b60ecf1179d561156"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:defaultoptions:9.2.8@jar",
+  "name": "Default Options",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 15056,
+    "url": "https://edge.forgecdn.net/files/2624/732/DefaultOptions_1.12.2-9.2.8.jar",
+    "MD5": "5510673c0fad1e3b6617b3d97d54b3d5"
+  }
+}

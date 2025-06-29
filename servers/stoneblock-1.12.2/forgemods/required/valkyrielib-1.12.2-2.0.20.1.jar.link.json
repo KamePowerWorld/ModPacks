@@ -1,0 +1,10 @@
+{
+  "id": "com.valkyrieofnight.um:valkyrielib:1.12.2-2.0.20.1@jar",
+  "name": "Valkyrie Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 733580,
+    "url": "https://edge.forgecdn.net/files/2691/542/valkyrielib-1.12.2-2.0.20.1.jar",
+    "MD5": "e9bfd5d4274395d87c0bea745a37223a"
+  }
+}

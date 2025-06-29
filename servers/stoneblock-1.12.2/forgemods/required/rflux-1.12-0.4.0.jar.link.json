@@ -1,0 +1,10 @@
+{
+  "id": "romelo333.rflux:rflux:1.12-0.4.0@jar",
+  "name": "RF Lux",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 67513,
+    "url": "https://edge.forgecdn.net/files/2704/416/rflux-1.12-0.4.0.jar",
+    "MD5": "c52ef96f8865f6af7d7487a5fe858fd4"
+  }
+}

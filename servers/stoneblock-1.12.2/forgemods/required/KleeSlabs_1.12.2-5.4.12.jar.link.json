@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:kleeslabs:5.4.12@jar",
+  "name": "KleeSlabs",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 23967,
+    "url": "https://edge.forgecdn.net/files/2733/525/KleeSlabs_1.12.2-5.4.12.jar",
+    "MD5": "e669180a9c891603beea7c7fcb6df7ef"
+  }
+}

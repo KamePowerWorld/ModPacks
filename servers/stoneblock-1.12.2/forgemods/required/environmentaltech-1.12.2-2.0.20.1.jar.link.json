@@ -1,0 +1,10 @@
+{
+  "id": "com.valkyrieofnight.et:environmentaltech:1.12.2-2.0.20.1@jar",
+  "name": "Environmental Tech",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1001848,
+    "url": "https://edge.forgecdn.net/files/2691/536/environmentaltech-1.12.2-2.0.20.1.jar",
+    "MD5": "ecd45a01612427f81b0520767b475dd9"
+  }
+}

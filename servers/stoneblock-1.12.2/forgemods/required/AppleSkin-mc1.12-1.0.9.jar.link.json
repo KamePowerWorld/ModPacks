@@ -1,0 +1,10 @@
+{
+  "id": "squeek.appleskin:appleskin:1.0.9@jar",
+  "name": "AppleSkin",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 32317,
+    "url": "https://edge.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar",
+    "MD5": "0e0af1e6f80ea2ee7ecfc2f8f44b897b"
+  }
+}

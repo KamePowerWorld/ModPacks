@@ -1,0 +1,10 @@
+{
+  "id": "com.mramericanmike:bqt:1.0@jar",
+  "name": "Better Questing Triggerer",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 38000,
+    "url": "https://edge.forgecdn.net/files/2546/659/BetterQuestingTriggerer-1.0.jar",
+    "MD5": "3a0035fbe8985608fe735e646cad143f"
+  }
+}

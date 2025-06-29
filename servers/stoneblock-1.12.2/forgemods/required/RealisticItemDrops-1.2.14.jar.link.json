@@ -1,0 +1,10 @@
+{
+  "id": "realdrops.core:realdrops:1.2.14@jar",
+  "name": "Realistic Item Drops",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 65733,
+    "url": "https://edge.forgecdn.net/files/2630/384/RealisticItemDrops-1.2.14.jar",
+    "MD5": "7ecff9f80b9cd0986b18489405136e81"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "me.ichun.mods:hats:1.12.2-7.1.1@jar",
+  "name": "Hats",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 993630,
+    "url": "https://edge.forgecdn.net/files/2960/397/Hats-1.12.2-7.1.1.jar",
+    "MD5": "0240341ea62df45ba76ab8c54d8d127c"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.teamacronymcoders:base:1.12.2-3.13.0@jar",
+  "name": "B.A.S.E",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 685028,
+    "url": "https://edge.forgecdn.net/files/2722/575/base-1.12.2-3.13.0.jar",
+    "MD5": "caae1ceb2cbcdc7bd7a6acf078788faf"
+  }
+}

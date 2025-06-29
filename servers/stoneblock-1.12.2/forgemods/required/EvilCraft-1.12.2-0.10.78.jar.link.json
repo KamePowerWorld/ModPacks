@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:evilcraft:1.12.2-0.10.78@jar",
+  "name": "EvilCraft",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2957006,
+    "url": "https://edge.forgecdn.net/files/2811/267/EvilCraft-1.12.2-0.10.78.jar",
+    "MD5": "42b80a6688b5bc6d24f4f197e43890f2"
+  }
+}

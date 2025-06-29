@@ -1,0 +1,10 @@
+{
+  "id": "me.modmuss50:rebornstorage:3.3.4.1@jar",
+  "name": "RebornStorage",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 80178,
+    "url": "https://edge.forgecdn.net/files/2833/871/RebornStorage-1.12.2-3.3.4.1.jar",
+    "MD5": "550dd015b595b39ef691d6153f324aec"
+  }
+}

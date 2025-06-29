@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:darkutils:1.8.230@jar",
+  "name": "Dark Utilities",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 426515,
+    "url": "https://edge.forgecdn.net/files/2813/586/DarkUtils-1.12.2-1.8.230.jar",
+    "MD5": "672e81d68ebdf0ac8a4cd9f78a38a770"
+  }
+}

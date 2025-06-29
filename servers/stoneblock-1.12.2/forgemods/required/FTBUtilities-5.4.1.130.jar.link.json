@@ -1,0 +1,10 @@
+{
+  "id": "com.feed_the_beast:ftbutilities:5.4.1.130@jar",
+  "name": "FTB Utilities",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 425249,
+    "url": "https://edge.forgecdn.net/files/3010/492/FTBUtilities-5.4.1.130.jar",
+    "MD5": "542a6feecd445ebaa54d46d45f78f06e"
+  }
+}
