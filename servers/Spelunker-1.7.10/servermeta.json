@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/softdata/git/KPWModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "スペランカーMod (Minecraft 1.7.10)",
+    "description": "Spelunker Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+    "icon": "",
+    "address": "",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "10.13.4.1614"
+  },
+  "untrackedFiles": []
+}

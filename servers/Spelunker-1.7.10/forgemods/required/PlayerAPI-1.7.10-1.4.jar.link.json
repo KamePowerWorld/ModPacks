@@ -1,0 +1,10 @@
+{
+  "id": "api.player:playerapi:1.7.10-1.4@jar",
+  "name": "PlayerAPI",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 282107,
+    "url": "https://edge.forgecdn.net/files/2248/928/PlayerAPI-1.7.10-1.4.jar",
+    "MD5": "a86805d3720f12610ae1f28f7eb08b53"
+  }
+}

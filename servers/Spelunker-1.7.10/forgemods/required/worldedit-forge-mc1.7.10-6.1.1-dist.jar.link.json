@@ -1,0 +1,10 @@
+{
+  "id": "generated.forgemod:WorldEdit:6.1.1;no_git_id@jar",
+  "name": "WorldEdit",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1461467,
+    "url": "https://edge.forgecdn.net/files/2309/699/worldedit-forge-mc1.7.10-6.1.1-dist.jar",
+    "MD5": "2009d49df40267da5bba19e09e29463a"
+  }
+}

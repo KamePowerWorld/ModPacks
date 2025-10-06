@@ -1,0 +1,10 @@
+{
+  "id": "generated.forgemod:proactive:2.1.0@jar",
+  "name": "Proactive Mod",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 51610,
+    "url": "https://edge.forgecdn.net/files/2561/180/%5b1.7.10%5d%5bver.2.1.0%5dProactiveMod.jar",
+    "MD5": "b12cf02e1e5714c6bda853f22c4a7952"
+  }
+}

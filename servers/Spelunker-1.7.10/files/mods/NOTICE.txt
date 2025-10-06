@@ -1,0 +1,19 @@
+## 配布元
+
+SpelunkerMod-3.0.1-MC1.7.10.jar
+https://tsuteto.hacca.jp/mcmods#spelunker
+
+
+TofuCraft-2.1.8-mc1.7.10.jar
+https://tsuteto.hacca.jp/mcmods#tofucraft
+
+## ライセンス
+```
+MODの紹介・プレイ動画配信は、収益・非収益問わず許可不要です。
+Minecraftサーバ運営やMod Packを目的とした再配布はご自由にどうぞ。それ以外の再配布は事前にご一報ください。
+バージョン対応等で改変したものを配布する場合は許可制です。事前にご一報ください。
+
+I would be happy if you would let me know if you're showcasing my mods or posting Let's Play videos elsewhere (allowed whether commercial or not).
+Feel free to redistribute copies for the purpose of either hosting your Minecraft server or creating a mod pack. Otherwise, you need permission, so please let me know first.
+You also need permission if you want to distribute your modified copy of my mod, for example to work on a different version of Minecraft, so please let me know first.
+```
