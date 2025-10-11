@@ -4,9 +4,6 @@ SpelunkerMod-3.0.1-MC1.7.10.jar
 https://tsuteto.hacca.jp/mcmods#spelunker
 
 
-TofuCraft-2.1.8-mc1.7.10.jar
-https://tsuteto.hacca.jp/mcmods#tofucraft
-
 ## ライセンス
 ```
 MODの紹介・プレイ動画配信は、収益・非収益問わず許可不要です。
