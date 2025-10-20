@@ -1,0 +1,10 @@
+{
+  "id": "cn.mcmod_mmf.mmlib:mm_lib:2.3.0@jar",
+  "name": "Mysterious Mountain Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 286720,
+    "url": "https://edge.forgecdn.net/files/3254/750/MMLib-2.3.0.jar",
+    "MD5": "55c095da05b0f4a25b2e75745ada094f"
+  }
+}

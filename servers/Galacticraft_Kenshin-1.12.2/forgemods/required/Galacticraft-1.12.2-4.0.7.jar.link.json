@@ -1,0 +1,10 @@
+{
+  "id": "micdoodle8.mods.galacticraft.planets:galacticraftcore:4.0.7@jar",
+  "name": "Galacticraft",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 15675570,
+    "url": "https://edge.forgecdn.net/files/6364/107/Galacticraft-1.12.2-4.0.7.jar",
+    "MD5": "555a0b9e95d66b3e3cac91679ea0b4eb"
+  }
+}
