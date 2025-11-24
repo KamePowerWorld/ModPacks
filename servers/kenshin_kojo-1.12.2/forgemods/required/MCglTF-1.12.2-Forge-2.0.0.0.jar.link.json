@@ -1,0 +1,10 @@
+{
+  "id": "com.modularmods:mcgltf:1.12.2-Forge-2.0.0.0@jar",
+  "name": "MCglTF",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 551990,
+    "url": "https://edge.forgecdn.net/files/4056/272/MCglTF-1.12.2-Forge-2.0.0.0.jar",
+    "MD5": "d561092cbccc5fca014bb0fe2ba5cfff"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "openblocks:openblocks:1.8.1@jar",
+  "name": "OpenBlocks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3217616,
+    "url": "https://edge.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar",
+    "MD5": "cd7f642f983669c6ae94d6a999d0d6e9"
+  }
+}
