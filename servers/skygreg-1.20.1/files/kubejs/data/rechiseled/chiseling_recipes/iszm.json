@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:iszm_block_0" },
+      { "item": "xtonesreworked:iszm_block_1" },
+      { "item": "xtonesreworked:iszm_block_2" },
+      { "item": "xtonesreworked:iszm_block_3" },
+      { "item": "xtonesreworked:iszm_block_4" },
+      { "item": "xtonesreworked:iszm_block_5" },
+      { "item": "xtonesreworked:iszm_block_6" },
+      { "item": "xtonesreworked:iszm_block_7" },
+      { "item": "xtonesreworked:iszm_block_8" },
+      { "item": "xtonesreworked:iszm_block_9" },
+      { "item": "xtonesreworked:iszm_block_10" },
+      { "item": "xtonesreworked:iszm_block_11" },
+      { "item": "xtonesreworked:iszm_block_12" },
+      { "item": "xtonesreworked:iszm_block_13" },
+      { "item": "xtonesreworked:iszm_block_14" },
+      { "item": "xtonesreworked:iszm_block_15" }
+    ],
+    "overwrite": false
+  }

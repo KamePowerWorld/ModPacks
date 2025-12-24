@@ -1,0 +1,10 @@
+{
+  "id": "com.rempler:rfd:2.0.0@jar",
+  "name": "ResourcesForDays",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 383975,
+    "url": "https://edge.forgecdn.net/files/4586/344/rfd-2.0.0.jar",
+    "MD5": "6f7f43f03cee61a447d6c31845bf924d"
+  }
+}

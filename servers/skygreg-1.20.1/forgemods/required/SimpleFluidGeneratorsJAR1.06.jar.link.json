@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator:simplefluidgenerators:1.0.0@jar",
+  "name": "Simple Fluid Generators",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 102663,
+    "url": "https://edge.forgecdn.net/files/5220/173/SimpleFluidGeneratorsJAR1.06.jar",
+    "MD5": "dac89fe5e61195f7184c4ff677c5bff5"
+  }
+}

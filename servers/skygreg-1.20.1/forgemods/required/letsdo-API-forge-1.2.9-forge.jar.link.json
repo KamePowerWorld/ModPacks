@@ -1,0 +1,10 @@
+{
+  "id": "de.cristelknight:doapi:1.2.9@jar",
+  "name": "[Let's Do] API",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 402297,
+    "url": "https://edge.forgecdn.net/files/5205/393/letsdo-API-forge-1.2.9-forge.jar",
+    "MD5": "6dedbca83ab0e01ae8c3852be874736e"
+  }
+}

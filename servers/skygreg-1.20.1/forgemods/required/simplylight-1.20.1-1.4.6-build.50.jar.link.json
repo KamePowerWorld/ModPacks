@@ -1,0 +1,10 @@
+{
+  "id": "com.flanks255:simplylight:1.20.1-1.4.6-build.50@jar",
+  "name": "Simply Light",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 555625,
+    "url": "https://edge.forgecdn.net/files/4832/944/simplylight-1.20.1-1.4.6-build.50.jar",
+    "MD5": "ce3cb1633a11c82613b547dff686aee8"
+  }
+}

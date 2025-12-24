@@ -1,0 +1,10 @@
+{
+  "id": "wallywhip.bettertags:bettertags:1.20.1-1.1@jar",
+  "name": "Better Tags",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 138899,
+    "url": "https://mediafilez.forgecdn.net/files/4636/196/BetterTags-1.20.1-1.1.jar",
+    "MD5": "4aeb00a3164d4172ec5368c0e19a0aa8"
+  }
+}

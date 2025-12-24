@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:zkul_block_0" },
+      { "item": "xtonesreworked:zkul_block_1" },
+      { "item": "xtonesreworked:zkul_block_2" },
+      { "item": "xtonesreworked:zkul_block_3" },
+      { "item": "xtonesreworked:zkul_block_4" },
+      { "item": "xtonesreworked:zkul_block_5" },
+      { "item": "xtonesreworked:zkul_block_6" },
+      { "item": "xtonesreworked:zkul_block_7" },
+      { "item": "xtonesreworked:zkul_block_8" },
+      { "item": "xtonesreworked:zkul_block_9" },
+      { "item": "xtonesreworked:zkul_block_10" },
+      { "item": "xtonesreworked:zkul_block_11" },
+      { "item": "xtonesreworked:zkul_block_12" },
+      { "item": "xtonesreworked:zkul_block_13" },
+      { "item": "xtonesreworked:zkul_block_14" },
+      { "item": "xtonesreworked:zkul_block_15" }
+    ],
+    "overwrite": false
+  }

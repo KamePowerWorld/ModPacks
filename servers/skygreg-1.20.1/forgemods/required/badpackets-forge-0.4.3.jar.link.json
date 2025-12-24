@@ -1,0 +1,10 @@
+{
+  "id": "lol.bai.badpackets.impl:badpackets:0.4.3@jar",
+  "name": "Bad Packets",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 27919,
+    "url": "https://edge.forgecdn.net/files/4784/395/badpackets-forge-0.4.3.jar",
+    "MD5": "4ac6c52d62eadf03c64df02ee74f42b5"
+  }
+}

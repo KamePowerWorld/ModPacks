@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:wirelesschargers:1.0.9@jar",
+  "name": "Wireless Chargers",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 316189,
+    "url": "https://edge.forgecdn.net/files/4591/907/wirelesschargers-1.0.9-forge-mc1.20.jar",
+    "MD5": "449b5b960d3f270be8d1ee1e78cd78a2"
+  }
+}

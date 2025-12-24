@@ -1,0 +1,10 @@
+{
+  "id": "me.shedaniel.clothconfig:cloth_config:11.1.118@jar",
+  "name": "Cloth Config v10 API",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1168391,
+    "url": "https://edge.forgecdn.net/files/4973/441/cloth-config-11.1.118-forge.jar",
+    "MD5": "728bdaa093e07f3567640d36c55656ae"
+  }
+}

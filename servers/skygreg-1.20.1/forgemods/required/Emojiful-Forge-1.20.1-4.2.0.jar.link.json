@@ -1,0 +1,10 @@
+{
+  "id": "com.hrznstudio:emojiful:4.2.0@jar",
+  "name": "Emojiful",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 262412,
+    "url": "https://edge.forgecdn.net/files/4672/310/Emojiful-Forge-1.20.1-4.2.0.jar",
+    "MD5": "0ba360de4747e64c6325b74c0055479a"
+  }
+}

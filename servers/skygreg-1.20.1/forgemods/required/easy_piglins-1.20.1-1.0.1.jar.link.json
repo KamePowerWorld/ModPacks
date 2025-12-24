@@ -1,0 +1,10 @@
+{
+  "id": "de.maxhenkel.easypiglins:easy_piglins:1.20.1-1.0.1@jar",
+  "name": "Easy Piglins",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 185911,
+    "url": "https://edge.forgecdn.net/files/4584/234/easy_piglins-1.20.1-1.0.1.jar",
+    "MD5": "e634e147e1d9bf3763b7b2cf324ba02d"
+  }
+}

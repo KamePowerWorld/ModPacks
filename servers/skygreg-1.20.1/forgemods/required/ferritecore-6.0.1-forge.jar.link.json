@@ -1,0 +1,10 @@
+{
+  "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+  "name": "Ferrite Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 123034,
+    "url": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
+    "MD5": "f52f538207a4829d7060550092ce2383"
+  }
+}

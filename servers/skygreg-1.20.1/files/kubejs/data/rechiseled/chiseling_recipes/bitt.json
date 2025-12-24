@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:bitt_block_0" },
+      { "item": "xtonesreworked:bitt_block_1" },
+      { "item": "xtonesreworked:bitt_block_2" },
+      { "item": "xtonesreworked:bitt_block_3" },
+      { "item": "xtonesreworked:bitt_block_4" },
+      { "item": "xtonesreworked:bitt_block_5" },
+      { "item": "xtonesreworked:bitt_block_6" },
+      { "item": "xtonesreworked:bitt_block_7" },
+      { "item": "xtonesreworked:bitt_block_8" },
+      { "item": "xtonesreworked:bitt_block_9" },
+      { "item": "xtonesreworked:bitt_block_10" },
+      { "item": "xtonesreworked:bitt_block_11" },
+      { "item": "xtonesreworked:bitt_block_12" },
+      { "item": "xtonesreworked:bitt_block_13" },
+      { "item": "xtonesreworked:bitt_block_14" },
+      { "item": "xtonesreworked:bitt_block_15" }
+    ],
+    "overwrite": false
+  }

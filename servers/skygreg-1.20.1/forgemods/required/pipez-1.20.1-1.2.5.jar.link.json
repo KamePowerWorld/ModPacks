@@ -1,0 +1,10 @@
+{
+  "id": "de.maxhenkel:pipez:1.20.1-1.2.5@jar",
+  "name": "Pipez",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 423184,
+    "url": "https://edge.forgecdn.net/files/4916/633/pipez-1.20.1-1.2.5.jar",
+    "MD5": "8448af4aeab6d1ca860c645c96da376d"
+  }
+}

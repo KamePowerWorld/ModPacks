@@ -1,0 +1,10 @@
+{
+  "id": "net.xanthian:bedrockbreakers:1.5@jar",
+  "name": "Bedrock Breakers",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 42539,
+    "url": "https://edge.forgecdn.net/files/4786/478/bedrockbreakers-1.5.jar",
+    "MD5": "787589f8c020d00756ea7980536f161f"
+  }
+}

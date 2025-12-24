@@ -1,0 +1,10 @@
+{
+  "id": "com.mcjty:signtastic:1.20-3.0.0@jar",
+  "name": "SignTastic",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 129273,
+    "url": "https://edge.forgecdn.net/files/4598/253/signtastic-1.20-3.0.0.jar",
+    "MD5": "d59d51e749fc24f1a90c599519017fb1"
+  }
+}

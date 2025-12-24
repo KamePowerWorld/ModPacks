@@ -1,0 +1,10 @@
+{
+  "id": "com.chaosthedude:explorerscompass:1.20.1-1.3.3-forge@jar",
+  "name": "Explorer's Compass",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 155257,
+    "url": "https://edge.forgecdn.net/files/4712/194/ExplorersCompass-1.20.1-1.3.3-forge.jar",
+    "MD5": "9b52fd19e49b6fc0d964a43b90de00e2"
+  }
+}

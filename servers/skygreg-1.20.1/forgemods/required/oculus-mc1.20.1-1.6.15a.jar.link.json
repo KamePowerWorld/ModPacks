@@ -1,0 +1,10 @@
+{
+  "id": "net.coderbot.iris:oculus:1.6.15a@jar",
+  "name": "Oculus",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2806358,
+    "url": "https://edge.forgecdn.net/files/5108/615/oculus-mc1.20.1-1.6.15a.jar",
+    "MD5": "b6d1e02b5fccf72570fa19606006d711"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.snowshock35:jeiintegration:10.0.0@jar",
+  "name": "JEI Integration",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 26940,
+    "url": "https://edge.forgecdn.net/files/4999/754/jeiintegration_1.20.1-10.0.0.jar",
+    "MD5": "a322f8b0eddad9888f1abe444918878c"
+  }
+}

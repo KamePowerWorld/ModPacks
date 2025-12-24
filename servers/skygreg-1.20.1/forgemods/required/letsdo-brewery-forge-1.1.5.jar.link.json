@@ -1,0 +1,10 @@
+{
+  "id": "net.satisfy:brewery:1.1.5@jar",
+  "name": "[Let's Do] Brewery",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2290239,
+    "url": "https://edge.forgecdn.net/files/5205/442/letsdo-brewery-forge-1.1.5.jar",
+    "MD5": "c1d2fad291cf22978761fee6cac2dece"
+  }
+}

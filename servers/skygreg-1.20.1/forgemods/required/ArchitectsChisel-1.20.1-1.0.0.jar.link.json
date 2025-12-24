@@ -1,0 +1,10 @@
+{
+  "id": "net.wxam:architectschisel:1.0.0@jar",
+  "name": "Architect's Chisel",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2262029,
+    "url": "https://edge.forgecdn.net/files/5056/11/ArchitectsChisel-1.20.1-1.0.0.jar",
+    "MD5": "93ce5a41de94637f4dfd9897e4a975fa"
+  }
+}

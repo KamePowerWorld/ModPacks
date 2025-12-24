@@ -1,0 +1,10 @@
+{
+  "id": "net.creeperhost.ftbbackups:ftbbackups2:1.0.23@jar",
+  "name": "FTB Backups 2",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1954591,
+    "url": "https://edge.forgecdn.net/files/4834/403/ftbbackups2-forge-1.20-1.0.23.jar",
+    "MD5": "d03cc8191ad47156c977d53468421559"
+  }
+}

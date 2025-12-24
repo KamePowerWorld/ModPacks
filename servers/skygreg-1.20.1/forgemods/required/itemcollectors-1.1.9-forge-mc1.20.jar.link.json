@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:itemcollectors:1.1.9@jar",
+  "name": "Item Collectors",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 101293,
+    "url": "https://edge.forgecdn.net/files/5002/790/itemcollectors-1.1.9-forge-mc1.20.jar",
+    "MD5": "80da61e4557d9ba1cd08989267b1b2bd"
+  }
+}

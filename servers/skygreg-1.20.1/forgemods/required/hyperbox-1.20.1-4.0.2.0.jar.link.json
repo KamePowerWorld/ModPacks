@@ -1,0 +1,10 @@
+{
+  "id": "commoble.hyperbox:hyperbox:4.0.2.0@jar",
+  "name": "Hyperbox",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 266227,
+    "url": "https://edge.forgecdn.net/files/5161/49/hyperbox-1.20.1-4.0.2.0.jar",
+    "MD5": "8433ff655c0b9e3e77e42bcaf637321a"
+  }
+}

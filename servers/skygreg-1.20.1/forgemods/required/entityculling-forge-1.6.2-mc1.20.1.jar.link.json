@@ -1,0 +1,10 @@
+{
+  "id": "dev.tr7zw:entityculling:1.6.2@jar",
+  "name": "EntityCulling",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 62127,
+    "url": "https://mediafilez.forgecdn.net/files/4763/645/entityculling-forge-1.6.2-mc1.20.1.jar",
+    "MD5": "c04b2447b7b3f625c37535eb82ad5bdc"
+  }
+}

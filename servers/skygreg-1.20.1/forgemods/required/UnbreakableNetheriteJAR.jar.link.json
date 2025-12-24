@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator.unbreakablenetherite:unbreakable_netherite:1.0.0@jar",
+  "name": "Unbreakable Netherite",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7489,
+    "url": "https://edge.forgecdn.net/files/4959/842/UnbreakableNetheriteJAR.jar",
+    "MD5": "49b1cce7893eac1581b9f9181105a041"
+  }
+}

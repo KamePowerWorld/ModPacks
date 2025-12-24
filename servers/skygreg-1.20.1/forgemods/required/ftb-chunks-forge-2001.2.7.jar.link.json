@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbchunks:2001.2.7@jar",
+  "name": "FTB Chunks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 878317,
+    "url": "https://edge.forgecdn.net/files/5210/496/ftb-chunks-forge-2001.2.7.jar",
+    "MD5": "37a0d3b91838fddd2f6d788fa0968105"
+  }
+}

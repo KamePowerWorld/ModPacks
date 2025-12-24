@@ -1,0 +1,10 @@
+{
+  "id": "com.christofmeg:justenoughbreeding:1.2.0@jar",
+  "name": "Just Enough Breeding",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 117341,
+    "url": "https://edge.forgecdn.net/files/5222/938/justenoughbreeding-forge-1.20.x-1.2.0.jar",
+    "MD5": "d755780c2be59cfd3bdc40d9a3eca1d9"
+  }
+}

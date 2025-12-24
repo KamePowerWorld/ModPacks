@@ -1,0 +1,10 @@
+{
+  "id": "nomowanderer:nomowanderer:1.20.1_1.6.4@jar",
+  "name": "NoMoWanderer",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 76075,
+    "url": "https://edge.forgecdn.net/files/5060/170/nomowanderer-1.20.1_1.6.4.jar",
+    "MD5": "06ccdc8360c025af96e64d3efd6e390f"
+  }
+}

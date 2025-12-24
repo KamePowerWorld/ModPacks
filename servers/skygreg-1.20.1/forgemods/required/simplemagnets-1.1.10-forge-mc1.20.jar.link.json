@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:simplemagnets:1.1.10@jar",
+  "name": "Simple Magnets",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 137511,
+    "url": "https://edge.forgecdn.net/files/4794/200/simplemagnets-1.1.10-forge-mc1.20.jar",
+    "MD5": "593fa0a897f246f5e6fbb0614f5f3bca"
+  }
+}

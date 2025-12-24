@@ -1,0 +1,10 @@
+{
+  "id": "snownee.jade:jade:11.7.1@jar",
+  "name": "Jade",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 523256,
+    "url": "https://edge.forgecdn.net/files/4986/594/Jade-1.20.1-forge-11.7.1.jar",
+    "MD5": "7ef11e0e67625f29c73d226bc6d94a7a"
+  }
+}

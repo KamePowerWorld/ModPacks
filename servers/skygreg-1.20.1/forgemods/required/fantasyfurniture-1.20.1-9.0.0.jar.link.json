@@ -1,0 +1,10 @@
+{
+  "id": "xyz.apex.forge.fantasyfurniture.core:fantasyfurniture:9.0.0@jar",
+  "name": "Fantasy's Furniture",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3202951,
+    "url": "https://edge.forgecdn.net/files/4702/176/fantasyfurniture-1.20.1-9.0.0.jar",
+    "MD5": "0712007756c04d20100121c31510d346"
+  }
+}

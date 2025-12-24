@@ -1,0 +1,10 @@
+{
+  "id": "io.github.projectet:ae2things:1.2.1@jar",
+  "name": "AE2 Things",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 70813,
+    "url": "https://edge.forgecdn.net/files/4616/683/AE2-Things-1.2.1.jar",
+    "MD5": "6a5134e817afc15a227b644f4a663a8a"
+  }
+}

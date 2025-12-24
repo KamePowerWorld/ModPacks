@@ -1,0 +1,10 @@
+{
+  "id": "me.treyruffy:betterf3:7.0.2@jar",
+  "name": "BetterF3",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 468517,
+    "url": "https://edge.forgecdn.net/files/4863/626/BetterF3-7.0.2-Forge-1.20.1.jar",
+    "MD5": "7411ae023390cf6b148f05a6b685279f"
+  }
+}

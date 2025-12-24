@@ -1,0 +1,10 @@
+{
+  "id": "dev.shadowsoffire:placebo:8.6.1@jar",
+  "name": "Placebo",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 285463,
+    "url": "https://edge.forgecdn.net/files/5098/182/Placebo-1.20.1-8.6.1.jar",
+    "MD5": "99019d3495ebaaf5805eb7aba8de9371"
+  }
+}

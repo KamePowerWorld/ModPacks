@@ -1,0 +1,10 @@
+{
+  "id": "cofh.capablecauldrons:capable_cauldrons:1.2.0@jar",
+  "name": "Capable Cauldrons",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 30231,
+    "url": "https://edge.forgecdn.net/files/4970/674/capable_cauldrons-1.20.1-1.2.0.5.jar",
+    "MD5": "6a7db7551138c725ce18760ab60b2ed9"
+  }
+}

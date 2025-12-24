@@ -1,0 +1,10 @@
+{
+  "id": "xxrexraptorxx.exocraft.main:exocraft:2.3.5@jar",
+  "name": "EXO-Craft",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 213260,
+    "url": "https://edge.forgecdn.net/files/5154/914/EXO-Craft-1.20.x-(v.2.3.5).jar",
+    "MD5": "0ff8c96cf347bd8494b4ef3ff0f7449b"
+  }
+}

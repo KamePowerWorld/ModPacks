@@ -1,0 +1,10 @@
+{
+  "id": "dev.smolinacadena:sebastrnlib:4.0.0@jar",
+  "name": "Sebastrn Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 541024,
+    "url": "https://edge.forgecdn.net/files/4706/669/sebastrnlib-4.0.0.jar",
+    "MD5": "f79f3dbe382f28f3cf61d42451f1bfd3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.buuz135:darkmodeeverywhere:1.20.1-1.2.2@jar",
+  "name": "DarkModeEverywhere",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 31076,
+    "url": "https://edge.forgecdn.net/files/4645/933/DarkModeEverywhere-1.20.1-1.2.2.jar",
+    "MD5": "42ab5dd449d6ff2ec8c3eaf227b5de03"
+  }
+}

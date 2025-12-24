@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:tesseract:1.0.35a@jar",
+  "name": "Tesseract",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1195922,
+    "url": "https://edge.forgecdn.net/files/4786/711/tesseract-1.0.35a-forge-mc1.20.1.jar",
+    "MD5": "7e7ef7167ec65d956aed5b3b8f2ff9f2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "shetiphian.enderchests:enderchests:1.20.1-1.2@jar",
+  "name": "EnderChests",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 240148,
+    "url": "https://edge.forgecdn.net/files/4859/168/enderchests-forge-1.20.1-1.2.jar",
+    "MD5": "b60fd24ac80c9f0a8f0f7c1d7ff9ff0c"
+  }
+}

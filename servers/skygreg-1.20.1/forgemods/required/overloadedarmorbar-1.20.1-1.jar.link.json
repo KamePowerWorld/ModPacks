@@ -1,0 +1,10 @@
+{
+  "id": "tfar.overpoweredarmorbar:overloadedarmorbar:1.20.1-1@jar",
+  "name": "Overloaded Armor Bar",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 14034,
+    "url": "https://edge.forgecdn.net/files/4631/133/overloadedarmorbar-1.20.1-1.jar",
+    "MD5": "804052a816800c4cf93b6b472559ea70"
+  }
+}

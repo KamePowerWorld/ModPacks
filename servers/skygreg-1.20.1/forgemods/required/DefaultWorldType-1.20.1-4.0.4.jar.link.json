@@ -1,0 +1,10 @@
+{
+  "id": "de.melanx:defaultworldtype:1.20.1-4.0.4@jar",
+  "name": "Default World Type",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 10008,
+    "url": "https://edge.forgecdn.net/files/4796/884/DefaultWorldType-1.20.1-4.0.4.jar",
+    "MD5": "956de576d271a90ae7c9b7d532f93b79"
+  }
+}

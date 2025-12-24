@@ -1,0 +1,10 @@
+{
+  "id": "com.natamus:doubledoors:5.4@jar",
+  "name": "Double Doors",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 43065,
+    "url": "https://edge.forgecdn.net/files/5171/265/doubledoors-1.20.1-5.4.jar",
+    "MD5": "32cfecf3624781c7b5794351cb7108fe"
+  }
+}

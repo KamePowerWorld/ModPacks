@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:searchables:1.0.2@jar",
+  "name": "Searchables",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 77705,
+    "url": "https://edge.forgecdn.net/files/4779/110/Searchables-forge-1.20.1-1.0.2.jar",
+    "MD5": "9e9dc021118c1c9727625a58a9290d48"
+  }
+}

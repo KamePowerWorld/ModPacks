@@ -1,0 +1,1137 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: "hexagon"
+	filename: "random_things"
+	group: "3483E4EBAD9C4714"
+	icon: "saturatingitem:saturating_item"
+	id: "36A472AEE9CCE50B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["An upgradable Backpack to store all your stuff and things."]
+			id: "7B199FF56DFC4286"
+			subtitle: "Upgradable!"
+			tasks: [{
+				id: "0347641D20FDBB27"
+				item: {
+					Count: 1b
+					id: "packedup:basicbackpack"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.5d
+		}
+		{
+			description: [
+				"The default experience cost has been removed to allow you to easily teleport between areas of your base."
+				""
+				"Sneak right click with an empty hand to rename a Waystone."
+				""
+				"The Warp Stone used in the recipe allows you to teleport to a Waystone from anywhere."
+			]
+			id: "199681973FE6BD21"
+			subtitle: "No experience cost!"
+			tasks: [{
+				id: "42BAAD5420767CAE"
+				item: "waystones:waystone"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"A place to store all your garbage, or useful things, you decide."
+				""
+				"Play around with the settings and you can make it automatically pickup items that it already contains while voiding any extras if it fills up."
+				""
+				"Very upgradable to an absolutely massive storage capacity."
+				""
+				"Check and set your keybinds as you can change the mode from Bag to Construction, Bag mode is essentially a backpack while Construction mode allows you to use the item you have selected, Shears, Redstone, blocks, Cables, really anything that has a use option."
+				""
+				"Press [CTRL] while hovering over a slot to lock that slot, making it so only that item is allowed in that slot, even if you run out of the item."
+				""
+				"You can set Danks to the same frequency so they can share contents by typing the frequency in to the left of the \"Save the new frequency\" button. There is a somewhat hidden text input field."
+				""
+				"If set in a Dock, it can be used as an external storage device (like a Chest), Hooking up a Dank in a Dock to your AE2 system with a Storage Bus will basically allow for a drawer system within the Docked Dank."
+			]
+			id: "182D39B24C4E8FA9"
+			subtitle: "Too many things?"
+			tasks: [{
+				id: "2D30CFBEC49956AB"
+				item: "dankstorage:dank_1"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			description: [
+				"Pulls items towards you."
+				""
+				"Right click while holding it to turn it on."
+				""
+				"Sneak right click while holding it to set filters."
+			]
+			id: "3B2DCD05F432AD01"
+			subtitle: "To me!"
+			tasks: [{
+				id: "492F4BDA412DBE97"
+				item: {
+					Count: 1b
+					id: "simplemagnets:basicmagnet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			description: [
+				"Can charge items with FE instead of EU, you will need an Energy Converter to convert EU to FE."
+				""
+				"Only some items accept FE."
+			]
+			id: "2D328EC3C03375D0"
+			subtitle: "FE energy!"
+			tasks: [{
+				id: "6BC2FFC44A7E8174"
+				item: {
+					Count: 1b
+					id: "charginggadgets:charging_station"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			description: [
+				"Very helpful tools to help with building. Play around with them and see what they can do. The names are pretty self explanitory."
+				""
+				"Must be charged in the Charging Station with FE energy."
+			]
+			icon: "buildinggadgets2:gadget_building"
+			id: "6C983E7D8ADB65DE"
+			subtitle: "Easy building!"
+			tasks: [
+				{
+					id: "660CC32D525C77EF"
+					item: "buildinggadgets2:gadget_building"
+					type: "item"
+				}
+				{
+					id: "2BC47EBDFDCB0F33"
+					item: "buildinggadgets2:gadget_exchanging"
+					type: "item"
+				}
+				{
+					id: "226A3D42BC086775"
+					item: {
+						Count: 1b
+						id: "buildinggadgets2:gadget_copy_paste"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			title: "Building Gadgets"
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			description: [
+				"Very helpful tools to help with building. Play around (carefully) with them and see what they can do. The names are pretty self explanitory."
+				""
+				"Must be charged in the Charging Station with FE energy."
+			]
+			icon: {
+				Count: 1b
+				id: "buildinggadgets2:gadget_cut_paste"
+				tag: {
+					pastereplace: 1b
+				}
+			}
+			id: "105F978E8FFFA97C"
+			subtitle: "VOIDS BLOCKS!"
+			tasks: [
+				{
+					id: "03D1031418159760"
+					item: {
+						Count: 1b
+						id: "buildinggadgets2:gadget_cut_paste"
+						tag: {
+							pastereplace: 1b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3978340778F49DDF"
+					item: "buildinggadgets2:gadget_destruction"
+					type: "item"
+				}
+			]
+			title: "Dangerous Building Gadgets"
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			description: [
+				"Sneak right click to travel in that direction."
+				""
+				"Can travel through blocks."
+				""
+				"Look at a Travel Anchor and use to warp to that Travel Anchor."
+			]
+			id: "06EFBFA64B610CDE"
+			subtitle: "Zshwoop!"
+			tasks: [{
+				id: "4044BED556F29E2C"
+				item: "travelanchors:travel_staff"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			description: [
+				"Used to travel to with a Travel Staff."
+				""
+				"If you place 1 in the world and look at it while holding a Travel Staff you can right click to teleport to the Travel Anchor."
+				""
+				"Can be renamed so you see the name while looking at it from a distance."
+				""
+				"Can teleport to up to 64 blocks away."
+			]
+			id: "2C1441D7E54919A1"
+			subtitle: "Up to 64 blocks!"
+			tasks: [{
+				id: "2AA9B826ACBAE7F2"
+				item: "travelanchors:travel_anchor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			description: [
+				"Will place invisible lights in a 16 block radius."
+				""
+				"Removing the Feral Flare Lantern will cause the lights to slowly disappear."
+				""
+				"You can use a Frozen Pearl to remove the lights as well."
+			]
+			id: "7B98F40A0F2056B8"
+			subtitle: "Light up a chunk!"
+			tasks: [{
+				id: "43DD62AE965C66C3"
+				item: "torchmaster:feral_flare_lantern"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			description: [
+				"Prevents natural passive mobs from spawning in a 64 block radius."
+				""
+				"Spawners will still spawn mobs."
+			]
+			id: "5FFAC11F068C7990"
+			subtitle: "No passive mobs!"
+			tasks: [{
+				id: "5E838D1C4F21E8CE"
+				item: "torchmaster:dreadlamp"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			description: [
+				"Prevents natural hostile mobs from spawning in a 64 block radius."
+				""
+				"Spawners will still spawn mobs."
+			]
+			id: "59C873A939C4D6C6"
+			subtitle: "No hostile mobs!"
+			tasks: [{
+				id: "3BE664884F156D6D"
+				item: "torchmaster:megatorch"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			description: ["Set a channel by sneak right clicking dyes on the white strips, anything sharing the same channel will share the same contents."]
+			id: "4D105D6B5083C9BC"
+			subtitle: "Easy fluid transfer!"
+			tasks: [{
+				id: "451EE843CD8742F2"
+				item: {
+					Count: 1b
+					id: "endertanks:ender_tank"
+					tag: {
+						code: "000"
+						owner: "all"
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 9.5d
+		}
+		{
+			description: ["Set a channel by sneak right clicking dyes on the white strips, anything sharing the same channel will share the same contents."]
+			id: "410E6876A204A059"
+			subtitle: "Easy item transfer!"
+			tasks: [{
+				id: "3654B0EB92C6B501"
+				item: {
+					Count: 1b
+					id: "enderchests:ender_chest"
+					tag: {
+						code: "000"
+						owner: "all"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			description: [
+				"Place under certain blocks to generate that block type as an item in its internal inventory."
+				""
+				"Blocks that can be made infinite are tagged with the block tag \"infinite_blocks:infinite_blocks\". You can search EMI for \"#infinite_blocks\" and see the blocks available."
+				""
+				"Some options are:"
+				""
+				" - Blocks in the stone tag."
+				" - Blocks in the dirt tag."
+				" - Blocks in the concrete tag."
+				" - Blocks in the terracotta tag."
+				" - Blackest Stone."
+				" - Xtone Tile."
+				""
+				"Tip: You can easily obtain Clay Dust and Concrete Dust with this."
+			]
+			id: "51B1AE2DF9616C5F"
+			subtitle: "Free building blocks!"
+			tasks: [{
+				id: "6214FD0284220DE1"
+				item: "infinite_blocks:infinite_block_generator"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			description: ["Stops the visual effect of rain and snow in quite a large area."]
+			id: "6AE690511FD7F74A"
+			subtitle: "Goodbye rain!"
+			tasks: [{
+				id: "1466093E6F674A53"
+				item: "rainshield:rain_shield"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			description: ["Set a channel in the GUI, anything sharing the same channel will share the same contents."]
+			id: "638C3912A6F764BE"
+			subtitle: "Easy fluid transfer!"
+			tasks: [{
+				id: "62E158231F2B982E"
+				item: "dimstorage:dimensional_tank"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 9.5d
+		}
+		{
+			description: ["Set a channel in the GUI, anything sharing the same channel will share the same contents."]
+			id: "01C3B0DB4C6A6FAE"
+			subtitle: "Easy item transfer!"
+			tasks: [{
+				id: "47C23BBF43380D72"
+				item: "dimstorage:dimensional_chest"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 9.5d
+		}
+		{
+			description: ["Below you will find a collection of random items and blocks to help with various tasks."]
+			id: "77898BD300971A36"
+			shape: "gear"
+			subtitle: "Stuff \\& things!"
+			tasks: [{
+				id: "7AE899E85E70682D"
+				title: "Useful Things"
+				type: "checkmark"
+			}]
+			title: "Useful Items \\& Blocks"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Tired of eating food? I was so I made this! Simply slap a Baked Potato on a Stick and make sure it's super secured and you're good to go!"
+				""
+				"Just hold it in your hand and it will keep your hunger topped up, kind of like the Healing Axe from Extra Utilities."
+				""
+				"If you need a Potato you can buy one from the Market block."
+				""
+				"It also happens to do the same damage as an Iron Sword and doesn't use durability. Keep those Phantoms away."
+			]
+			id: "666A68DFE6217071"
+			subtitle: "Hold me!"
+			tasks: [{
+				id: "13AF5EFCDFC740F3"
+				item: "saturatingitem:saturating_item"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+		{
+			description: [
+				"Right click on block while holding an item with durability to make the item Unbreakable."
+				""
+				"&4BLOCK WILL BE CONSUMED.&r"
+				""
+				"Netherite Scraps can be crafted in the LV age, but if you are lucky enough Ancient Debris can also be obtained from the Random Ore Generator (Placement)."
+			]
+			id: "52E0DAFED5BDF489"
+			subtitle: "Make things Unbreakable!"
+			tasks: [{
+				id: "011EE9C74F79E97F"
+				item: "minecraft:netherite_block"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Feed it FE and it will wirelessly charge blocks that accept FE in a 5x5x5 area at a rate of 50 FE/t."
+				""
+				"Has an advanced version with better stats."
+			]
+			id: "1352CE3F416A3EB3"
+			subtitle: "Wirelessly charge blocks with FE!"
+			tasks: [{
+				id: "5EAFC1DF2251B254"
+				item: "wirelesschargers:basic_wireless_block_charger"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			description: [
+				"Feed it FE and it will wirelessly charge items in your inventory that accept FE in a 5x5x5 area at a rate of 50 FE/t."
+				""
+				"Has an advanced version with better stats."
+			]
+			id: "51E69851575DEDDE"
+			subtitle: "Wirelessly charge your Wireless Crafting Terminal!"
+			tasks: [{
+				id: "0B80B05A75655EA5"
+				item: "wirelesschargers:basic_wireless_player_charger"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			description: [
+				"First of all, check and set your keybinds."
+				""
+				"Can be equipped in the Curio Belt slot or in its own special slot."
+				""
+				"Useful for quickly swapping between tools and items."
+				""
+				"Apply Belt Pouches in an Anvil to increase the storage amount. Up to 7 Belt Pouches can be installed for a maximum of 9 items."
+			]
+			icon: "toolbelt:belt"
+			id: "5BD5D5818DBD50F7"
+			subtitle: "A nice spot for tools!"
+			tasks: [
+				{
+					id: "656A22427837A1BA"
+					item: "toolbelt:belt"
+					type: "item"
+				}
+				{
+					id: "69E7945C72CDFC98"
+					item: "toolbelt:pouch"
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			description: [
+				"A Hopper made for fluids with some added features."
+				""
+				"Will work as a normal Hopper would but for fluids instead of items."
+				""
+				"Can also take fluid blocks placed in the world above it and send it through the Flopper."
+				""
+				"Can also place fluid blocks in the world where it is aiming."
+			]
+			id: "5FB230A3AEB91055"
+			subtitle: "Fluid Hopper!"
+			tasks: [{
+				id: "443B631D6D204874"
+				item: "flopper:flopper"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			description: [
+				"Creates a 13x13x13 pocket room inside another dimension that you can access."
+				""
+				"You can pipe things in and out of the block using the sides of the block and the Apertures inside the room. You can also use Ender/Dimensional storage blocks."
+				""
+				"To enter the room right click on the Hyperbox. To leave the room right click on any Aperture inside the room."
+				""
+				"For when you want an entire automation inside 1 block, to fit in the middle of another giant automation."
+				""
+				"As long as the chunk that the Hyperbox in is loaded, the room inside will be loaded. If you pick the Hyperbox up the room will become unloaded and will reload when you place the Hyperbox down again. The Hyperbox is safe to move but just know everything inside will stop."
+			]
+			id: "40123EB952032960"
+			subtitle: "Pocket dimension!"
+			tasks: [{
+				id: "3AE6C1F5D6237D6D"
+				item: "hyperbox:hyperbox"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"1 armor piece: Speed I"
+				"2 armor pieces: Speed I + Strength I"
+				"3 armor pieces: Speed I + Strength II"
+				"4 armor pieces: Speed I + Strength II + Resistance I"
+				""
+				"Wear all 4 or mix and match with other sets!"
+			]
+			icon: {
+				Count: 1b
+				id: "exocraft:atlas_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "00B9D74FFD318F2F"
+			subtitle: "Grants potion effects!"
+			tasks: [
+				{
+					id: "47890B5BCF8EA178"
+					item: {
+						Count: 1b
+						id: "exocraft:atlas_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6786DB33845C888B"
+					item: {
+						Count: 1b
+						id: "exocraft:atlas_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "238698C135593D25"
+					item: {
+						Count: 1b
+						id: "exocraft:atlas_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39F8B8203007C21D"
+					item: {
+						Count: 1b
+						id: "exocraft:atlas_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Atlas Exosuit"
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"1 armor piece: Strength I"
+				"2 armor pieces: Strength I + Haste I"
+				"3 armor pieces: Strength II + Haste II"
+				"4 armor pieces: Strength III +Haste III"
+				""
+				"Wear all 4 or mix and match with other sets!"
+			]
+			icon: {
+				Count: 1b
+				id: "exocraft:legion_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "568FE962A3DFBF6B"
+			subtitle: "Grants potion effects!"
+			tasks: [
+				{
+					id: "313E4DC50C0F17A6"
+					item: {
+						Count: 1b
+						id: "exocraft:legion_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F40246FB24E9EAC"
+					item: {
+						Count: 1b
+						id: "exocraft:legion_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5C40247C5626B190"
+					item: {
+						Count: 1b
+						id: "exocraft:legion_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "453B787CD375D5BD"
+					item: {
+						Count: 1b
+						id: "exocraft:legion_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Legion Exosuit"
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"1 armor piece: Haste I"
+				"2 armor pieces: Haste I + Speed I"
+				"3 armor pieces: Haste II + Speed II"
+				"4 armor pieces: Haste II + Speed II + Jump Boost I"
+				""
+				"Wear all 4 or mix and match with other sets!"
+			]
+			icon: {
+				Count: 1b
+				id: "exocraft:stryder_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7C3B363F6B2335AB"
+			subtitle: "Grants potion effects!"
+			tasks: [
+				{
+					id: "3FCE15AD4BA83DB6"
+					item: {
+						Count: 1b
+						id: "exocraft:stryder_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0E90848801387E46"
+					item: {
+						Count: 1b
+						id: "exocraft:stryder_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32002DBCD9C4B87E"
+					item: {
+						Count: 1b
+						id: "exocraft:stryder_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "621A358C591C5B59"
+					item: {
+						Count: 1b
+						id: "exocraft:stryder_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Stryder Exosuit"
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"1 armor piece: Resistance I"
+				"2 armor pieces: Resistance I + Strength I"
+				"3 armor pieces: Resistance II + Strength II"
+				"4 armor pieces: Resistance III + Strength II"
+				""
+				"Wear all 4 or mix and match with other sets!"
+			]
+			icon: {
+				Count: 1b
+				id: "exocraft:ogre_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5FF195CD713F0350"
+			subtitle: "Grants potion effects!"
+			tasks: [
+				{
+					id: "7BD02E0D2FD95E9C"
+					item: {
+						Count: 1b
+						id: "exocraft:ogre_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B9BC710350DBAC7"
+					item: {
+						Count: 1b
+						id: "exocraft:ogre_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "16AF713669D8120D"
+					item: {
+						Count: 1b
+						id: "exocraft:ogre_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "64CEC069E175B8AD"
+					item: {
+						Count: 1b
+						id: "exocraft:ogre_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ogre Exosuit"
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			description: [
+				"1 armor piece: Haste I"
+				"2 armor pieces: Haste I + Fire Resistance I"
+				"3 armor pieces: Haste II + Fire Resistance I"
+				"4 armor pieces: Haste II + Fire Resistance I + Water Breathing I"
+				""
+				"Wear all 4 or mix and match with other sets!"
+			]
+			icon: {
+				Count: 1b
+				id: "exocraft:ion_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "702227EF3F9181A3"
+			subtitle: "Grants potion effects!"
+			tasks: [
+				{
+					id: "4D08179C6A8781E6"
+					item: {
+						Count: 1b
+						id: "exocraft:ion_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34AB6B9840F1CAE8"
+					item: {
+						Count: 1b
+						id: "exocraft:ion_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A83112996C485C2"
+					item: {
+						Count: 1b
+						id: "exocraft:ion_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "710AF012139DF339"
+					item: {
+						Count: 1b
+						id: "exocraft:ion_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Ion Exosuit"
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			description: ["Insert 1, 2, or 3 blocks in the Architect's Cutter and see what you can produce."]
+			id: "0BD9144EE0B9CB5F"
+			subtitle: "So many blocks!"
+			tasks: [{
+				id: "05A5115ADD533A7E"
+				item: "domum_ornamentum:architectscutter"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			description: ["Insert a Clay Ball, any Planks, and any Cobblestone in the Furniture Station and see what you can produce."]
+			id: "4515FB1A9BF6EDA4"
+			subtitle: "So much furniture!"
+			tasks: [{
+				id: "318E2C2FD5163E2D"
+				item: "fantasyfurniture:furniture_station"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			description: ["Framed Blocks adds Framed Cubes, which can be crafted into various shapes and placed in the world. You can use another block on the Framed Blocks to make the Framed Block take on the texture of the block you used on it."]
+			id: "1352DFC06FB99BAC"
+			subtitle: "Too many blocks!"
+			tasks: [{
+				id: "201239758794D1F8"
+				item: "framedblocks:framed_cube"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			description: [
+				"All of Ender IO's Conduits and Tanks are available but everything else from Ender IO is disabled."
+				""
+				"Note that Upgrades and Filters are not available currently."
+			]
+			icon: "enderio:ender_fluid_conduit"
+			id: "3DAE4BAA6BB72668"
+			subtitle: "Conduits \\& Tanks!"
+			tasks: [
+				{
+					id: "6747368E21C37F2B"
+					item: "enderio:ender_fluid_conduit"
+					type: "item"
+				}
+				{
+					id: "7F9A9CD57B16B26A"
+					item: "enderio:item_conduit"
+					type: "item"
+				}
+				{
+					id: "1F783F7AB93A9A44"
+					item: "enderio:me_conduit"
+					type: "item"
+				}
+				{
+					id: "6D3CBBB21113D203"
+					item: "enderio:yeta_wrench"
+					type: "item"
+				}
+			]
+			title: "Ender IO Conduits"
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			description: [
+				"Modular Routers offers 1 block, the Modular Router, and many different Modules, Upgrades, and Augments that can change how it operates."
+				""
+				"Play around with different Modules, Upgrades, and Augments, as well as settings within the Modular Router and you can do a lot."
+			]
+			icon: "modularrouters:modular_router"
+			id: "5B87C9229D0FBFCA"
+			subtitle: "Modules, Upgrades, \\& Augments!"
+			tasks: [
+				{
+					id: "2BEC05E07B5260B5"
+					item: "modularrouters:modular_router"
+					type: "item"
+				}
+				{
+					id: "35E3ACBDC5A608A2"
+					item: "modularrouters:blank_module"
+					type: "item"
+				}
+			]
+			title: "Modular Routers"
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			description: ["Can craft Enchanted Books using different input materials and experience. All recipes can be seen in REI."]
+			id: "098031EB589E064F"
+			subtitle: "Craft Enchanted Books!"
+			tasks: [{
+				id: "5A972138F5408747"
+				item: "enderio:enchanter"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["2394AD7DE7FC079E"]
+			description: ["Can store experience for later use, has a self explanitory GUI."]
+			id: "07BFCD0CC1FC2EE4"
+			subtitle: "Store experience!"
+			tasks: [{
+				id: "717F55A5B88D06CD"
+				item: "enderio:xp_obelisk"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 11.5d
+		}
+		{
+			description: ["Pulls items in the world into itself and stores them in its inventory."]
+			id: "7CCA058360CBFD75"
+			subtitle: "Vacuums items!"
+			tasks: [{
+				id: "76E196E15CFA055D"
+				item: "enderio:vacuum_chest"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 11.5d
+		}
+		{
+			description: ["Pulls experience in the world into itself and stores it as a fluid."]
+			id: "2394AD7DE7FC079E"
+			subtitle: "Vacuums experience!"
+			tasks: [{
+				id: "642062E82B3615AC"
+				item: "enderio:xp_vacuum"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 11.5d
+		}
+		{
+			description: [
+				"Can move tile entities like Chests, Spawners, machines, and more."
+				""
+				"Sneak right click to place the Box on something."
+				""
+				"Left click to take the Box off, or sneak right click to pick up the Box."
+				""
+				"Right click with the Box containing something to place it down."
+			]
+			id: "12DA3685737C7CF2"
+			subtitle: "Move Chests, Spawners, machines \\& more!"
+			tasks: [{
+				id: "353D6A877EF776DE"
+				item: "cardboardboxes:cardboardbox"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			description: ["Can be used to capture a mob. Use again to release the mob."]
+			id: "76DFCEA7E3363F3E"
+			subtitle: "Mob transfer!"
+			tasks: [{
+				id: "5A2A987200BA77C1"
+				item: "enderio:empty_soul_vial"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 12.5d
+		}
+		{
+			description: [
+				"Shrink yourself down to 20% of your normal size, or grow to 10 times your normal size. Requires FE to operate."
+				""
+				"You can also do the same to mobs by left clicking on them with the Personal Shrinking Device. A shrunken mob can be captured with a Glass Bottle."
+				""
+				"Right click to open the GUI and select the size you want. Sneak right click to activate."
+			]
+			id: "2868DAC7C62B0851"
+			tasks: [{
+				id: "2486572CE8E1A5F7"
+				item: {
+					Count: 1b
+					id: "shrink:shrinking_device"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.5d
+		}
+		{
+			description: [
+				"Wireless item, fluid, and FE transfer. Set 2 to the same channel and they will be linked together."
+				""
+				"You can change the send and receive settings in the GUI."
+			]
+			id: "76406F587A2BF232"
+			subtitle: "Wireless items, fluids, \\& FE!"
+			tasks: [{
+				id: "620E79E80F03587C"
+				item: "tesseract:tesseract"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 13.5d
+		}
+		{
+			description: [
+				"Sneak right click on the block to wish to link with the Entangled Binder, then right click on the Entangled Block with the Entangled Binder to link the blocks together. "
+				""
+				"This will allow you to interact with the Entangled Block as if it were the linked block."
+			]
+			icon: {
+				Count: 1b
+				id: "entangled:block"
+				tag: { }
+			}
+			id: "4567A985DAE4BA97"
+			subtitle: "Wireless items, fluids, \\& FE!"
+			tasks: [
+				{
+					id: "3BF93E4500C98773"
+					item: {
+						Count: 1b
+						id: "entangled:block"
+						tag: { }
+					}
+					type: "item"
+				}
+				{
+					id: "404B111ECEA36C81"
+					item: {
+						Count: 1b
+						id: "entangled:item"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 13.5d
+		}
+		{
+			description: [
+				"Wandering Traders within 6 chunks of this block will be redirected to this position."
+				""
+				"Send him into a mob farm, push him into the void, drop him 200 blocks onto Iron Spikes, get creative!"
+			]
+			id: "52A33426667EC9AF"
+			subtitle: "NoMoWanderer!"
+			tasks: [{
+				id: "4EE12506C3493341"
+				item: "nomowanderer:trader_rug"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.5d
+		}
+	]
+	subtitle: ["Helpful stuff!"]
+	title: "Random Things"
+}

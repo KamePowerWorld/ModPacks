@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:zest_block_0" },
+      { "item": "xtonesreworked:zest_block_1" },
+      { "item": "xtonesreworked:zest_block_2" },
+      { "item": "xtonesreworked:zest_block_3" },
+      { "item": "xtonesreworked:zest_block_4" },
+      { "item": "xtonesreworked:zest_block_5" },
+      { "item": "xtonesreworked:zest_block_6" },
+      { "item": "xtonesreworked:zest_block_7" },
+      { "item": "xtonesreworked:zest_block_8" },
+      { "item": "xtonesreworked:zest_block_9" },
+      { "item": "xtonesreworked:zest_block_10" },
+      { "item": "xtonesreworked:zest_block_11" },
+      { "item": "xtonesreworked:zest_block_12" },
+      { "item": "xtonesreworked:zest_block_13" },
+      { "item": "xtonesreworked:zest_block_14" },
+      { "item": "xtonesreworked:zest_block_15" }
+    ],
+    "overwrite": false
+  }

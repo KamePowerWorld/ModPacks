@@ -1,0 +1,10 @@
+{
+  "id": "generated.forgemod:kotlinforforge:4.10.0-all@jar",
+  "name": "Kotlinforforge",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7778600,
+    "url": "https://edge.forgecdn.net/files/4983/659/kotlinforforge-4.10.0-all.jar",
+    "MD5": "66104f85db917822d99311bcb6c71f97"
+  }
+}

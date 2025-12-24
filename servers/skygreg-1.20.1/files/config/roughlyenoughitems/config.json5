@@ -1,0 +1,222 @@
+{
+	"basics": {
+		"favorites": [
+			"{id:\"ftbquests:quests\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbquests:item/book\",\"x\":610,\"click\":\"ftbquests:open_gui\",\"required_server_mods\":[\"ftbquests\"],\"custom_text\":true}',type:\"ftblibrary:sidebar_button\"}",
+			"{id:\"ftbessentials:trash_can\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/bin\",\"x\":150,\"click\":\"command:/trashcan\",\"required_server_mods\":[\"ftbessentials\"]}',type:\"ftblibrary:sidebar_button\"}",
+			"{id:\"ftbchunks:chunks\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/map\",\"x\":310,\"click\":\"ftbchunks:open_gui\"}',type:\"ftblibrary:sidebar_button\"}",
+			"{id:\"ftbchunks:claim_chunks\",json:'{\"group\":\"ftblibrary:util\",\"icon\":\"ftblibrary:icons/map; tint\\\\u003d#FF80FFFF\",\"x\":400,\"click\":\"ftbchunks:open_claim_gui\"}',type:\"ftblibrary:sidebar_button\"}",
+			"{data:{Count:1b,id:\"simplylight:wall_lamp\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"simplylight:illuminant_panel\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"gtceu:nano_processor\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
+		"hiddenFavorites": [
+			"{id:\"ftbteams:my_team\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbteams:textures/teams.png\",\"x\":0,\"click\":\"ftbteams:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}"
+		],
+		"displayHistory": [
+			"{DisplayHistoryCategory:\"ae2:charger\",DisplayHistoryContains:1b,DisplayHistoryData:{JEISerializer:\"ae2:charger\",data:\"AQGbCwEAAZwLAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==\",id:\"ae2:charger/charged_certus_quartz_crystal\"},DisplayHistoryUUID:\"10e4182b-1478-4314-a73c-36e84a1012d6\"}",
+			"{DisplayHistoryCategory:\"gtceu:large_chemical_reactor\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"1b2916ea-0ce5-47b6-afd6-40184d5abb1c\"}",
+			"{DisplayHistoryCategory:\"gtceu:fusion_reactor\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"f894dd2f-7f95-40cd-815b-bc969778ed28\"}",
+			"{DisplayHistoryCategory:\"gtceu:fusion_reactor\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"0b3756d5-bf2c-4ce3-9d30-0f3d87fdf272\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"f55a4ebf-4ef0-4c34-9aaf-448647104ca6\"}",
+			"{DisplayHistoryCategory:\"gtceu:chemical_reactor\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"0627db68-9362-46fd-b586-9977e20f5f9f\"}",
+			"{DisplayHistoryCategory:\"gtceu:mixer\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"8e768932-b12b-4b5f-94b3-0e2f3c0a9446\"}",
+			"{DisplayHistoryCategory:\"gtceu:chemical_reactor\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"281ce8e4-71df-42a1-81f6-c03f8394e8ea\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"c9b44dad-8287-4223-a3ab-34ab6aa47f13\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"c187d751-fea6-4a33-9b17-6fdcd46f9435\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"4d599ba8-b88d-4143-9615-a24b23c20aae\"}",
+			"{DisplayHistoryCategory:\"gtceu:centrifuge\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"66d29471-4034-4197-8608-6be2076b3958\"}",
+			"{DisplayHistoryCategory:\"gtceu:circuit_assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"39ad3b23-8e1d-403b-8427-8d39aa6f2f70\"}",
+			"{DisplayHistoryCategory:\"gtceu:electric_blast_furnace\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"8b931ebe-e258-47c0-b68b-f91daaf2b6a6\"}",
+			"{DisplayHistoryCategory:\"gtceu:circuit_assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"c609e686-85fa-46dd-80eb-851c0b927d24\"}",
+			"{DisplayHistoryCategory:\"gtceu:circuit_assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"f8077bd9-6424-44b1-a135-844b3378e638\"}",
+			"{DisplayHistoryCategory:\"gtceu:circuit_assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"64288716-4a58-41c8-a181-743c93c76d19\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"3cdce3a8-7e13-4420-918b-4423580e9170\"}",
+			"{DisplayHistoryCategory:\"gtceu:mixer\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"b7e4420f-ab3c-4b50-bc50-b839e5f24ad3\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"65f2b5c2-a258-4931-a205-f00e54f78612\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"1742ffee-23d3-4c0e-a25b-86010dbe1b04\"}",
+			"{DisplayHistoryCategory:\"gtceu:centrifuge\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"c0306a3a-55f3-4aa6-86cc-acde591a5489\"}",
+			"{DisplayHistoryCategory:\"gtceu:electrolyzer\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"6dc8ffdb-03c6-4ed1-b221-8743e5c2bd97\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"3bae7bbd-2228-493f-828f-c003898a9bc6\"}",
+			"{DisplayHistoryCategory:\"gtceu:chemical_reactor\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"c595b77d-220c-4d8f-9567-39bd18263879\"}",
+			"{DisplayHistoryCategory:\"gtceu:distillation_tower\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"09f32d74-ca7b-4265-a676-63b6e74aa4d6\"}",
+			"{DisplayHistoryCategory:\"gtceu:multiblock_info\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"543c8517-91cc-4224-8be4-fa36d225eef7\"}",
+			"{DisplayHistoryCategory:\"gtceu:mixer\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"605127a3-b286-482b-81c4-1d8024498bde\"}",
+			"{DisplayHistoryCategory:\"gtceu:mixer\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"925da50b-6e6a-45ab-92e6-6bd6480d7b68\"}",
+			"{DisplayHistoryCategory:\"gtceu:mixer\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"8902caf4-e097-43ae-a3f4-df2868b03af3\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"4921afae-7401-4885-b03d-cda8abf8bd80\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"c54cc0e7-aa58-4dbd-bbb8-1694d3945339\"}",
+			"{DisplayHistoryCategory:\"gtceu:mixer\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"46b4c5b0-e9bb-4c23-8856-b538c8f13db0\"}",
+			"{DisplayHistoryCategory:\"gtceu:assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"5cdbfced-4d8a-4b58-86ce-bf071a78b283\"}",
+			"{DisplayHistoryCategory:\"gtceu:circuit_assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"5a6638ed-122a-4071-ac6e-5bf47646d2d4\"}",
+			"{DisplayHistoryCategory:\"gtceu:multiblock_info\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"b4a7ba06-a723-437a-9689-c0c56c3e29ae\"}",
+			"{DisplayHistoryCategory:\"gtceu:multiblock_info\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"b4f20182-c303-457c-9d3b-29eb5996996c\"}",
+			"{DisplayHistoryCategory:\"gtceu:circuit_assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"70a6b4a2-dfc4-4cea-81a9-a5f598c869f6\"}",
+			"{DisplayHistoryCategory:\"gtceu:multiblock_info\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"6f93df3f-9ffc-447b-b13d-dc6396e0a03c\"}",
+			"{DisplayHistoryCategory:\"gtceu:circuit_assembler\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"3c92ecc2-115d-4615-8247-118f0873a5ff\"}",
+			"{DisplayHistoryCategory:\"gtceu:arc_furnace\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"e78b40f9-a58e-4aa4-bbb4-44c9a98a2173\"}"
+		],
+		// Declares whether cheating mode is on.
+		"cheating": true,
+		"favoritesEnabled": true,
+		"keyBindings": {
+			"recipeKeybind": {
+				"keyCode": "key.keyboard.r",
+				"modifier": 0
+			},
+			"usageKeybind": {
+				"keyCode": "key.keyboard.u",
+				"modifier": 0
+			},
+			"hideKeybind": {
+				"keyCode": "key.keyboard.o",
+				"modifier": 2
+			},
+			"previousPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"nextPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"focusSearchFieldKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"copyRecipeIdentifierKeybind": {
+				"keyCode": "key.mouse.middle",
+				"modifier": 0
+			},
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.a",
+				"modifier": 0
+			},
+			"exportImageKeybind": {
+				"keyCode": "key.keyboard.f8",
+				"modifier": 0
+			},
+			"previousScreenKeybind": {
+				"keyCode": "key.keyboard.backspace",
+				"modifier": 0
+			}
+		},
+		// Declares whether REI is visible.
+		"overlayVisible": true,
+		"cheatingStyle": "GRAB",
+		"motion": {
+			"favoritesAnimation": true
+		}
+	},
+	"advanced": {
+		"filtering": {
+			"shouldFilterDisplays": true,
+			"filteringRules": [
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
+			],
+			"filteringQuickCraftCategories": { },
+			"filteredStacks": []
+		},
+		"enableJeiCompatibilityLayer": true,
+		"tooltips": {
+			// Declares whether REI should append mod names to entries.
+			"appendModNames": true,
+			// Declares whether favorites tooltip should be displayed.
+			"displayFavoritesTooltip": false,
+			"displayIMEHints": true
+		},
+		"layout": {
+			// The ordering of the items on the entry panel.
+			"entryPanelOrdering": "REGISTRY_ASCENDING",
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPerPage": 8,
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPageHeight": 300,
+			// Declares whether entry rendering time should be debugged.
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true,
+			"favoriteAddWidgetMode": "ALWAYS_VISIBLE"
+		},
+		"accessibility": {
+			"entrySize": 1.0,
+			// Declares the position of the entry panel.
+			"displayPanelLocation": "RIGHT",
+			// Declares how the scrollbar in composite screen should act.
+			"compositeScrollBarPermanent": false,
+			"toastDisplayedOnCopyIdentifier": true,
+			// Declares whether REI should use compact tabs for categories.
+			"useCompactTabs": true,
+			// Declares whether REI should use compact tab buttons for categories.
+			"useCompactTabButtons": false
+		},
+		"search": {
+			// Declares whether search time should be debugged.
+			"debugSearchTimeRequired": false,
+			// Declares whether REI should search async.
+			"asyncSearch": true,
+			// Declares how many entries should be grouped one async search.
+			"asyncSearchPartitionSize": 100,
+			"patchAsyncThreadCrash": true,
+			"tooltipSearch": "ALWAYS",
+			"tagSearch": "PREFIX",
+			"identifierSearch": "ALWAYS",
+			"modSearch": "PREFIX"
+		},
+		"commands": {
+			// Declares the command used to change gamemode.
+			"gamemodeCommand": "/gamemode {gamemode}",
+			// Declares the command used in servers to cheat items.
+			"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+			// Declares the command used to change weather.
+			"weatherCommand": "/weather {weather}",
+			// Declares the command used to change time.
+			"timeCommand": "/time set {time}"
+		},
+		"miscellaneous": {
+			// Declares whether arrows in containers should be clickable.
+			"clickableRecipeArrows": true,
+			"registerRecipesInAnotherThread": true,
+			"newFastEntryRendering": true,
+			"cachingFastEntryRendering": false,
+			"cachingDisplayLookup": true
+		}
+	},
+	"appearance": {
+		"recipeScreenType": "ORIGINAL",
+		// Declares the appearance of REI windows.
+		"theme": "DARK",
+		"layout": {
+			// Declares the position of the search field.
+			"searchFieldLocation": "CENTER",
+			// Declares the position of the config button.
+			"configButtonLocation": "LOWER",
+			// Declares whether the craftable filter button is enabled.
+			"showCraftableOnlyButton": true
+		},
+		// Declares the appearance of recipe's border.
+		"recipeBorder": "DEFAULT",
+		// Declares whether entry panel is scrolled.
+		"scrollingEntryListWidget": false,
+		"horizontalEntriesBoundaries": 1.0,
+		"verticalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundariesColumns": 50,
+		"verticalEntriesBoundariesRows": 1000,
+		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundariesColumns": 50,
+		"syntaxHighlightingMode": "COLORFUL",
+		"isFocusModeZoomed": false
+	},
+	"functionality": {
+		"inputMethod": null,
+		// Declares whether REI should remove the recipe book.
+		"disableRecipeBook": false,
+		// Declares whether mob effects should be on the left side instead of the right side.
+		"leftSideMobEffects": false,
+		// Declares whether subsets is enabled.
+		"isSubsetsEnabled": false,
+		"allowInventoryHighlighting": true,
+		"itemCheatingMode": "REI_LIKE"
+	}
+}

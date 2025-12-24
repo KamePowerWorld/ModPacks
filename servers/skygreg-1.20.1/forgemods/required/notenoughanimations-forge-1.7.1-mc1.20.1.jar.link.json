@@ -1,0 +1,10 @@
+{
+  "id": "dev.tr7zw:notenoughanimations:1.7.1@jar",
+  "name": "NotEnoughAnimations",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 420640,
+    "url": "https://mediafilez.forgecdn.net/files/5093/745/notenoughanimations-forge-1.7.1-mc1.20.1.jar",
+    "MD5": "653460b15915e84314f931469fe55110"
+  }
+}

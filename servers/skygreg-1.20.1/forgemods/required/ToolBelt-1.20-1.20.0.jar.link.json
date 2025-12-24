@@ -1,0 +1,10 @@
+{
+  "id": "dev.gigaherz:toolbelt:1.20.0@jar",
+  "name": "Tool Belt",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 250694,
+    "url": "https://edge.forgecdn.net/files/4581/167/ToolBelt-1.20-1.20.0.jar",
+    "MD5": "d20f7b8cdd4a00cdf00e3800ab553f27"
+  }
+}

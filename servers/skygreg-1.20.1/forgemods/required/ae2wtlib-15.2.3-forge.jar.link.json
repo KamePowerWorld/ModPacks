@@ -1,0 +1,10 @@
+{
+  "id": "de.mari_023:ae2wtlib:15.2.3-forge@jar",
+  "name": "AE2WTLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 213482,
+    "url": "https://edge.forgecdn.net/files/5217/955/ae2wtlib-15.2.3-forge.jar",
+    "MD5": "b564aeaa6cff74f6f6402481819c5717"
+  }
+}

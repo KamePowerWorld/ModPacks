@@ -1,0 +1,10 @@
+{
+  "id": "dev.latvian.mods.rhino.mod:rhino:2001.2.2-build.18@jar",
+  "name": "Rhino",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1782275,
+    "url": "https://edge.forgecdn.net/files/4944/325/rhino-forge-2001.2.2-build.18.jar",
+    "MD5": "d0ee9715edfcb029f59687a08fb88a53"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "de.artemis:laboratoryblocks:1.20.1-0.4.0.1r-fusion@jar",
+  "name": "Artemis' Laboratory Blocks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1112706,
+    "url": "https://edge.forgecdn.net/files/5207/761/laboratoryblocks-1.20.1-0.4.0.1r-fusion.jar",
+    "MD5": "49a22d278997011dcb591302c71bdf5d"
+  }
+}

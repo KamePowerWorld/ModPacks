@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:bookshelf:20.1.9@jar",
+  "name": "Bookshelf",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 337312,
+    "url": "https://edge.forgecdn.net/files/5084/135/Bookshelf-Forge-1.20.1-20.1.9.jar",
+    "MD5": "a50d04efd505e42ed6f05cd5bd382061"
+  }
+}

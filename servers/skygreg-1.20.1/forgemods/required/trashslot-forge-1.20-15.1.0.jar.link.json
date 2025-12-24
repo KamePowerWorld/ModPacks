@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:trashslot:15.1.0@jar",
+  "name": "TrashSlot",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 117737,
+    "url": "https://edge.forgecdn.net/files/4753/168/trashslot-forge-1.20-15.1.0.jar",
+    "MD5": "4d17ab79f1432bb8edca90cea6f3dea5"
+  }
+}

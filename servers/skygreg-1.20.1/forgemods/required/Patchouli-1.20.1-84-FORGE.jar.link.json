@@ -1,0 +1,10 @@
+{
+  "id": "vazkii.patchouli:patchouli:1.20.1-84-FORGE@jar",
+  "name": "Patchouli",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 642506,
+    "url": "https://edge.forgecdn.net/files/4966/125/Patchouli-1.20.1-84-FORGE.jar",
+    "MD5": "64452a4404a2c47a782ba99cb90c3ca0"
+  }
+}

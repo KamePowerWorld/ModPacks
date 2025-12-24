@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:craftingtweaks:18.2.3@jar",
+  "name": "CraftingTweaks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 219041,
+    "url": "https://edge.forgecdn.net/files/5140/224/craftingtweaks-forge-1.20.1-18.2.3.jar",
+    "MD5": "186e0d067fe8cdaeff51a4aaffd265f7"
+  }
+}

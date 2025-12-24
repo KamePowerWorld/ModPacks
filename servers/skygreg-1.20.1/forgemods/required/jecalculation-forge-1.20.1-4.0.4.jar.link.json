@@ -1,0 +1,10 @@
+{
+  "id": "me.towdium:jecalculation:4.0.4@jar",
+  "name": "Just Enough Calculation",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 361918,
+    "url": "https://edge.forgecdn.net/files/5066/675/jecalculation-forge-1.20.1-4.0.4.jar",
+    "MD5": "31670ddd2937338c32c20b269e74dd4f"
+  }
+}

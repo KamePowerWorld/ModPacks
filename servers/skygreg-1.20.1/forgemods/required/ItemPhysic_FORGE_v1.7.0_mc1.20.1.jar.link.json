@@ -1,0 +1,10 @@
+{
+  "id": "team.creative:itemphysic:1.7.0@jar",
+  "name": "ItemPhysic",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 49751,
+    "url": "https://edge.forgecdn.net/files/4914/117/ItemPhysic_FORGE_v1.7.0_mc1.20.1.jar",
+    "MD5": "600ce2addf0a254d039e5c197900e7eb"
+  }
+}

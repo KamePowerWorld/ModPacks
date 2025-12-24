@@ -1,0 +1,10 @@
+{
+  "id": "net.mehvahdjukaar:modelfix:1.15@jar",
+  "name": "Model Gap Fix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 45246,
+    "url": "https://edge.forgecdn.net/files/5200/949/modelfix-1.15.jar",
+    "MD5": "9afd060094be1353e818bd2b7c249cc9"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:pigpen:15.0.2@jar",
+  "name": "PigPen",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 5350,
+    "url": "https://edge.forgecdn.net/files/4714/775/PigPen-Forge-1.20.1-15.0.2.jar",
+    "MD5": "f0641626e8767be29cf9cab1f2f319fb"
+  }
+}

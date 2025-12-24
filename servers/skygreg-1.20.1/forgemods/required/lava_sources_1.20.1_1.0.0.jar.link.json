@@ -1,0 +1,10 @@
+{
+  "id": "com.blackdragonfire.lavasource:lava_source:1.0.0@jar",
+  "name": "LavaSource",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 528834,
+    "url": "https://edge.forgecdn.net/files/4911/657/lava_sources_1.20.1_1.0.0.jar",
+    "MD5": "674d3bcdd29b131fd8f4a28636a7d544"
+  }
+}

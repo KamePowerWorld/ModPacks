@@ -1,0 +1,10 @@
+{
+  "id": "dev.shadowsoffire:fastsuite:5.0.1@jar",
+  "name": "Fast Suite",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 20315,
+    "url": "https://edge.forgecdn.net/files/4711/435/FastSuite-1.20.1-5.0.1.jar",
+    "MD5": "a355432ffcf3e2f60fa9a19268468be5"
+  }
+}

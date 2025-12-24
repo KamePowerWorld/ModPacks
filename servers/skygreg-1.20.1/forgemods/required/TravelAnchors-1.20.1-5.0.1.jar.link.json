@@ -1,0 +1,10 @@
+{
+  "id": "de.castcrafter:travelanchors:1.20.1-5.0.1@jar",
+  "name": "Travel Anchors",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 89405,
+    "url": "https://edge.forgecdn.net/files/4683/662/TravelAnchors-1.20.1-5.0.1.jar",
+    "MD5": "0d4071970be114c3cff7ec6fe677d83b"
+  }
+}

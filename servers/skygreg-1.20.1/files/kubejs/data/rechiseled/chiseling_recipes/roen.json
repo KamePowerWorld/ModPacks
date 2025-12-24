@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:roen_block_0" },
+      { "item": "xtonesreworked:roen_block_1" },
+      { "item": "xtonesreworked:roen_block_2" },
+      { "item": "xtonesreworked:roen_block_3" },
+      { "item": "xtonesreworked:roen_block_4" },
+      { "item": "xtonesreworked:roen_block_5" },
+      { "item": "xtonesreworked:roen_block_6" },
+      { "item": "xtonesreworked:roen_block_7" },
+      { "item": "xtonesreworked:roen_block_8" },
+      { "item": "xtonesreworked:roen_block_9" },
+      { "item": "xtonesreworked:roen_block_10" },
+      { "item": "xtonesreworked:roen_block_11" },
+      { "item": "xtonesreworked:roen_block_12" },
+      { "item": "xtonesreworked:roen_block_13" },
+      { "item": "xtonesreworked:roen_block_14" },
+      { "item": "xtonesreworked:roen_block_15" }
+    ],
+    "overwrite": false
+  }

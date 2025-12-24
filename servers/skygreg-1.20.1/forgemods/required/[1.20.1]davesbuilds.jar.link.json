@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator.buildingmod:davebuildingmod:5.0@jar",
+  "name": "Dave's Building Extended",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2929210,
+    "url": "https://edge.forgecdn.net/files/4704/560/%5b1.20.1%5ddavesbuilds.jar",
+    "MD5": "c7a923a74e9c8d6b2e4e8d64caf8b3ce"
+  }
+}

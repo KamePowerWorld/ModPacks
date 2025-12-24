@@ -1,0 +1,10 @@
+{
+  "id": "thetadev.constructionwand:constructionwand:1.20.1-2.11@jar",
+  "name": "Construction Wand",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 210312,
+    "url": "https://edge.forgecdn.net/files/4684/54/constructionwand-1.20.1-2.11.jar",
+    "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0"
+  }
+}

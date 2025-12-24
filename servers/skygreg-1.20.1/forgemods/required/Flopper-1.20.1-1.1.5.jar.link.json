@@ -1,0 +1,10 @@
+{
+  "id": "org.cyclops:flopper:1.1.5@jar",
+  "name": "Flopper",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 41298,
+    "url": "https://edge.forgecdn.net/files/4936/906/Flopper-1.20.1-1.1.5.jar",
+    "MD5": "8c87cc19781b11d9548965474e903f0f"
+  }
+}

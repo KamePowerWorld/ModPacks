@@ -1,0 +1,10 @@
+{
+  "id": "org.anti_ad.mc:libipn:4.0.2@jar",
+  "name": "LibIPN",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 693301,
+    "url": "https://edge.forgecdn.net/files/5208/511/libIPN-forge-1.20-4.0.2.jar",
+    "MD5": "ef3a86f4867dba031dd6adef7e45d396"
+  }
+}

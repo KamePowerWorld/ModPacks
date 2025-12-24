@@ -1,0 +1,10 @@
+{
+  "id": "dev.smolinacadena:appliedcooking:4.0.0@jar",
+  "name": "Applied Cooking",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 102993,
+    "url": "https://edge.forgecdn.net/files/4708/347/appliedcooking-4.0.0.jar",
+    "MD5": "db3247bccee97b7339d7c9712d8dd9db"
+  }
+}

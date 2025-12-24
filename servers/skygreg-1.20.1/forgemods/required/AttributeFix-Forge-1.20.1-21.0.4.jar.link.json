@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:attributefix:21.0.4@jar",
+  "name": "AttributeFix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 19471,
+    "url": "https://edge.forgecdn.net/files/4911/84/AttributeFix-Forge-1.20.1-21.0.4.jar",
+    "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "tfar.dankstorage:dankstorage:8@jar",
+  "name": "Dank Storage",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 207813,
+    "url": "https://edge.forgecdn.net/files/5072/628/dankstorage-forge-1.20.1-8.jar",
+    "MD5": "09c14a5d66fc04151cfcc716bb645f46"
+  }
+}

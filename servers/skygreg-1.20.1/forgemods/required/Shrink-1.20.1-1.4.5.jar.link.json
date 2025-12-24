@@ -1,0 +1,10 @@
+{
+  "id": "net.gigabit101:shrink:1.4.5@jar",
+  "name": "Shrink",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 88318,
+    "url": "https://edge.forgecdn.net/files/4863/339/Shrink-1.20.1-1.4.5.jar",
+    "MD5": "2ec58155b2a4dc42ae6aeb7e0d482083"
+  }
+}

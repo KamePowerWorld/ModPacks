@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
+  "name": "SuperMartijn642's Config Library",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 206584,
+    "url": "https://edge.forgecdn.net/files/4715/408/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+    "MD5": "cbece61946d4e059e90806c19dd66082"
+  }
+}

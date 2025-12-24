@@ -1,0 +1,10 @@
+{
+  "id": "com.almostreliable:merequester:1.20.1-1.1.4@jar",
+  "name": "ME Requester",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 171889,
+    "url": "https://edge.forgecdn.net/files/4719/290/merequester-forge-1.20.1-1.1.4.jar",
+    "MD5": "3e8aa76ecd6c2e7940c4fc0646d7ee07"
+  }
+}

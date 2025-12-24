@@ -1,0 +1,10 @@
+{
+  "id": "snownee.drawer:drawerstooltip:8.0.0@jar",
+  "name": "Drawers Tooltip",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 17721,
+    "url": "https://edge.forgecdn.net/files/4680/46/DrawersTooltip-1.20.1-forge-8.0.0.jar",
+    "MD5": "fd12f6781f225c6228f72dd5d5d1f47c"
+  }
+}

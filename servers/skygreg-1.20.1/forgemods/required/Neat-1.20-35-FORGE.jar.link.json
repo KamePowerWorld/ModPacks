@@ -1,0 +1,10 @@
+{
+  "id": "vazkii.neat:neat:1.20-35-FORGE@jar",
+  "name": "Neat",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 26247,
+    "url": "https://edge.forgecdn.net/files/4580/940/Neat-1.20-35-FORGE.jar",
+    "MD5": "4c46ea25b3de0b4b4a9fa924501f5299"
+  }
+}

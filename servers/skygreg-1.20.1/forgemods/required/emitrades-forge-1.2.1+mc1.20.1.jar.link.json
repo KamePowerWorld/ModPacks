@@ -1,0 +1,10 @@
+{
+  "id": "io.github.prismwork:emitrades:1.2.1+mc1.20.1@jar",
+  "name": "EMI Trades",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 53378,
+    "url": "https://edge.forgecdn.net/files/4901/194/emitrades-forge-1.2.1%2bmc1.20.1.jar",
+    "MD5": "1638be6b2bcb2f3d488eb1d761058036"
+  }
+}

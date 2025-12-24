@@ -1,0 +1,10 @@
+{
+  "id": "org.moddingx:libx:1.20.1-5.0.12@jar",
+  "name": "LibX",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1253011,
+    "url": "https://edge.forgecdn.net/files/4947/474/LibX-1.20.1-5.0.12.jar",
+    "MD5": "2c7126e987fab7977637f59e1b473a93"
+  }
+}

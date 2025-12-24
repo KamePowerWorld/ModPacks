@@ -1,0 +1,10 @@
+{
+  "id": "org.embeddedt.modernfix.forge.init:modernfix:5.15.0+mc1.20.1@jar",
+  "name": "ModernFix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 730531,
+    "url": "https://edge.forgecdn.net/files/5203/332/modernfix-forge-5.15.0%2bmc1.20.1.jar",
+    "MD5": "f5ab94a4f1a447c4c3b761a5c82f8688"
+  }
+}

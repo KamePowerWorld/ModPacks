@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator.infiniteblocks:infinite_blocks:1.0.0@jar",
+  "name": "Infinite Blocks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 51579,
+    "url": "https://edge.forgecdn.net/files/5081/51/InfiniteBlocksJAR1.01.jar",
+    "MD5": "4e93c9e83069525104c2cf6ba68b6d57"
+  }
+}

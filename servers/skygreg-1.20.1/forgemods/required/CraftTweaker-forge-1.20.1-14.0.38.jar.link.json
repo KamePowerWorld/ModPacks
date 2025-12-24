@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:crafttweaker:14.0.38@jar",
+  "name": "CraftTweaker",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3260441,
+    "url": "https://edge.forgecdn.net/files/5210/454/CraftTweaker-forge-1.20.1-14.0.38.jar",
+    "MD5": "eb96f6d6067def9b5b06e05d9db46bd2"
+  }
+}

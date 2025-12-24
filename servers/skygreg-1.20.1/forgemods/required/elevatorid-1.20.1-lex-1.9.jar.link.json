@@ -1,0 +1,10 @@
+{
+  "id": "xyz.vsngamer:elevatorid:1.20.1-lex-1.9@jar",
+  "name": "Elevator Mod",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 188132,
+    "url": "https://edge.forgecdn.net/files/4837/768/elevatorid-1.20.1-lex-1.9.jar",
+    "MD5": "35c05c6c14993fe3fb38917ce09f51b8"
+  }
+}

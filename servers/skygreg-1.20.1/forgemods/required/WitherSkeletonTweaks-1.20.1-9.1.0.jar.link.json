@@ -1,0 +1,10 @@
+{
+  "id": "dev.shadowsoffire:wstweaks:9.1.0@jar",
+  "name": "Wither Skeleton Tweaks",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 29280,
+    "url": "https://edge.forgecdn.net/files/5086/320/WitherSkeletonTweaks-1.20.1-9.1.0.jar",
+    "MD5": "8411d66545d5405c2e51abd75a9598d3"
+  }
+}

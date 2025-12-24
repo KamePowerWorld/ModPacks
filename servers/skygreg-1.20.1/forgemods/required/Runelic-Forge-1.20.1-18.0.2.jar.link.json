@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:runelic:18.0.2@jar",
+  "name": "Runelic",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 63314,
+    "url": "https://edge.forgecdn.net/files/4714/779/Runelic-Forge-1.20.1-18.0.2.jar",
+    "MD5": "f15a392b70c6ca0100e2a51660027ca4"
+  }
+}

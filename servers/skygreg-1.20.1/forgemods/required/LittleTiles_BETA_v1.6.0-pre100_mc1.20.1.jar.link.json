@@ -1,0 +1,10 @@
+{
+  "id": "team.creative:littletiles:1.6.0-pre100@jar",
+  "name": "LittleTiles",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2380217,
+    "url": "https://edge.forgecdn.net/files/5177/554/LittleTiles_BETA_v1.6.0-pre100_mc1.20.1.jar",
+    "MD5": "77854f5ae1e24bc013588d5efc5b1e12"
+  }
+}

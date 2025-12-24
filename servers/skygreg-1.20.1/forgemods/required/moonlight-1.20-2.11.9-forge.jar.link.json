@@ -1,0 +1,10 @@
+{
+  "id": "net.mehvahdjukaar:moonlight:1.20-2.11.9@jar",
+  "name": "Moonlight Library",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1160417,
+    "url": "https://edge.forgecdn.net/files/5201/144/moonlight-1.20-2.11.9-forge.jar",
+    "MD5": "94c384e125c9f6acf47bdb648da6788c"
+  }
+}

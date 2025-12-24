@@ -1,0 +1,10 @@
+{
+  "id": "dev.shadowsoffire:apotheosis:7.3.4@jar",
+  "name": "Apotheosis",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2219600,
+    "url": "https://edge.forgecdn.net/files/5209/354/Apotheosis-1.20.1-7.3.4.jar",
+    "MD5": "1bf32c7fe5e8b00d38f35f2d683db73a"
+  }
+}

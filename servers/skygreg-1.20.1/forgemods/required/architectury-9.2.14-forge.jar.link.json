@@ -1,0 +1,10 @@
+{
+  "id": "dev.architectury:architectury:9.2.14@jar",
+  "name": "Architectury",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 580602,
+    "url": "https://edge.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar",
+    "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+  }
+}

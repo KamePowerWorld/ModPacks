@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:trashcans:1.0.18b@jar",
+  "name": "Trash Cans",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 158164,
+    "url": "https://edge.forgecdn.net/files/4712/179/trashcans-1.0.18b-forge-mc1.20.jar",
+    "MD5": "96b30739859465a3a3f8d1d4a6c9d48c"
+  }
+}

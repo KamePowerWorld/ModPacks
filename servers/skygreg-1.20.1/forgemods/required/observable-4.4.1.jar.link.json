@@ -1,0 +1,10 @@
+{
+  "id": "observable:observable:4.4.1@jar",
+  "name": "Observable",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 473368,
+    "url": "https://edge.forgecdn.net/files/5080/64/observable-4.4.1.jar",
+    "MD5": "254da313c461c30e58a5bc1499469985"
+  }
+}

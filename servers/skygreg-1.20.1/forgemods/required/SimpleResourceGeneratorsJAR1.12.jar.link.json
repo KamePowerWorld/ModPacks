@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator.simpleoregenerator:simple_resource_generators:1.0.0@jar",
+  "name": "Simple Resource Generators",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 429382,
+    "url": "https://edge.forgecdn.net/files/5108/586/SimpleResourceGeneratorsJAR1.12.jar",
+    "MD5": "690a47e6a2dd009906bfb3657c40d696"
+  }
+}

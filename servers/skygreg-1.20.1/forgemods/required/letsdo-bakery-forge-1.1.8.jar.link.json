@@ -1,0 +1,10 @@
+{
+  "id": "satisfy.bakery:bakery:1.1.8@jar",
+  "name": "[Let's Do] Bakery",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1751775,
+    "url": "https://edge.forgecdn.net/files/5221/340/letsdo-bakery-forge-1.1.8.jar",
+    "MD5": "e7a43ee1cc31f333266c16026f7b5970"
+  }
+}

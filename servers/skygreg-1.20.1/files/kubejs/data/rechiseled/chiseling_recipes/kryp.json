@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:kryp_block_0" },
+      { "item": "xtonesreworked:kryp_block_1" },
+      { "item": "xtonesreworked:kryp_block_2" },
+      { "item": "xtonesreworked:kryp_block_3" },
+      { "item": "xtonesreworked:kryp_block_4" },
+      { "item": "xtonesreworked:kryp_block_5" },
+      { "item": "xtonesreworked:kryp_block_6" },
+      { "item": "xtonesreworked:kryp_block_7" },
+      { "item": "xtonesreworked:kryp_block_8" },
+      { "item": "xtonesreworked:kryp_block_9" },
+      { "item": "xtonesreworked:kryp_block_10" },
+      { "item": "xtonesreworked:kryp_block_11" },
+      { "item": "xtonesreworked:kryp_block_12" },
+      { "item": "xtonesreworked:kryp_block_13" },
+      { "item": "xtonesreworked:kryp_block_14" },
+      { "item": "xtonesreworked:kryp_block_15" }
+    ],
+    "overwrite": false
+  }

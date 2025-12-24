@@ -1,0 +1,10 @@
+{
+  "id": "de.melanx:skyblockbuilder:1.20.1-5.0.16@jar",
+  "name": "Skyblock Builder",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 348385,
+    "url": "https://edge.forgecdn.net/files/5222/572/SkyblockBuilder-1.20.1-5.0.16.jar",
+    "MD5": "fa65b66dbe323dc9b093ac117d166937"
+  }
+}

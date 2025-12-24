@@ -1,0 +1,453 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 300
+	default_quest_shape: "hexagon"
+	filename: "laserio"
+	group: "3483E4EBAD9C4714"
+	icon: "laserio:laser_node"
+	id: "3848B27D2CCF62DD"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"LaserIO is all about sending items, fluids, FE, and redstone signals through lasers."
+				""
+				"The main block of the mod is the Laser Node. You will have 1 of these every time you want to insert or extract something."
+				""
+				"You need to insert Cards into the Laser Node in order for it to function. Change the Card to insert or extract mode by right clicking with or on the Card and opening the GUI. This is where you can also set Filters and Overclockers."
+				""
+				"Use a Laser Wrench to connect Laser Nodes together and if you need to travel more than 8 blocks, use Laser Connectors to travel longer distances."
+				""
+				"Since Cards do not stack, you can place them in the Card Holder to keep all your Cards, Filters, and Overclockers in 1 container."
+				""
+				"Filters can be used in a few ways to decide what goes where, and Overclockers can be used to upgrade Cards and Laser Nodes to function faster."
+			]
+			id: "519B636AF8E06A4C"
+			shape: "gear"
+			subtitle: "Laser transfer!"
+			tasks: [{
+				id: "0AF0FE8ADCE7B86A"
+				title: "LaserIO"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45A6CD266FAA6DBF"]
+			description: [
+				"A Laser Node is used to interact with things by using Cards. Insert Cards to determine what you want it to do. Can hold up to 9 Cards per face."
+				""
+				"Right clicking on a face of a Laser Node with a Card in your hand will insert the Card into that face."
+				""
+				"Link 2 Laser Nodes together with a Laser Wrench. Has a maximum linking range of 8 blocks, farther lengths can be achieved by using Laser Connectors."
+				""
+				"A basic setup would be:"
+				""
+				" - Chest with a Laser Node beside it."
+				" - In the Laser Node on the face touching the Chest insert an Item Card."
+				" - Right click on the Item Card to Open the GUI."
+				" - Set this Item Card to Extract."
+				" - Another Chest withing 8 blocks with a Laser Node beside it."
+				" - Sneak right click with a Laser Wrench on the first Laser Node, right click on the second Laser Node."
+				" - In the second Laser Node on the face touching the Chest insert an Item Card."
+				" - By default all Cards are set to Insert mode so you shouldn't have to change it."
+				" - Now items in the first Chest will be sent to the second Chest."
+				""
+				"This works the same for items, fluids, FE, and redstone signals."
+				""
+				"If you need to go farther distances, look into the Laser Connectors."
+				""
+				"For the glowing issue with shaders, turn off bloom in shaders. \"Options...\" -> \"Video Settings...\" -> \"Shader Packs...\" -> \"Shader Pack Settings...\" -> \"Camera\" -> \"Bloom\": Off."
+			]
+			id: "679ABE9E98C1709B"
+			subtitle: "The root of transfer!"
+			tasks: [{
+				id: "0D7BA0C3574232C4"
+				item: "laserio:laser_node"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Used to travel longer distances."
+				""
+				"A Laser Node can only connect to another Laser Node or Laser Connector in an 8 block range. If you need to go farther than 8 blocks, you will need to use a Laser Connector as a relay to another Laser Connector or Laser Node."
+				""
+				" - Connect a Laser Node to a Laser Relay."
+				" - Connect the Laser Relay to another Laser Node."
+				" - Both Laser Nodes will now interact with each other."
+				""
+				"Advanced Laser Connectors go much farther distances."
+			]
+			id: "45A6CD266FAA6DBF"
+			subtitle: "Go farther!"
+			tasks: [{
+				id: "30E968F153EFF9F6"
+				item: "laserio:laser_connector"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			description: ["Instead of making an actual link, they send and receive contents through a small void portal, allowing infinite range and cross dimensional distances."]
+			id: "768F2FC3807EC380"
+			subtitle: "Go even farther!"
+			tasks: [{
+				id: "60D578C13C135966"
+				item: "laserio:laser_connector_advanced"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			description: [
+				"Used to link together Laser Nodes and/or Laser Connectors."
+				""
+				"Sneak right click on a block to select that block. Right click on another block to connect to that block."
+			]
+			id: "17CDC25D61D7583A"
+			subtitle: "Connecting things!"
+			tasks: [{
+				id: "2AE4006330A142BC"
+				item: "laserio:laser_wrench"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			description: [
+				"Stores and stacks Cards, Overclockers, and Filters."
+				""
+				"Contents can be accessed while using Laser Nodes."
+			]
+			id: "0D7DB9E5309B6962"
+			subtitle: "Stacks of Cards!"
+			tasks: [{
+				id: "69D3A2B33B08AB67"
+				item: {
+					Count: 1b
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 15
+						}
+					}
+					id: "laserio:card_holder"
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Used to copy and paste the settings of Cards from 1 Card to another."
+				""
+				" - Open a Laser Node containing cards."
+				" - Pick up the Card Cloner with your mouse."
+				" - Hover over the Card you wish to copy and left click it with the Card Cloner."
+				" - Hover over the Card you witsh to paste to and right click it with the Card Cloner."
+			]
+			id: "66892C15F6E146DA"
+			subtitle: "Copy \\& paste settings!"
+			tasks: [{
+				id: "1C7D11EE74364C28"
+				item: "laserio:card_cloner"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Used to transfer items. Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				""
+				"You can change the insert/extract mode and insert Filters and Overclockers, as well as change the transfer rate and amounts."
+			]
+			id: "07781B0BFF2676DA"
+			subtitle: "Transfer items!"
+			tasks: [{
+				id: "549FCEAF34F80BA6"
+				item: "laserio:card_item"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Used to transfer fluids. Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				""
+				"You can change the insert/extract mode and insert Filters and Overclockers, as well as change the transfer rate and amounts."
+			]
+			id: "38AB7E52587B7BA3"
+			subtitle: "Transfer fluids!"
+			tasks: [{
+				id: "27EEC32457CF6F96"
+				item: "laserio:card_fluid"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Used to transfer FE (not EU!). Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				""
+				"You can change the insert/extract mode and insert Filters and Overclockers, as well as change the transfer rate and amounts."
+			]
+			id: "72D2D9C370A31CE8"
+			subtitle: "Transfer FE!"
+			tasks: [{
+				id: "16EA295976B1A387"
+				item: "laserio:card_energy"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Used to transfer redstone signals. Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				""
+				"You can change the insert/extract mode and signal strength."
+			]
+			id: "28B8933C3334C688"
+			subtitle: "Transfer redstone!"
+			tasks: [{
+				id: "4CDC7F63A0F9D76B"
+				item: "laserio:card_redstone"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.0d
+		}
+		{
+			description: [
+				"Insert into a Card to increase transfer rates and amounts."
+				""
+				"A maximum of 4 can be applied to a Card."
+			]
+			id: "32ACDA33BEEA6D7B"
+			subtitle: "Go faster!"
+			tasks: [{
+				id: "1A17C1F54B99F19A"
+				item: "laserio:overclocker_card"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Insert into a Laser Node. Without Node Overclockers a Laser Node will only work with 1 Card at a time, insert Node Overclockers to increase that number to a maximum to 9 (1 for each Card)."
+				""
+				"A maximum of 8 can be applied to a Laser Node."
+			]
+			id: "3DAE8E48CEB8191A"
+			subtitle: "More Cards at once!"
+			tasks: [{
+				id: "002C6F5FC648C32B"
+				item: "laserio:overclocker_node"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			description: ["A basic filter that allows you to choose which items or fluids pass through."]
+			id: "07CFD9D729D15A13"
+			subtitle: "Choose items/fluids!"
+			tasks: [{
+				id: "6AB96252E03F7CD8"
+				item: {
+					Count: 1b
+					id: "laserio:filter_basic"
+					tag: {
+						inv: {
+							Items: [ ]
+							Size: 15
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["07CFD9D729D15A13"]
+			description: [
+				"Used to specify certain amounts of items/fluids that enter the attached inventory."
+				""
+				"Useful for keeping 1 stack each of certain items stocked inside a machine, like an Alloy Furnace."
+			]
+			id: "00C7354860853729"
+			subtitle: "Specify amounts!"
+			tasks: [{
+				id: "25C8429FD1AF5EA6"
+				item: {
+					Count: 1b
+					id: "laserio:filter_count"
+					tag: {
+						counts: [
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 0
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 1
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 2
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 3
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 4
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 5
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 6
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 7
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 8
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 9
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 10
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 11
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 12
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 13
+							}
+							{
+								Count: 0
+								MBAmount: 0
+								Slot: 14
+							}
+						]
+						inv: {
+							Items: [ ]
+							Size: 15
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["07CFD9D729D15A13"]
+			description: [
+				"Place an item in the GUI (or drag from REI) and you will be shown a list of tags that item has. Select the tag you want to be allowed through the Tag Filter."
+				""
+				"For an example, you can place a Hot Ingot of any kind in the GUI slot and select forge:hot_ingots to allow all Hot Ingots."
+			]
+			id: "43DE84845CB4B086"
+			subtitle: "Tag types!"
+			tasks: [{
+				id: "70EE31F7808DD4D2"
+				item: {
+					Count: 1b
+					id: "laserio:filter_tag"
+					tag: {
+						tags: [ ]
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["07CFD9D729D15A13"]
+			description: ["Place an item in the Mod Filter to select that entire mod of contents. Only items or fluids from that mod will be allowed to pass."]
+			id: "71B758FEC591400E"
+			subtitle: "An entire mod!"
+			tasks: [{
+				id: "4F1D0068B9532C0D"
+				item: {
+					Count: 1b
+					id: "laserio:filter_mod"
+					tag: {
+						inv: {
+							Items: [ ]
+							Size: 15
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["07CFD9D729D15A13"]
+			description: [
+				"Works similar to the Tag Filter but for NBT values instead."
+				""
+				"Common NBT value types are durability, enchantments, potion types, and more."
+			]
+			id: "77F67F39DF53AA09"
+			subtitle: "NBT values!"
+			tasks: [{
+				id: "790F67174A594271"
+				item: "laserio:filter_nbt"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+	]
+	subtitle: ["Laser transfer!"]
+	title: "LaserIO"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642.core:supermartijn642corelib:1.1.17@jar",
+  "name": "SuperMartijn642's Core Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 512069,
+    "url": "https://edge.forgecdn.net/files/5102/258/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
+    "MD5": "d1ac18092ea0b1b513edcd8c3999e1bd"
+  }
+}

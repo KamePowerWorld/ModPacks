@@ -1,0 +1,10 @@
+{
+  "id": "mcjty.lib:mcjtylib:1.20-8.0.3@jar",
+  "name": "McJtyLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 677692,
+    "url": "https://edge.forgecdn.net/files/4747/680/mcjtylib-1.20-8.0.3.jar",
+    "MD5": "a943d2887c3b3094255db546c05edeb3"
+  }
+}

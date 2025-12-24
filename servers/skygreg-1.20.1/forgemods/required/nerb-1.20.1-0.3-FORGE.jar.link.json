@@ -1,0 +1,10 @@
+{
+  "id": "it.hurts.sskirillss:nerb:0.3@jar",
+  "name": "Not Enough Recipe Book",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 10437,
+    "url": "https://edge.forgecdn.net/files/4742/680/nerb-1.20.1-0.3-FORGE.jar",
+    "MD5": "96e3932c993c6f82359933890f13e1b8"
+  }
+}

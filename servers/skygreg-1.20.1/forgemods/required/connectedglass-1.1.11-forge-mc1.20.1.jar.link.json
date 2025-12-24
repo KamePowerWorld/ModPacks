@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:connectedglass:1.1.11@jar",
+  "name": "Connected Glass",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 851535,
+    "url": "https://edge.forgecdn.net/files/5002/550/connectedglass-1.1.11-forge-mc1.20.1.jar",
+    "MD5": "dcaf1ca5f594ac659d38884e5cd3b9d3"
+  }
+}

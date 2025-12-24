@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:waystones:14.1.3@jar",
+  "name": "Waystones",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 482947,
+    "url": "https://edge.forgecdn.net/files/4962/610/waystones-forge-1.20-14.1.3.jar",
+    "MD5": "4a640d709a01443c4d2809c7283c2401"
+  }
+}

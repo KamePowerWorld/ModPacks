@@ -1,0 +1,10 @@
+{
+  "id": "edivad.edivadlib:edivadlib:2.0.1@jar",
+  "name": "EdivadLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 14561,
+    "url": "https://edge.forgecdn.net/files/4717/6/EdivadLib-1.20.1-2.0.1.jar",
+    "MD5": "53d0789c58885496f18a02269f6c3292"
+  }
+}

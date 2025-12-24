@@ -1,0 +1,10 @@
+{
+  "id": "top.theillusivec4:curios:5.7.2+1.20.1@jar",
+  "name": "Curios API",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 332750,
+    "url": "https://edge.forgecdn.net/files/5175/956/curios-forge-5.7.2%2b1.20.1.jar",
+    "MD5": "dfead2402a4daa83de95271689684aa5"
+  }
+}

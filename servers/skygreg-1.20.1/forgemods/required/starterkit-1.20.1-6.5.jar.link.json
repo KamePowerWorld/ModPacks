@@ -1,0 +1,10 @@
+{
+  "id": "com.natamus:starterkit:6.5@jar",
+  "name": "Starter Kit",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 184175,
+    "url": "https://edge.forgecdn.net/files/5168/857/starterkit-1.20.1-6.5.jar",
+    "MD5": "ec5e160a2867719946b5166aa53a3add"
+  }
+}

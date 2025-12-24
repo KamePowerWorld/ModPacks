@@ -1,0 +1,10 @@
+{
+  "id": "com.coldspell:easypaxellite:1.20.1-1.0.3@jar",
+  "name": "Easy Paxel Lite",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 40161,
+    "url": "https://mediafilez.forgecdn.net/files/4657/750/EasyPaxel1.20.1%28Forge%29vs1.0.3.jar",
+    "MD5": "ca5c9238fa84868c3d09b15312ddddb0"
+  }
+}

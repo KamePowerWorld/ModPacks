@@ -1,0 +1,10 @@
+{
+  "id": "com.builtbroken:cardboardboxes:1.20-0.1.0@jar",
+  "name": "[SBM] Cardboard Boxes",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 49998,
+    "url": "https://edge.forgecdn.net/files/4580/79/cardboardboxes-1.20-0.1.0.jar",
+    "MD5": "236495ec54968375d623440de9ac8986"
+  }
+}

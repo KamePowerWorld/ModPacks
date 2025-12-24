@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbessentials:2001.2.2@jar",
+  "name": "FTB Essentials",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 155952,
+    "url": "https://edge.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar",
+    "MD5": "af57dc19d6a359ba3eb59494026bca8d"
+  }
+}

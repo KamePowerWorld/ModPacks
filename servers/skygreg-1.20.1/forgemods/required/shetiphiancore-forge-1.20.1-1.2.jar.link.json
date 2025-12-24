@@ -1,0 +1,10 @@
+{
+  "id": "shetiphian.core:shetiphiancore:1.20.1-1.2@jar",
+  "name": "ShetiPhian-Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 344000,
+    "url": "https://edge.forgecdn.net/files/4859/167/shetiphiancore-forge-1.20.1-1.2.jar",
+    "MD5": "50eb91e30eb9b7e6756e87afcbe166f7"
+  }
+}

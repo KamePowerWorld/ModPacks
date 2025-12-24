@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator.exhammers:ex_hammers:1.0.0@jar",
+  "name": "Ex Hammers",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 53240,
+    "url": "https://edge.forgecdn.net/files/5025/158/ExHammersJAR1.04.jar",
+    "MD5": "9e8b9d235bbd1e507d75498275100cfe"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:entangled:1.3.17@jar",
+  "name": "Entangled",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 119484,
+    "url": "https://edge.forgecdn.net/files/5103/217/entangled-1.3.17-forge-mc1.20.jar",
+    "MD5": "f0fa19effb92a4b66b67fdce912b90df"
+  }
+}

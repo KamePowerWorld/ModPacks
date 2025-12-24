@@ -1,0 +1,10 @@
+{
+  "id": "gripe._90:megacells:2.3.3-1.20.1@jar",
+  "name": "MEGA Cells",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 358923,
+    "url": "https://edge.forgecdn.net/files/5125/96/megacells-forge-2.3.3-1.20.1.jar",
+    "MD5": "2d557a700b2605e18d823b9876bfedd6"
+  }
+}

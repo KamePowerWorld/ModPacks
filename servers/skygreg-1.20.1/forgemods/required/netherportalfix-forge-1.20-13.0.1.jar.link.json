@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:netherportalfix:13.0.1@jar",
+  "name": "NetherPortalFix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 217831,
+    "url": "https://edge.forgecdn.net/files/4939/735/netherportalfix-forge-1.20-13.0.1.jar",
+    "MD5": "f5efd2c259b0538da0f62bb2d9dc2106"
+  }
+}

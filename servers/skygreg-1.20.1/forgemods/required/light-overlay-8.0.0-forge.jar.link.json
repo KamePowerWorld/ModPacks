@@ -1,0 +1,10 @@
+{
+  "id": "me.shedaniel:lightoverlay:8.0.0@jar",
+  "name": "Light Overlay",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 65273,
+    "url": "https://edge.forgecdn.net/files/4573/178/light-overlay-8.0.0-forge.jar",
+    "MD5": "081458d10736be6fef3da2a31bcdc8f5"
+  }
+}

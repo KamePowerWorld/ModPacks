@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator:travelboots:1.0.0@jar",
+  "name": "Travel Boots",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 18829,
+    "url": "https://edge.forgecdn.net/files/5025/301/TravelBootsJAR1.02.jar",
+    "MD5": "9813fa23d6f0a9192e251dd087df0533"
+  }
+}

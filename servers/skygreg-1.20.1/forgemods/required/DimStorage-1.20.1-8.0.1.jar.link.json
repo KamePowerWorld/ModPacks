@@ -1,0 +1,10 @@
+{
+  "id": "edivad.dimstorage:dimstorage:8.0.1@jar",
+  "name": "DimStorage",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 173589,
+    "url": "https://edge.forgecdn.net/files/4717/497/DimStorage-1.20.1-8.0.1.jar",
+    "MD5": "9f63292286038cb1576ea49946d5e6c2"
+  }
+}

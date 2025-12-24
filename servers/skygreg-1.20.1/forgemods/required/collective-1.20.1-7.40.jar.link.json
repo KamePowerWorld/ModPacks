@@ -1,0 +1,10 @@
+{
+  "id": "com.natamus:collective:7.40@jar",
+  "name": "Collective",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 589600,
+    "url": "https://edge.forgecdn.net/files/5177/353/collective-1.20.1-7.40.jar",
+    "MD5": "e33f03f408dc50a72a9782e683bb2384"
+  }
+}

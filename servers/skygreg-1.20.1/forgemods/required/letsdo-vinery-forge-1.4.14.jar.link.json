@@ -1,0 +1,10 @@
+{
+  "id": "satisfyu.vinery:vinery:1.4.14@jar",
+  "name": "[Let's Do] Vinery",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3497113,
+    "url": "https://edge.forgecdn.net/files/5221/318/letsdo-vinery-forge-1.4.14.jar",
+    "MD5": "c6d465eb44dd9796621432ec5fa0598c"
+  }
+}

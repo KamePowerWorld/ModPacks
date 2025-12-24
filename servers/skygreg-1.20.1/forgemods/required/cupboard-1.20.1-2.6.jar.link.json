@@ -1,0 +1,10 @@
+{
+  "id": "com.cupboard:cupboard:1.20.1-2.6@jar",
+  "name": "Cupboard utilities",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 24736,
+    "url": "https://edge.forgecdn.net/files/5170/315/cupboard-1.20.1-2.6.jar",
+    "MD5": "29fa1151f99dff55b0581e67eba5079e"
+  }
+}

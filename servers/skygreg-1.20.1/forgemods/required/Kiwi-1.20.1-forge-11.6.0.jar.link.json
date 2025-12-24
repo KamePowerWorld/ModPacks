@@ -1,0 +1,10 @@
+{
+  "id": "snownee.kiwi:kiwi:11.6.0@jar",
+  "name": "Kiwi Library",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 897771,
+    "url": "https://edge.forgecdn.net/files/5220/837/Kiwi-1.20.1-forge-11.6.0.jar",
+    "MD5": "b43ef0fe38226b1056c7fbb92c6c8714"
+  }
+}

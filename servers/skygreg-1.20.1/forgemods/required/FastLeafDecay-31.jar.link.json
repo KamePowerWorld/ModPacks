@@ -1,0 +1,10 @@
+{
+  "id": "net.olafski:fastleafdecay:31@jar",
+  "name": "Fast Leaf Decay",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 9833,
+    "url": "https://edge.forgecdn.net/files/4620/69/FastLeafDecay-31.jar",
+    "MD5": "f9962d78568b9f71b70916238253d33c"
+  }
+}

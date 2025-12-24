@@ -1,0 +1,10 @@
+{
+  "id": "net.mehvahdjukaar:labels:1.20-1.20.1@jar",
+  "name": "Labels",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 93255,
+    "url": "https://edge.forgecdn.net/files/5138/873/labels-1.20-1.20.1.jar",
+    "MD5": "2d1bba708ae7bea7227c921a608edb67"
+  }
+}

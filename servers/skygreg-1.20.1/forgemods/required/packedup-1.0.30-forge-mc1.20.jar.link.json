@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:packedup:1.0.30@jar",
+  "name": "Packed Up",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 214528,
+    "url": "https://edge.forgecdn.net/files/4715/287/packedup-1.0.30-forge-mc1.20.jar",
+    "MD5": "83ab66a807402182e3c2a7cdcc704bee"
+  }
+}

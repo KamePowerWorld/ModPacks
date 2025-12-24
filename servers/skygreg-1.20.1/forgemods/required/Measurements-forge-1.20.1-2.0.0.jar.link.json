@@ -1,0 +1,10 @@
+{
+  "id": "com.mrbysco:measurements:2.0.0@jar",
+  "name": "Measurements",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 43446,
+    "url": "https://edge.forgecdn.net/files/4586/849/Measurements-forge-1.20.1-2.0.0.jar",
+    "MD5": "4f24755a20f24389bb8b78b746899e69"
+  }
+}

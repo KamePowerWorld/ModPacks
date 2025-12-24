@@ -1,0 +1,10 @@
+{
+  "id": "mcjty.theoneprobe:theoneprobe:1.20.1-10.0.2@jar",
+  "name": "The One Probe",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 331208,
+    "url": "https://edge.forgecdn.net/files/5159/287/theoneprobe-1.20.1-10.0.2.jar",
+    "MD5": "67fbbbc69a09a5ce937ddce5a833ace3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fuzs.puzzleslib.impl:puzzleslib:8.1.18@jar",
+  "name": "Puzzles Lib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 997101,
+    "url": "https://edge.forgecdn.net/files/5197/362/PuzzlesLib-v8.1.18-1.20.1-Forge.jar",
+    "MD5": "20242affe88e759d99a529168a132b39"
+  }
+}

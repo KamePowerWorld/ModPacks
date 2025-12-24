@@ -1,0 +1,10 @@
+{
+  "id": "tech.alexnijjar:extractinator:2.3.0@jar",
+  "name": "Extractinator",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 117038,
+    "url": "https://edge.forgecdn.net/files/4863/801/extractinator-forge-1.20.1-2.3.0.jar",
+    "MD5": "f3ab9d1ff0a00508f35153e609082322"
+  }
+}

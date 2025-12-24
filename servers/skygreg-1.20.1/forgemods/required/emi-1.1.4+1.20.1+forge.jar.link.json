@@ -1,0 +1,10 @@
+{
+  "id": "dev.emi.emi.platform:emi:1.1.4+1.20.1+forge@jar",
+  "name": "EMI",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 972618,
+    "url": "https://edge.forgecdn.net/files/5204/261/emi-1.1.4%2b1.20.1%2bforge.jar",
+    "MD5": "924f87060f56bcb7e560b6c7345f1e95"
+  }
+}

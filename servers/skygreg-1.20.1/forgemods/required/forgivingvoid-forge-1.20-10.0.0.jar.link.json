@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:forgivingvoid:10.0.0@jar",
+  "name": "Forgiving Void",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 69416,
+    "url": "https://edge.forgecdn.net/files/4583/144/forgivingvoid-forge-1.20-10.0.0.jar",
+    "MD5": "a5af988df10ef868ef4fe5348786fef5"
+  }
+}

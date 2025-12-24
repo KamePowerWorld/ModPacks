@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbteams:2001.2.0@jar",
+  "name": "FTB Teams",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 247582,
+    "url": "https://edge.forgecdn.net/files/5176/343/ftb-teams-forge-2001.2.0.jar",
+    "MD5": "f4d61c6d1fd08797398e320d20378ec3"
+  }
+}

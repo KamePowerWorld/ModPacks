@@ -1,0 +1,10 @@
+{
+  "id": "appeng.core:ae2:15.0.23@jar",
+  "name": "Applied Energistics 2",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 9808970,
+    "url": "https://edge.forgecdn.net/files/5169/355/appliedenergistics2-forge-15.0.23.jar",
+    "MD5": "2c64ea0f96a4447220bdcbd4a5051225"
+  }
+}

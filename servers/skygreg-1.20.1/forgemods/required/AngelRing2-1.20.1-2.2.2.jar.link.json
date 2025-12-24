@@ -1,0 +1,10 @@
+{
+  "id": "dev.denismasterherobrine:angelring:2.2.1@jar",
+  "name": "Angel Ring 2",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 114958,
+    "url": "https://edge.forgecdn.net/files/4765/486/AngelRing2-1.20.1-2.2.2.jar",
+    "MD5": "c7c814c4033dd18f88e236b3d4535399"
+  }
+}

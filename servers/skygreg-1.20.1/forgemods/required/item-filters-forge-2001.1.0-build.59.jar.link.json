@@ -1,0 +1,10 @@
+{
+  "id": "dev.latvian.mods:itemfilters:2001.1.0-build.59@jar",
+  "name": "Item Filters",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 110191,
+    "url": "https://edge.forgecdn.net/files/4838/266/item-filters-forge-2001.1.0-build.59.jar",
+    "MD5": "4155fd7faf7daf46f9dcb914e93893e1"
+  }
+}

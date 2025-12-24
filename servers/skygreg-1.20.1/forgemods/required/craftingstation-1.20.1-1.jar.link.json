@@ -1,0 +1,10 @@
+{
+  "id": "tfar.craftingstation:craftingstation:1.20.1-1@jar",
+  "name": "Crafting Station",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 74790,
+    "url": "https://edge.forgecdn.net/files/4770/683/craftingstation-1.20.1-1.jar",
+    "MD5": "af103a4fa936fe73f2f49b2a084e0591"
+  }
+}

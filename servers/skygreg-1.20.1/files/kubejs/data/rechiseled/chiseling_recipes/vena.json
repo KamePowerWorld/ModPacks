@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:vena_block_0" },
+      { "item": "xtonesreworked:vena_block_1" },
+      { "item": "xtonesreworked:vena_block_2" },
+      { "item": "xtonesreworked:vena_block_3" },
+      { "item": "xtonesreworked:vena_block_4" },
+      { "item": "xtonesreworked:vena_block_5" },
+      { "item": "xtonesreworked:vena_block_6" },
+      { "item": "xtonesreworked:vena_block_7" },
+      { "item": "xtonesreworked:vena_block_8" },
+      { "item": "xtonesreworked:vena_block_9" },
+      { "item": "xtonesreworked:vena_block_10" },
+      { "item": "xtonesreworked:vena_block_11" },
+      { "item": "xtonesreworked:vena_block_12" },
+      { "item": "xtonesreworked:vena_block_13" },
+      { "item": "xtonesreworked:vena_block_14" },
+      { "item": "xtonesreworked:vena_block_15" }
+    ],
+    "overwrite": false
+  }

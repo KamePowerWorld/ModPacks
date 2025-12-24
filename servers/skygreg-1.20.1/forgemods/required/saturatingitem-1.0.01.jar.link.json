@@ -1,0 +1,10 @@
+{
+  "id": "net.mcreator:saturatingitem:1.0.0@jar",
+  "name": "Saturating Item",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 12829,
+    "url": "https://edge.forgecdn.net/files/5064/848/saturatingitem-1.0.01.jar",
+    "MD5": "f487acebea5bbca6b56178142bb049e1"
+  }
+}

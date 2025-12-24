@@ -1,0 +1,10 @@
+{
+  "id": "com.direwolf20:laserio:1.6.8@jar",
+  "name": "LaserIO",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1246106,
+    "url": "https://edge.forgecdn.net/files/5074/767/laserio-1.6.8.jar",
+    "MD5": "3a516a0ac0549dfd0c5f1a6c67494add"
+  }
+}

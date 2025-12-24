@@ -1,0 +1,10 @@
+{
+  "id": "de.maxhenkel.easyvillagers:easy_villagers:1.20.1-1.0.17@jar",
+  "name": "Easy Villagers",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 371125,
+    "url": "https://edge.forgecdn.net/files/4942/245/easy_villagers-1.20.1-1.0.17.jar",
+    "MD5": "b07163355efab8575e6d95d9ae9ed107"
+  }
+}

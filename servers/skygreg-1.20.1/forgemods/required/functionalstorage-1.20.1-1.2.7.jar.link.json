@@ -1,0 +1,10 @@
+{
+  "id": "com.buuz135:functionalstorage:1.20.1-1.2.7@jar",
+  "name": "Functional Storage",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 652886,
+    "url": "https://edge.forgecdn.net/files/4992/907/functionalstorage-1.20.1-1.2.7.jar",
+    "MD5": "1d7e00f234cc067ff2440754556074cc"
+  }
+}

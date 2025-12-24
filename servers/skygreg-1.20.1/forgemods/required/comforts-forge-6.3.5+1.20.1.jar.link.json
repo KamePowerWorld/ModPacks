@@ -1,0 +1,10 @@
+{
+  "id": "com.illusivesoulworks:comforts:6.3.5+1.20.1@jar",
+  "name": "Comforts",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 376472,
+    "url": "https://edge.forgecdn.net/files/5068/863/comforts-forge-6.3.5%2b1.20.1.jar",
+    "MD5": "7f8283da4c43a05d98f986fdc78cab13"
+  }
+}

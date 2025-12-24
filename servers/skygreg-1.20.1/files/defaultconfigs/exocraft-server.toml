@@ -1,0 +1,44 @@
+
+#General
+[general]
+	#Enables ingame rewards on first spawn for Patreons
+	patreon_rewards = true
+
+#Armor
+[armor]
+	#Should mech suits use energy (FE) to work?
+	use_energy = true
+	#Should mech suits use up durability when they receive damage?
+	use_durability = true
+	#Should mech suits be enchantable at the enchantment table?
+	is_table_enchantable = true
+	#Should mech suits be enchantable with enchantment books?
+	is_book_enchantable = true
+	#How much energy the mechsuits can store.
+	#Range: > 100
+	max_energy_amount = 500000
+	#How much energy the mechsuits can transfer at once.
+	#Range: > 10
+	max_energy_transfer = 5000
+
+#World
+[world]
+	#Enable trades of units from Wandering Traders
+	wandering_trades = false
+	#How many emeralds should the units cost for the Wandering Trader?
+	#Range: 1 ~ 64
+	unit_cost = 30
+
+#Modules
+[modules]
+	#Should some modules use energy (FE) to work?
+	use_energy_for_modules = true
+	#Enable the snow walker module?
+	enable_snow_walker_module = true
+	#Enable the advanced visor module?
+	enable_advanced_visor_module = true
+	#Enable the glider module?
+	enable_glider_module = true
+	#Enable the deterrence module?
+	enable_deterrence_module = true
+

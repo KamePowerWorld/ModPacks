@@ -1,0 +1,10 @@
+{
+  "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.11+mc1.20.1@jar",
+  "name": "Embeddium",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 981754,
+    "url": "https://edge.forgecdn.net/files/5213/196/embeddium-0.3.11%2bmc1.20.1.jar",
+    "MD5": "64b9d7be4f4e33236faa70fc254ca755"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbxmodcompat:2.1.0@jar",
+  "name": "FTB XMod Compat",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 129225,
+    "url": "https://edge.forgecdn.net/files/4932/157/ftb-xmod-compat-forge-2.1.0.jar",
+    "MD5": "e8edc5679ce0372f44d06173ffbc0d35"
+  }
+}

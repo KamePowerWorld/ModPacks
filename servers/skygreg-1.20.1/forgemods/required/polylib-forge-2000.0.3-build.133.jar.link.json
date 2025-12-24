@@ -1,0 +1,10 @@
+{
+  "id": "net.creeperhost:polylib:2000.0.3-build.133@jar",
+  "name": "PolyLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1322996,
+    "url": "https://edge.forgecdn.net/files/5218/944/polylib-forge-2000.0.3-build.133.jar",
+    "MD5": "51d76adafd392a8baa15bec976b4f971"
+  }
+}

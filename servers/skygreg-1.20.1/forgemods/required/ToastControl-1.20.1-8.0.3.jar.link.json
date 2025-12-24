@@ -1,0 +1,10 @@
+{
+  "id": "dev.shadowsoffire:toastcontrol:8.0.3@jar",
+  "name": "Toast Control",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 26957,
+    "url": "https://edge.forgecdn.net/files/4711/316/ToastControl-1.20.1-8.0.3.jar",
+    "MD5": "f1bcf2e30adc3ac2e00d7f9d1a4780c6"
+  }
+}

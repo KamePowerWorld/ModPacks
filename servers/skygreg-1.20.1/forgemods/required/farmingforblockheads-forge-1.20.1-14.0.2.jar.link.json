@@ -1,0 +1,10 @@
+{
+  "id": "net.blay09.mods:farmingforblockheads:14.0.2@jar",
+  "name": "Farming for Blockheads",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 569517,
+    "url": "https://edge.forgecdn.net/files/4749/360/farmingforblockheads-forge-1.20.1-14.0.2.jar",
+    "MD5": "521f8d7f968f4d64d10946456028b9cb"
+  }
+}

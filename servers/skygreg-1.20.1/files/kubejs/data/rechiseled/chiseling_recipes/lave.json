@@ -1,0 +1,22 @@
+{
+    "type": "rechiseled:chiseling",
+    "entries": [
+      { "item": "xtonesreworked:lave_block_0" },
+      { "item": "xtonesreworked:lave_block_1" },
+      { "item": "xtonesreworked:lave_block_2" },
+      { "item": "xtonesreworked:lave_block_3" },
+      { "item": "xtonesreworked:lave_block_4" },
+      { "item": "xtonesreworked:lave_block_5" },
+      { "item": "xtonesreworked:lave_block_6" },
+      { "item": "xtonesreworked:lave_block_7" },
+      { "item": "xtonesreworked:lave_block_8" },
+      { "item": "xtonesreworked:lave_block_9" },
+      { "item": "xtonesreworked:lave_block_10" },
+      { "item": "xtonesreworked:lave_block_11" },
+      { "item": "xtonesreworked:lave_block_12" },
+      { "item": "xtonesreworked:lave_block_13" },
+      { "item": "xtonesreworked:lave_block_14" },
+      { "item": "xtonesreworked:lave_block_15" }
+    ],
+    "overwrite": false
+  }

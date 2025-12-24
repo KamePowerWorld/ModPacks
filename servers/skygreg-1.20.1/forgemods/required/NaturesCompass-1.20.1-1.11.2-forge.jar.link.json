@@ -1,0 +1,10 @@
+{
+  "id": "com.chaosthedude:naturescompass:1.20.1-1.11.2-forge@jar",
+  "name": "Nature's Compass",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 215119,
+    "url": "https://edge.forgecdn.net/files/4712/189/NaturesCompass-1.20.1-1.11.2-forge.jar",
+    "MD5": "7c05072645b1aae529b1e38c74b87c4c"
+  }
+}

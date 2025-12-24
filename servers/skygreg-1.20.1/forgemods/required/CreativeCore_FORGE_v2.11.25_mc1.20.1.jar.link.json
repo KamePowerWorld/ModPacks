@@ -1,0 +1,10 @@
+{
+  "id": "team.creative:creativecore:2.11.25@jar",
+  "name": "CreativeCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1089361,
+    "url": "https://edge.forgecdn.net/files/5176/624/CreativeCore_FORGE_v2.11.25_mc1.20.1.jar",
+    "MD5": "7c52729ccf1ffe534340aed2ebce77d3"
+  }
+}

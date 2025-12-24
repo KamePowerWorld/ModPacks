@@ -1,0 +1,10 @@
+{
+  "id": "com.gregtechceu:gtceu:1.1.4.a@jar",
+  "name": "GregTech",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 13713801,
+    "url": "https://edge.forgecdn.net/files/5222/695/gtceu-1.20.1-1.1.4.a.jar",
+    "MD5": "b62ccb602b5339520161aab01d8c6dbc"
+  }
+}

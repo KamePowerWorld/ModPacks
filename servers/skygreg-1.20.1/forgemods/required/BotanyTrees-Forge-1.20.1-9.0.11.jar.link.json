@@ -1,0 +1,10 @@
+{
+  "id": "net.darkhax:botanytrees:9.0.11@jar",
+  "name": "BotanyTrees",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 150272,
+    "url": "https://edge.forgecdn.net/files/5127/97/BotanyTrees-Forge-1.20.1-9.0.11.jar",
+    "MD5": "19336494e69c93138e5004003a546fc1"
+  }
+}

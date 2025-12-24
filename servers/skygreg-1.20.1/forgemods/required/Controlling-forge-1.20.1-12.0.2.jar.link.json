@@ -1,0 +1,10 @@
+{
+  "id": "com.blamejared:controlling:12.0.2@jar",
+  "name": "Controlling",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 115280,
+    "url": "https://edge.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar",
+    "MD5": "952274bc9994bba9733e8747558f73fa"
+  }
+}

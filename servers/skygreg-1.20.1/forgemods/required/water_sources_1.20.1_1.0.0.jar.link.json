@@ -1,0 +1,10 @@
+{
+  "id": "com.blackdragonfire:watersources:1.0.0@jar",
+  "name": "WaterSources",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 215578,
+    "url": "https://edge.forgecdn.net/files/4865/287/water_sources_1.20.1_1.0.0.jar",
+    "MD5": "0551c204910c2ec1ed12bbe48d1bb83e"
+  }
+}

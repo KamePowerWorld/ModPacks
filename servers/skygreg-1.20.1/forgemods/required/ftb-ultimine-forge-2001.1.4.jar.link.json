@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbultimine:2001.1.4@jar",
+  "name": "FTB Ultimine",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 108455,
+    "url": "https://edge.forgecdn.net/files/5005/6/ftb-ultimine-forge-2001.1.4.jar",
+    "MD5": "b06601653d6eeddc7b6e12c9dcee62b7"
+  }
+}

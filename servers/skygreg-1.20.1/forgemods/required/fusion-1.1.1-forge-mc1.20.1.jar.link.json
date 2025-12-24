@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:fusion:1.1.1@jar",
+  "name": "Fusion",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 221813,
+    "url": "https://edge.forgecdn.net/files/5129/294/fusion-1.1.1-forge-mc1.20.1.jar",
+    "MD5": "c8cc6729366722da02ea57fd87d7275c"
+  }
+}

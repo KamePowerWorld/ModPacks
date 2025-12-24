@@ -1,0 +1,10 @@
+{
+  "id": "net.minecraftforge.lex.cfd:cobblefordays:1.8.0@jar",
+  "name": "Cobble For Days",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 43309,
+    "url": "https://edge.forgecdn.net/files/4653/625/CobbleForDays-1.8.0.jar",
+    "MD5": "b081076d402e4ddbf571b1da9668fa12"
+  }
+}

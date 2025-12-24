@@ -1,0 +1,10 @@
+{
+  "id": "net.bdew.lib:bdlib:1.27.0.8@jar",
+  "name": "BdLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1258868,
+    "url": "https://edge.forgecdn.net/files/4670/650/bdlib-1.27.0.8-mc1.20.1.jar",
+    "MD5": "1fad1bfa078fb0254de66ea413a6b7fc"
+  }
+}

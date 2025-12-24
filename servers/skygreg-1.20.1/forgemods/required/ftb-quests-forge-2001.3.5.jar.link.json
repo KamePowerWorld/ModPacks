@@ -1,0 +1,10 @@
+{
+  "id": "dev.ftb.mods:ftbquests:2001.3.5@jar",
+  "name": "FTB Quests",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1171971,
+    "url": "https://edge.forgecdn.net/files/5192/381/ftb-quests-forge-2001.3.5.jar",
+    "MD5": "c6cc05e0cb58a49e4f57928e4e347aa6"
+  }
+}

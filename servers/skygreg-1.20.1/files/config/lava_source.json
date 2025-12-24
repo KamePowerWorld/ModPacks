@@ -1,0 +1,101 @@
+{
+  "heat_source": {
+    "_comment": "Set the value of the heat sources and the heat sources.",
+    "torch": {
+      "#default": "true, forge:torch/normal, 3",
+      "enabled": true,
+      "block": "forge:torch/normal",
+      "value": 3
+    },
+    "soul_torch": {
+      "#default": "true, forge:torch/soul, 6",
+      "enabled": true,
+      "block": "forge:torch/soul",
+      "value": 6
+    },
+    "lava": {
+      "#default": "true, minecraft:lava, 10",
+      "enabled": true,
+      "block": "minecraft:lava",
+      "value": 10
+    },
+    "magma": {
+      "#default": "true, minecraft:magma, 8",
+      "enabled": true,
+      "block": "minecraft:magma",
+      "value": 8
+    },
+    "campfire": {
+      "#default": "true, minecraft:campfires/normal, 5",
+      "enabled": true,
+      "block": "minecraft:campfires/normal",
+      "value": 5
+    },
+    "soul_campfire": {
+      "#default": "true, minecraft:campfires/soul 10",
+      "enabled": true,
+      "block": "minecraft:campfires/soul",
+      "value": 10
+    },
+    "fire": {
+      "#default": "true, minecraft:fire/normal, 4",
+      "enabled": true,
+      "block": "minecraft:fire/normal",
+      "value": 4
+    },
+    "soul_fire": {
+      "#default": "true, minecraft:fire/soul, 8",
+      "enabled": true,
+      "block": "minecraft:fire/soul",
+      "value": 8
+    },
+    "new1": {
+      "#default": "false, forge:lava_furnace, 1",
+      "enabled": false,
+      "block": "forge:lava_furnace",
+      "value": 1
+    },
+    "new2": {
+      "#default": "false, forge:lava_furnace_lit, 10",
+      "enabled": false,
+      "block": "minecraft:logs",
+      "value": 10
+    }
+  },
+  "material": {
+    "_comment": "Set the value of the materials.",
+    "stone": {
+      "value": 200
+    },
+    "cobblestone": {
+      "value": 150
+    },
+    "gravel": {
+      "value": 125
+    },
+    "sand": {
+      "value": 100
+    },
+    "dust": {
+      "value": 50
+    }
+  },
+  "tiers": {
+    "_comment": "Set the tick rate of the furnaces.(The delay between 2 operations.)",
+    "stone furnace": {
+      "ticks": 20
+    },
+    "iron furnace": {
+      "ticks": 15
+    },
+    "gold furnace": {
+      "ticks": 10
+    },
+    "diamond furnace": {
+      "ticks": 5
+    },
+    "netherite furnace": {
+      "ticks": 1
+    }
+  }
+}

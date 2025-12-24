@@ -1,0 +1,10 @@
+{
+  "id": "com.supermartijn642:rechiseled:1.1.5c@jar",
+  "name": "Rechiseled",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3600465,
+    "url": "https://edge.forgecdn.net/files/4872/892/rechiseled-1.1.5c-forge-mc1.20.jar",
+    "MD5": "114a999595a82f1a6f8958afedede194"
+  }
+}

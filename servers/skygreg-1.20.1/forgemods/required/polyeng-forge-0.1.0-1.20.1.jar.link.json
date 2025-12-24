@@ -1,0 +1,10 @@
+{
+  "id": "gripe._90:polyeng:0.1.0-1.20.1@jar",
+  "name": "Polymorphic Energistics",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 13789,
+    "url": "https://edge.forgecdn.net/files/4887/614/polyeng-forge-0.1.0-1.20.1.jar",
+    "MD5": "43cb5e2ff401087782c97ab4d326b2fa"
+  }
+}

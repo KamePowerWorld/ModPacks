@@ -1,0 +1,10 @@
+{
+  "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+  "name": "CosmeticArmorReworked",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 88752,
+    "url": "https://edge.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar",
+    "MD5": "2454075e9a25cbadc0fce66502e3261d"
+  }
+}
