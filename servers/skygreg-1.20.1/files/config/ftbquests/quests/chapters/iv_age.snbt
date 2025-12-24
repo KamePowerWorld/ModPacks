@@ -11,7 +11,7 @@
 	quests: [
 		{
 			dependencies: ["5B365AEDBF3CEAC0"]
-			description: ["Requires an EV Cleanroom."]
+			description: ["{sg.iv_age.quests0.description0}"]
 			id: "2595291E7F1986B9"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -20,7 +20,7 @@
 				type: "loot"
 			}]
 			size: 2.0d
-			subtitle: "LuV Circuits!"
+			subtitle: "{sg.iv_age.quests0.subtitle}"
 			tasks: [{
 				id: "1E423B32DF4420AF"
 				item: "gtceu:nano_processor_mainframe"
@@ -31,7 +31,7 @@
 		}
 		{
 			dependencies: ["0B82C364DF03516F"]
-			description: ["Just as Tungstensteel was the main material for the IV age, Rhodium Plated Palladium is the main material for the LuV age."]
+			description: ["{sg.iv_age.quests1.description0}"]
 			id: "5C6ECE7FACCCCCE6"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -40,7 +40,7 @@
 				type: "loot"
 			}]
 			size: 1.5d
-			subtitle: "LuV material!"
+			subtitle: "{sg.iv_age.quests1.subtitle}"
 			tasks: [{
 				id: "1EEA7C7A7D3EF651"
 				item: "gtceu:rhodium_plated_palladium_ingot"
@@ -51,7 +51,7 @@
 		}
 		{
 			dependencies: ["16AD21DFC4EA8559"]
-			description: ["Process Rhodium Dust and Palladium Dust in an IV Mixer to produce Rhodium Plated Palladium Dust."]
+			description: ["{sg.iv_age.quests2.description0}"]
 			id: "0B82C364DF03516F"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -59,7 +59,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "IV Mixer!"
+			subtitle: "{sg.iv_age.quests2.subtitle}"
 			tasks: [{
 				id: "3C039C108692478C"
 				item: "gtceu:rhodium_plated_palladium_dust"
@@ -70,7 +70,7 @@
 		}
 		{
 			dependencies: ["5EE6FAA52883DC15"]
-			description: ["Process Rhodium Sulfate in an MV Electrolyzer to produce Rhodium Dust."]
+			description: ["{sg.iv_age.quests3.description0}"]
 			icon: "gtceu:rhodium_dust"
 			id: "16AD21DFC4EA8559"
 			rewards: [{
@@ -79,7 +79,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "MV Electrolyzer!"
+			subtitle: "{sg.iv_age.quests3.subtitle}"
 			tasks: [{
 				id: "6AEE6906D3C79D34"
 				item: "gtceu:rhodium_dust"
@@ -89,7 +89,7 @@
 			y: -0.5d
 		}
 		{
-			description: ["Process Inert Metal Mixture and Sulfuric Acid in an EV Chemical Reactor to produce Rhodium Sulfate."]
+			description: ["{sg.iv_age.quests4.description0}"]
 			id: "5EE6FAA52883DC15"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -97,7 +97,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Inert Metal Mixture + Sulfuric Acid!"
+			subtitle: "{sg.iv_age.quests4.subtitle}"
 			tasks: [{
 				id: "73CAD6E68787567D"
 				item: "gtceu:rhodium_sulfate_bucket"
@@ -108,7 +108,7 @@
 		}
 		{
 			dependencies: ["522C301AA75ECC25"]
-			description: ["Used to craft IV related energy items."]
+			description: ["{sg.iv_age.quests5.description0}"]
 			id: "198C5DF65FE66893"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -116,7 +116,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "IV Assembler!"
+			subtitle: "{sg.iv_age.quests5.subtitle}"
 			tasks: [{
 				id: "054DD53A509F758C"
 				item: "gtceu:iv_voltage_coil"
@@ -201,7 +201,7 @@
 				"198C5DF65FE66893"
 				"35FBFA583A6E3089"
 			]
-			description: ["You can upgrade your multiblock generators to produce more energy by switching out the Dynamo Hatch. This will triple the EU/t of the generator. You will need to provide Oxygen as well."]
+			description: ["{sg.iv_age.quests10.description0}"]
 			id: "3507EA164E8604ED"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -209,7 +209,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "IV Assembler!"
+			subtitle: "{sg.iv_age.quests10.subtitle}"
 			tasks: [{
 				id: "1417480F479434AE"
 				item: "gtceu:iv_energy_output_hatch"
@@ -221,13 +221,13 @@
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"A multiblock version of the Chemical Reactor. While it can process anything that a normal Chemical Reactor can, it also has some special recipes that can only be processed in the Large Chemical Reactor, like Iridium Metal Residue."
+				"{sg.iv_age.quests11.description0}"
 				""
-				"Some recipes with multiple Chemical Reactor steps can be condensed into 1 recipe in the Large Chemical Reactor to skip processing steps."
+				"{sg.iv_age.quests11.description1}"
 				""
-				"You can lock the Output Hatch or Bus of a multiblock by inserting a Filter as a Cover on the Output Hatch or Bus."
+				"{sg.iv_age.quests11.description2}"
 				""
-				"The items listed are the minimum requirements without Hatches or Busses."
+				"{sg.iv_age.quests11.description3}"
 			]
 			icon: "gtceu:large_chemical_reactor"
 			id: "129DD069D81D09F2"
@@ -237,7 +237,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Multiblock!"
+			subtitle: "{sg.iv_age.quests11.subtitle}"
 			tasks: [
 				{
 					id: "28AFA61BE8C2E7E2"
@@ -247,7 +247,10 @@
 				{
 					count: 10L
 					id: "00DD8265CADB1256"
-					item: { Count: 10b, id: "gtceu:inert_machine_casing" }
+					item: {
+						Count: 10b
+						id: "gtceu:inert_machine_casing"
+					}
 					type: "item"
 				}
 				{
@@ -265,7 +268,7 @@
 			y: -3.5d
 		}
 		{
-			description: ["Process Platinum Group Sludge and Aqua Regia in an HV Centrifuge to produce Rarest Metal Mixture."]
+			description: ["{sg.iv_age.quests12.description0}"]
 			id: "0F1DD7B29A63391D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -273,7 +276,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Platinum Group Sludge + Aqua Regia!"
+			subtitle: "{sg.iv_age.quests12.subtitle}"
 			tasks: [{
 				id: "60B76230F7F7F9F6"
 				item: "gtceu:rarest_metal_mixture_dust"
@@ -287,7 +290,7 @@
 				"436555F96AC3B50F"
 				"4A8B8466C8625E6A"
 			]
-			description: ["Process HPIC Wafers in an IV Cutter to produce HPIC Chips."]
+			description: ["{sg.iv_age.quests13.description0}"]
 			id: "35FBFA583A6E3089"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -295,7 +298,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "IV Cutter!"
+			subtitle: "{sg.iv_age.quests13.subtitle}"
 			tasks: [{
 				id: "2CED46CAA43D0535"
 				item: "gtceu:hpic_chip"
@@ -306,7 +309,7 @@
 		}
 		{
 			dependencies: ["49F46E40EF08A716"]
-			description: ["Process MPIC Wafers, Indium Gallium Phosphide Dust, and Liquid Vanadium Gallium in an IV Chemical Reactor in a Cleanroom to produce HPIC Wafers."]
+			description: ["{sg.iv_age.quests14.description0}"]
 			id: "436555F96AC3B50F"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -314,7 +317,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "MPIC Wafer + Indium Gallium Phosphide Dust + Liquid Vanadium Gallium!"
+			subtitle: "{sg.iv_age.quests14.subtitle}"
 			tasks: [{
 				id: "1ED2AF7F4E4868D7"
 				item: "gtceu:hpic_wafer"
@@ -325,7 +328,7 @@
 		}
 		{
 			dependencies: ["4D6338E26927AAB2"]
-			description: ["Process Aluminium Dust and Indium Concentrate in an EV Chemical Reactor to produce Indium Dust."]
+			description: ["{sg.iv_age.quests15.description0}"]
 			id: "1CC3DEE69809E979"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -333,7 +336,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Aluminium Dust + Indium Concentrate!"
+			subtitle: "{sg.iv_age.quests15.subtitle}"
 			tasks: [{
 				id: "582EB1046D66D4F8"
 				item: "gtceu:indium_dust"
@@ -344,7 +347,7 @@
 		}
 		{
 			dependencies: ["04BE1F878C713A9E"]
-			description: ["Process Purified Sphalerite Ore, Purified Galena Ore, and Sulfuric Acid in an HV Mixer to produce Indium Concentrate."]
+			description: ["{sg.iv_age.quests16.description0}"]
 			id: "4D6338E26927AAB2"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -352,7 +355,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Purified Sphalerite Ore + Purified Galena Ore + Sulfuric Acid!"
+			subtitle: "{sg.iv_age.quests16.subtitle}"
 			tasks: [{
 				id: "2AE3060DF615C768"
 				item: "gtceu:indium_concentrate_bucket"
@@ -363,7 +366,7 @@
 		}
 		{
 			dependencies: ["1CC3DEE69809E979"]
-			description: ["Process Indium Dust, Gallium Dust, and Phosphorus Dust in a ULV Mixer to produce Indium Gallium Phosphide Dust."]
+			description: ["{sg.iv_age.quests17.description0}"]
 			id: "49F46E40EF08A716"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -371,7 +374,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Indium Dust + Gallium Dust + Phosphorus Dust!"
+			subtitle: "{sg.iv_age.quests17.subtitle}"
 			tasks: [{
 				id: "759FFF183EE6FE80"
 				item: "gtceu:indium_gallium_phosphide_dust"
@@ -382,7 +385,7 @@
 		}
 		{
 			dependencies: ["6868229C5B95DE0C"]
-			description: ["Process Polyvinyl Butyral and Tempered Glass in an HV Forming Press to Produce Laminated Glass."]
+			description: ["{sg.iv_age.quests18.description0}"]
 			id: "4A8B8466C8625E6A"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -390,7 +393,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Polyvinyl Butyral Plate + Tempered Glass!"
+			subtitle: "{sg.iv_age.quests18.subtitle}"
 			tasks: [{
 				id: "19E0C2C47A53356A"
 				item: "gtceu:laminated_glass"
@@ -401,7 +404,7 @@
 		}
 		{
 			dependencies: ["5BABFAA2EADDC60E"]
-			description: ["Process Liquid Polyvinyl Butyral in a ULV Fluid Solidifier to produce Polyvinyl Butyral Plates."]
+			description: ["{sg.iv_age.quests19.description0}"]
 			id: "6868229C5B95DE0C"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -409,7 +412,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Polyvinyl Butyral Plate + Tempered Glass!"
+			subtitle: "{sg.iv_age.quests19.subtitle}"
 			tasks: [{
 				id: "7712422F9330C394"
 				item: "gtceu:polyvinyl_butyral_plate"
@@ -420,7 +423,7 @@
 		}
 		{
 			dependencies: ["04BE1F878C713A9E"]
-			description: ["Process Polyvinyl Acetate and Butyraldehyde in an HV Chemical Reactor to produce Liquid Polyvinyl Butyral."]
+			description: ["{sg.iv_age.quests20.description0}"]
 			id: "5BABFAA2EADDC60E"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -428,7 +431,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Polyvinyl Acetate + Butyraldehyde!"
+			subtitle: "{sg.iv_age.quests20.subtitle}"
 			tasks: [{
 				id: "3925069DAE171CCA"
 				item: "gtceu:polyvinyl_butyral_bucket"
@@ -440,22 +443,22 @@
 		{
 			dependencies: ["198C5DF65FE66893"]
 			description: [
-				"You now have the ability to generate FE using Advanced Generators. You can convert it into EU as normal. You can place an Energy Converter directly touching the Flux Generator."
+				"{sg.iv_age.quests21.description0}"
 				""
-				"Remember 4 FE = 1 EU."
+				"{sg.iv_age.quests21.description1}"
 				""
-				"These generators can scale quite high, holding up to 50 Turbines per generator. The highest tier Turbines are not available until the LuV age."
+				"{sg.iv_age.quests21.description2}"
 				""
-				"&aDefault generation rates for Turbines have been buffed. All fuel types from GregTech can be used in a Gas Turbine. GregTech Steam and Advanced Generators Steam are interchangable.&r"
+				"{sg.iv_age.quests21.description3}"
 				""
-				"GregTech will always be a better energy solution in the long run but this is an option for now. The highest tier Turbine is gated behind Naquadah Alloy."
+				"{sg.iv_age.quests21.description4}"
 			]
 			id: "213BCCE0D8844CE7"
 			shape: "gear"
-			subtitle: "Flexible multiblocks!"
+			subtitle: "{sg.iv_age.quests21.subtitle}"
 			tasks: [{
 				id: "242D713EBFE13E19"
-				title: "Advanced Generators"
+				title: "{sg.iv_age.quests21.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -4.0d
@@ -467,11 +470,11 @@
 				"2595291E7F1986B9"
 			]
 			description: [
-				"This is not a multiblock Assembler, however it is similar."
+				"{sg.iv_age.quests22.description0}"
 				""
-				"The setup of this multiblock is similar to the setup of a Distillation Tower. You need to extend the multiblock for however many inputs the recipe has. If your recipe has 8 input materials, it will need 8 Input Busses."
+				"{sg.iv_age.quests22.description1}"
 				""
-				"The items listed are the minimum requirements without Hatches or Busses."
+				"{sg.iv_age.quests22.description2}"
 			]
 			icon: "gtceu:assembly_line"
 			id: "782DEDFB3C1ADFE4"
@@ -481,7 +484,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Not a multiblock Assembler!"
+			subtitle: "{sg.iv_age.quests22.subtitle}"
 			tasks: [
 				{
 					id: "2EDF780A9B626BFE"
@@ -491,25 +494,37 @@
 				{
 					count: 5L
 					id: "073BDC007B86922C"
-					item: { Count: 5b, id: "gtceu:assembly_line_unit" }
+					item: {
+						Count: 5b
+						id: "gtceu:assembly_line_unit"
+					}
 					type: "item"
 				}
 				{
 					count: 10L
 					id: "270EEC7BEE3CB685"
-					item: { Count: 10b, id: "gtceu:laminated_glass" }
+					item: {
+						Count: 10b
+						id: "gtceu:laminated_glass"
+					}
 					type: "item"
 				}
 				{
 					count: 5L
 					id: "598DBF37BB421AEC"
-					item: { Count: 5b, id: "gtceu:assembly_line_casing" }
+					item: {
+						Count: 5b
+						id: "gtceu:assembly_line_casing"
+					}
 					type: "item"
 				}
 				{
 					count: 9L
 					id: "5C19B0A0BF443D75"
-					item: { Count: 9b, id: "gtceu:assembly_line_grating" }
+					item: {
+						Count: 9b
+						id: "gtceu:assembly_line_grating"
+					}
 					type: "item"
 				}
 				{
@@ -545,11 +560,11 @@
 				"522C301AA75ECC25"
 			]
 			description: [
-				"A central energy storage multiblock. The tier of the Substation Dynamo Hatch you use determines the energy output rate."
+				"{sg.iv_age.quests24.description0}"
 				""
-				"Allows up to 18 layers of Capacitors, the Capacitors do not need the be the same tier."
+				"{sg.iv_age.quests24.description1}"
 				""
-				"Loses energy equal to 1% of total capacity every 24 hours. Capped at 100k EU/t of loss."
+				"{sg.iv_age.quests24.description2}"
 			]
 			id: "3D9046CBF3BDD5D8"
 			rewards: [{
@@ -558,7 +573,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Expandable!"
+			subtitle: "{sg.iv_age.quests24.subtitle}"
 			tasks: [{
 				id: "2014CD33B53128AC"
 				item: "gtceu:power_substation"
@@ -569,7 +584,7 @@
 		}
 		{
 			dependencies: ["04BE1F878C713A9E"]
-			description: ["Process Tungstensteel Dust, Chromium Dust, Molybdenum Dust, and Vanadium Dust in an EV Mixer to produce HSS-G Dust."]
+			description: ["{sg.iv_age.quests25.description0}"]
 			id: "621A56FFA97B24E0"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -577,7 +592,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "Tungstensteel Dust + Chromium Dust + Molybdenum Dust + Vanadium Dust!"
+			subtitle: "{sg.iv_age.quests25.subtitle}"
 			tasks: [{
 				id: "4244292DF72EED3C"
 				item: "gtceu:hssg_dust"
@@ -588,7 +603,7 @@
 		}
 		{
 			dependencies: ["621A56FFA97B24E0"]
-			description: ["Process Hot HSS-G Ingots in an MV Vacuum Freezer to produce HSS-G Ingots."]
+			description: ["{sg.iv_age.quests26.description0}"]
 			id: "2E5A3DF3471C4D38"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -596,7 +611,7 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "MV Vacuum Freezer!"
+			subtitle: "{sg.iv_age.quests26.subtitle}"
 			tasks: [{
 				id: "5EF538C925585727"
 				item: "gtceu:hssg_ingot"
@@ -607,7 +622,7 @@
 		}
 		{
 			dependencies: ["2E5A3DF3471C4D38"]
-			description: ["The fifth tier of Coils."]
+			description: ["{sg.iv_age.quests27.description0}"]
 			id: "54F38FAE58D2A135"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -615,14 +630,17 @@
 				table_id: 6946283253569926045L
 				type: "loot"
 			}]
-			subtitle: "IV Assembler!"
+			subtitle: "{sg.iv_age.quests27.subtitle}"
 			tasks: [{
 				count: 16L
 				id: "239EA3204147A201"
-				item: { Count: 16b, id: "gtceu:hssg_coil_block" }
+				item: {
+					Count: 16b
+					id: "gtceu:hssg_coil_block"
+				}
 				type: "item"
 			}]
-			title: "HSS-G Coils"
+			title: "{sg.iv_age.quests27.title}"
 			x: -2.5d
 			y: -6.5d
 		}
@@ -788,9 +806,9 @@
 		}
 		{
 			dependencies: ["56054C837A572536"]
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.iv_age.quests37.description0}"]
 			id: "19CE349609E8E732"
-			subtitle: "IV Superconductor!"
+			subtitle: "{sg.iv_age.quests37.subtitle}"
 			tasks: [{
 				id: "1EEF509F24EC91AB"
 				item: "gtceu:samarium_iron_arsenic_oxide_single_wire"
@@ -800,7 +818,7 @@
 			y: 0.5d
 		}
 		{
-			description: ["Process Rare Earth in an LV Centrifuge to produce Small Piles of Samarium Dust."]
+			description: ["{sg.iv_age.quests38.description0}"]
 			id: "4ADE797DFD9F0C9D"
 			tasks: [{
 				id: "183070DFE914C656"
@@ -812,7 +830,7 @@
 		}
 		{
 			dependencies: ["6467772F3E56D2F1"]
-			description: ["Process Samarium Dust, Iron Dust, Arsenic Dust, and Oxygen Gas in an IV Mixer to produce Samarium Iron Arsenic Oxide Dust."]
+			description: ["{sg.iv_age.quests39.description0}"]
 			id: "56054C837A572536"
 			tasks: [{
 				id: "24E21F20318F7CE7"
@@ -824,7 +842,7 @@
 		}
 		{
 			dependencies: ["4ADE797DFD9F0C9D"]
-			description: ["Craft Small Piles of Samarium Dust in an Crafting Grid to produce Samarium Dust."]
+			description: ["{sg.iv_age.quests40.description0}"]
 			id: "6467772F3E56D2F1"
 			tasks: [{
 				id: "30537628A000FE91"
@@ -835,6 +853,6 @@
 			y: -1.5d
 		}
 	]
-	subtitle: ["Tungstensteel!"]
-	title: "IV Age"
+	subtitle: ["{sg.iv_age.subtitle0}"]
+	title: "{sg.iv_age.title}"
 }

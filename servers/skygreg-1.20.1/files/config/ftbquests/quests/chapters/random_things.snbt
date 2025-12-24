@@ -10,9 +10,9 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["An upgradable Backpack to store all your stuff and things."]
+			description: ["{sg.random_things.quests0.description0}"]
 			id: "7B199FF56DFC4286"
-			subtitle: "Upgradable!"
+			subtitle: "{sg.random_things.quests0.subtitle}"
 			tasks: [{
 				id: "0347641D20FDBB27"
 				item: {
@@ -27,14 +27,14 @@
 		}
 		{
 			description: [
-				"The default experience cost has been removed to allow you to easily teleport between areas of your base."
+				"{sg.random_things.quests1.description0}"
 				""
-				"Sneak right click with an empty hand to rename a Waystone."
+				"{sg.random_things.quests1.description1}"
 				""
-				"The Warp Stone used in the recipe allows you to teleport to a Waystone from anywhere."
+				"{sg.random_things.quests1.description2}"
 			]
 			id: "199681973FE6BD21"
-			subtitle: "No experience cost!"
+			subtitle: "{sg.random_things.quests1.subtitle}"
 			tasks: [{
 				id: "42BAAD5420767CAE"
 				item: "waystones:waystone"
@@ -45,22 +45,22 @@
 		}
 		{
 			description: [
-				"A place to store all your garbage, or useful things, you decide."
+				"{sg.random_things.quests2.description0}"
 				""
-				"Play around with the settings and you can make it automatically pickup items that it already contains while voiding any extras if it fills up."
+				"{sg.random_things.quests2.description1}"
 				""
-				"Very upgradable to an absolutely massive storage capacity."
+				"{sg.random_things.quests2.description2}"
 				""
-				"Check and set your keybinds as you can change the mode from Bag to Construction, Bag mode is essentially a backpack while Construction mode allows you to use the item you have selected, Shears, Redstone, blocks, Cables, really anything that has a use option."
+				"{sg.random_things.quests2.description3}"
 				""
-				"Press [CTRL] while hovering over a slot to lock that slot, making it so only that item is allowed in that slot, even if you run out of the item."
+				"{sg.random_things.quests2.description4}"
 				""
-				"You can set Danks to the same frequency so they can share contents by typing the frequency in to the left of the \"Save the new frequency\" button. There is a somewhat hidden text input field."
+				"{sg.random_things.quests2.description5}"
 				""
-				"If set in a Dock, it can be used as an external storage device (like a Chest), Hooking up a Dank in a Dock to your AE2 system with a Storage Bus will basically allow for a drawer system within the Docked Dank."
+				"{sg.random_things.quests2.description6}"
 			]
 			id: "182D39B24C4E8FA9"
-			subtitle: "Too many things?"
+			subtitle: "{sg.random_things.quests2.subtitle}"
 			tasks: [{
 				id: "2D30CFBEC49956AB"
 				item: "dankstorage:dank_1"
@@ -71,14 +71,14 @@
 		}
 		{
 			description: [
-				"Pulls items towards you."
+				"{sg.random_things.quests3.description0}"
 				""
-				"Right click while holding it to turn it on."
+				"{sg.random_things.quests3.description1}"
 				""
-				"Sneak right click while holding it to set filters."
+				"{sg.random_things.quests3.description2}"
 			]
 			id: "3B2DCD05F432AD01"
-			subtitle: "To me!"
+			subtitle: "{sg.random_things.quests3.subtitle}"
 			tasks: [{
 				id: "492F4BDA412DBE97"
 				item: {
@@ -93,12 +93,12 @@
 		}
 		{
 			description: [
-				"Can charge items with FE instead of EU, you will need an Energy Converter to convert EU to FE."
+				"{sg.random_things.quests4.description0}"
 				""
-				"Only some items accept FE."
+				"{sg.random_things.quests4.description1}"
 			]
 			id: "2D328EC3C03375D0"
-			subtitle: "FE energy!"
+			subtitle: "{sg.random_things.quests4.subtitle}"
 			tasks: [{
 				id: "6BC2FFC44A7E8174"
 				item: {
@@ -113,13 +113,13 @@
 		}
 		{
 			description: [
-				"Very helpful tools to help with building. Play around with them and see what they can do. The names are pretty self explanitory."
+				"{sg.random_things.quests5.description0}"
 				""
-				"Must be charged in the Charging Station with FE energy."
+				"{sg.random_things.quests5.description1}"
 			]
 			icon: "buildinggadgets2:gadget_building"
 			id: "6C983E7D8ADB65DE"
-			subtitle: "Easy building!"
+			subtitle: "{sg.random_things.quests5.subtitle}"
 			tasks: [
 				{
 					id: "660CC32D525C77EF"
@@ -141,15 +141,15 @@
 					type: "item"
 				}
 			]
-			title: "Building Gadgets"
+			title: "{sg.random_things.quests5.title}"
 			x: -1.0d
 			y: 4.5d
 		}
 		{
 			description: [
-				"Very helpful tools to help with building. Play around (carefully) with them and see what they can do. The names are pretty self explanitory."
+				"{sg.random_things.quests6.description0}"
 				""
-				"Must be charged in the Charging Station with FE energy."
+				"{sg.random_things.quests6.description1}"
 			]
 			icon: {
 				Count: 1b
@@ -159,7 +159,7 @@
 				}
 			}
 			id: "105F978E8FFFA97C"
-			subtitle: "VOIDS BLOCKS!"
+			subtitle: "{sg.random_things.quests6.subtitle}"
 			tasks: [
 				{
 					id: "03D1031418159760"
@@ -178,20 +178,20 @@
 					type: "item"
 				}
 			]
-			title: "Dangerous Building Gadgets"
+			title: "{sg.random_things.quests6.title}"
 			x: 1.0d
 			y: 4.5d
 		}
 		{
 			description: [
-				"Sneak right click to travel in that direction."
+				"{sg.random_things.quests7.description0}"
 				""
-				"Can travel through blocks."
+				"{sg.random_things.quests7.description1}"
 				""
-				"Look at a Travel Anchor and use to warp to that Travel Anchor."
+				"{sg.random_things.quests7.description2}"
 			]
 			id: "06EFBFA64B610CDE"
-			subtitle: "Zshwoop!"
+			subtitle: "{sg.random_things.quests7.subtitle}"
 			tasks: [{
 				id: "4044BED556F29E2C"
 				item: "travelanchors:travel_staff"
@@ -202,16 +202,16 @@
 		}
 		{
 			description: [
-				"Used to travel to with a Travel Staff."
+				"{sg.random_things.quests8.description0}"
 				""
-				"If you place 1 in the world and look at it while holding a Travel Staff you can right click to teleport to the Travel Anchor."
+				"{sg.random_things.quests8.description1}"
 				""
-				"Can be renamed so you see the name while looking at it from a distance."
+				"{sg.random_things.quests8.description2}"
 				""
-				"Can teleport to up to 64 blocks away."
+				"{sg.random_things.quests8.description3}"
 			]
 			id: "2C1441D7E54919A1"
-			subtitle: "Up to 64 blocks!"
+			subtitle: "{sg.random_things.quests8.subtitle}"
 			tasks: [{
 				id: "2AA9B826ACBAE7F2"
 				item: "travelanchors:travel_anchor"
@@ -222,14 +222,14 @@
 		}
 		{
 			description: [
-				"Will place invisible lights in a 16 block radius."
+				"{sg.random_things.quests9.description0}"
 				""
-				"Removing the Feral Flare Lantern will cause the lights to slowly disappear."
+				"{sg.random_things.quests9.description1}"
 				""
-				"You can use a Frozen Pearl to remove the lights as well."
+				"{sg.random_things.quests9.description2}"
 			]
 			id: "7B98F40A0F2056B8"
-			subtitle: "Light up a chunk!"
+			subtitle: "{sg.random_things.quests9.subtitle}"
 			tasks: [{
 				id: "43DD62AE965C66C3"
 				item: "torchmaster:feral_flare_lantern"
@@ -240,12 +240,12 @@
 		}
 		{
 			description: [
-				"Prevents natural passive mobs from spawning in a 64 block radius."
+				"{sg.random_things.quests10.description0}"
 				""
-				"Spawners will still spawn mobs."
+				"{sg.random_things.quests10.description1}"
 			]
 			id: "5FFAC11F068C7990"
-			subtitle: "No passive mobs!"
+			subtitle: "{sg.random_things.quests10.subtitle}"
 			tasks: [{
 				id: "5E838D1C4F21E8CE"
 				item: "torchmaster:dreadlamp"
@@ -256,12 +256,12 @@
 		}
 		{
 			description: [
-				"Prevents natural hostile mobs from spawning in a 64 block radius."
+				"{sg.random_things.quests11.description0}"
 				""
-				"Spawners will still spawn mobs."
+				"{sg.random_things.quests11.description1}"
 			]
 			id: "59C873A939C4D6C6"
-			subtitle: "No hostile mobs!"
+			subtitle: "{sg.random_things.quests11.subtitle}"
 			tasks: [{
 				id: "3BE664884F156D6D"
 				item: "torchmaster:megatorch"
@@ -271,9 +271,9 @@
 			y: 6.5d
 		}
 		{
-			description: ["Set a channel by sneak right clicking dyes on the white strips, anything sharing the same channel will share the same contents."]
+			description: ["{sg.random_things.quests12.description0}"]
 			id: "4D105D6B5083C9BC"
-			subtitle: "Easy fluid transfer!"
+			subtitle: "{sg.random_things.quests12.subtitle}"
 			tasks: [{
 				id: "451EE843CD8742F2"
 				item: {
@@ -290,9 +290,9 @@
 			y: 9.5d
 		}
 		{
-			description: ["Set a channel by sneak right clicking dyes on the white strips, anything sharing the same channel will share the same contents."]
+			description: ["{sg.random_things.quests13.description0}"]
 			id: "410E6876A204A059"
-			subtitle: "Easy item transfer!"
+			subtitle: "{sg.random_things.quests13.subtitle}"
 			tasks: [{
 				id: "3654B0EB92C6B501"
 				item: {
@@ -310,23 +310,23 @@
 		}
 		{
 			description: [
-				"Place under certain blocks to generate that block type as an item in its internal inventory."
+				"{sg.random_things.quests14.description0}"
 				""
-				"Blocks that can be made infinite are tagged with the block tag \"infinite_blocks:infinite_blocks\". You can search EMI for \"#infinite_blocks\" and see the blocks available."
+				"{sg.random_things.quests14.description1}"
 				""
-				"Some options are:"
+				"{sg.random_things.quests14.description2}"
 				""
-				" - Blocks in the stone tag."
-				" - Blocks in the dirt tag."
-				" - Blocks in the concrete tag."
-				" - Blocks in the terracotta tag."
-				" - Blackest Stone."
-				" - Xtone Tile."
+				"{sg.random_things.quests14.description3}"
+				"{sg.random_things.quests14.description4}"
+				"{sg.random_things.quests14.description5}"
+				"{sg.random_things.quests14.description6}"
+				"{sg.random_things.quests14.description7}"
+				"{sg.random_things.quests14.description8}"
 				""
-				"Tip: You can easily obtain Clay Dust and Concrete Dust with this."
+				"{sg.random_things.quests14.description9}"
 			]
 			id: "51B1AE2DF9616C5F"
-			subtitle: "Free building blocks!"
+			subtitle: "{sg.random_things.quests14.subtitle}"
 			tasks: [{
 				id: "6214FD0284220DE1"
 				item: "infinite_blocks:infinite_block_generator"
@@ -336,9 +336,9 @@
 			y: 3.5d
 		}
 		{
-			description: ["Stops the visual effect of rain and snow in quite a large area."]
+			description: ["{sg.random_things.quests15.description0}"]
 			id: "6AE690511FD7F74A"
-			subtitle: "Goodbye rain!"
+			subtitle: "{sg.random_things.quests15.subtitle}"
 			tasks: [{
 				id: "1466093E6F674A53"
 				item: "rainshield:rain_shield"
@@ -348,9 +348,9 @@
 			y: 1.5d
 		}
 		{
-			description: ["Set a channel in the GUI, anything sharing the same channel will share the same contents."]
+			description: ["{sg.random_things.quests16.description0}"]
 			id: "638C3912A6F764BE"
-			subtitle: "Easy fluid transfer!"
+			subtitle: "{sg.random_things.quests16.subtitle}"
 			tasks: [{
 				id: "62E158231F2B982E"
 				item: "dimstorage:dimensional_tank"
@@ -360,9 +360,9 @@
 			y: 9.5d
 		}
 		{
-			description: ["Set a channel in the GUI, anything sharing the same channel will share the same contents."]
+			description: ["{sg.random_things.quests17.description0}"]
 			id: "01C3B0DB4C6A6FAE"
-			subtitle: "Easy item transfer!"
+			subtitle: "{sg.random_things.quests17.subtitle}"
 			tasks: [{
 				id: "47C23BBF43380D72"
 				item: "dimstorage:dimensional_chest"
@@ -372,31 +372,31 @@
 			y: 9.5d
 		}
 		{
-			description: ["Below you will find a collection of random items and blocks to help with various tasks."]
+			description: ["{sg.random_things.quests18.description0}"]
 			id: "77898BD300971A36"
 			shape: "gear"
-			subtitle: "Stuff \\& things!"
+			subtitle: "{sg.random_things.quests18.subtitle}"
 			tasks: [{
 				id: "7AE899E85E70682D"
-				title: "Useful Things"
+				title: "{sg.random_things.quests18.tasks0.title}"
 				type: "checkmark"
 			}]
-			title: "Useful Items \\& Blocks"
+			title: "{sg.random_things.quests18.title}"
 			x: 0.0d
 			y: 0.0d
 		}
 		{
 			description: [
-				"Tired of eating food? I was so I made this! Simply slap a Baked Potato on a Stick and make sure it's super secured and you're good to go!"
+				"{sg.random_things.quests19.description0}"
 				""
-				"Just hold it in your hand and it will keep your hunger topped up, kind of like the Healing Axe from Extra Utilities."
+				"{sg.random_things.quests19.description1}"
 				""
-				"If you need a Potato you can buy one from the Market block."
+				"{sg.random_things.quests19.description2}"
 				""
-				"It also happens to do the same damage as an Iron Sword and doesn't use durability. Keep those Phantoms away."
+				"{sg.random_things.quests19.description3}"
 			]
 			id: "666A68DFE6217071"
-			subtitle: "Hold me!"
+			subtitle: "{sg.random_things.quests19.subtitle}"
 			tasks: [{
 				id: "13AF5EFCDFC740F3"
 				item: "saturatingitem:saturating_item"
@@ -407,14 +407,14 @@
 		}
 		{
 			description: [
-				"Right click on block while holding an item with durability to make the item Unbreakable."
+				"{sg.random_things.quests20.description0}"
 				""
-				"&4BLOCK WILL BE CONSUMED.&r"
+				"{sg.random_things.quests20.description1}"
 				""
-				"Netherite Scraps can be crafted in the LV age, but if you are lucky enough Ancient Debris can also be obtained from the Random Ore Generator (Placement)."
+				"{sg.random_things.quests20.description2}"
 			]
 			id: "52E0DAFED5BDF489"
-			subtitle: "Make things Unbreakable!"
+			subtitle: "{sg.random_things.quests20.subtitle}"
 			tasks: [{
 				id: "011EE9C74F79E97F"
 				item: "minecraft:netherite_block"
@@ -425,12 +425,12 @@
 		}
 		{
 			description: [
-				"Feed it FE and it will wirelessly charge blocks that accept FE in a 5x5x5 area at a rate of 50 FE/t."
+				"{sg.random_things.quests21.description0}"
 				""
-				"Has an advanced version with better stats."
+				"{sg.random_things.quests21.description1}"
 			]
 			id: "1352CE3F416A3EB3"
-			subtitle: "Wirelessly charge blocks with FE!"
+			subtitle: "{sg.random_things.quests21.subtitle}"
 			tasks: [{
 				id: "5EAFC1DF2251B254"
 				item: "wirelesschargers:basic_wireless_block_charger"
@@ -441,12 +441,12 @@
 		}
 		{
 			description: [
-				"Feed it FE and it will wirelessly charge items in your inventory that accept FE in a 5x5x5 area at a rate of 50 FE/t."
+				"{sg.random_things.quests22.description0}"
 				""
-				"Has an advanced version with better stats."
+				"{sg.random_things.quests22.description1}"
 			]
 			id: "51E69851575DEDDE"
-			subtitle: "Wirelessly charge your Wireless Crafting Terminal!"
+			subtitle: "{sg.random_things.quests22.subtitle}"
 			tasks: [{
 				id: "0B80B05A75655EA5"
 				item: "wirelesschargers:basic_wireless_player_charger"
@@ -457,17 +457,17 @@
 		}
 		{
 			description: [
-				"First of all, check and set your keybinds."
+				"{sg.random_things.quests23.description0}"
 				""
-				"Can be equipped in the Curio Belt slot or in its own special slot."
+				"{sg.random_things.quests23.description1}"
 				""
-				"Useful for quickly swapping between tools and items."
+				"{sg.random_things.quests23.description2}"
 				""
-				"Apply Belt Pouches in an Anvil to increase the storage amount. Up to 7 Belt Pouches can be installed for a maximum of 9 items."
+				"{sg.random_things.quests23.description3}"
 			]
 			icon: "toolbelt:belt"
 			id: "5BD5D5818DBD50F7"
-			subtitle: "A nice spot for tools!"
+			subtitle: "{sg.random_things.quests23.subtitle}"
 			tasks: [
 				{
 					id: "656A22427837A1BA"
@@ -485,16 +485,16 @@
 		}
 		{
 			description: [
-				"A Hopper made for fluids with some added features."
+				"{sg.random_things.quests24.description0}"
 				""
-				"Will work as a normal Hopper would but for fluids instead of items."
+				"{sg.random_things.quests24.description1}"
 				""
-				"Can also take fluid blocks placed in the world above it and send it through the Flopper."
+				"{sg.random_things.quests24.description2}"
 				""
-				"Can also place fluid blocks in the world where it is aiming."
+				"{sg.random_things.quests24.description3}"
 			]
 			id: "5FB230A3AEB91055"
-			subtitle: "Fluid Hopper!"
+			subtitle: "{sg.random_things.quests24.subtitle}"
 			tasks: [{
 				id: "443B631D6D204874"
 				item: "flopper:flopper"
@@ -505,18 +505,18 @@
 		}
 		{
 			description: [
-				"Creates a 13x13x13 pocket room inside another dimension that you can access."
+				"{sg.random_things.quests25.description0}"
 				""
-				"You can pipe things in and out of the block using the sides of the block and the Apertures inside the room. You can also use Ender/Dimensional storage blocks."
+				"{sg.random_things.quests25.description1}"
 				""
-				"To enter the room right click on the Hyperbox. To leave the room right click on any Aperture inside the room."
+				"{sg.random_things.quests25.description2}"
 				""
-				"For when you want an entire automation inside 1 block, to fit in the middle of another giant automation."
+				"{sg.random_things.quests25.description3}"
 				""
-				"As long as the chunk that the Hyperbox in is loaded, the room inside will be loaded. If you pick the Hyperbox up the room will become unloaded and will reload when you place the Hyperbox down again. The Hyperbox is safe to move but just know everything inside will stop."
+				"{sg.random_things.quests25.description4}"
 			]
 			id: "40123EB952032960"
-			subtitle: "Pocket dimension!"
+			subtitle: "{sg.random_things.quests25.subtitle}"
 			tasks: [{
 				id: "3AE6C1F5D6237D6D"
 				item: "hyperbox:hyperbox"
@@ -527,12 +527,12 @@
 		}
 		{
 			description: [
-				"1 armor piece: Speed I"
-				"2 armor pieces: Speed I + Strength I"
-				"3 armor pieces: Speed I + Strength II"
-				"4 armor pieces: Speed I + Strength II + Resistance I"
+				"{sg.random_things.quests26.description0}"
+				"{sg.random_things.quests26.description1}"
+				"{sg.random_things.quests26.description2}"
+				"{sg.random_things.quests26.description3}"
 				""
-				"Wear all 4 or mix and match with other sets!"
+				"{sg.random_things.quests26.description4}"
 			]
 			icon: {
 				Count: 1b
@@ -542,7 +542,7 @@
 				}
 			}
 			id: "00B9D74FFD318F2F"
-			subtitle: "Grants potion effects!"
+			subtitle: "{sg.random_things.quests26.subtitle}"
 			tasks: [
 				{
 					id: "47890B5BCF8EA178"
@@ -589,18 +589,18 @@
 					type: "item"
 				}
 			]
-			title: "Atlas Exosuit"
+			title: "{sg.random_things.quests26.title}"
 			x: -2.0d
 			y: 2.5d
 		}
 		{
 			description: [
-				"1 armor piece: Strength I"
-				"2 armor pieces: Strength I + Haste I"
-				"3 armor pieces: Strength II + Haste II"
-				"4 armor pieces: Strength III +Haste III"
+				"{sg.random_things.quests27.description0}"
+				"{sg.random_things.quests27.description1}"
+				"{sg.random_things.quests27.description2}"
+				"{sg.random_things.quests27.description3}"
 				""
-				"Wear all 4 or mix and match with other sets!"
+				"{sg.random_things.quests27.description4}"
 			]
 			icon: {
 				Count: 1b
@@ -610,7 +610,7 @@
 				}
 			}
 			id: "568FE962A3DFBF6B"
-			subtitle: "Grants potion effects!"
+			subtitle: "{sg.random_things.quests27.subtitle}"
 			tasks: [
 				{
 					id: "313E4DC50C0F17A6"
@@ -657,18 +657,18 @@
 					type: "item"
 				}
 			]
-			title: "Legion Exosuit"
+			title: "{sg.random_things.quests27.title}"
 			x: -1.0d
 			y: 2.5d
 		}
 		{
 			description: [
-				"1 armor piece: Haste I"
-				"2 armor pieces: Haste I + Speed I"
-				"3 armor pieces: Haste II + Speed II"
-				"4 armor pieces: Haste II + Speed II + Jump Boost I"
+				"{sg.random_things.quests28.description0}"
+				"{sg.random_things.quests28.description1}"
+				"{sg.random_things.quests28.description2}"
+				"{sg.random_things.quests28.description3}"
 				""
-				"Wear all 4 or mix and match with other sets!"
+				"{sg.random_things.quests28.description4}"
 			]
 			icon: {
 				Count: 1b
@@ -678,7 +678,7 @@
 				}
 			}
 			id: "7C3B363F6B2335AB"
-			subtitle: "Grants potion effects!"
+			subtitle: "{sg.random_things.quests28.subtitle}"
 			tasks: [
 				{
 					id: "3FCE15AD4BA83DB6"
@@ -725,18 +725,18 @@
 					type: "item"
 				}
 			]
-			title: "Stryder Exosuit"
+			title: "{sg.random_things.quests28.title}"
 			x: 0.0d
 			y: 2.5d
 		}
 		{
 			description: [
-				"1 armor piece: Resistance I"
-				"2 armor pieces: Resistance I + Strength I"
-				"3 armor pieces: Resistance II + Strength II"
-				"4 armor pieces: Resistance III + Strength II"
+				"{sg.random_things.quests29.description0}"
+				"{sg.random_things.quests29.description1}"
+				"{sg.random_things.quests29.description2}"
+				"{sg.random_things.quests29.description3}"
 				""
-				"Wear all 4 or mix and match with other sets!"
+				"{sg.random_things.quests29.description4}"
 			]
 			icon: {
 				Count: 1b
@@ -746,7 +746,7 @@
 				}
 			}
 			id: "5FF195CD713F0350"
-			subtitle: "Grants potion effects!"
+			subtitle: "{sg.random_things.quests29.subtitle}"
 			tasks: [
 				{
 					id: "7BD02E0D2FD95E9C"
@@ -793,18 +793,18 @@
 					type: "item"
 				}
 			]
-			title: "Ogre Exosuit"
+			title: "{sg.random_things.quests29.title}"
 			x: 1.0d
 			y: 2.5d
 		}
 		{
 			description: [
-				"1 armor piece: Haste I"
-				"2 armor pieces: Haste I + Fire Resistance I"
-				"3 armor pieces: Haste II + Fire Resistance I"
-				"4 armor pieces: Haste II + Fire Resistance I + Water Breathing I"
+				"{sg.random_things.quests30.description0}"
+				"{sg.random_things.quests30.description1}"
+				"{sg.random_things.quests30.description2}"
+				"{sg.random_things.quests30.description3}"
 				""
-				"Wear all 4 or mix and match with other sets!"
+				"{sg.random_things.quests30.description4}"
 			]
 			icon: {
 				Count: 1b
@@ -814,7 +814,7 @@
 				}
 			}
 			id: "702227EF3F9181A3"
-			subtitle: "Grants potion effects!"
+			subtitle: "{sg.random_things.quests30.subtitle}"
 			tasks: [
 				{
 					id: "4D08179C6A8781E6"
@@ -861,14 +861,14 @@
 					type: "item"
 				}
 			]
-			title: "Ion Exosuit"
+			title: "{sg.random_things.quests30.title}"
 			x: 2.0d
 			y: 2.5d
 		}
 		{
-			description: ["Insert 1, 2, or 3 blocks in the Architect's Cutter and see what you can produce."]
+			description: ["{sg.random_things.quests31.description0}"]
 			id: "0BD9144EE0B9CB5F"
-			subtitle: "So many blocks!"
+			subtitle: "{sg.random_things.quests31.subtitle}"
 			tasks: [{
 				id: "05A5115ADD533A7E"
 				item: "domum_ornamentum:architectscutter"
@@ -878,9 +878,9 @@
 			y: 3.5d
 		}
 		{
-			description: ["Insert a Clay Ball, any Planks, and any Cobblestone in the Furniture Station and see what you can produce."]
+			description: ["{sg.random_things.quests32.description0}"]
 			id: "4515FB1A9BF6EDA4"
-			subtitle: "So much furniture!"
+			subtitle: "{sg.random_things.quests32.subtitle}"
 			tasks: [{
 				id: "318E2C2FD5163E2D"
 				item: "fantasyfurniture:furniture_station"
@@ -890,9 +890,9 @@
 			y: 3.5d
 		}
 		{
-			description: ["Framed Blocks adds Framed Cubes, which can be crafted into various shapes and placed in the world. You can use another block on the Framed Blocks to make the Framed Block take on the texture of the block you used on it."]
+			description: ["{sg.random_things.quests33.description0}"]
 			id: "1352DFC06FB99BAC"
-			subtitle: "Too many blocks!"
+			subtitle: "{sg.random_things.quests33.subtitle}"
 			tasks: [{
 				id: "201239758794D1F8"
 				item: "framedblocks:framed_cube"
@@ -903,13 +903,13 @@
 		}
 		{
 			description: [
-				"All of Ender IO's Conduits and Tanks are available but everything else from Ender IO is disabled."
+				"{sg.random_things.quests34.description0}"
 				""
-				"Note that Upgrades and Filters are not available currently."
+				"{sg.random_things.quests34.description1}"
 			]
 			icon: "enderio:ender_fluid_conduit"
 			id: "3DAE4BAA6BB72668"
-			subtitle: "Conduits \\& Tanks!"
+			subtitle: "{sg.random_things.quests34.subtitle}"
 			tasks: [
 				{
 					id: "6747368E21C37F2B"
@@ -932,19 +932,19 @@
 					type: "item"
 				}
 			]
-			title: "Ender IO Conduits"
+			title: "{sg.random_things.quests34.title}"
 			x: -1.0d
 			y: 8.5d
 		}
 		{
 			description: [
-				"Modular Routers offers 1 block, the Modular Router, and many different Modules, Upgrades, and Augments that can change how it operates."
+				"{sg.random_things.quests35.description0}"
 				""
-				"Play around with different Modules, Upgrades, and Augments, as well as settings within the Modular Router and you can do a lot."
+				"{sg.random_things.quests35.description1}"
 			]
 			icon: "modularrouters:modular_router"
 			id: "5B87C9229D0FBFCA"
-			subtitle: "Modules, Upgrades, \\& Augments!"
+			subtitle: "{sg.random_things.quests35.subtitle}"
 			tasks: [
 				{
 					id: "2BEC05E07B5260B5"
@@ -957,14 +957,14 @@
 					type: "item"
 				}
 			]
-			title: "Modular Routers"
+			title: "{sg.random_things.quests35.title}"
 			x: 1.0d
 			y: 8.5d
 		}
 		{
-			description: ["Can craft Enchanted Books using different input materials and experience. All recipes can be seen in REI."]
+			description: ["{sg.random_things.quests36.description0}"]
 			id: "098031EB589E064F"
-			subtitle: "Craft Enchanted Books!"
+			subtitle: "{sg.random_things.quests36.subtitle}"
 			tasks: [{
 				id: "5A972138F5408747"
 				item: "enderio:enchanter"
@@ -975,9 +975,9 @@
 		}
 		{
 			dependencies: ["2394AD7DE7FC079E"]
-			description: ["Can store experience for later use, has a self explanitory GUI."]
+			description: ["{sg.random_things.quests37.description0}"]
 			id: "07BFCD0CC1FC2EE4"
-			subtitle: "Store experience!"
+			subtitle: "{sg.random_things.quests37.subtitle}"
 			tasks: [{
 				id: "717F55A5B88D06CD"
 				item: "enderio:xp_obelisk"
@@ -987,9 +987,9 @@
 			y: 11.5d
 		}
 		{
-			description: ["Pulls items in the world into itself and stores them in its inventory."]
+			description: ["{sg.random_things.quests38.description0}"]
 			id: "7CCA058360CBFD75"
-			subtitle: "Vacuums items!"
+			subtitle: "{sg.random_things.quests38.subtitle}"
 			tasks: [{
 				id: "76E196E15CFA055D"
 				item: "enderio:vacuum_chest"
@@ -999,9 +999,9 @@
 			y: 11.5d
 		}
 		{
-			description: ["Pulls experience in the world into itself and stores it as a fluid."]
+			description: ["{sg.random_things.quests39.description0}"]
 			id: "2394AD7DE7FC079E"
-			subtitle: "Vacuums experience!"
+			subtitle: "{sg.random_things.quests39.subtitle}"
 			tasks: [{
 				id: "642062E82B3615AC"
 				item: "enderio:xp_vacuum"
@@ -1012,16 +1012,16 @@
 		}
 		{
 			description: [
-				"Can move tile entities like Chests, Spawners, machines, and more."
+				"{sg.random_things.quests40.description0}"
 				""
-				"Sneak right click to place the Box on something."
+				"{sg.random_things.quests40.description1}"
 				""
-				"Left click to take the Box off, or sneak right click to pick up the Box."
+				"{sg.random_things.quests40.description2}"
 				""
-				"Right click with the Box containing something to place it down."
+				"{sg.random_things.quests40.description3}"
 			]
 			id: "12DA3685737C7CF2"
-			subtitle: "Move Chests, Spawners, machines \\& more!"
+			subtitle: "{sg.random_things.quests40.subtitle}"
 			tasks: [{
 				id: "353D6A877EF776DE"
 				item: "cardboardboxes:cardboardbox"
@@ -1031,9 +1031,9 @@
 			y: 12.5d
 		}
 		{
-			description: ["Can be used to capture a mob. Use again to release the mob."]
+			description: ["{sg.random_things.quests41.description0}"]
 			id: "76DFCEA7E3363F3E"
-			subtitle: "Mob transfer!"
+			subtitle: "{sg.random_things.quests41.subtitle}"
 			tasks: [{
 				id: "5A2A987200BA77C1"
 				item: "enderio:empty_soul_vial"
@@ -1044,11 +1044,11 @@
 		}
 		{
 			description: [
-				"Shrink yourself down to 20% of your normal size, or grow to 10 times your normal size. Requires FE to operate."
+				"{sg.random_things.quests42.description0}"
 				""
-				"You can also do the same to mobs by left clicking on them with the Personal Shrinking Device. A shrunken mob can be captured with a Glass Bottle."
+				"{sg.random_things.quests42.description1}"
 				""
-				"Right click to open the GUI and select the size you want. Sneak right click to activate."
+				"{sg.random_things.quests42.description2}"
 			]
 			id: "2868DAC7C62B0851"
 			tasks: [{
@@ -1065,12 +1065,12 @@
 		}
 		{
 			description: [
-				"Wireless item, fluid, and FE transfer. Set 2 to the same channel and they will be linked together."
+				"{sg.random_things.quests43.description0}"
 				""
-				"You can change the send and receive settings in the GUI."
+				"{sg.random_things.quests43.description1}"
 			]
 			id: "76406F587A2BF232"
-			subtitle: "Wireless items, fluids, \\& FE!"
+			subtitle: "{sg.random_things.quests43.subtitle}"
 			tasks: [{
 				id: "620E79E80F03587C"
 				item: "tesseract:tesseract"
@@ -1081,9 +1081,9 @@
 		}
 		{
 			description: [
-				"Sneak right click on the block to wish to link with the Entangled Binder, then right click on the Entangled Block with the Entangled Binder to link the blocks together. "
+				"{sg.random_things.quests44.description0}"
 				""
-				"This will allow you to interact with the Entangled Block as if it were the linked block."
+				"{sg.random_things.quests44.description1}"
 			]
 			icon: {
 				Count: 1b
@@ -1091,7 +1091,7 @@
 				tag: { }
 			}
 			id: "4567A985DAE4BA97"
-			subtitle: "Wireless items, fluids, \\& FE!"
+			subtitle: "{sg.random_things.quests44.subtitle}"
 			tasks: [
 				{
 					id: "3BF93E4500C98773"
@@ -1117,12 +1117,12 @@
 		}
 		{
 			description: [
-				"Wandering Traders within 6 chunks of this block will be redirected to this position."
+				"{sg.random_things.quests45.description0}"
 				""
-				"Send him into a mob farm, push him into the void, drop him 200 blocks onto Iron Spikes, get creative!"
+				"{sg.random_things.quests45.description1}"
 			]
 			id: "52A33426667EC9AF"
-			subtitle: "NoMoWanderer!"
+			subtitle: "{sg.random_things.quests45.subtitle}"
 			tasks: [{
 				id: "4EE12506C3493341"
 				item: "nomowanderer:trader_rug"
@@ -1132,6 +1132,6 @@
 			y: 14.5d
 		}
 	]
-	subtitle: ["Helpful stuff!"]
-	title: "Random Things"
+	subtitle: ["{sg.random_things.subtitle0}"]
+	title: "{sg.random_things.title}"
 }

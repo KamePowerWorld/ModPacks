@@ -13,7 +13,7 @@
 			dependencies: ["024CF19E028F72DE"]
 			id: "66B59DA7705E5F65"
 			size: 2.0d
-			subtitle: "UV Circuits!"
+			subtitle: "{sg.zpm_age.quests0.subtitle}"
 			tasks: [{
 				id: "52A74E1F3214B04D"
 				item: "gtceu:crystal_processor_mainframe"
@@ -24,10 +24,10 @@
 		}
 		{
 			dependencies: ["5CD32FC3EB92ABB7"]
-			description: ["Just as Naquadah Alloy was the main material for the ZPM age, Darmstadtium is the main material for the UV age."]
+			description: ["{sg.zpm_age.quests1.description0}"]
 			id: "11AA54003982943F"
 			size: 1.5d
-			subtitle: "UV material!"
+			subtitle: "{sg.zpm_age.quests1.subtitle}"
 			tasks: [{
 				id: "37A1CA1F2B25BEDF"
 				item: "gtceu:darmstadtium_ingot"
@@ -42,9 +42,9 @@
 				"7F424236C9DDEF4E"
 				"276908A9D2164BEB"
 			]
-			description: ["Process in a ULV Fluid Solifdifier to produce Darmstadtium Ingots."]
+			description: ["{sg.zpm_age.quests2.description0}"]
 			id: "5CD32FC3EB92ABB7"
-			subtitle: "Fluid Solidifer!"
+			subtitle: "{sg.zpm_age.quests2.subtitle}"
 			tasks: [{
 				id: "6B97EF457DA981DF"
 				item: "gtceu:darmstadtium_bucket"
@@ -55,9 +55,9 @@
 		}
 		{
 			dependencies: ["63493A70229956F4"]
-			description: ["Process in an LuV Fusion Reactor with Arsenic Vapor to produce Liquid Darmstadtium."]
+			description: ["{sg.zpm_age.quests3.description0}"]
 			id: "64244E15DE969E81"
-			subtitle: "Fusion Reactor!"
+			subtitle: "{sg.zpm_age.quests3.subtitle}"
 			tasks: [{
 				id: "10665F73AE392E3F"
 				item: "gtceu:ruthenium_bucket"
@@ -69,12 +69,12 @@
 		{
 			dependencies: ["63493A70229956F4"]
 			description: [
-				"Process Arsenic Dust in an LV Extractor to produce Arsenic Vapor."
+				"{sg.zpm_age.quests4.description0}"
 				""
-				"Process in an LuV Fusion Reactor with Liquid Ruthenium to produce Liquid Darmstadtium."
+				"{sg.zpm_age.quests4.description1}"
 			]
 			id: "7F424236C9DDEF4E"
-			subtitle: "Fusion Reactor!"
+			subtitle: "{sg.zpm_age.quests4.subtitle}"
 			tasks: [{
 				id: "462AF9576AF4EDCD"
 				item: "gtceu:arsenic_bucket"
@@ -86,7 +86,7 @@
 		{
 			dependencies: ["298EA0EC8B8502D6"]
 			id: "276908A9D2164BEB"
-			subtitle: "Using more energy!"
+			subtitle: "{sg.zpm_age.quests5.subtitle}"
 			tasks: [{
 				id: "0370C8268629AC8E"
 				item: "gtceu:zpm_fusion_reactor"
@@ -269,9 +269,9 @@
 			y: -2.5d
 		}
 		{
-			description: ["Process Hot Enriched Naquadah Ingots in an MV Vacuum Freezer to produce Enriched Naquadah Ingots."]
+			description: ["{sg.zpm_age.quests21.description0}"]
 			id: "5301C7C40C89AE4A"
-			subtitle: "MV Vacuum Freezer!"
+			subtitle: "{sg.zpm_age.quests21.subtitle}"
 			tasks: [{
 				id: "1843B78F7AD61996"
 				item: "gtceu:enriched_naquadah_ingot"
@@ -281,6 +281,6 @@
 			y: -3.5d
 		}
 	]
-	subtitle: ["Naquadah Alloy!"]
-	title: "ZPM Age"
+	subtitle: ["{sg.zpm_age.subtitle0}"]
+	title: "{sg.zpm_age.title}"
 }

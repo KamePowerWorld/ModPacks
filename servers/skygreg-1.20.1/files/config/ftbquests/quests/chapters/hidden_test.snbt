@@ -11,10 +11,10 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["A condensed progression view, contianing just the benchmarks of each voltage age."]
+			description: ["{sg.hidden_test.quests0.description0}"]
 			id: "01F24259718996BB"
 			shape: "gear"
-			subtitle: "An alternate view!"
+			subtitle: "{sg.hidden_test.quests0.subtitle}"
 			tasks: [{
 				id: "5143710611DE688C"
 				type: "checkmark"
@@ -676,6 +676,6 @@
 			y: 4.5d
 		}
 	]
-	subtitle: ["What next?"]
-	title: "Streamlined Progression"
+	subtitle: ["{sg.hidden_test.subtitle0}"]
+	title: "{sg.hidden_test.title}"
 }

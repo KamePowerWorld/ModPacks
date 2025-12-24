@@ -22,10 +22,10 @@
 						value: "forge:ores/almandine"
 					}
 				}
-				title: "Any #forge:ores/almandine"
+				title: "{sg.ore_index.quests0.tasks0.title}"
 				type: "item"
 			}]
-			title: "Almandine"
+			title: "{sg.ore_index.quests0.title}"
 			x: 0.0d
 			y: 1.0d
 		}
@@ -42,10 +42,10 @@
 						value: "forge:ores/aluminium"
 					}
 				}
-				title: "Any #forge:ores/aluminium"
+				title: "{sg.ore_index.quests1.tasks0.title}"
 				type: "item"
 			}]
-			title: "Aluminium"
+			title: "{sg.ore_index.quests1.title}"
 			x: 1.0d
 			y: 1.0d
 		}
@@ -62,10 +62,10 @@
 						value: "forge:ores/alunite"
 					}
 				}
-				title: "Any #forge:ores/alunite"
+				title: "{sg.ore_index.quests2.tasks0.title}"
 				type: "item"
 			}]
-			title: "Alunite"
+			title: "{sg.ore_index.quests2.title}"
 			x: 2.0d
 			y: 1.0d
 		}
@@ -82,10 +82,10 @@
 						value: "forge:ores/amethyst"
 					}
 				}
-				title: "Any #forge:ores/amethyst"
+				title: "{sg.ore_index.quests3.tasks0.title}"
 				type: "item"
 			}]
-			title: "Amethyst"
+			title: "{sg.ore_index.quests3.title}"
 			x: 3.0d
 			y: 1.0d
 		}
@@ -102,10 +102,10 @@
 						value: "forge:ores/apatite"
 					}
 				}
-				title: "Any #forge:ores/apatite"
+				title: "{sg.ore_index.quests4.tasks0.title}"
 				type: "item"
 			}]
-			title: "Apatite"
+			title: "{sg.ore_index.quests4.title}"
 			x: 4.0d
 			y: 1.0d
 		}
@@ -122,10 +122,10 @@
 						value: "forge:ores/asbestos"
 					}
 				}
-				title: "Any #forge:ores/asbestos"
+				title: "{sg.ore_index.quests5.tasks0.title}"
 				type: "item"
 			}]
-			title: "Asbestos"
+			title: "{sg.ore_index.quests5.title}"
 			x: 5.0d
 			y: 1.0d
 		}
@@ -142,10 +142,10 @@
 						value: "forge:ores/barite"
 					}
 				}
-				title: "Any #forge:ores/barite"
+				title: "{sg.ore_index.quests6.tasks0.title}"
 				type: "item"
 			}]
-			title: "Barite"
+			title: "{sg.ore_index.quests6.title}"
 			x: 0.0d
 			y: 2.0d
 		}
@@ -162,10 +162,10 @@
 						value: "forge:ores/basaltic_mineral_sand"
 					}
 				}
-				title: "Any #forge:ores/basaltic_mineral_sand"
+				title: "{sg.ore_index.quests7.tasks0.title}"
 				type: "item"
 			}]
-			title: "Basaltic Mineral Sand"
+			title: "{sg.ore_index.quests7.title}"
 			x: 1.0d
 			y: 2.0d
 		}
@@ -182,10 +182,10 @@
 						value: "forge:ores/bastnasite"
 					}
 				}
-				title: "Any #forge:ores/bastnasite"
+				title: "{sg.ore_index.quests8.tasks0.title}"
 				type: "item"
 			}]
-			title: "Bastnasite"
+			title: "{sg.ore_index.quests8.title}"
 			x: 2.0d
 			y: 2.0d
 		}
@@ -202,10 +202,10 @@
 						value: "forge:ores/bauxite"
 					}
 				}
-				title: "Any #forge:ores/bauxite"
+				title: "{sg.ore_index.quests9.tasks0.title}"
 				type: "item"
 			}]
-			title: "Bauxite"
+			title: "{sg.ore_index.quests9.title}"
 			x: 3.0d
 			y: 2.0d
 		}
@@ -222,10 +222,10 @@
 						value: "forge:ores/bentonite"
 					}
 				}
-				title: "Any #forge:ores/bentonite"
+				title: "{sg.ore_index.quests10.tasks0.title}"
 				type: "item"
 			}]
-			title: "Bentonite"
+			title: "{sg.ore_index.quests10.title}"
 			x: 4.0d
 			y: 2.0d
 		}
@@ -242,10 +242,10 @@
 						value: "forge:ores/beryllium"
 					}
 				}
-				title: "Any #forge:ores/beryllium"
+				title: "{sg.ore_index.quests11.tasks0.title}"
 				type: "item"
 			}]
-			title: "Beryllium"
+			title: "{sg.ore_index.quests11.title}"
 			x: 5.0d
 			y: 2.0d
 		}
@@ -262,10 +262,10 @@
 						value: "forge:ores/blue_topaz"
 					}
 				}
-				title: "Any #forge:ores/blue_topaz"
+				title: "{sg.ore_index.quests12.tasks0.title}"
 				type: "item"
 			}]
-			title: "Blue Topaz"
+			title: "{sg.ore_index.quests12.title}"
 			x: 6.0d
 			y: 2.0d
 		}
@@ -282,10 +282,10 @@
 						value: "forge:ores/bornite"
 					}
 				}
-				title: "Any #forge:ores/bornite"
+				title: "{sg.ore_index.quests13.tasks0.title}"
 				type: "item"
 			}]
-			title: "Bornite"
+			title: "{sg.ore_index.quests13.title}"
 			x: 7.0d
 			y: 2.0d
 		}
@@ -302,10 +302,10 @@
 						value: "forge:ores/calcite"
 					}
 				}
-				title: "Any #forge:ores/calcite"
+				title: "{sg.ore_index.quests14.tasks0.title}"
 				type: "item"
 			}]
-			title: "Calcite"
+			title: "{sg.ore_index.quests14.title}"
 			x: 0.0d
 			y: 3.0d
 		}
@@ -322,10 +322,10 @@
 						value: "forge:ores/cassiterite"
 					}
 				}
-				title: "Any #forge:ores/cassiterite"
+				title: "{sg.ore_index.quests15.tasks0.title}"
 				type: "item"
 			}]
-			title: "Cassiterite"
+			title: "{sg.ore_index.quests15.title}"
 			x: 1.0d
 			y: 3.0d
 		}
@@ -342,10 +342,10 @@
 						value: "forge:ores/cassiterite_sand"
 					}
 				}
-				title: "Any #forge:ores/cassiterite_sand"
+				title: "{sg.ore_index.quests16.tasks0.title}"
 				type: "item"
 			}]
-			title: "Cassiterite Sand"
+			title: "{sg.ore_index.quests16.title}"
 			x: 2.0d
 			y: 3.0d
 		}
@@ -362,10 +362,10 @@
 						value: "forge:ores/certus_quartz"
 					}
 				}
-				title: "Any #forge:ores/certus_quartz"
+				title: "{sg.ore_index.quests17.tasks0.title}"
 				type: "item"
 			}]
-			title: "Certus Quartz"
+			title: "{sg.ore_index.quests17.title}"
 			x: 3.0d
 			y: 3.0d
 		}
@@ -382,10 +382,10 @@
 						value: "forge:ores/chalcocite"
 					}
 				}
-				title: "Any #forge:ores/chalcocite"
+				title: "{sg.ore_index.quests18.tasks0.title}"
 				type: "item"
 			}]
-			title: "Chalcocite"
+			title: "{sg.ore_index.quests18.title}"
 			x: 4.0d
 			y: 3.0d
 		}
@@ -402,10 +402,10 @@
 						value: "forge:ores/chalcopyrite"
 					}
 				}
-				title: "Any #forge:ores/chalcopyrite"
+				title: "{sg.ore_index.quests19.tasks0.title}"
 				type: "item"
 			}]
-			title: "Chalcopyrite"
+			title: "{sg.ore_index.quests19.title}"
 			x: 5.0d
 			y: 3.0d
 		}
@@ -422,10 +422,10 @@
 						value: "forge:ores/chromite"
 					}
 				}
-				title: "Any #forge:ores/chromite"
+				title: "{sg.ore_index.quests20.tasks0.title}"
 				type: "item"
 			}]
-			title: "Chromite"
+			title: "{sg.ore_index.quests20.title}"
 			x: 6.0d
 			y: 3.0d
 		}
@@ -442,10 +442,10 @@
 						value: "forge:ores/cinnabar"
 					}
 				}
-				title: "Any #forge:ores/cinnabar"
+				title: "{sg.ore_index.quests21.tasks0.title}"
 				type: "item"
 			}]
-			title: "Cinnabar"
+			title: "{sg.ore_index.quests21.title}"
 			x: 7.0d
 			y: 3.0d
 		}
@@ -462,10 +462,10 @@
 						value: "forge:ores/coal"
 					}
 				}
-				title: "Any #forge:ores/coal"
+				title: "{sg.ore_index.quests22.tasks0.title}"
 				type: "item"
 			}]
-			title: "Coal"
+			title: "{sg.ore_index.quests22.title}"
 			x: 8.0d
 			y: 3.0d
 		}
@@ -482,10 +482,10 @@
 						value: "forge:ores/cobalt"
 					}
 				}
-				title: "Any #forge:ores/cobalt"
+				title: "{sg.ore_index.quests23.tasks0.title}"
 				type: "item"
 			}]
-			title: "Cobalt"
+			title: "{sg.ore_index.quests23.title}"
 			x: 9.0d
 			y: 3.0d
 		}
@@ -502,10 +502,10 @@
 						value: "forge:ores/cobaltite"
 					}
 				}
-				title: "Any #forge:ores/cobaltite"
+				title: "{sg.ore_index.quests24.tasks0.title}"
 				type: "item"
 			}]
-			title: "Cobaltite"
+			title: "{sg.ore_index.quests24.title}"
 			x: 10.0d
 			y: 3.0d
 		}
@@ -522,10 +522,10 @@
 						value: "forge:ores/copper"
 					}
 				}
-				title: "Any #forge:ores/copper"
+				title: "{sg.ore_index.quests25.tasks0.title}"
 				type: "item"
 			}]
-			title: "Copper"
+			title: "{sg.ore_index.quests25.title}"
 			x: 11.0d
 			y: 3.0d
 		}
@@ -542,10 +542,10 @@
 						value: "forge:ores/diamond"
 					}
 				}
-				title: "Any #forge:ores/diamond"
+				title: "{sg.ore_index.quests26.tasks0.title}"
 				type: "item"
 			}]
-			title: "Diamond"
+			title: "{sg.ore_index.quests26.title}"
 			x: 0.0d
 			y: 4.0d
 		}
@@ -562,10 +562,10 @@
 						value: "forge:ores/diatomite"
 					}
 				}
-				title: "Any #forge:ores/diatomite"
+				title: "{sg.ore_index.quests27.tasks0.title}"
 				type: "item"
 			}]
-			title: "Diatomite"
+			title: "{sg.ore_index.quests27.title}"
 			x: 1.0d
 			y: 4.0d
 		}
@@ -582,10 +582,10 @@
 						value: "forge:ores/electrotine"
 					}
 				}
-				title: "Any #forge:ores/electrotine"
+				title: "{sg.ore_index.quests28.tasks0.title}"
 				type: "item"
 			}]
-			title: "Electrotine"
+			title: "{sg.ore_index.quests28.title}"
 			x: 0.0d
 			y: 5.0d
 		}
@@ -602,10 +602,10 @@
 						value: "forge:ores/emerald"
 					}
 				}
-				title: "Any #forge:ores/emerald"
+				title: "{sg.ore_index.quests29.tasks0.title}"
 				type: "item"
 			}]
-			title: "Emerald"
+			title: "{sg.ore_index.quests29.title}"
 			x: 1.0d
 			y: 5.0d
 		}
@@ -622,10 +622,10 @@
 						value: "forge:ores/fullers_earth"
 					}
 				}
-				title: "Any #forge:ores/fullers_earth"
+				title: "{sg.ore_index.quests30.tasks0.title}"
 				type: "item"
 			}]
-			title: "Fuller's Earth"
+			title: "{sg.ore_index.quests30.title}"
 			x: 0.0d
 			y: 6.0d
 		}
@@ -642,10 +642,10 @@
 						value: "forge:ores/galena"
 					}
 				}
-				title: "Any #forge:ores/galena"
+				title: "{sg.ore_index.quests31.tasks0.title}"
 				type: "item"
 			}]
-			title: "Galena"
+			title: "{sg.ore_index.quests31.title}"
 			x: 0.0d
 			y: 7.0d
 		}
@@ -662,10 +662,10 @@
 						value: "forge:ores/garnet_sand"
 					}
 				}
-				title: "Any #forge:ores/garnet_sand"
+				title: "{sg.ore_index.quests32.tasks0.title}"
 				type: "item"
 			}]
-			title: "Garnet Sand"
+			title: "{sg.ore_index.quests32.title}"
 			x: 1.0d
 			y: 7.0d
 		}
@@ -682,10 +682,10 @@
 						value: "forge:ores/garnierite"
 					}
 				}
-				title: "Any #forge:ores/garnierite"
+				title: "{sg.ore_index.quests33.tasks0.title}"
 				type: "item"
 			}]
-			title: "Garnierite"
+			title: "{sg.ore_index.quests33.title}"
 			x: 2.0d
 			y: 7.0d
 		}
@@ -702,10 +702,10 @@
 						value: "forge:ores/glauconite_sand"
 					}
 				}
-				title: "Any #forge:ores/glauconite_sand"
+				title: "{sg.ore_index.quests34.tasks0.title}"
 				type: "item"
 			}]
-			title: "Glauconite Sand"
+			title: "{sg.ore_index.quests34.title}"
 			x: 3.0d
 			y: 7.0d
 		}
@@ -722,10 +722,10 @@
 						value: "forge:ores/goethite"
 					}
 				}
-				title: "Any #forge:ores/goethite"
+				title: "{sg.ore_index.quests35.tasks0.title}"
 				type: "item"
 			}]
-			title: "Goethite"
+			title: "{sg.ore_index.quests35.title}"
 			x: 4.0d
 			y: 7.0d
 		}
@@ -742,10 +742,10 @@
 						value: "forge:ores/gold"
 					}
 				}
-				title: "Any #forge:ores/gold"
+				title: "{sg.ore_index.quests36.tasks0.title}"
 				type: "item"
 			}]
-			title: "Gold"
+			title: "{sg.ore_index.quests36.title}"
 			x: 5.0d
 			y: 7.0d
 		}
@@ -762,10 +762,10 @@
 						value: "forge:ores/granitic_mineral_sand"
 					}
 				}
-				title: "Any #forge:ores/grantic_mineral_sand"
+				title: "{sg.ore_index.quests37.tasks0.title}"
 				type: "item"
 			}]
-			title: "Grantic Mineral Sand"
+			title: "{sg.ore_index.quests37.title}"
 			x: 6.0d
 			y: 7.0d
 		}
@@ -782,10 +782,10 @@
 						value: "forge:ores/graphite"
 					}
 				}
-				title: "Any #forge:ores/graphite"
+				title: "{sg.ore_index.quests38.tasks0.title}"
 				type: "item"
 			}]
-			title: "Graphite"
+			title: "{sg.ore_index.quests38.title}"
 			x: 7.0d
 			y: 7.0d
 		}
@@ -802,10 +802,10 @@
 						value: "forge:ores/green_sapphire"
 					}
 				}
-				title: "Any #forge:ores/green_sapphire"
+				title: "{sg.ore_index.quests39.tasks0.title}"
 				type: "item"
 			}]
-			title: "Green Sapphire"
+			title: "{sg.ore_index.quests39.title}"
 			x: 8.0d
 			y: 7.0d
 		}
@@ -822,10 +822,10 @@
 						value: "forge:ores/grossular"
 					}
 				}
-				title: "Any #forge:ores/grossular"
+				title: "{sg.ore_index.quests40.tasks0.title}"
 				type: "item"
 			}]
-			title: "Grossular"
+			title: "{sg.ore_index.quests40.title}"
 			x: 9.0d
 			y: 7.0d
 		}
@@ -842,10 +842,10 @@
 						value: "forge:ores/gypsum"
 					}
 				}
-				title: "Any #forge:ores/gypsum"
+				title: "{sg.ore_index.quests41.tasks0.title}"
 				type: "item"
 			}]
-			title: "Gypsum"
+			title: "{sg.ore_index.quests41.title}"
 			x: 10.0d
 			y: 7.0d
 		}
@@ -862,10 +862,10 @@
 						value: "forge:ores/hematite"
 					}
 				}
-				title: "Any #forge:ores/hematite"
+				title: "{sg.ore_index.quests42.tasks0.title}"
 				type: "item"
 			}]
-			title: "Hematite"
+			title: "{sg.ore_index.quests42.title}"
 			x: 0.0d
 			y: 8.0d
 		}
@@ -882,10 +882,10 @@
 						value: "forge:ores/ilmenite"
 					}
 				}
-				title: "Any #forge:ores/ilmenite"
+				title: "{sg.ore_index.quests43.tasks0.title}"
 				type: "item"
 			}]
-			title: "Ilmenite"
+			title: "{sg.ore_index.quests43.title}"
 			x: 0.0d
 			y: 9.0d
 		}
@@ -902,10 +902,10 @@
 						value: "forge:ores/iron"
 					}
 				}
-				title: "Any #forge:ores/iron"
+				title: "{sg.ore_index.quests44.tasks0.title}"
 				type: "item"
 			}]
-			title: "Iron"
+			title: "{sg.ore_index.quests44.title}"
 			x: 1.0d
 			y: 9.0d
 		}
@@ -922,10 +922,10 @@
 						value: "forge:ores/kyanite"
 					}
 				}
-				title: "Any #forge:ores/kyanite"
+				title: "{sg.ore_index.quests45.tasks0.title}"
 				type: "item"
 			}]
-			title: "Kyanite"
+			title: "{sg.ore_index.quests45.title}"
 			x: 0.0d
 			y: 10.0d
 		}
@@ -942,10 +942,10 @@
 						value: "forge:ores/lapis"
 					}
 				}
-				title: "Any #forge:ores/lapis"
+				title: "{sg.ore_index.quests46.tasks0.title}"
 				type: "item"
 			}]
-			title: "Lapis"
+			title: "{sg.ore_index.quests46.title}"
 			x: 0.0d
 			y: 11.0d
 		}
@@ -962,10 +962,10 @@
 						value: "forge:ores/lazurite"
 					}
 				}
-				title: "Any #forge:ores/lazurite"
+				title: "{sg.ore_index.quests47.tasks0.title}"
 				type: "item"
 			}]
-			title: "Lazurite"
+			title: "{sg.ore_index.quests47.title}"
 			x: 1.0d
 			y: 11.0d
 		}
@@ -982,10 +982,10 @@
 						value: "forge:ores/lead"
 					}
 				}
-				title: "Any #forge:ores/lead"
+				title: "{sg.ore_index.quests48.tasks0.title}"
 				type: "item"
 			}]
-			title: "Lead"
+			title: "{sg.ore_index.quests48.title}"
 			x: 2.0d
 			y: 11.0d
 		}
@@ -1002,10 +1002,10 @@
 						value: "forge:ores/lepidolite"
 					}
 				}
-				title: "Any #forge:ores/lepidolite"
+				title: "{sg.ore_index.quests49.tasks0.title}"
 				type: "item"
 			}]
-			title: "Lepidolite"
+			title: "{sg.ore_index.quests49.title}"
 			x: 3.0d
 			y: 11.0d
 		}
@@ -1022,10 +1022,10 @@
 						value: "forge:ores/lithium"
 					}
 				}
-				title: "Any #forge:ores/lithium"
+				title: "{sg.ore_index.quests50.tasks0.title}"
 				type: "item"
 			}]
-			title: "Lithium"
+			title: "{sg.ore_index.quests50.title}"
 			x: 4.0d
 			y: 11.0d
 		}
@@ -1042,10 +1042,10 @@
 						value: "forge:ores/magnesite"
 					}
 				}
-				title: "Any #forge:ores/magnesite"
+				title: "{sg.ore_index.quests51.tasks0.title}"
 				type: "item"
 			}]
-			title: "Magnesite"
+			title: "{sg.ore_index.quests51.title}"
 			x: 0.0d
 			y: 12.0d
 		}
@@ -1062,10 +1062,10 @@
 						value: "forge:ores/magnetite"
 					}
 				}
-				title: "Any #forge:ores/magnetite"
+				title: "{sg.ore_index.quests52.tasks0.title}"
 				type: "item"
 			}]
-			title: "Magnetite"
+			title: "{sg.ore_index.quests52.title}"
 			x: 1.0d
 			y: 12.0d
 		}
@@ -1082,10 +1082,10 @@
 						value: "forge:ores/malachite"
 					}
 				}
-				title: "Any #forge:ores/malachite"
+				title: "{sg.ore_index.quests53.tasks0.title}"
 				type: "item"
 			}]
-			title: "Malachite"
+			title: "{sg.ore_index.quests53.title}"
 			x: 2.0d
 			y: 12.0d
 		}
@@ -1102,10 +1102,10 @@
 						value: "forge:ores/mica"
 					}
 				}
-				title: "Any #forge:ores/mica"
+				title: "{sg.ore_index.quests54.tasks0.title}"
 				type: "item"
 			}]
-			title: "Mica"
+			title: "{sg.ore_index.quests54.title}"
 			x: 3.0d
 			y: 12.0d
 		}
@@ -1122,10 +1122,10 @@
 						value: "forge:ores/molybdenite"
 					}
 				}
-				title: "Any #forge:ores/molybdenite"
+				title: "{sg.ore_index.quests55.tasks0.title}"
 				type: "item"
 			}]
-			title: "Molybdenite"
+			title: "{sg.ore_index.quests55.title}"
 			x: 4.0d
 			y: 12.0d
 		}
@@ -1142,10 +1142,10 @@
 						value: "forge:ores/molybdenum"
 					}
 				}
-				title: "Any #forge:ores/molybdenum"
+				title: "{sg.ore_index.quests56.tasks0.title}"
 				type: "item"
 			}]
-			title: "Molybdenum"
+			title: "{sg.ore_index.quests56.title}"
 			x: 5.0d
 			y: 12.0d
 		}
@@ -1162,10 +1162,10 @@
 						value: "forge:ores/monazite"
 					}
 				}
-				title: "Any #forge:ores/monazite"
+				title: "{sg.ore_index.quests57.tasks0.title}"
 				type: "item"
 			}]
-			title: "Monazite"
+			title: "{sg.ore_index.quests57.title}"
 			x: 6.0d
 			y: 12.0d
 		}
@@ -1182,10 +1182,10 @@
 						value: "forge:ores/naquadah"
 					}
 				}
-				title: "Any #forge:ores/naquadah"
+				title: "{sg.ore_index.quests58.tasks0.title}"
 				type: "item"
 			}]
-			title: "Naquadah"
+			title: "{sg.ore_index.quests58.title}"
 			x: 0.0d
 			y: 13.0d
 		}
@@ -1202,10 +1202,10 @@
 						value: "forge:ores/neodymium"
 					}
 				}
-				title: "Any #forge:ores/neodymium"
+				title: "{sg.ore_index.quests59.tasks0.title}"
 				type: "item"
 			}]
-			title: "Neodymium"
+			title: "{sg.ore_index.quests59.title}"
 			x: 1.0d
 			y: 13.0d
 		}
@@ -1222,10 +1222,10 @@
 						value: "forge:ores/nether_quartz"
 					}
 				}
-				title: "Any #forge:ores/nether_quartz"
+				title: "{sg.ore_index.quests60.tasks0.title}"
 				type: "item"
 			}]
-			title: "Nether Quartz"
+			title: "{sg.ore_index.quests60.title}"
 			x: 2.0d
 			y: 13.0d
 		}
@@ -1242,10 +1242,10 @@
 						value: "forge:ores/nickel"
 					}
 				}
-				title: "Any #forge:ores/nickel"
+				title: "{sg.ore_index.quests61.tasks0.title}"
 				type: "item"
 			}]
-			title: "Nickel"
+			title: "{sg.ore_index.quests61.title}"
 			x: 3.0d
 			y: 13.0d
 		}
@@ -1262,10 +1262,10 @@
 						value: "forge:ores/oilsands"
 					}
 				}
-				title: "Any #forge:ores/oilsands"
+				title: "{sg.ore_index.quests62.tasks0.title}"
 				type: "item"
 			}]
-			title: "Oilsands"
+			title: "{sg.ore_index.quests62.title}"
 			x: 0.0d
 			y: 14.0d
 		}
@@ -1282,10 +1282,10 @@
 						value: "forge:ores/olivine"
 					}
 				}
-				title: "Any #forge:ores/olivine"
+				title: "{sg.ore_index.quests63.tasks0.title}"
 				type: "item"
 			}]
-			title: "Olivine"
+			title: "{sg.ore_index.quests63.title}"
 			x: 1.0d
 			y: 14.0d
 		}
@@ -1302,10 +1302,10 @@
 						value: "forge:ores/opal"
 					}
 				}
-				title: "Any #forge:ores/opal"
+				title: "{sg.ore_index.quests64.tasks0.title}"
 				type: "item"
 			}]
-			title: "Opal"
+			title: "{sg.ore_index.quests64.title}"
 			x: 2.0d
 			y: 14.0d
 		}
@@ -1322,10 +1322,10 @@
 						value: "forge:ores/palladium"
 					}
 				}
-				title: "Any #forge:ores/palladium"
+				title: "{sg.ore_index.quests65.tasks0.title}"
 				type: "item"
 			}]
-			title: "Palladium"
+			title: "{sg.ore_index.quests65.title}"
 			x: 0.0d
 			y: 15.0d
 		}
@@ -1342,10 +1342,10 @@
 						value: "forge:ores/pentlandite"
 					}
 				}
-				title: "Any #forge:ores/pentlandite"
+				title: "{sg.ore_index.quests66.tasks0.title}"
 				type: "item"
 			}]
-			title: "Pentlandite"
+			title: "{sg.ore_index.quests66.title}"
 			x: 1.0d
 			y: 15.0d
 		}
@@ -1362,10 +1362,10 @@
 						value: "forge:ores/pitchblende"
 					}
 				}
-				title: "Any #forge:ores/pitchblende"
+				title: "{sg.ore_index.quests67.tasks0.title}"
 				type: "item"
 			}]
-			title: "Pitchblende"
+			title: "{sg.ore_index.quests67.title}"
 			x: 2.0d
 			y: 15.0d
 		}
@@ -1382,10 +1382,10 @@
 						value: "forge:ores/platinum"
 					}
 				}
-				title: "Any #forge:ores/platinum"
+				title: "{sg.ore_index.quests68.tasks0.title}"
 				type: "item"
 			}]
-			title: "Platinum"
+			title: "{sg.ore_index.quests68.title}"
 			x: 3.0d
 			y: 15.0d
 		}
@@ -1402,10 +1402,10 @@
 						value: "forge:ores/plutonium"
 					}
 				}
-				title: "Any #forge:ores/plutonium"
+				title: "{sg.ore_index.quests69.tasks0.title}"
 				type: "item"
 			}]
-			title: "Plutonium"
+			title: "{sg.ore_index.quests69.title}"
 			x: 4.0d
 			y: 15.0d
 		}
@@ -1422,10 +1422,10 @@
 						value: "forge:ores/pollucite"
 					}
 				}
-				title: "Any #forge:ores/pollucite"
+				title: "{sg.ore_index.quests70.tasks0.title}"
 				type: "item"
 			}]
-			title: "Pollucite"
+			title: "{sg.ore_index.quests70.title}"
 			x: 5.0d
 			y: 15.0d
 		}
@@ -1442,10 +1442,10 @@
 						value: "forge:ores/powellite"
 					}
 				}
-				title: "Any #forge:ores/powellite"
+				title: "{sg.ore_index.quests71.tasks0.title}"
 				type: "item"
 			}]
-			title: "Powellite"
+			title: "{sg.ore_index.quests71.title}"
 			x: 6.0d
 			y: 15.0d
 		}
@@ -1462,10 +1462,10 @@
 						value: "forge:ores/pyrite"
 					}
 				}
-				title: "Any #forge:ores/pyrite"
+				title: "{sg.ore_index.quests72.tasks0.title}"
 				type: "item"
 			}]
-			title: "Pyrite"
+			title: "{sg.ore_index.quests72.title}"
 			x: 7.0d
 			y: 15.0d
 		}
@@ -1482,10 +1482,10 @@
 						value: "forge:ores/pyrochlore"
 					}
 				}
-				title: "Any #forge:ores/pyrochlore"
+				title: "{sg.ore_index.quests73.tasks0.title}"
 				type: "item"
 			}]
-			title: "Pyrochlore"
+			title: "{sg.ore_index.quests73.title}"
 			x: 8.0d
 			y: 15.0d
 		}
@@ -1502,10 +1502,10 @@
 						value: "forge:ores/pyrolusite"
 					}
 				}
-				title: "Any #forge:ores/pyrolusite"
+				title: "{sg.ore_index.quests74.tasks0.title}"
 				type: "item"
 			}]
-			title: "Pyrolusite"
+			title: "{sg.ore_index.quests74.title}"
 			x: 9.0d
 			y: 15.0d
 		}
@@ -1522,10 +1522,10 @@
 						value: "forge:ores/pyrope"
 					}
 				}
-				title: "Any #forge:ores/pyrope"
+				title: "{sg.ore_index.quests75.tasks0.title}"
 				type: "item"
 			}]
-			title: "Pyrope"
+			title: "{sg.ore_index.quests75.title}"
 			x: 10.0d
 			y: 15.0d
 		}
@@ -1542,10 +1542,10 @@
 						value: "forge:ores/quartzite"
 					}
 				}
-				title: "Any #forge:ores/quartzite"
+				title: "{sg.ore_index.quests76.tasks0.title}"
 				type: "item"
 			}]
-			title: "Quartzite"
+			title: "{sg.ore_index.quests76.title}"
 			x: 0.0d
 			y: 16.0d
 		}
@@ -1562,10 +1562,10 @@
 						value: "forge:ores/realgar"
 					}
 				}
-				title: "Any #forge:ores/realgar"
+				title: "{sg.ore_index.quests77.tasks0.title}"
 				type: "item"
 			}]
-			title: "Realgar"
+			title: "{sg.ore_index.quests77.title}"
 			x: 0.0d
 			y: 17.0d
 		}
@@ -1582,10 +1582,10 @@
 						value: "forge:ores/red_garnet"
 					}
 				}
-				title: "Any #forge:ores/red_garnet"
+				title: "{sg.ore_index.quests78.tasks0.title}"
 				type: "item"
 			}]
-			title: "Red Garnet"
+			title: "{sg.ore_index.quests78.title}"
 			x: 1.0d
 			y: 17.0d
 		}
@@ -1602,10 +1602,10 @@
 						value: "forge:ores/redstone"
 					}
 				}
-				title: "Any #forge:ores/redstone"
+				title: "{sg.ore_index.quests79.tasks0.title}"
 				type: "item"
 			}]
-			title: "Redstone"
+			title: "{sg.ore_index.quests79.title}"
 			x: 2.0d
 			y: 17.0d
 		}
@@ -1622,10 +1622,10 @@
 						value: "forge:ores/rock_salt"
 					}
 				}
-				title: "Any #forge:ores/rock_salt"
+				title: "{sg.ore_index.quests80.tasks0.title}"
 				type: "item"
 			}]
-			title: "Rock Salt"
+			title: "{sg.ore_index.quests80.title}"
 			x: 3.0d
 			y: 17.0d
 		}
@@ -1642,10 +1642,10 @@
 						value: "forge:ores/ruby"
 					}
 				}
-				title: "Any #forge:ores/ruby"
+				title: "{sg.ore_index.quests81.tasks0.title}"
 				type: "item"
 			}]
-			title: "Ruby"
+			title: "{sg.ore_index.quests81.title}"
 			x: 4.0d
 			y: 17.0d
 		}
@@ -1662,10 +1662,10 @@
 						value: "forge:ores/salt"
 					}
 				}
-				title: "Any #forge:ores/salt"
+				title: "{sg.ore_index.quests82.tasks0.title}"
 				type: "item"
 			}]
-			title: "Salt"
+			title: "{sg.ore_index.quests82.title}"
 			x: 0.0d
 			y: 18.0d
 		}
@@ -1682,10 +1682,10 @@
 						value: "forge:ores/saltpeter"
 					}
 				}
-				title: "Any #forge:ores/saltpeter"
+				title: "{sg.ore_index.quests83.tasks0.title}"
 				type: "item"
 			}]
-			title: "Saltpeter"
+			title: "{sg.ore_index.quests83.title}"
 			x: 1.0d
 			y: 18.0d
 		}
@@ -1702,10 +1702,10 @@
 						value: "forge:ores/sapphire"
 					}
 				}
-				title: "Any #forge:ores/sapphire"
+				title: "{sg.ore_index.quests84.tasks0.title}"
 				type: "item"
 			}]
-			title: "Sapphire"
+			title: "{sg.ore_index.quests84.title}"
 			x: 2.0d
 			y: 18.0d
 		}
@@ -1722,10 +1722,10 @@
 						value: "forge:ores/scheelite"
 					}
 				}
-				title: "Any #forge:ores/scheelite"
+				title: "{sg.ore_index.quests85.tasks0.title}"
 				type: "item"
 			}]
-			title: "Scheelite"
+			title: "{sg.ore_index.quests85.title}"
 			x: 3.0d
 			y: 18.0d
 		}
@@ -1742,10 +1742,10 @@
 						value: "forge:ores/cooperite"
 					}
 				}
-				title: "Any #forge:ores/sheldonite"
+				title: "{sg.ore_index.quests86.tasks0.title}"
 				type: "item"
 			}]
-			title: "Sheldonite"
+			title: "{sg.ore_index.quests86.title}"
 			x: 4.0d
 			y: 18.0d
 		}
@@ -1762,10 +1762,10 @@
 						value: "forge:ores/silver"
 					}
 				}
-				title: "Any #forge:ores/silver"
+				title: "{sg.ore_index.quests87.tasks0.title}"
 				type: "item"
 			}]
-			title: "Silver"
+			title: "{sg.ore_index.quests87.title}"
 			x: 5.0d
 			y: 18.0d
 		}
@@ -1782,10 +1782,10 @@
 						value: "forge:ores/soapstone"
 					}
 				}
-				title: "Any #forge:ores/soapstone"
+				title: "{sg.ore_index.quests88.tasks0.title}"
 				type: "item"
 			}]
-			title: "Soapstone"
+			title: "{sg.ore_index.quests88.title}"
 			x: 6.0d
 			y: 18.0d
 		}
@@ -1802,10 +1802,10 @@
 						value: "forge:ores/sodalite"
 					}
 				}
-				title: "Any #forge:ores/sodalite"
+				title: "{sg.ore_index.quests89.tasks0.title}"
 				type: "item"
 			}]
-			title: "Sodalite"
+			title: "{sg.ore_index.quests89.title}"
 			x: 7.0d
 			y: 18.0d
 		}
@@ -1822,10 +1822,10 @@
 						value: "forge:ores/spessartine"
 					}
 				}
-				title: "Any #forge:ores/spessartine"
+				title: "{sg.ore_index.quests90.tasks0.title}"
 				type: "item"
 			}]
-			title: "Spessartine"
+			title: "{sg.ore_index.quests90.title}"
 			x: 8.0d
 			y: 18.0d
 		}
@@ -1842,10 +1842,10 @@
 						value: "forge:ores/sphalerite"
 					}
 				}
-				title: "Any #forge:ores/sphalerite"
+				title: "{sg.ore_index.quests91.tasks0.title}"
 				type: "item"
 			}]
-			title: "Sphalerite"
+			title: "{sg.ore_index.quests91.title}"
 			x: 9.0d
 			y: 18.0d
 		}
@@ -1862,10 +1862,10 @@
 						value: "forge:ores/spodumene"
 					}
 				}
-				title: "Any #forge:ores/spodumene"
+				title: "{sg.ore_index.quests92.tasks0.title}"
 				type: "item"
 			}]
-			title: "Spodumene"
+			title: "{sg.ore_index.quests92.title}"
 			x: 10.0d
 			y: 18.0d
 		}
@@ -1882,10 +1882,10 @@
 						value: "forge:ores/stibnite"
 					}
 				}
-				title: "Any #forge:ores/stibnite"
+				title: "{sg.ore_index.quests93.tasks0.title}"
 				type: "item"
 			}]
-			title: "Stibnite"
+			title: "{sg.ore_index.quests93.title}"
 			x: 11.0d
 			y: 18.0d
 		}
@@ -1902,10 +1902,10 @@
 						value: "forge:ores/sulfur"
 					}
 				}
-				title: "Any #forge:ores/sulfur"
+				title: "{sg.ore_index.quests94.tasks0.title}"
 				type: "item"
 			}]
-			title: "Sulfur"
+			title: "{sg.ore_index.quests94.title}"
 			x: 12.0d
 			y: 18.0d
 		}
@@ -1922,10 +1922,10 @@
 						value: "forge:ores/talc"
 					}
 				}
-				title: "Any #forge:ores/talc"
+				title: "{sg.ore_index.quests95.tasks0.title}"
 				type: "item"
 			}]
-			title: "Talc"
+			title: "{sg.ore_index.quests95.title}"
 			x: 0.0d
 			y: 19.0d
 		}
@@ -1942,10 +1942,10 @@
 						value: "forge:ores/tantalite"
 					}
 				}
-				title: "Any #forge:ores/tantalite"
+				title: "{sg.ore_index.quests96.tasks0.title}"
 				type: "item"
 			}]
-			title: "Tantalite"
+			title: "{sg.ore_index.quests96.title}"
 			x: 1.0d
 			y: 19.0d
 		}
@@ -1962,10 +1962,10 @@
 						value: "forge:ores/tetrahedrite"
 					}
 				}
-				title: "Any #forge:ores/tetrahedrite"
+				title: "{sg.ore_index.quests97.tasks0.title}"
 				type: "item"
 			}]
-			title: "Tetrahedrite"
+			title: "{sg.ore_index.quests97.title}"
 			x: 2.0d
 			y: 19.0d
 		}
@@ -1982,10 +1982,10 @@
 						value: "forge:ores/thorium"
 					}
 				}
-				title: "Any #forge:ores/thorium"
+				title: "{sg.ore_index.quests98.tasks0.title}"
 				type: "item"
 			}]
-			title: "Thorium"
+			title: "{sg.ore_index.quests98.title}"
 			x: 3.0d
 			y: 19.0d
 		}
@@ -2002,10 +2002,10 @@
 						value: "forge:ores/tin"
 					}
 				}
-				title: "Any #forge:ores/tin"
+				title: "{sg.ore_index.quests99.tasks0.title}"
 				type: "item"
 			}]
-			title: "Tin"
+			title: "{sg.ore_index.quests99.title}"
 			x: 4.0d
 			y: 19.0d
 		}
@@ -2022,10 +2022,10 @@
 						value: "forge:ores/topaz"
 					}
 				}
-				title: "Any #forge:ores/topaz"
+				title: "{sg.ore_index.quests100.tasks0.title}"
 				type: "item"
 			}]
-			title: "Topaz"
+			title: "{sg.ore_index.quests100.title}"
 			x: 5.0d
 			y: 19.0d
 		}
@@ -2042,10 +2042,10 @@
 						value: "forge:ores/tricalcium_phosphate"
 					}
 				}
-				title: "Any #forge:ores/tricalcium_phosphate"
+				title: "{sg.ore_index.quests101.tasks0.title}"
 				type: "item"
 			}]
-			title: "Tricalcum Phosphate"
+			title: "{sg.ore_index.quests101.title}"
 			x: 6.0d
 			y: 19.0d
 		}
@@ -2062,10 +2062,10 @@
 						value: "forge:ores/trona"
 					}
 				}
-				title: "Any #forge:ores/trona"
+				title: "{sg.ore_index.quests102.tasks0.title}"
 				type: "item"
 			}]
-			title: "Trona"
+			title: "{sg.ore_index.quests102.title}"
 			x: 7.0d
 			y: 19.0d
 		}
@@ -2082,10 +2082,10 @@
 						value: "forge:ores/tungstate"
 					}
 				}
-				title: "Any #forge:ores/tungstate"
+				title: "{sg.ore_index.quests103.tasks0.title}"
 				type: "item"
 			}]
-			title: "Tungstate"
+			title: "{sg.ore_index.quests103.title}"
 			x: 8.0d
 			y: 19.0d
 		}
@@ -2102,10 +2102,10 @@
 						value: "forge:ores/uraninite"
 					}
 				}
-				title: "Any #forge:ores/uraninite"
+				title: "{sg.ore_index.quests104.tasks0.title}"
 				type: "item"
 			}]
-			title: "Uraninite"
+			title: "{sg.ore_index.quests104.title}"
 			x: 0.0d
 			y: 20.0d
 		}
@@ -2122,10 +2122,10 @@
 						value: "forge:ores/vanadium_magnetite"
 					}
 				}
-				title: "Any #forge:ores/vanadium_magnetite"
+				title: "{sg.ore_index.quests105.tasks0.title}"
 				type: "item"
 			}]
-			title: "Vanadium Magnetite"
+			title: "{sg.ore_index.quests105.title}"
 			x: 0.0d
 			y: 21.0d
 		}
@@ -2142,10 +2142,10 @@
 						value: "forge:ores/wulfenite"
 					}
 				}
-				title: "Any #forge:ores/wulfenite"
+				title: "{sg.ore_index.quests106.tasks0.title}"
 				type: "item"
 			}]
-			title: "Wulfenite"
+			title: "{sg.ore_index.quests106.title}"
 			x: 0.0d
 			y: 22.0d
 		}
@@ -2162,10 +2162,10 @@
 						value: "forge:ores/yellow_garnet"
 					}
 				}
-				title: "Any #forge:ores/yellow_garnet"
+				title: "{sg.ore_index.quests107.tasks0.title}"
 				type: "item"
 			}]
-			title: "Yellow Garnet"
+			title: "{sg.ore_index.quests107.title}"
 			x: 0.0d
 			y: 23.0d
 		}
@@ -2182,10 +2182,10 @@
 						value: "forge:ores/yellow_limonite"
 					}
 				}
-				title: "Any #forge:ores/yellow_limonite"
+				title: "{sg.ore_index.quests108.tasks0.title}"
 				type: "item"
 			}]
-			title: "Yellow Limonite"
+			title: "{sg.ore_index.quests108.title}"
 			x: 1.0d
 			y: 23.0d
 		}
@@ -2202,10 +2202,10 @@
 						value: "forge:ores/zeolite"
 					}
 				}
-				title: "Any #forge:ores/zeolite"
+				title: "{sg.ore_index.quests109.tasks0.title}"
 				type: "item"
 			}]
-			title: "Zeolite"
+			title: "{sg.ore_index.quests109.title}"
 			x: 0.0d
 			y: 24.0d
 		}
@@ -2222,5 +2222,5 @@
 			y: 0.0d
 		}
 	]
-	title: "Ore Index"
+	title: "{sg.ore_index.title}"
 }

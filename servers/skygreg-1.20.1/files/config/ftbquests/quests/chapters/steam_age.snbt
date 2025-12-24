@@ -12,11 +12,11 @@
 		{
 			dependencies: ["0A97982E76F36A72"]
 			description: [
-				"Accepts solid fuels and Water to create Steam. If no Water is present and they are heated up they will explode."
+				"{sg.steam_age.quests0.description0}"
 				""
-				"Note that fuels last much longer than in a normal Furnace. A single piece of Coke will burn for 32 minutes."
+				"{sg.steam_age.quests0.description1}"
 				""
-				"Advised you craft at least 2 of these."
+				"{sg.steam_age.quests0.description2}"
 			]
 			id: "6326F23510C4A363"
 			rewards: [{
@@ -25,7 +25,7 @@
 				item: "enderio:ender_fluid_conduit"
 				type: "item"
 			}]
-			subtitle: "Produces 6 L/t!"
+			subtitle: "{sg.steam_age.quests0.subtitle}"
 			tasks: [{
 				id: "50E21EC23BBCF7F4"
 				item: "gtceu:lp_steam_solid_boiler"
@@ -36,25 +36,25 @@
 		}
 		{
 			description: [
-				"While you don't need Wrought Iron Tools, you may want to use them. They have more durability than Iron Tools."
+				"{sg.steam_age.quests1.description0}"
 				""
-				"AE2 can handle tools with any durability for crafting \"just fine\"."
+				"{sg.steam_age.quests1.description1}"
 				""
-				"Most tools need plates which makes crafting Diamond Tools a little gated behind a Cutter, except a Diamond Hammer, that just requires normal Diamonds."
+				"{sg.steam_age.quests1.description2}"
 				""
-				"While some tools do have additional features not listed here, these are the main features."
+				"{sg.steam_age.quests1.description3}"
 				""
-				"Hammer - Can be used to mute a machine. Harvesting a block in the world will act as if it was run through a Forge Hammer. This allows GT Hammers to be used for obtaining Gravel, Sand, and Dust as well."
+				"{sg.steam_age.quests1.description4}"
 				""
-				"Wrench - Can be used to connect or disconnect Pipes, set output sides for machines, and rotate machines."
+				"{sg.steam_age.quests1.description5}"
 				""
-				"Wire Cutter - Can be used to connect or disconnect Wires/Cables."
+				"{sg.steam_age.quests1.description6}"
 				""
-				"Screwdriver - Can be used to edit Covers and various blocks like Drums."
+				"{sg.steam_age.quests1.description7}"
 				""
-				"Crowbar - Can be used to remove Covers from machines."
+				"{sg.steam_age.quests1.description8}"
 				""
-				"&6Any item with durability can be made Unbreakable by using it on a Block of Netherite, this will consume the Block of Netherite.&r"
+				"{sg.steam_age.quests1.description9}"
 			]
 			icon: {
 				Count: 1b
@@ -73,7 +73,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Wrought Iron!"
+			subtitle: "{sg.steam_age.quests1.subtitle}"
 			tasks: [
 				{
 					id: "02663DB849383638"
@@ -84,7 +84,7 @@
 							value: "forge:tools/hammers"
 						}
 					}
-					title: "Any #forge:tools/hammers"
+					title: "{sg.steam_age.quests1.tasks0.title}"
 					type: "item"
 				}
 				{
@@ -96,7 +96,7 @@
 							value: "forge:tools/files"
 						}
 					}
-					title: "Any #forge:tools/files"
+					title: "{sg.steam_age.quests1.tasks1.title}"
 					type: "item"
 				}
 				{
@@ -108,7 +108,7 @@
 							value: "forge:tools/saws"
 						}
 					}
-					title: "Any #forge:tools/saws"
+					title: "{sg.steam_age.quests1.tasks2.title}"
 					type: "item"
 				}
 				{
@@ -120,7 +120,7 @@
 							value: "forge:tools/mortars"
 						}
 					}
-					title: "Any #forge:tools/mortars"
+					title: "{sg.steam_age.quests1.tasks3.title}"
 					type: "item"
 				}
 				{
@@ -132,7 +132,7 @@
 							value: "forge:tools/knives"
 						}
 					}
-					title: "Any #forge:tools/knives"
+					title: "{sg.steam_age.quests1.tasks4.title}"
 					type: "item"
 				}
 				{
@@ -144,7 +144,7 @@
 							value: "forge:tools/wrenches"
 						}
 					}
-					title: "Any #forge:tools/wrenches"
+					title: "{sg.steam_age.quests1.tasks5.title}"
 					type: "item"
 				}
 				{
@@ -156,7 +156,7 @@
 							value: "forge:tools/screwdrivers"
 						}
 					}
-					title: "Any #forge:tools/screwdrivers"
+					title: "{sg.steam_age.quests1.tasks6.title}"
 					type: "item"
 				}
 				{
@@ -168,7 +168,7 @@
 							value: "forge:tools/wire_cutters"
 						}
 					}
-					title: "Any #forge:tools/wire_cutters"
+					title: "{sg.steam_age.quests1.tasks7.title}"
 					type: "item"
 				}
 				{
@@ -180,25 +180,25 @@
 							value: "forge:tools/crowbars"
 						}
 					}
-					title: "Any #forge:tools/crowbars"
+					title: "{sg.steam_age.quests1.tasks8.title}"
 					type: "item"
 				}
 			]
-			title: "Basic Tools"
+			title: "{sg.steam_age.quests1.title}"
 			x: 1.0d
 			y: 1.0d
 		}
 		{
 			description: [
-				"To make a Water Pump for your Steam Boilers you will first need Creosote Oil to make Treated Wood."
+				"{sg.steam_age.quests2.description0}"
 				""
-				"The 3 Coke Oven Hatches are optional and allow automation, however if you don't use those then you need 3 more Coke Oven Bricks."
+				"{sg.steam_age.quests2.description1}"
 				""
-				"Make sure to build all multiblocks within a single chunk, do not let a multiblock machine cross over chunk borders. Pres F3+G to see chunk borders."
+				"{sg.steam_age.quests2.description2}"
 				""
-				"For a visual representation of all multiblock setups check the uses of a multiblock part in EMI and there is a page for Multiblock Info which displays a visual guide."
+				"{sg.steam_age.quests2.description3}"
 				""
-				"1 Hopper Botany Pot can easily be enough to automate a Coke Oven."
+				"{sg.steam_age.quests2.description4}"
 			]
 			icon: "gtceu:coke_oven"
 			id: "44F6E37B685C5887"
@@ -207,7 +207,7 @@
 				item: "gtceu:lv_super_tank"
 				type: "item"
 			}]
-			subtitle: "Making Creosote Oil!"
+			subtitle: "{sg.steam_age.quests2.subtitle}"
 			tasks: [
 				{
 					id: "52046626A445FEDA"
@@ -217,13 +217,19 @@
 				{
 					count: 22L
 					id: "6FF437289192AF5E"
-					item: { Count: 22b, id: "gtceu:coke_oven_bricks" }
+					item: {
+						Count: 22b
+						id: "gtceu:coke_oven_bricks"
+					}
 					type: "item"
 				}
 				{
 					count: 3L
 					id: "3D9B364F17A24266"
-					item: { Count: 3b, id: "gtceu:coke_oven_hatch" }
+					item: {
+						Count: 3b
+						id: "gtceu:coke_oven_hatch"
+					}
 					optional_task: true
 					type: "item"
 				}
@@ -234,11 +240,11 @@
 		{
 			dependencies: ["44F6E37B685C5887"]
 			description: [
-				"Slowly generates Water, does not actually need a source of Water."
+				"{sg.steam_age.quests3.description0}"
 				""
-				"Use Pipes to move the Water where you need."
+				"{sg.steam_age.quests3.description1}"
 				""
-				"You can upgrade the Output Hatch to increase the amount of Water produced."
+				"{sg.steam_age.quests3.description2}"
 			]
 			icon: "gtceu:primitive_pump"
 			id: "26C0BE9C665B7AC2"
@@ -248,7 +254,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Making Water!"
+			subtitle: "{sg.steam_age.quests3.subtitle}"
 			tasks: [
 				{
 					id: "09529902E1A57929"
@@ -263,13 +269,19 @@
 				{
 					count: 10L
 					id: "461481F8F07320F2"
-					item: { Count: 10b, id: "gtceu:pump_deck" }
+					item: {
+						Count: 10b
+						id: "gtceu:pump_deck"
+					}
 					type: "item"
 				}
 				{
 					count: 10L
 					id: "1231C7412BC83614"
-					item: { Count: 10b, id: "gtceu:treated_wood_frame" }
+					item: {
+						Count: 10b
+						id: "gtceu:treated_wood_frame"
+					}
 					type: "item"
 				}
 			]
@@ -278,13 +290,13 @@
 		}
 		{
 			description: [
-				"If somehow you need more, random saplings and Plant Fiber are obtained by harvesting Dirt with a Crushing Hammer."
+				"{sg.steam_age.quests4.description0}"
 				""
-				"Harvesting a Rubber Tree will also grant Sticky Resin."
+				"{sg.steam_age.quests4.description1}"
 				""
-				"You can grow them in a Botany Pot as well."
+				"{sg.steam_age.quests4.description2}"
 				""
-				"For some reason you get more planks from Rubber Logs than other logs."
+				"{sg.steam_age.quests4.description3}"
 			]
 			id: "5B6AC63BCB093B52"
 			rewards: [{
@@ -293,7 +305,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "More efficient planks?"
+			subtitle: "{sg.steam_age.quests4.subtitle}"
 			tasks: [{
 				id: "3F19AFB003624609"
 				item: "gtceu:rubber_sapling"
@@ -305,11 +317,11 @@
 		{
 			dependencies: ["5B6AC63BCB093B52"]
 			description: [
-				"Will be needed in large quantities when making circuits."
+				"{sg.steam_age.quests5.description0}"
 				""
-				"While you can extract Sticky Resin from other parts of a Rubber Tree, Sticky Resin gives 3 compared to 1."
+				"{sg.steam_age.quests5.description1}"
 				""
-				"Note you can get Sticky Resin from a Botany Pot as well but harvesting Rubber Trees in world is significantly faster. If you need a lot fast then just Ultimine a bunch of Rubber Trees."
+				"{sg.steam_age.quests5.description2}"
 			]
 			id: "39DF76F5BACDCD50"
 			rewards: [{
@@ -318,7 +330,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "From Rubber Trees!"
+			subtitle: "{sg.steam_age.quests5.subtitle}"
 			tasks: [{
 				id: "0956B4B9858DC12C"
 				item: "gtceu:sticky_resin"
@@ -329,13 +341,13 @@
 		}
 		{
 			description: [
-				"While some basic alloys like Bronze can be made by hand, some more advanced alloys like Red Alloy Ingots require an Alloy Smelter."
+				"{sg.steam_age.quests6.description0}"
 				""
-				"All steam machines require an output side which can be set with a Wrench. The output side allows steam buildup to escape. If there is no output side for steam buildup to escape the machine will stop working. Do not block the output side."
+				"{sg.steam_age.quests6.description1}"
 				""
-				"If your machine made 1 recipe then stopped, this is why."
+				"{sg.steam_age.quests6.description2}"
 				""
-				"Below is an image of an automated Alloy Smelter, crafting Red Alloy Ingots. You can use a Robot Arm on the Redstone side to supply an exact amount into the Alloy Smelter so it doesn't overfill with 1 material. A Conveyer will be good enough for the Copper side as it is slower than the Redstone."
+				"{sg.steam_age.quests6.description3}"
 				""
 				"{image:kubejs:block/alloy_smelter_setup width:200 height:100 align:1}"
 			]
@@ -346,7 +358,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "More alloys!"
+			subtitle: "{sg.steam_age.quests6.subtitle}"
 			tasks: [{
 				id: "6C7732C721F299BD"
 				item: "gtceu:lp_steam_alloy_smelter"
@@ -358,9 +370,9 @@
 		{
 			dependencies: ["6DAFD9381C3B52B2"]
 			description: [
-				"Nuggets to Ingots and Ingots to Blocks cannot be crafted by hand, you need to compress them."
+				"{sg.steam_age.quests7.description0}"
 				""
-				"Also required for things like compressing Fireclay Dust into Compressed Fireclay."
+				"{sg.steam_age.quests7.description1}"
 			]
 			id: "74F7C053E4CF2F6B"
 			rewards: [{
@@ -369,7 +381,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Ingots to Blocks \\& more!"
+			subtitle: "{sg.steam_age.quests7.subtitle}"
 			tasks: [{
 				id: "3E5060C28630BAC6"
 				item: "gtceu:lp_steam_compressor"
@@ -380,7 +392,7 @@
 		}
 		{
 			dependencies: ["74F7C053E4CF2F6B"]
-			description: ["While it can do other things, most notably you can make Plates at a 3:2 ratio, still better than a Hammer."]
+			description: ["{sg.steam_age.quests8.description0}"]
 			id: "09E071CA95A779BB"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -388,7 +400,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Slightly more efficient Plates!"
+			subtitle: "{sg.steam_age.quests8.subtitle}"
 			tasks: [{
 				id: "0203DE11A0AD5AEE"
 				item: "gtceu:lp_steam_forge_hammer"
@@ -400,15 +412,15 @@
 		{
 			dependencies: ["6886D21F1A09609E"]
 			description: [
-				"Something to note on Circuits, everything revolves around Circuits and they typically evolve into higher tier Circuits. Each Circuit type usually evolves 3 times with some exceptions near the start and end. Every machine you make will require at least 1 Circuit and sometimes up to 4. When crafting Circuits always mass craft as much as you can. Having stacks of Circuits will always be helpful. Each age has their own tier of Circuits and usually grants access to crafting earlier tiers of Circuits easier."
+				"{sg.steam_age.quests9.description0}"
 				""
-				"Each machine needs on average 2, and the next tier of Circuits requires 3 of this tier Circuit. You will want to automate as much of this as possible."
+				"{sg.steam_age.quests9.description1}"
 				""
-				"Keep in mind certain resources will become significantly easier to process and obtain once you reach the LV age, like Wires in a Wiremill. You may want to make as few of these as possible until you get some new machinery and a basic energy setup."
+				"{sg.steam_age.quests9.description2}"
 				""
-				"Keep in mind resources are infinite and every single step of the process can be 100% automated if you wish."
+				"{sg.steam_age.quests9.description3}"
 				""
-				"See the Progression quest page for a visual diagram of how Circuits evolve."
+				"{sg.steam_age.quests9.description4}"
 			]
 			id: "24077F274DED7F5B"
 			rewards: [{
@@ -419,7 +431,7 @@
 			}]
 			shape: "octagon"
 			size: 2.0d
-			subtitle: "LV Circuits!"
+			subtitle: "{sg.steam_age.quests9.subtitle}"
 			tasks: [{
 				id: "6622692007EF4845"
 				item: "gtceu:basic_electronic_circuit"
@@ -433,7 +445,7 @@
 				"1A9674F0CBCB1F29"
 				"74F7C053E4CF2F6B"
 			]
-			description: ["Firebricks are no quick task, and you need a lot of them. Steel Ingots can also be made in the Electric Blast Furnace in the LV age."]
+			description: ["{sg.steam_age.quests10.description0}"]
 			icon: "gtceu:primitive_blast_furnace"
 			id: "52B7EB752B0BB4D2"
 			rewards: [{
@@ -442,7 +454,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Steel!"
+			subtitle: "{sg.steam_age.quests10.subtitle}"
 			tasks: [
 				{
 					id: "6470FF7DF9FD88D9"
@@ -452,7 +464,10 @@
 				{
 					count: 32L
 					id: "515C57481C860B2B"
-					item: { Count: 32b, id: "gtceu:firebricks" }
+					item: {
+						Count: 32b
+						id: "gtceu:firebricks"
+					}
 					type: "item"
 				}
 			]
@@ -462,9 +477,9 @@
 		{
 			dependencies: ["6DAFD9381C3B52B2"]
 			description: [
-				"Crushes many different items into dusts."
+				"{sg.steam_age.quests11.description0}"
 				""
-				"Note that Macerators do not give byproducts unless using an HV Macerator or higher. Each tier above HV will increase the chances of getting a byproduct."
+				"{sg.steam_age.quests11.description1}"
 			]
 			id: "1A9674F0CBCB1F29"
 			rewards: [{
@@ -473,7 +488,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Dusts!"
+			subtitle: "{sg.steam_age.quests11.subtitle}"
 			tasks: [{
 				id: "51E696FE5BEA9318"
 				item: "gtceu:lp_steam_macerator"
@@ -484,9 +499,9 @@
 		}
 		{
 			description: [
-				"Grow your crops and trees automatically with a Hopper Botany Pot. Ideal for most resources."
+				"{sg.steam_age.quests12.description0}"
 				""
-				"You can use the rewards to automate your Coke Oven, or whatever you want but you probably don't quite have access to Rubber yet."
+				"{sg.steam_age.quests12.description1}"
 			]
 			icon: "botanypots:terracotta_hopper_botany_pot"
 			id: "5022AACEA2A54B10"
@@ -508,7 +523,7 @@
 					type: "loot"
 				}
 			]
-			subtitle: "Crops \\& trees!"
+			subtitle: "{sg.steam_age.quests12.subtitle}"
 			tasks: [{
 				id: "2A3078E9EE1ED5D9"
 				item: {
@@ -518,16 +533,16 @@
 						value: "botanypots:hopper_botany_pots"
 					}
 				}
-				title: "Hopper Botany Pots"
+				title: "{sg.steam_age.quests12.tasks0.title}"
 				type: "item"
 			}]
-			title: "Hopper Botany Pot"
+			title: "{sg.steam_age.quests12.title}"
 			x: 3.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["67A71A946653F866"]
-			description: ["Your first Glass will be in an Alloy Smelter with Glass Dust and a Casting Mold (Block), Casting Molds are not consumed."]
+			description: ["{sg.steam_age.quests13.description0}"]
 			id: "42B0FC6BA95B3092"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -535,7 +550,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Steel before Glass?"
+			subtitle: "{sg.steam_age.quests13.subtitle}"
 			tasks: [{
 				id: "2FD04129A431162A"
 				item: "minecraft:glass"
@@ -547,11 +562,11 @@
 		{
 			dependencies: ["52B7EB752B0BB4D2"]
 			description: [
-				"There are a few combinations you can use to make Steel Ingots at first but Wrought Iron Ingots and Coke is the fastest."
+				"{sg.steam_age.quests14.description0}"
 				""
-				"Note that using the Market block you can buy Spawn Eggs of almost every mob using Steel Ingots as payment."
+				"{sg.steam_age.quests14.description1}"
 				""
-				"Steel is going to be used for basically everything throughout the LV age, just like Bronze was used for basically everything in the Steam age. This will be a pattern going forward for each age."
+				"{sg.steam_age.quests14.description2}"
 			]
 			id: "67A71A946653F866"
 			rewards: [{
@@ -561,7 +576,7 @@
 				type: "loot"
 			}]
 			size: 1.5d
-			subtitle: "LV material!"
+			subtitle: "{sg.steam_age.quests14.subtitle}"
 			tasks: [{
 				id: "7C5076C258DA4E3C"
 				item: "gtceu:steel_ingot"
@@ -577,9 +592,9 @@
 				"5B6AC63BCB093B52"
 			]
 			description: [
-				"This is technically the final piece of the puzzle for your first Circuit. You now have everything you require to craft them."
+				"{sg.steam_age.quests15.description0}"
 				""
-				"A large amount of Rubber Sheets will be required for Cables. Look into automating Liquid Rubber in the LV age."
+				"{sg.steam_age.quests15.description1}"
 			]
 			id: "6886D21F1A09609E"
 			rewards: [{
@@ -588,7 +603,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Here we go!"
+			subtitle: "{sg.steam_age.quests15.subtitle}"
 			tasks: [{
 				id: "0F4B4A3ADD556102"
 				item: "gtceu:rubber_ingot"
@@ -599,9 +614,9 @@
 		}
 		{
 			description: [
-				"You have access to Raw Sulfur without needing The Nether."
+				"{sg.steam_age.quests16.description0}"
 				""
-				"Required for creating Rubber Ingots in an Alloy Smelter."
+				"{sg.steam_age.quests16.description1}"
 			]
 			id: "432EC5B2AAFF1966"
 			rewards: [{
@@ -610,7 +625,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "No Nether required!"
+			subtitle: "{sg.steam_age.quests16.subtitle}"
 			tasks: [{
 				id: "363AA109BB83CB32"
 				item: "gtceu:sulfur_dust"
@@ -622,11 +637,11 @@
 		{
 			dependencies: ["42B0FC6BA95B3092"]
 			description: [
-				"While this machine has over 400 recipes, we will just focus on 1, Raw Rubber Pulp."
+				"{sg.steam_age.quests17.description0}"
 				""
-				"Raw Rubber Pulp comes from basically every part of a Rubber Tree, however Sticky Resin gives the most."
+				"{sg.steam_age.quests17.description1}"
 				""
-				"You can easily automate Sticky Resin in a Hopper Botany Pot, it has a 65% chance to produce a Sticky Resin when growing."
+				"{sg.steam_age.quests17.description2}"
 			]
 			id: "664CAC8FC2C23B37"
 			rewards: [{
@@ -635,7 +650,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Extract all the things!"
+			subtitle: "{sg.steam_age.quests17.subtitle}"
 			tasks: [{
 				id: "60F8596D4B201A96"
 				item: "gtceu:lp_steam_extractor"
@@ -647,17 +662,17 @@
 		{
 			dependencies: ["67A71A946653F866"]
 			description: [
-				"Will generate whatever ore is above it at a rate of 1 per second and place it in its inventory."
+				"{sg.steam_age.quests18.description0}"
 				""
-				"Advised to set one of these up for each ore you require, simulating a never ending automated ore vein of that type."
+				"{sg.steam_age.quests18.description1}"
 				""
-				"You can use a combination of blocks from the Simple Resource Generators mod to get an ore where you need it to be."
+				"{sg.steam_age.quests18.description2}"
 				""
-				"Keep in mind Nether and End Ores smelt into 2 ingots."
+				"{sg.steam_age.quests18.description3}"
 				""
-				"If you want the raw ores instead of ores, look into a Block Breaker when you can."
+				"{sg.steam_age.quests18.description4}"
 				""
-				"Before trying to progress too much you should try to get at least a few of these crafted."
+				"{sg.steam_age.quests18.description5}"
 				""
 				"{image:kubejs:block/basic_ore_gen_setup width:200 height:100 align:1}"
 			]
@@ -668,7 +683,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "No more mining!"
+			subtitle: "{sg.steam_age.quests18.subtitle}"
 			tasks: [{
 				id: "56EDAC7CE23A49E0"
 				item: "simple_resource_generators:simple_ore_generator"
@@ -680,11 +695,11 @@
 		{
 			dependencies: ["39DF76F5BACDCD50"]
 			description: [
-				"The first form of portable fluid storage available."
+				"{sg.steam_age.quests19.description0}"
 				""
-				"Drums cannot be inserted into from the bottom, but they can be configured with a Screwdriver to auto export from the bottom."
+				"{sg.steam_age.quests19.description1}"
 				""
-				"You can insert or extract fluids from a machine by trying to place a Drum that contains fluids in the fluid input slot, or trying to place a Drum with space in it in a fluid ouput slot that contains a fluid."
+				"{sg.steam_age.quests19.description2}"
 			]
 			id: "1F1248DE2F3C8781"
 			rewards: [{
@@ -693,7 +708,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Basic fluid storage!"
+			subtitle: "{sg.steam_age.quests19.subtitle}"
 			tasks: [{
 				id: "1704ED42F1A7DD84"
 				item: "gtceu:wood_drum"
@@ -705,13 +720,13 @@
 		{
 			dependencies: ["0A97982E76F36A72"]
 			description: [
-				"The second form of portable fluid storage available."
+				"{sg.steam_age.quests20.description0}"
 				""
-				"Comes in all of the standard progression materials like Bronze, Steel, Aluminium, and so on."
+				"{sg.steam_age.quests20.description1}"
 				""
-				"Advised to always have the largest Steam buffer possible."
+				"{sg.steam_age.quests20.description2}"
 				""
-				"Drums cannot be inserted into from the bottom, but they can be configured with a Screwdriver to auto export from the bottom."
+				"{sg.steam_age.quests20.description3}"
 			]
 			id: "7A21A6146D884272"
 			rewards: [{
@@ -720,7 +735,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "More Steam!"
+			subtitle: "{sg.steam_age.quests20.subtitle}"
 			tasks: [{
 				id: "514143FA944D915E"
 				item: "gtceu:bronze_drum"
@@ -732,11 +747,11 @@
 		{
 			dependencies: ["67A71A946653F866"]
 			description: [
-				"The third form of portable fluid storage available."
+				"{sg.steam_age.quests21.description0}"
 				""
-				"Advised to always have the largest Steam buffer possible."
+				"{sg.steam_age.quests21.description1}"
 				""
-				"Drums cannot be inserted into from the bottom, but they can be configured with a Screwdriver to auto export from the bottom."
+				"{sg.steam_age.quests21.description2}"
 			]
 			id: "741701B800B3950C"
 			rewards: [{
@@ -745,7 +760,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "MORE STEAM!"
+			subtitle: "{sg.steam_age.quests21.subtitle}"
 			tasks: [{
 				id: "3FFE2602AA34313F"
 				item: "gtceu:steel_drum"
@@ -757,9 +772,9 @@
 		{
 			dependencies: ["67A71A946653F866"]
 			description: [
-				"An upgraded Steam Boiler, produces slightly more than double the standard Low Pressure Steam Solid Boiler."
+				"{sg.steam_age.quests22.description0}"
 				""
-				"A single piece of Coke will burn for 16 minutes."
+				"{sg.steam_age.quests22.description1}"
 			]
 			id: "65A06EC2CB4FD2B4"
 			rewards: [{
@@ -768,7 +783,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Produces 15 L/t!"
+			subtitle: "{sg.steam_age.quests22.subtitle}"
 			tasks: [{
 				id: "38865BF9113DA43A"
 				item: "gtceu:hp_steam_solid_boiler"
@@ -779,9 +794,9 @@
 		}
 		{
 			description: [
-				"Buy most seeds, saplings, crops, and even Spawn Eggs."
+				"{sg.steam_age.quests23.description0}"
 				""
-				"You can turn Redstone Dust into Red Dye if needed for the recipe."
+				"{sg.steam_age.quests23.description1}"
 			]
 			id: "374D02B5D67CC32B"
 			rewards: [
@@ -798,7 +813,7 @@
 					type: "loot"
 				}
 			]
-			subtitle: "Buy things!"
+			subtitle: "{sg.steam_age.quests23.subtitle}"
 			tasks: [{
 				id: "6ACFF07AB4245C45"
 				item: "farmingforblockheads:market"
@@ -810,23 +825,23 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"See the Multiblock Info tab by checking the uses for the Large Bronze Boiler in REI for exact number of blocks and setup as it can be slightly modular depending what fuel source you use (solid or liquid)."
+				"{sg.steam_age.quests24.description0}"
 				""
-				"You can either use solid or liquid fuels, hence the 2 optional quests for the Hatches. Both are viable but personally I like to feed it with Lava."
+				"{sg.steam_age.quests24.description1}"
 				""
-				"Fuel is consumed VERY quickly to produce up to 800 mb/t of Steam. You need a very good fuel production in order to properly run this multiblock boiler."
+				"{sg.steam_age.quests24.description2}"
 				""
-				"6 Iron Lava Furnaces is just enough to keep up with the fuel consumption rate. If you are having problems with fuel consumption, try turning the Throttle down to 25% when starting the Boiler, then turn it back up to 100%."
+				"{sg.steam_age.quests24.description3}"
 				""
-				"1 Water Source Tier 1 is more than enough to keep up with the Water comsumption rate."
+				"{sg.steam_age.quests24.description4}"
 				""
-				"&6&nDO NOT provide fuel without Water or it will explode.&r"
+				"{sg.steam_age.quests24.description5}"
 				""
-				"There are higher tier multiblock boilers available that produce more Steam."
+				"{sg.steam_age.quests24.description6}"
 				""
-				"As this is probably 1 of your first muiltiblocks with a Maintenance Hatch, you should know about them. When you first place down a Maintenance Hatch it will need to be \"maintained\" with certain tools. Open the Maintenance Hatch and hover over the icon to the top right to see the issues. Left click in the main slot in the interface with the correct tools in your inventory to \"maintain\" the Maintentance Hatch. This needs to be done the first time you place down the Maintenance Hatch and again many hours down the road. I went about 600 Minecraft days until I needed to maintain my Boiler again. If a multiblock requires maintenance then it will stop working."
+				"{sg.steam_age.quests24.description7}"
 				""
-				"If this is your first multiblock in general, you may want to check out the Multiblocks quest in the LV chapter."
+				"{sg.steam_age.quests24.description8}"
 			]
 			icon: "gtceu:bronze_large_boiler"
 			id: "15E8A6C162C7B9A0"
@@ -836,7 +851,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "So much Steam!"
+			subtitle: "{sg.steam_age.quests24.subtitle}"
 			tasks: [
 				{
 					id: "2515D18F7F8DD9EB"
@@ -886,7 +901,7 @@
 		}
 		{
 			dependencies: ["6886D21F1A09609E"]
-			description: ["A pretty basic multiblock that runs off Steam and smelts 8 things at once."]
+			description: ["{sg.steam_age.quests25.description0}"]
 			icon: "gtceu:steam_oven"
 			id: "4F51C8EEB96E0926"
 			rewards: [{
@@ -895,7 +910,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Smelts 8 at once!"
+			subtitle: "{sg.steam_age.quests25.subtitle}"
 			tasks: [
 				{
 					id: "3BFBE58D1971B8C2"
@@ -905,13 +920,19 @@
 				{
 					count: 8L
 					id: "61B310C0AC0555AB"
-					item: { Count: 8b, id: "gtceu:bronze_firebox_casing" }
+					item: {
+						Count: 8b
+						id: "gtceu:bronze_firebox_casing"
+					}
 					type: "item"
 				}
 				{
 					count: 8L
 					id: "66EA371DDE914008"
-					item: { Count: 8b, id: "gtceu:steam_machine_casing" }
+					item: {
+						Count: 8b
+						id: "gtceu:steam_machine_casing"
+					}
 					type: "item"
 				}
 				{
@@ -935,24 +956,24 @@
 		}
 		{
 			description: [
-				"Use your AE2 system for more than just storage and autocrafting. You have more than enough space to be able to use your system as a piping method as well."
+				"{sg.steam_age.quests26.description0}"
 				""
-				"Your AE2 system can store Steam as a fluid, use Import/Export Busses to move Steam around your base efficiently."
+				"{sg.steam_age.quests26.description1}"
 				""
-				"This goes for all fluids, GregTech is very heavy on the use of different fluids and they can be tricky to handle sometimes."
+				"{sg.steam_age.quests26.description2}"
 				""
 				"{image:kubejs:block/ae_fluids width:150 height:100 align:1}"
 				""
-				"See the AE2 quest chapter for some information on basic autocrafting."
+				"{sg.steam_age.quests26.description3}"
 				""
-				"Hold [G] while hovering over an item to pull up an in game guide."
+				"{sg.steam_age.quests26.description4}"
 			]
 			id: "162E684115B1D2B0"
 			shape: "gear"
-			subtitle: "Can be used as piping!"
+			subtitle: "{sg.steam_age.quests26.subtitle}"
 			tasks: [{
 				id: "0092F1440CE43D41"
-				title: "AE2"
+				title: "{sg.steam_age.quests26.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -2.0d
@@ -960,44 +981,44 @@
 		}
 		{
 			description: [
-				"GregTech pipes can be quite good in certain situations, in other situations you may want to go for AE2, Modular Routers, EnderIO, or LaserIO, or even Ender Tanks/Chests or Dimensional Tanks/Chests."
+				"{sg.steam_age.quests27.description0}"
 				""
-				"The Covers can make GregTech Pipes quite powerful but the pipes in general are known to be a bit buggy from time to time."
+				"{sg.steam_age.quests27.description1}"
 				""
-				"&6*GregTech auto extraction methods can be buggy at times, mixing some logistics mods together may be required for certain tasks.*&r"
+				"{sg.steam_age.quests27.description2}"
 			]
 			id: "114329D8F17C4FCF"
 			shape: "gear"
-			subtitle: "More than just GregTech!"
+			subtitle: "{sg.steam_age.quests27.subtitle}"
 			tasks: [{
 				id: "40D0AAAC74A28826"
-				title: "GregTech Pipes"
+				title: "{sg.steam_age.quests27.tasks0.title}"
 				type: "checkmark"
 			}]
-			title: "Logistics"
+			title: "{sg.steam_age.quests27.title}"
 			x: -1.0d
 			y: 1.0d
 		}
 		{
 			description: [
-				"Before electricity you will require Steam power. Each Steam powered machine has a small internal buffer for Steam but it is advised to have a large Steam buffer."
+				"{sg.steam_age.quests28.description0}"
 				""
-				"Steam machines require a Steam exhaust port to be set using a Wrench. This will allow a small amount of pressured Steam to escape into the world after each craft. You cannot block the exhaust port or the Steam cannot escape, making the machine stop. Standing in the escaping Steam will also damage you. If your machine did 1 recipe then stopped, this is why."
+				"{sg.steam_age.quests28.description1}"
 				""
-				"Steam can be transfered using any fluid transfer method. If using GregTech Pipes, make sure they can handle Gasses and have the proper heat rating."
+				"{sg.steam_age.quests28.description2}"
 				""
-				"Never provide fuel to a Steam Boiler of any kind without having Water present or the Boiler will explode. What causes the explosion is when the Boiler is heated up without Water, and then receives Water. &6&n&lWhen a Boiler is hot and has no Water, it will explode when receiving Water.&r&r&r Always make sure Water is present. This being said, they do not actually consume too much Water."
+				"{sg.steam_age.quests28.description3}"
 				""
-				"When talking about Steam amounts, 1 L = 1mb, so 1000 L of Steam is 1 Bucket."
+				"{sg.steam_age.quests28.description4}"
 				""
-				"Steam can leak out of an open Pipe connection, make sure your Pipe lines are all closed."
+				"{sg.steam_age.quests28.description5}"
 			]
 			id: "707DAB26AC9F7E1E"
 			shape: "gear"
-			subtitle: "Bronze!"
+			subtitle: "{sg.steam_age.quests28.subtitle}"
 			tasks: [{
 				id: "25E21432FAF34549"
-				title: "Steam Age"
+				title: "{sg.steam_age.quests28.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -1005,7 +1026,7 @@
 		}
 		{
 			dependencies: ["42B0FC6BA95B3092"]
-			description: ["Works the same as a Low Pressure Steam Solid Boiler, but uses sunlight instead of solid fuel."]
+			description: ["{sg.steam_age.quests29.description0}"]
 			id: "78A06680950D521E"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1013,7 +1034,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "6 L/t!"
+			subtitle: "{sg.steam_age.quests29.subtitle}"
 			tasks: [{
 				id: "7E7142362EF449CB"
 				item: "gtceu:lp_steam_solar_boiler"
@@ -1024,7 +1045,7 @@
 		}
 		{
 			dependencies: ["78A06680950D521E"]
-			description: ["Better than the Solid Boilers but not quite as good as the Liquid Boilers."]
+			description: ["{sg.steam_age.quests30.description0}"]
 			id: "576C5981D62EF851"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1032,7 +1053,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "18 L/t!"
+			subtitle: "{sg.steam_age.quests30.subtitle}"
 			tasks: [{
 				id: "02090080597E8D40"
 				item: "gtceu:hp_steam_solar_boiler"
@@ -1043,29 +1064,29 @@
 		}
 		{
 			description: [
-				"Most multiblocks can share the walls, floors, and ceiling."
+				"{sg.steam_age.quests31.description0}"
 				""
 				"{image:kubejs:block/share_walls_1 width:150 height:100 align:1}"
 				""
-				"In this picture all 4 Coke Ovens are sharing blocks with each other. The ceiling of the bottom level is the floor of the top level and the middle walls are all shared. The center block in this picture is actually being shared by all 4 multiblocks."
+				"{sg.steam_age.quests31.description1}"
 				""
-				"Hatches and busses can often be shared as well, allowing for much more compact designs and automation."
+				"{sg.steam_age.quests31.description2}"
 			]
 			id: "3E50D61BCCCA4E37"
 			shape: "gear"
-			subtitle: "Save materials!"
+			subtitle: "{sg.steam_age.quests31.subtitle}"
 			tasks: [{
 				id: "243F42710C942024"
-				title: "Sharing Walls"
+				title: "{sg.steam_age.quests31.tasks0.title}"
 				type: "checkmark"
 			}]
-			title: "Sharing Multiblock Walls"
+			title: "{sg.steam_age.quests31.title}"
 			x: -1.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["24077F274DED7F5B"]
-			description: ["Can be used as a Cover to regulate how many items can be inserted/extracted at a time or in general. Can be used to always keep a certain amount of items in a machine, to not overfill a machine with 1 type of item."]
+			description: ["{sg.steam_age.quests32.description0}"]
 			id: "38D5A2AF4825C9C7"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1073,7 +1094,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Supply exact amounts!"
+			subtitle: "{sg.steam_age.quests32.subtitle}"
 			tasks: [{
 				id: "773C0F09B5C8E688"
 				item: "gtceu:lv_robot_arm"
@@ -1084,7 +1105,7 @@
 		}
 		{
 			dependencies: ["6F21BD847AA00292"]
-			description: ["Early Bronze can be crafted by hand with Copper Dust and Tin Dust, which can be obtained by crafting Ingots with a Mortar."]
+			description: ["{sg.steam_age.quests33.description0}"]
 			icon: "gtceu:bronze_dust"
 			id: "0A97982E76F36A72"
 			rewards: [{
@@ -1093,7 +1114,7 @@
 				table_id: 5211152349443614610L
 				type: "loot"
 			}]
-			subtitle: "Mortar + Ingots!"
+			subtitle: "{sg.steam_age.quests33.subtitle}"
 			tasks: [
 				{
 					count: 3L
@@ -1104,7 +1125,10 @@
 				{
 					count: 3L
 					id: "0B8A33EB6F2076DF"
-					item: { Count: 3b, id: "gtceu:copper_dust" }
+					item: {
+						Count: 3b
+						id: "gtceu:copper_dust"
+					}
 					type: "item"
 				}
 				{
@@ -1113,11 +1137,11 @@
 					type: "item"
 				}
 			]
-			title: "Bronze Dust"
+			title: "{sg.steam_age.quests33.title}"
 			x: 1.0d
 			y: 4.0d
 		}
 	]
-	subtitle: ["Bronze!"]
-	title: "Steam Age"
+	subtitle: ["{sg.steam_age.subtitle0}"]
+	title: "{sg.steam_age.title}"
 }

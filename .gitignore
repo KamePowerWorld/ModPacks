@@ -1,3 +1,4 @@
 cache
 distribution.json
 modpacks
+*.DS_Store

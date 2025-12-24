@@ -12,15 +12,15 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"I'm not about to explain how the GregTech power system works, but I will point out some of the basic starter machines and some useful information that will make you life much easier."
+				"{sg.lv_age.quests0.description0}"
 				""
-				"The most important thing to know is to always match your tiers of energy. LV Cables for LV machines and Turbines, MV for MV and so on. Providing more energy than a Cable can accept will burn the Cable out. Providing more energy than a machine can accept will blow up the machine."
+				"{sg.lv_age.quests0.description1}"
 				""
-				"Consumes 64 mb/t of Steam to produce 32 EU/t. This means if you are using High Pressure Steam Solid Boilers, you will require 5 in order to keep 1 Basic Steam Turbine Generator running."
+				"{sg.lv_age.quests0.description2}"
 				""
-				"Highly advised to have a buffer for Steam, as in a Drum or Tank, with the highest capacity you can afford."
+				"{sg.lv_age.quests0.description3}"
 				""
-				"The first few machines you should make are the Basic Wiremill, the Basic Bender, and optionally the Basic Extractor, and Basic Fluid Solidifier. These will help you craft basic components much easier."
+				"{sg.lv_age.quests0.description4}"
 			]
 			id: "25D3CA0CAEA8E3EF"
 			rewards: [{
@@ -30,7 +30,7 @@
 				type: "loot"
 			}]
 			size: 1.5d
-			subtitle: "Generating EU!"
+			subtitle: "{sg.lv_age.quests0.subtitle}"
 			tasks: [{
 				id: "0C83DAA7D5B22E6C"
 				item: "gtceu:lv_steam_turbine"
@@ -42,9 +42,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Can process Ingots into Wires and Wires into Fine Wires."
+				"{sg.lv_age.quests1.description0}"
 				""
-				"Some Ingots will be processed directly into Fine Wires as they do not have a Wire."
+				"{sg.lv_age.quests1.description1}"
 			]
 			id: "435FDC0A28A0D250"
 			rewards: [{
@@ -53,7 +53,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Efficient Wires!"
+			subtitle: "{sg.lv_age.quests1.subtitle}"
 			tasks: [{
 				id: "1B8DE533210BEECE"
 				item: "gtceu:lv_wiremill"
@@ -64,7 +64,7 @@
 		}
 		{
 			dependencies: ["24077F274DED7F5B"]
-			description: ["Can process materials into Plates, Foils, and Springs."]
+			description: ["{sg.lv_age.quests2.description0}"]
 			id: "4CFC26E92D6F47DE"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -72,7 +72,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Efficient Plates, Foils, \\& Springs!"
+			subtitle: "{sg.lv_age.quests2.subtitle}"
 			tasks: [{
 				id: "102BBE65290E282C"
 				item: "gtceu:lv_bender"
@@ -84,9 +84,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Can extract items into liquids and other items."
+				"{sg.lv_age.quests3.description0}"
 				""
-				"Mostly used for liquid metals, but Liquid Glass is required for Diodes."
+				"{sg.lv_age.quests3.description1}"
 			]
 			id: "1E1ECE8F80A72D7B"
 			rewards: [{
@@ -95,7 +95,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Extract everything!"
+			subtitle: "{sg.lv_age.quests3.subtitle}"
 			tasks: [{
 				id: "4A1D60FD259C92D5"
 				item: "gtceu:lv_extractor"
@@ -107,9 +107,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Uses Casting Molds to solidify liquids."
+				"{sg.lv_age.quests4.description0}"
 				""
-				"The Casting Molds are not consumed."
+				"{sg.lv_age.quests4.description1}"
 			]
 			id: "580F5ED757646224"
 			rewards: [{
@@ -118,7 +118,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Fluids to solids!"
+			subtitle: "{sg.lv_age.quests4.subtitle}"
 			tasks: [{
 				id: "4DF7E607BBA6D4FE"
 				item: "gtceu:lv_fluid_solidifier"
@@ -130,17 +130,17 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Think of this as an electric Crafting Table, that can also accept stacks (or less) of items and fluids."
+				"{sg.lv_age.quests5.description0}"
 				""
-				"If something can be crafted in a normal Crafting Table and an Assembler, the Assembler recipe is normally cheaper or more efficient in some way."
+				"{sg.lv_age.quests5.description1}"
 				""
-				"There are many items that can only be crafted through the Assembler. If you find yourself adding and removing fluids constantly, it is a good idea to have a designated Assembler per fluid type required, as in 1 stocked with Rubber, 1 stocked with Glue, and so on."
+				"{sg.lv_age.quests5.description2}"
 				""
-				"If the craft isn't working then chances are it requires a higher tier Assembler, pay attention to the EU/t cost."
+				"{sg.lv_age.quests5.description3}"
 				""
-				"These are normally the most expensive machines to craft."
+				"{sg.lv_age.quests5.description4}"
 				""
-				"Assemblers are crucial to progression. You will require at least 1 of each tier, sometimes more."
+				"{sg.lv_age.quests5.description5}"
 			]
 			id: "5C596A4E47505283"
 			rewards: [{
@@ -149,7 +149,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Multiple recommended!"
+			subtitle: "{sg.lv_age.quests5.subtitle}"
 			tasks: [{
 				id: "746025BC8DF29E11"
 				item: "gtceu:lv_assembler"
@@ -161,17 +161,17 @@
 		{
 			dependencies: ["5C596A4E47505283"]
 			description: [
-				"The Electric Blast Furnace (called EBF from now on) is a crucial multiblock that will be used forever. The Energy Hatch will determine the EU/t the EBF can use, and the Coils determine the heat that can be used."
+				"{sg.lv_age.quests6.description0}"
 				""
-				"Throughout your playthrough you will be upgrading the Energy Hatch and Coils to higher tiers to process higher tier materials."
+				"{sg.lv_age.quests6.description1}"
 				""
-				"You will require having an MV energy rating to create Aluminium Ingots which may seem impossible at first, just use 2 LV Energy Hatches at first then replace them with 1 MV Energy Hatch when you can. &nHaving 2 Energy Hatches of a certain tier will increase the EBF to the next tier&r. For example, 2 LV Energy Hatches will allow you to do MV recipes. Each Energy Hatch can accept 2 amps of energy. This is how you will need to increase tiers of the EBF each time. Keep in mind it will take 4 Basic Steam Turbine Generators to power an EBF with an MV energy rating. Since Aluminium Ingots require 120 EU/t and your 4 generators will profuce 128 EU/t, you must have a cable loss of less than 8 EU. Keep your generators as close to the Energy Hatch as possible to avoid cable loss."
+				"{sg.lv_age.quests6.description2}"
 				""
-				"This will really start to test your EU production, you may need to have a decent EU storage buffer for your first few Aluminium Ingots."
+				"{sg.lv_age.quests6.description3}"
 				""
-				"You will end up having more than 1 of these if you don't want to reconfigure the setup for various recipes, some recipes require different fluid inputs."
+				"{sg.lv_age.quests6.description4}"
 				""
-				"Read the Multiblocks quest for more information regarding multiblocks in general."
+				"{sg.lv_age.quests6.description5}"
 			]
 			icon: "gtceu:electric_blast_furnace"
 			id: "055AB5DB06B34A92"
@@ -182,7 +182,7 @@
 				type: "loot"
 			}]
 			size: 1.5d
-			subtitle: "The most important multiblock!"
+			subtitle: "{sg.lv_age.quests6.subtitle}"
 			tasks: [
 				{
 					id: "1B3BCCC416D809BA"
@@ -192,7 +192,10 @@
 				{
 					count: 16L
 					id: "561ACA7071323BC0"
-					item: { Count: 16b, id: "gtceu:cupronickel_coil_block" }
+					item: {
+						Count: 16b
+						id: "gtceu:cupronickel_coil_block"
+					}
 					type: "item"
 				}
 				{
@@ -238,13 +241,13 @@
 					type: "item"
 				}
 			]
-			title: "Electric Blast Furnace (EBF)"
+			title: "{sg.lv_age.quests6.title}"
 			x: 0.0d
 			y: 8.5d
 		}
 		{
 			dependencies: ["055AB5DB06B34A92"]
-			description: ["Just as Steel was the main material for the LV age, Aluminium is the main material for the MV age."]
+			description: ["{sg.lv_age.quests7.description0}"]
 			id: "2D5F4D4F39DF2C43"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -253,7 +256,7 @@
 				type: "loot"
 			}]
 			size: 1.5d
-			subtitle: "MV material!"
+			subtitle: "{sg.lv_age.quests7.subtitle}"
 			tasks: [{
 				id: "5869824E12A04255"
 				item: "gtceu:aluminium_ingot"
@@ -268,9 +271,9 @@
 				"150318D8BFBD50F3"
 			]
 			description: [
-				"Just like your first circuits being used for LV recipes, these will be used for MV recipes."
+				"{sg.lv_age.quests8.description0}"
 				""
-				"Be sure to keep an eye out for easier Circuit recipes as you progress through ages as each tier of Circuits has multiple types available."
+				"{sg.lv_age.quests8.description1}"
 			]
 			id: "5B0EF72BE9A1C92C"
 			rewards: [{
@@ -281,7 +284,7 @@
 			}]
 			shape: "octagon"
 			size: 2.0d
-			subtitle: "MV Circuits!"
+			subtitle: "{sg.lv_age.quests8.subtitle}"
 			tasks: [{
 				id: "403DBE4A90277388"
 				item: "gtceu:good_electronic_circuit"
@@ -292,7 +295,7 @@
 		}
 		{
 			dependencies: ["24077F274DED7F5B"]
-			description: ["Can process things into Rods, Screws, and more."]
+			description: ["{sg.lv_age.quests9.description0}"]
 			id: "5DD8B43BB62D4878"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -300,7 +303,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "It rounds things."
+			subtitle: "{sg.lv_age.quests9.subtitle}"
 			tasks: [{
 				id: "7AD787A8DE2D4BB0"
 				item: "gtceu:lv_lathe"
@@ -312,20 +315,20 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"The way crafting machines works in GregTech looks very complicated at first but there is a method to it. Crafting components are used A LOT, like Electric Motors and Electric Pistons and such."
+				"{sg.lv_age.quests10.description0}"
 				""
-				"If you look you will notice there are different tiers of components, like LV, MV, HV, and so on. Higher tier machines and components are usually almost an identical craft, just using higher tier materials."
+				"{sg.lv_age.quests10.description1}"
 				""
-				"Try not to ever craft just 1 when it comes to crafting components, you're going to need a lot of them anyways, even in higher tiers you will still end up making lower tier machines for certain things."
+				"{sg.lv_age.quests10.description2}"
 				""
-				"Note: Electric Pumps, Conveyor Modules, and Robot Arms can also be used as a Cover. See Cover quest for more information on Covers."
+				"{sg.lv_age.quests10.description3}"
 			]
 			id: "1F4C2E297935CB08"
 			shape: "gear"
-			subtitle: "Never just craft 1!"
+			subtitle: "{sg.lv_age.quests10.subtitle}"
 			tasks: [{
 				id: "4C86CBA6434DD34A"
-				title: "Components"
+				title: "{sg.lv_age.quests10.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 1.0d
@@ -334,20 +337,20 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Certain things can be installed on machines or pipes as a Cover, allowing more automation and features. To edit a cover you need to use a Screwdriver, to remove a Cover you need to use a Crowbar."
+				"{sg.lv_age.quests11.description0}"
 				""
-				"Almost any non multiblock machine or block can have a Cover applied, like basic machines, Pipes, Drums, Super Tanks, and more."
+				"{sg.lv_age.quests11.description1}"
 				""
-				"An item's tooltip will state if it can be used as a Cover. Because of this you may search REI for \"cover\" and see all available Cover options."
+				"{sg.lv_age.quests11.description2}"
 				""
-				"Something to note is an Item Filter and a Fluid Filter can be inserted in a Cover to allow filtering."
+				"{sg.lv_age.quests11.description3}"
 			]
 			id: "1F6E52E777CD5FC1"
 			shape: "gear"
-			subtitle: "Machine upgrades!"
+			subtitle: "{sg.lv_age.quests11.subtitle}"
 			tasks: [{
 				id: "5DE7B13024BBB6E5"
-				title: "Covers"
+				title: "{sg.lv_age.quests11.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -1.0d
@@ -356,9 +359,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Cuts things, like Blocks into Plates, and other things."
+				"{sg.lv_age.quests12.description0}"
 				""
-				"Makes bulk Plate crafting quite fast, making 9 at once."
+				"{sg.lv_age.quests12.description1}"
 			]
 			id: "34BEE1F1C33642D7"
 			rewards: [{
@@ -367,7 +370,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Cut Blocks into Plates!"
+			subtitle: "{sg.lv_age.quests12.subtitle}"
 			tasks: [{
 				id: "228919F79D481E1A"
 				item: "gtceu:lv_cutter"
@@ -378,7 +381,7 @@
 		}
 		{
 			dependencies: ["24077F274DED7F5B"]
-			description: ["Has a variety of uses, can mix items and fluids together."]
+			description: ["{sg.lv_age.quests13.description0}"]
 			id: "1AC41AF66CD9D22D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -386,7 +389,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Mixing all the things!"
+			subtitle: "{sg.lv_age.quests13.subtitle}"
 			tasks: [{
 				id: "741502FC7850116A"
 				item: "gtceu:lv_mixer"
@@ -398,11 +401,11 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Can store up to 4 Batteries which in turn can store EU. There are 4x, 8x, and 16x versions which hold up to that many Batteries, allowing more EU storage. If a Battery contains EU, it will provide it through Cables when needed."
+				"{sg.lv_age.quests14.description0}"
 				""
-				"Each Battery in the Battery Buffer that has EU to provide will provide 1 amp, meaning a 4x Battery Buffer filled with Batteries will provide 4 amps, and a 16x Battery Buffer filled with Batteries will provide 16 amps. This is important to determine which Cables you require. So for a 4x Battery Buffer you should be using a 4x Cable, and so on."
+				"{sg.lv_age.quests14.description1}"
 				""
-				"&n&4NEVER USE CABLES WITH LESS AMPS THAN YOU ARE SENDING.&r&r"
+				"{sg.lv_age.quests14.description2}"
 			]
 			id: "424587526AFCE39A"
 			rewards: [{
@@ -411,7 +414,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "EU storage!"
+			subtitle: "{sg.lv_age.quests14.subtitle}"
 			tasks: [{
 				id: "3C0F975D4DD929E6"
 				item: "gtceu:lv_battery_buffer_4x"
@@ -423,13 +426,13 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Has a few uses but we will focus on Batteries."
+				"{sg.lv_age.quests15.description0}"
 				""
-				"The machine is pretty basic, insert your required items and get your crafted item. Batteries come in 3 types, Sodium, Cadmium, and Lithium. Sodium is the worst, Cadmium is in the middle, and Lithium is the best. Since you have access to Raw Lithium anyways you may as well make the best!"
+				"{sg.lv_age.quests15.description1}"
 				""
-				"Batteries can be inserted into a Battery Buffer, or directly into a machine if you wish. They can also be used to charge portable items by enabling the discharge mode."
+				"{sg.lv_age.quests15.description2}"
 				""
-				"Note that Batteries are completely optional. If your power generation is good enough, you don't need to store it, just generate it."
+				"{sg.lv_age.quests15.description3}"
 			]
 			id: "23D05D816142D42F"
 			rewards: [{
@@ -438,7 +441,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Batteries!"
+			subtitle: "{sg.lv_age.quests15.subtitle}"
 			tasks: [{
 				id: "7E47DEE23BC4F2D5"
 				item: "gtceu:lv_canner"
@@ -450,17 +453,17 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"This block will convert EU into FE, or FE into EU."
+				"{sg.lv_age.quests16.description0}"
 				""
-				"1 EU converts into 4 FE and 4 FE converts into 1 EU."
+				"{sg.lv_age.quests16.description1}"
 				""
-				"Some things from other mods like AE2 and Building Gadgets cannot accept EU which is where this block comes in."
+				"{sg.lv_age.quests16.description2}"
 				""
-				"Use a Soft Mallet to change the conversion mode."
+				"{sg.lv_age.quests16.description3}"
 				""
-				"Note that AE2 can mostly be handled by the Creative Energy Cell, however you may want an separate system than your main system in some cases."
+				"{sg.lv_age.quests16.description4}"
 				""
-				"GregTech EU can power FE related blocks, but not the other way around."
+				"{sg.lv_age.quests16.description5}"
 			]
 			id: "106A9926C5C398EB"
 			rewards: [{
@@ -469,7 +472,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "EU -> FE \\& FE -> EU!"
+			subtitle: "{sg.lv_age.quests16.subtitle}"
 			tasks: [{
 				icon: "gtceu:lv_4a_energy_converter"
 				id: "112E48ADEF490E65"
@@ -497,7 +500,7 @@
 						]
 					}
 				}
-				title: "LV Converters"
+				title: "{sg.lv_age.quests16.tasks0.title}"
 				type: "item"
 			}]
 			x: 0.0d
@@ -511,11 +514,11 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"You may notice the MV Cutter recipe which is not available at the moment. Your first Diodes will have to be crafted using Gallium, which is a byproduct of Sphalerite Dust."
+				"{sg.lv_age.quests17.description0}"
 				""
-				"You also require Arsenic Dust but I will leave that up to you."
+				"{sg.lv_age.quests17.description1}"
 				""
-				"You will be using these in Circuits until you can craft the SMD Diodes in the HV age."
+				"{sg.lv_age.quests17.description2}"
 			]
 			icon: "gtceu:diode"
 			id: "3F1B428B81FFA5F7"
@@ -525,7 +528,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Crafting component!"
+			subtitle: "{sg.lv_age.quests17.subtitle}"
 			tasks: [
 				{
 					id: "454D43A7613ED127"
@@ -554,9 +557,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Splits things into their periodic table elements."
+				"{sg.lv_age.quests18.description0}"
 				""
-				"If you see an element in a tooltip that you want, you can most likely obtain it through the Electrolyzer. You'd be surprised what is in a Clay Ball."
+				"{sg.lv_age.quests18.description1}"
 			]
 			id: "1F5B540E64CD03A5"
 			rewards: [{
@@ -565,7 +568,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Splitting the elements!"
+			subtitle: "{sg.lv_age.quests18.subtitle}"
 			tasks: [{
 				id: "67AB06E2C5592A8F"
 				item: "gtceu:lv_electrolyzer"
@@ -577,11 +580,11 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Splits things into many other things."
+				"{sg.lv_age.quests19.description0}"
 				""
-				"Required for obtaining Glue for Phenolic Circuit Boards."
+				"{sg.lv_age.quests19.description1}"
 				""
-				"It is not a bad idea to have designated setups for Centrifuging both Rubber Logs and Sticky Resin as the byproducts are going to be useful for a variety of things."
+				"{sg.lv_age.quests19.description2}"
 			]
 			id: "150318D8BFBD50F3"
 			rewards: [{
@@ -590,7 +593,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Splitting things apart!"
+			subtitle: "{sg.lv_age.quests19.subtitle}"
 			tasks: [{
 				id: "2B3E6A5E21DEDEAC"
 				item: "gtceu:lv_centrifuge"
@@ -602,9 +605,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Magnetizes things without the need for Redstone Dust."
+				"{sg.lv_age.quests20.description0}"
 				""
-				"While Iron Rods can be magnetized with Redstone Dust, Steel Rods and others cannot."
+				"{sg.lv_age.quests20.description1}"
 			]
 			id: "354520DC79DC1C53"
 			rewards: [{
@@ -613,7 +616,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "No more Redstone Dust!"
+			subtitle: "{sg.lv_age.quests20.subtitle}"
 			tasks: [{
 				id: "19CA40191F742843"
 				item: "gtceu:lv_polarizer"
@@ -625,9 +628,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"While it has some other uses, it is mainly used to process gem dusts into gems."
+				"{sg.lv_age.quests21.description0}"
 				""
-				"This is also how you can convert GregTech Certus Quartz into AE2 Certus Quartz. Speaking of Certus Quartz... you can craft a Flawless Budding Certus Quartz if you wish."
+				"{sg.lv_age.quests21.description1}"
 			]
 			id: "5540078B60F9E87A"
 			rewards: [{
@@ -636,7 +639,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Dusts to gems!"
+			subtitle: "{sg.lv_age.quests21.subtitle}"
 			tasks: [{
 				id: "5D8CB7D5AEA0C9A2"
 				item: "gtceu:lv_autoclave"
@@ -648,9 +651,9 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Has many uses but early on can be used to efficient Rubber production."
+				"{sg.lv_age.quests22.description0}"
 				""
-				"GregTech is very big on chemicals and mixing chemicals, however they can usually be done in an LV Chemical Reactor. Autocrafting highly advised."
+				"{sg.lv_age.quests22.description1}"
 			]
 			id: "208C5D2253FE0AD8"
 			rewards: [{
@@ -659,7 +662,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Efficient Rubber!"
+			subtitle: "{sg.lv_age.quests22.subtitle}"
 			tasks: [{
 				id: "5FC9D39030812985"
 				item: "gtceu:lv_chemical_reactor"
@@ -671,16 +674,16 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"You may be used to inserting an Programmed Circuit with a certain number into a machine for recipes, this system now uses a Ghost Circuit. Since the machines are all crafted with Circuits, why insert another?"
+				"{sg.lv_age.quests23.description0}"
 				""
-				"On the left side of a machines GUI there is a Circuit Settings tab where you can select the Circuit number you wish without actually inserting a Programmed Circuit. "
+				"{sg.lv_age.quests23.description1}"
 			]
 			id: "5AA84AD6921CCB8D"
 			shape: "gear"
-			subtitle: "No more Programmed Circuits!"
+			subtitle: "{sg.lv_age.quests23.subtitle}"
 			tasks: [{
 				id: "4F9A6706EE0ECEF5"
-				title: "Ghost Circuits"
+				title: "{sg.lv_age.quests23.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -689,39 +692,39 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"&n&l&6DON'T EVER BUILD A MULTIBLOCK ACROSS CHUNK BORDERS! PRESS F3+G TO SEE CHUNK BORDERS!&r&r&r"
+				"{sg.lv_age.quests24.description0}"
 				""
-				"Multiblocks all share a common pattern, the main block, structural blocks, Input/Output Busses, Input/Output Hatches, Energy Hatches, Muffler Hatches, and Maintenance Hatches. Some may have other unique blocks. Some require certain tiers of Hatches and Busses, some do not matter what tiers you use."
+				"{sg.lv_age.quests24.description1}"
 				""
-				"The main block: The block you interact with, usually has the name of the multiblock you are building. Always has to be in the exact spot to function."
+				"{sg.lv_age.quests24.description2}"
 				""
-				"Structural blocks: Filler blocks used to fill in the rest of the shape of the multiblock. Can usually be changed around with Hatches or Busses."
+				"{sg.lv_age.quests24.description3}"
 				""
-				"Busses: Handles the importing and exporting of items. Will automatically interact with adjacent inventories. Can usually be changed around with Busses or structural blocks."
+				"{sg.lv_age.quests24.description4}"
 				""
-				"Hatches:"
-				"    Input/Output Hatches: Same as the above but for fluids."
-				"    Energy Hatches: Same as the above but for EU."
-				"    Muffler Hatch: Will collect waste after a while."
-				"    Maintenance Hatch: Perform maintenance with various tools."
+				"{sg.lv_age.quests24.description5}"
+				"{sg.lv_age.quests24.description6}"
+				"{sg.lv_age.quests24.description7}"
+				"{sg.lv_age.quests24.description8}"
+				"{sg.lv_age.quests24.description9}"
 				""
-				"Coils: Coils are in special multiblocks and if there are Coils, then you can usually upgrade the tiers for bonus rates. Effects different multiblocks in different ways."
+				"{sg.lv_age.quests24.description10}"
 				""
-				"You can typically change the position of any Busses, Hatches, and structural blocks around but there is usually a minimum requirement of structural blocks, some multiblocks require fluids and items and some only require one or the other. The main block and Coils always have to be in a set location."
+				"{sg.lv_age.quests24.description11}"
 				""
-				"You can often upgrade an Energy Hatch to a higher tier to increase the speed, but not in all cases."
+				"{sg.lv_age.quests24.description12}"
 				""
-				"A note on Muffler Hatches and Maintenance Hatches. You can't seem to export from the Muffler Hatches in any way but it also doesn't seem to matter if it fills up anyways. Maintenance Hatches need to be \"maintained\" when you first place the block down. Most multiblocks last a very long time before needing any maintenance. If your multiblock has stopped working, check the Maintenance Hatch for issues. Look at the tooltip in the slot in the GUI for more information."
+				"{sg.lv_age.quests24.description13}"
 				""
-				"With all of this being said, multiblocks are quite flexible in how you can set them up so the quest pages will usually just have the minimum required blocks without any Hatches or Busses. See the REI page for more information on each multiblock by checking the uses on the main block."
+				"{sg.lv_age.quests24.description14}"
 			]
 			id: "1C29BB6AE5EC9F9A"
 			shape: "gear"
 			size: 1.5d
-			subtitle: "A \"quick\" breakdown..."
+			subtitle: "{sg.lv_age.quests24.subtitle}"
 			tasks: [{
 				id: "5379291F6387A25E"
-				title: "Multiblocks"
+				title: "{sg.lv_age.quests24.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -730,15 +733,15 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Can be used to break blocks, most importantly, ores. If the internal inventory is not full then it will collect the drop, if it is full then the drops will fall in the world. Apply a redstone signal for it to operate."
+				"{sg.lv_age.quests25.description0}"
 				""
-				"A great way to obtain raw ores intead of ores. Even the LV version is quite fast, definately faster than mining."
+				"{sg.lv_age.quests25.description1}"
 				""
-				"See the picture below for a basic setup."
+				"{sg.lv_age.quests25.description2}"
 				""
 				"{image:kubejs:block/block_breaker_setup width:200 height:100 align:1}"
 				""
-				"You want the Block Breaker facing an ore that is being generated by a Raw Conversion Generator. Extract the items from the Block Breaker using any means and either keep all the dust types or just send them to a Trash Can."
+				"{sg.lv_age.quests25.description3}"
 			]
 			id: "4EFC27C25381C726"
 			rewards: [{
@@ -747,7 +750,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Auto mining!"
+			subtitle: "{sg.lv_age.quests25.subtitle}"
 			tasks: [{
 				id: "1AC2EC0933EEF91D"
 				item: "gtceu:lv_block_breaker"
@@ -759,18 +762,18 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"A simple way to put it, the power scaling from tier to tier will cost 4 times the energy to go 2 times faster. To power an MV machine with LV Steam Turbines will require 4 LV Steam Turbines. However you cannot just add lower tier generators together and produce higher tier energy. For that you need a Transformer."
+				"{sg.lv_age.quests26.description0}"
 				""
-				"A Transformer can be used to change 4 amps of a lower tier energy to 1 amp of a higher tier energy, and the opposite, 1 amp of higher tier energy to 4 amps of lower tier energy. This behaviour can be changed by using a Screwdriver on it."
+				"{sg.lv_age.quests26.description1}"
 				""
-				"While this is possible, it is usually best to keep your energy tiers separate."
+				"{sg.lv_age.quests26.description2}"
 			]
 			id: "122D71CE732484EA"
 			shape: "gear"
-			subtitle: "4 times more!"
+			subtitle: "{sg.lv_age.quests26.subtitle}"
 			tasks: [{
 				id: "607FEDF91294600D"
-				title: "Power Scaling"
+				title: "{sg.lv_age.quests26.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -779,21 +782,21 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"While there is a Steam version of the Rock Crusher available, I am going to display the LV version as you probably wont be using a Steam version."
+				"{sg.lv_age.quests27.description0}"
 				""
-				"The Rock Crusher requires Water and Lava to be placed in the world, touching the machine. Insert a Stone variant in the GUI slot and it will generate that type of Stone. The fluids are not consumed."
+				"{sg.lv_age.quests27.description1}"
 				""
-				"The types it can generate are:"
+				"{sg.lv_age.quests27.description2}"
 				""
-				" - Stone"
-				" - Obsidian"
-				" - Granite"
-				" - Diorite"
-				" - Andesite"
-				" - Deepslate"
-				" - Cobblestone"
-				" - Blackstone"
-				" - Basalt"
+				"{sg.lv_age.quests27.description3}"
+				"{sg.lv_age.quests27.description4}"
+				"{sg.lv_age.quests27.description5}"
+				"{sg.lv_age.quests27.description6}"
+				"{sg.lv_age.quests27.description7}"
+				"{sg.lv_age.quests27.description8}"
+				"{sg.lv_age.quests27.description9}"
+				"{sg.lv_age.quests27.description10}"
+				"{sg.lv_age.quests27.description11}"
 				""
 				"{image:kubejs:block/rock_breaker width:200 height:100 align:1}"
 			]
@@ -804,7 +807,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Stone variant generator!"
+			subtitle: "{sg.lv_age.quests27.subtitle}"
 			tasks: [{
 				id: "259BDED65F47C00C"
 				item: "gtceu:lv_rock_crusher"
@@ -816,32 +819,32 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"While you don't need Steam powered machines anymore, you are techincally still using Steam for energy, to generature EU using a Steam Turbine."
+				"{sg.lv_age.quests28.description0}"
 				""
-				"I will point out some basics about the GregTech power system along the way but if this is your first time playing with GregTech then I highly advise reading a wiki or watching a video explaining it as there is too much going on to explain here."
+				"{sg.lv_age.quests28.description1}"
 				""
-				"Too much energy given to a machine will cause it to explode."
+				"{sg.lv_age.quests28.description2}"
 				""
-				"Too much energy given to a Wire or Cable will cause it to burn up."
+				"{sg.lv_age.quests28.description3}"
 				""
-				"Not giving enough energy to a machine will reset the progress."
+				"{sg.lv_age.quests28.description4}"
 				""
-				"Some multiblocks can have 2 Energy Hatches, which increases the tier."
+				"{sg.lv_age.quests28.description5}"
 				""
-				"Wires and Cables can only carry so many amps (like channels) of energy. Running 4 machines at once will require 4 amps."
+				"{sg.lv_age.quests28.description6}"
 				""
-				"Transformers can be used to go up or down an energy tier."
+				"{sg.lv_age.quests28.description7}"
 				""
-				"There are too many ways to power your base to even mention."
+				"{sg.lv_age.quests28.description8}"
 				""
-				"For each energy tier you increase, generators will generate 4 times the energy at 4 times to consumption rate, and machine speed is 2 times faster."
+				"{sg.lv_age.quests28.description9}"
 			]
 			id: "49604BE9D81DC188"
 			shape: "gear"
-			subtitle: "Steel!"
+			subtitle: "{sg.lv_age.quests28.subtitle}"
 			tasks: [{
 				id: "43A8AEFA91EC1F7F"
-				title: "LV Age"
+				title: "{sg.lv_age.quests28.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -850,26 +853,26 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"If you are new to GregTech there are some things you should know about the mod in general. There is more information in the \"New To GregTech\" quest chapter but here is a semi quick breakdown. For more information see the \"New to GregTech\" quest chapter."
+				"{sg.lv_age.quests29.description0}"
 				""
-				"Take your time - With an exception for the Steam age, don't rush through progression. If you do you are going to suffer from lack of infrastructure and automation. Once you get to the LV age you should start looking into automating as much as you can with AE2. Being able to request Circuits from your Terminal is going to be a game changer. As you progress into higher ages you should be looking to replace your autocrafting machines with higher tier machines to double the speed."
+				"{sg.lv_age.quests29.description1}"
 				""
-				"Amps - How many channels of energy a Wire or Cable can carry. A single block machine will either generate or use 1 amp of energy. The easiest way around this is the use a Battery Buffer. The 4x means to Battery Buffer can hold 4 Batteries. A Battery Buffer will send out the same amount of amps as the amount of filled Batteries it contains, meaning a filled 4x Battery Buffer will send out 4 amps, even if you only have 2 generators. You will need Cables to match the amperage or else the Cables will burn up."
+				"{sg.lv_age.quests29.description2}"
 				""
-				"Energy tiers - GregTech is devided into energy tiers. You start in the Steam age with no energy, however Steam will still be how you produce energy for now. As you progress through tiers something important to note is that you will start going through fuels 4 times faster as you are generating 4 times the energy. Machines will operate 2 times faster. Steam will hold up to the LV and MV age quite well but every couple tiers you increase you will want to look for a better fuel option. For instance when I reached the HV age the Steam consumption rate was just too much so I looked into Oil processing for Diesel to use in Combustion Generators."
+				"{sg.lv_age.quests29.description3}"
 				""
-				"1 generator per machine - This is not overkill, especially with unlimited resources, even more so if a recipe requires almost all of the EU/t that the generator makes. A lot of recipes will take 30 EU/t where an LV Steam Turbine only produces 32 EU/t. Just give the 1 machine a dedicated generator to make sure it will always run, especially for certain autocrafting setups that cannot afford to stop. Now obviously if you have 4 machines that all need 4EU/t then a Cable setup is ideal."
+				"{sg.lv_age.quests29.description4}"
 				""
-				"Energy loss per block - Wires and Cables have an energy loss per block. This is mostly an issue in the earlier ages as losing 1 eu per block is quite damaging with not much eu to spare. In later ages you will be able to span greater distances with Cables because the EU/t being generated is usually much more than the EU/t required by machines. There are also \"Superconductor Cables\", 1 for each energy tier, which do not lose any energy per block. They are quite expensive but very worth it in certain situations. You should always be trying to craft the Cables for you energy tier with the lowest loss per block that you can afford."
+				"{sg.lv_age.quests29.description5}"
 				""
-				"Mobs - You don't need any mobs but some may help. GregTech pretty much ignores all mob drops in the first place, and Netherite for that matter. There are still ways to make crazy mob farms with Apotheosis and Mob Grinding Utilities, but you can play the pack on Peaceful Mode if you wanted. I even trivialized food too so there isn't much difference. With the only real mob drop being used being Ender Pearls, Ender Pearl Dust is craftable from ore resources."
+				"{sg.lv_age.quests29.description6}"
 			]
 			id: "1A4D202C51A1BAC7"
 			shape: "gear"
-			subtitle: "A \"quick\" read..."
+			subtitle: "{sg.lv_age.quests29.subtitle}"
 			tasks: [{
 				id: "006FD7A09D7F16A8"
-				title: "New to GregTech?"
+				title: "{sg.lv_age.quests29.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -881,13 +884,13 @@
 				"435FDC0A28A0D250"
 			]
 			description: [
-				"Has a loss of 0 EU per block."
+				"{sg.lv_age.quests30.description0}"
 				""
-				"There is a Superconductor Wire for each energy tier that always has 0 EU loss per block. They normally take quite a bit of work to craft."
+				"{sg.lv_age.quests30.description1}"
 				""
-				"They also usually have a higher amp rating than other wires of the same size, for example this 1x Wire has 2 amps."
+				"{sg.lv_age.quests30.description2}"
 				""
-				"They come in all the standard Wire sizes."
+				"{sg.lv_age.quests30.description3}"
 			]
 			id: "1DAB9657C50B80DA"
 			rewards: [{
@@ -896,7 +899,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "LV Superconductor!"
+			subtitle: "{sg.lv_age.quests30.subtitle}"
 			tasks: [{
 				id: "320470E320418B50"
 				item: "gtceu:manganese_phosphide_single_wire"
@@ -911,9 +914,9 @@
 				"4982A9D1F30DEFAB"
 			]
 			description: [
-				"Process Manganese Phosphide Dust in an MV EBF to produce Manganese Phosphide Ingots."
+				"{sg.lv_age.quests31.description0}"
 				""
-				"This really only has 1 purpose which is to be processed into Wires."
+				"{sg.lv_age.quests31.description1}"
 			]
 			id: "2AD0DA7B8666BFC6"
 			rewards: [{
@@ -922,7 +925,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Has 1 job!"
+			subtitle: "{sg.lv_age.quests31.subtitle}"
 			tasks: [{
 				id: "5CD42B9C3ACBAA6B"
 				item: "gtceu:manganese_phosphide_ingot"
@@ -937,9 +940,9 @@
 				"1F5B540E64CD03A5"
 			]
 			description: [
-				"Process Manganese Dust and Phosphorus Dust in an LV Mixer to obtain Manganaese Phosphide Dust."
+				"{sg.lv_age.quests32.description0}"
 				""
-				"Both are byproducts of other resources. Look through EMI to see what suits you best."
+				"{sg.lv_age.quests32.description1}"
 			]
 			id: "4982A9D1F30DEFAB"
 			rewards: [{
@@ -948,7 +951,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Mixing byproducts!"
+			subtitle: "{sg.lv_age.quests32.subtitle}"
 			tasks: [{
 				id: "1B9305F0E94F41C1"
 				item: "gtceu:manganese_phosphide_dust"
@@ -960,9 +963,9 @@
 		{
 			dependencies: ["5B0EF72BE9A1C92C"]
 			description: [
-				"A multiblock farming station. Produces large quantities of tree or crop resources without consuming the inputs."
+				"{sg.lv_age.quests33.description0}"
 				""
-				"Fertilizer can be added to double the output."
+				"{sg.lv_age.quests33.description1}"
 			]
 			id: "1EB9FD40A24F3A9A"
 			rewards: [{
@@ -971,7 +974,7 @@
 				table_id: 2615868064270166297L
 				type: "loot"
 			}]
-			subtitle: "Multiblock farming!"
+			subtitle: "{sg.lv_age.quests33.subtitle}"
 			tasks: [{
 				id: "267F8CCCF7E90A48"
 				item: "gtceu:greenhouse"
@@ -983,16 +986,16 @@
 		{
 			dependencies: ["24077F274DED7F5B"]
 			description: [
-				"Sometimes the only way to obtain a material is as a byproduct of processing something else. Sometimes even in the form of Tiny or Small Piles."
+				"{sg.lv_age.quests34.description0}"
 				""
-				"Something to note is that a Macerator will not actually give any byproducts unless you use an HV Macerator or higher, with higher tiers above HV giving additional chance to obtain. This can be confusing looking at recipes sometimes."
+				"{sg.lv_age.quests34.description1}"
 			]
 			id: "0101F3296F017634"
 			shape: "gear"
-			subtitle: "HV Macerator!"
+			subtitle: "{sg.lv_age.quests34.subtitle}"
 			tasks: [{
 				id: "617DE60C80FD1A8F"
-				title: "Byproducts"
+				title: "{sg.lv_age.quests34.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 1.5d
@@ -1001,11 +1004,11 @@
 		{
 			dependencies: ["5C596A4E47505283"]
 			description: [
-				"Generates Water from nothing."
+				"{sg.lv_age.quests35.description0}"
 				""
-				"Will auto output to the block above it."
+				"{sg.lv_age.quests35.description1}"
 				""
-				"Production can be increased x10 by placing a Cupronickel Coil Block underneath."
+				"{sg.lv_age.quests35.description2}"
 			]
 			id: "5525313A43685BD4"
 			rewards: [{
@@ -1014,7 +1017,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Infinite Water!"
+			subtitle: "{sg.lv_age.quests35.subtitle}"
 			tasks: [{
 				id: "392EDCDC42E5C3BF"
 				item: "simplefluidgenerators:basic_water_generator"
@@ -1026,11 +1029,11 @@
 		{
 			dependencies: ["5C596A4E47505283"]
 			description: [
-				"Generates Lava from nothing."
+				"{sg.lv_age.quests36.description0}"
 				""
-				"Will auto output to the block above it."
+				"{sg.lv_age.quests36.description1}"
 				""
-				"Production can be increased x10 by placing a Cupronickel Coil Block underneath."
+				"{sg.lv_age.quests36.description2}"
 			]
 			id: "018E537D13400A7F"
 			rewards: [{
@@ -1039,7 +1042,7 @@
 				table_id: 8922341895479940012L
 				type: "loot"
 			}]
-			subtitle: "Infinite Lava!"
+			subtitle: "{sg.lv_age.quests36.subtitle}"
 			tasks: [{
 				id: "494934BD0A92D108"
 				item: "simplefluidgenerators:basic_lava_generator"
@@ -1049,6 +1052,6 @@
 			y: 7.0d
 		}
 	]
-	subtitle: ["Steel!"]
-	title: "LV Age"
+	subtitle: ["{sg.lv_age.subtitle0}"]
+	title: "{sg.lv_age.title}"
 }

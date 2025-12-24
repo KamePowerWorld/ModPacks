@@ -11,24 +11,24 @@
 	quests: [
 		{
 			description: [
-				"LaserIO is all about sending items, fluids, FE, and redstone signals through lasers."
+				"{sg.laserio.quests0.description0}"
 				""
-				"The main block of the mod is the Laser Node. You will have 1 of these every time you want to insert or extract something."
+				"{sg.laserio.quests0.description1}"
 				""
-				"You need to insert Cards into the Laser Node in order for it to function. Change the Card to insert or extract mode by right clicking with or on the Card and opening the GUI. This is where you can also set Filters and Overclockers."
+				"{sg.laserio.quests0.description2}"
 				""
-				"Use a Laser Wrench to connect Laser Nodes together and if you need to travel more than 8 blocks, use Laser Connectors to travel longer distances."
+				"{sg.laserio.quests0.description3}"
 				""
-				"Since Cards do not stack, you can place them in the Card Holder to keep all your Cards, Filters, and Overclockers in 1 container."
+				"{sg.laserio.quests0.description4}"
 				""
-				"Filters can be used in a few ways to decide what goes where, and Overclockers can be used to upgrade Cards and Laser Nodes to function faster."
+				"{sg.laserio.quests0.description5}"
 			]
 			id: "519B636AF8E06A4C"
 			shape: "gear"
-			subtitle: "Laser transfer!"
+			subtitle: "{sg.laserio.quests0.subtitle}"
 			tasks: [{
 				id: "0AF0FE8ADCE7B86A"
-				title: "LaserIO"
+				title: "{sg.laserio.quests0.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -37,32 +37,32 @@
 		{
 			dependencies: ["45A6CD266FAA6DBF"]
 			description: [
-				"A Laser Node is used to interact with things by using Cards. Insert Cards to determine what you want it to do. Can hold up to 9 Cards per face."
+				"{sg.laserio.quests1.description0}"
 				""
-				"Right clicking on a face of a Laser Node with a Card in your hand will insert the Card into that face."
+				"{sg.laserio.quests1.description1}"
 				""
-				"Link 2 Laser Nodes together with a Laser Wrench. Has a maximum linking range of 8 blocks, farther lengths can be achieved by using Laser Connectors."
+				"{sg.laserio.quests1.description2}"
 				""
-				"A basic setup would be:"
+				"{sg.laserio.quests1.description3}"
 				""
-				" - Chest with a Laser Node beside it."
-				" - In the Laser Node on the face touching the Chest insert an Item Card."
-				" - Right click on the Item Card to Open the GUI."
-				" - Set this Item Card to Extract."
-				" - Another Chest withing 8 blocks with a Laser Node beside it."
-				" - Sneak right click with a Laser Wrench on the first Laser Node, right click on the second Laser Node."
-				" - In the second Laser Node on the face touching the Chest insert an Item Card."
-				" - By default all Cards are set to Insert mode so you shouldn't have to change it."
-				" - Now items in the first Chest will be sent to the second Chest."
+				"{sg.laserio.quests1.description4}"
+				"{sg.laserio.quests1.description5}"
+				"{sg.laserio.quests1.description6}"
+				"{sg.laserio.quests1.description7}"
+				"{sg.laserio.quests1.description8}"
+				"{sg.laserio.quests1.description9}"
+				"{sg.laserio.quests1.description10}"
+				"{sg.laserio.quests1.description11}"
+				"{sg.laserio.quests1.description12}"
 				""
-				"This works the same for items, fluids, FE, and redstone signals."
+				"{sg.laserio.quests1.description13}"
 				""
-				"If you need to go farther distances, look into the Laser Connectors."
+				"{sg.laserio.quests1.description14}"
 				""
-				"For the glowing issue with shaders, turn off bloom in shaders. \"Options...\" -> \"Video Settings...\" -> \"Shader Packs...\" -> \"Shader Pack Settings...\" -> \"Camera\" -> \"Bloom\": Off."
+				"{sg.laserio.quests1.description15}"
 			]
 			id: "679ABE9E98C1709B"
-			subtitle: "The root of transfer!"
+			subtitle: "{sg.laserio.quests1.subtitle}"
 			tasks: [{
 				id: "0D7BA0C3574232C4"
 				item: "laserio:laser_node"
@@ -73,18 +73,18 @@
 		}
 		{
 			description: [
-				"Used to travel longer distances."
+				"{sg.laserio.quests2.description0}"
 				""
-				"A Laser Node can only connect to another Laser Node or Laser Connector in an 8 block range. If you need to go farther than 8 blocks, you will need to use a Laser Connector as a relay to another Laser Connector or Laser Node."
+				"{sg.laserio.quests2.description1}"
 				""
-				" - Connect a Laser Node to a Laser Relay."
-				" - Connect the Laser Relay to another Laser Node."
-				" - Both Laser Nodes will now interact with each other."
+				"{sg.laserio.quests2.description2}"
+				"{sg.laserio.quests2.description3}"
+				"{sg.laserio.quests2.description4}"
 				""
-				"Advanced Laser Connectors go much farther distances."
+				"{sg.laserio.quests2.description5}"
 			]
 			id: "45A6CD266FAA6DBF"
-			subtitle: "Go farther!"
+			subtitle: "{sg.laserio.quests2.subtitle}"
 			tasks: [{
 				id: "30E968F153EFF9F6"
 				item: "laserio:laser_connector"
@@ -94,9 +94,9 @@
 			y: 2.0d
 		}
 		{
-			description: ["Instead of making an actual link, they send and receive contents through a small void portal, allowing infinite range and cross dimensional distances."]
+			description: ["{sg.laserio.quests3.description0}"]
 			id: "768F2FC3807EC380"
-			subtitle: "Go even farther!"
+			subtitle: "{sg.laserio.quests3.subtitle}"
 			tasks: [{
 				id: "60D578C13C135966"
 				item: "laserio:laser_connector_advanced"
@@ -107,12 +107,12 @@
 		}
 		{
 			description: [
-				"Used to link together Laser Nodes and/or Laser Connectors."
+				"{sg.laserio.quests4.description0}"
 				""
-				"Sneak right click on a block to select that block. Right click on another block to connect to that block."
+				"{sg.laserio.quests4.description1}"
 			]
 			id: "17CDC25D61D7583A"
-			subtitle: "Connecting things!"
+			subtitle: "{sg.laserio.quests4.subtitle}"
 			tasks: [{
 				id: "2AE4006330A142BC"
 				item: "laserio:laser_wrench"
@@ -123,12 +123,12 @@
 		}
 		{
 			description: [
-				"Stores and stacks Cards, Overclockers, and Filters."
+				"{sg.laserio.quests5.description0}"
 				""
-				"Contents can be accessed while using Laser Nodes."
+				"{sg.laserio.quests5.description1}"
 			]
 			id: "0D7DB9E5309B6962"
-			subtitle: "Stacks of Cards!"
+			subtitle: "{sg.laserio.quests5.subtitle}"
 			tasks: [{
 				id: "69D3A2B33B08AB67"
 				item: {
@@ -148,15 +148,15 @@
 		}
 		{
 			description: [
-				"Used to copy and paste the settings of Cards from 1 Card to another."
+				"{sg.laserio.quests6.description0}"
 				""
-				" - Open a Laser Node containing cards."
-				" - Pick up the Card Cloner with your mouse."
-				" - Hover over the Card you wish to copy and left click it with the Card Cloner."
-				" - Hover over the Card you witsh to paste to and right click it with the Card Cloner."
+				"{sg.laserio.quests6.description1}"
+				"{sg.laserio.quests6.description2}"
+				"{sg.laserio.quests6.description3}"
+				"{sg.laserio.quests6.description4}"
 			]
 			id: "66892C15F6E146DA"
-			subtitle: "Copy \\& paste settings!"
+			subtitle: "{sg.laserio.quests6.subtitle}"
 			tasks: [{
 				id: "1C7D11EE74364C28"
 				item: "laserio:card_cloner"
@@ -167,12 +167,12 @@
 		}
 		{
 			description: [
-				"Used to transfer items. Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				"{sg.laserio.quests7.description0}"
 				""
-				"You can change the insert/extract mode and insert Filters and Overclockers, as well as change the transfer rate and amounts."
+				"{sg.laserio.quests7.description1}"
 			]
 			id: "07781B0BFF2676DA"
-			subtitle: "Transfer items!"
+			subtitle: "{sg.laserio.quests7.subtitle}"
 			tasks: [{
 				id: "549FCEAF34F80BA6"
 				item: "laserio:card_item"
@@ -183,12 +183,12 @@
 		}
 		{
 			description: [
-				"Used to transfer fluids. Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				"{sg.laserio.quests8.description0}"
 				""
-				"You can change the insert/extract mode and insert Filters and Overclockers, as well as change the transfer rate and amounts."
+				"{sg.laserio.quests8.description1}"
 			]
 			id: "38AB7E52587B7BA3"
-			subtitle: "Transfer fluids!"
+			subtitle: "{sg.laserio.quests8.subtitle}"
 			tasks: [{
 				id: "27EEC32457CF6F96"
 				item: "laserio:card_fluid"
@@ -199,12 +199,12 @@
 		}
 		{
 			description: [
-				"Used to transfer FE (not EU!). Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				"{sg.laserio.quests9.description0}"
 				""
-				"You can change the insert/extract mode and insert Filters and Overclockers, as well as change the transfer rate and amounts."
+				"{sg.laserio.quests9.description1}"
 			]
 			id: "72D2D9C370A31CE8"
-			subtitle: "Transfer FE!"
+			subtitle: "{sg.laserio.quests9.subtitle}"
 			tasks: [{
 				id: "16EA295976B1A387"
 				item: "laserio:card_energy"
@@ -215,12 +215,12 @@
 		}
 		{
 			description: [
-				"Used to transfer redstone signals. Open the GUI by right clicking while holding it or while hovering over it with your mouse while in a Laser Node."
+				"{sg.laserio.quests10.description0}"
 				""
-				"You can change the insert/extract mode and signal strength."
+				"{sg.laserio.quests10.description1}"
 			]
 			id: "28B8933C3334C688"
-			subtitle: "Transfer redstone!"
+			subtitle: "{sg.laserio.quests10.subtitle}"
 			tasks: [{
 				id: "4CDC7F63A0F9D76B"
 				item: "laserio:card_redstone"
@@ -231,12 +231,12 @@
 		}
 		{
 			description: [
-				"Insert into a Card to increase transfer rates and amounts."
+				"{sg.laserio.quests11.description0}"
 				""
-				"A maximum of 4 can be applied to a Card."
+				"{sg.laserio.quests11.description1}"
 			]
 			id: "32ACDA33BEEA6D7B"
-			subtitle: "Go faster!"
+			subtitle: "{sg.laserio.quests11.subtitle}"
 			tasks: [{
 				id: "1A17C1F54B99F19A"
 				item: "laserio:overclocker_card"
@@ -247,12 +247,12 @@
 		}
 		{
 			description: [
-				"Insert into a Laser Node. Without Node Overclockers a Laser Node will only work with 1 Card at a time, insert Node Overclockers to increase that number to a maximum to 9 (1 for each Card)."
+				"{sg.laserio.quests12.description0}"
 				""
-				"A maximum of 8 can be applied to a Laser Node."
+				"{sg.laserio.quests12.description1}"
 			]
 			id: "3DAE8E48CEB8191A"
-			subtitle: "More Cards at once!"
+			subtitle: "{sg.laserio.quests12.subtitle}"
 			tasks: [{
 				id: "002C6F5FC648C32B"
 				item: "laserio:overclocker_node"
@@ -262,9 +262,9 @@
 			y: 3.0d
 		}
 		{
-			description: ["A basic filter that allows you to choose which items or fluids pass through."]
+			description: ["{sg.laserio.quests13.description0}"]
 			id: "07CFD9D729D15A13"
-			subtitle: "Choose items/fluids!"
+			subtitle: "{sg.laserio.quests13.subtitle}"
 			tasks: [{
 				id: "6AB96252E03F7CD8"
 				item: {
@@ -285,12 +285,12 @@
 		{
 			dependencies: ["07CFD9D729D15A13"]
 			description: [
-				"Used to specify certain amounts of items/fluids that enter the attached inventory."
+				"{sg.laserio.quests14.description0}"
 				""
-				"Useful for keeping 1 stack each of certain items stocked inside a machine, like an Alloy Furnace."
+				"{sg.laserio.quests14.description1}"
 			]
 			id: "00C7354860853729"
-			subtitle: "Specify amounts!"
+			subtitle: "{sg.laserio.quests14.subtitle}"
 			tasks: [{
 				id: "25C8429FD1AF5EA6"
 				item: {
@@ -388,12 +388,12 @@
 		{
 			dependencies: ["07CFD9D729D15A13"]
 			description: [
-				"Place an item in the GUI (or drag from REI) and you will be shown a list of tags that item has. Select the tag you want to be allowed through the Tag Filter."
+				"{sg.laserio.quests15.description0}"
 				""
-				"For an example, you can place a Hot Ingot of any kind in the GUI slot and select forge:hot_ingots to allow all Hot Ingots."
+				"{sg.laserio.quests15.description1}"
 			]
 			id: "43DE84845CB4B086"
-			subtitle: "Tag types!"
+			subtitle: "{sg.laserio.quests15.subtitle}"
 			tasks: [{
 				id: "70EE31F7808DD4D2"
 				item: {
@@ -410,9 +410,9 @@
 		}
 		{
 			dependencies: ["07CFD9D729D15A13"]
-			description: ["Place an item in the Mod Filter to select that entire mod of contents. Only items or fluids from that mod will be allowed to pass."]
+			description: ["{sg.laserio.quests16.description0}"]
 			id: "71B758FEC591400E"
-			subtitle: "An entire mod!"
+			subtitle: "{sg.laserio.quests16.subtitle}"
 			tasks: [{
 				id: "4F1D0068B9532C0D"
 				item: {
@@ -433,12 +433,12 @@
 		{
 			dependencies: ["07CFD9D729D15A13"]
 			description: [
-				"Works similar to the Tag Filter but for NBT values instead."
+				"{sg.laserio.quests17.description0}"
 				""
-				"Common NBT value types are durability, enchantments, potion types, and more."
+				"{sg.laserio.quests17.description1}"
 			]
 			id: "77F67F39DF53AA09"
-			subtitle: "NBT values!"
+			subtitle: "{sg.laserio.quests17.subtitle}"
 			tasks: [{
 				id: "790F67174A594271"
 				item: "laserio:filter_nbt"
@@ -448,6 +448,6 @@
 			y: 6.0d
 		}
 	]
-	subtitle: ["Laser transfer!"]
-	title: "LaserIO"
+	subtitle: ["{sg.laserio.subtitle0}"]
+	title: "{sg.laserio.title}"
 }

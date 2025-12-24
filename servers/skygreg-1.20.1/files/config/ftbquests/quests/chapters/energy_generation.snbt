@@ -12,24 +12,24 @@
 	quests: [
 		{
 			description: [
-				"An overview of different things relating to energy generation, storage, and transfer."
+				"{sg.energy_generation.quests0.description0}"
 				""
-				"Moving up a voltage tier will be 4 times the energy values for 2 times the processing speed."
+				"{sg.energy_generation.quests0.description1}"
 			]
 			id: "65B4793490ED0C1E"
-			subtitle: "An overview!"
+			subtitle: "{sg.energy_generation.quests0.subtitle}"
 			tasks: [{
 				id: "2CEFFF7E5066AA18"
-				title: "Energy Generation"
+				title: "{sg.energy_generation.quests0.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
 			y: -4.5d
 		}
 		{
-			description: ["Consumes Steam to generate 32 EU/t."]
+			description: ["{sg.energy_generation.quests1.description0}"]
 			id: "2249AF3FC20187B4"
-			subtitle: "LV!"
+			subtitle: "{sg.energy_generation.quests1.subtitle}"
 			tasks: [{
 				id: "6A920F0D1D610457"
 				item: "gtceu:lv_steam_turbine"
@@ -39,9 +39,9 @@
 			y: 2.0d
 		}
 		{
-			description: ["Consumes Steam to generate 128 EU/t."]
+			description: ["{sg.energy_generation.quests2.description0}"]
 			id: "2D4FAD0465CCFCF6"
-			subtitle: "MV!"
+			subtitle: "{sg.energy_generation.quests2.subtitle}"
 			tasks: [{
 				id: "1DE032A108E52530"
 				item: "gtceu:mv_steam_turbine"
@@ -51,9 +51,9 @@
 			y: 3.0d
 		}
 		{
-			description: ["Consumes Steam to generate 512 UE/t."]
+			description: ["{sg.energy_generation.quests3.description0}"]
 			id: "12A35D238EE4DDBC"
-			subtitle: "HV!"
+			subtitle: "{sg.energy_generation.quests3.subtitle}"
 			tasks: [{
 				id: "160C39E0D03C8BD4"
 				item: "gtceu:hv_steam_turbine"
@@ -64,16 +64,16 @@
 		}
 		{
 			description: [
-				"Consumes Steam to generate 1024 EU/t."
+				"{sg.energy_generation.quests4.description0}"
 				""
-				"Different Turbine Rotors effect the Steam consumption and EU/t rates. These stats can be seen in the Turbine Rotor tooltip."
+				"{sg.energy_generation.quests4.description1}"
 				""
-				"Produces Distilled Water as a byproduct."
+				"{sg.energy_generation.quests4.description2}"
 				""
-				"Each Rotor Holder above HV adds 10% efficiency."
+				"{sg.energy_generation.quests4.description3}"
 			]
 			id: "4E71620095420D43"
-			subtitle: "HV!"
+			subtitle: "{sg.energy_generation.quests4.subtitle}"
 			tasks: [{
 				id: "3311B5EDF8C2F224"
 				item: "gtceu:steam_large_turbine"
@@ -83,9 +83,9 @@
 			y: 5.0d
 		}
 		{
-			description: ["Consumes liquid fuels to generate 32 EU/t."]
+			description: ["{sg.energy_generation.quests5.description0}"]
 			id: "738CE483E02BA7DC"
-			subtitle: "LV!"
+			subtitle: "{sg.energy_generation.quests5.subtitle}"
 			tasks: [{
 				id: "09E9F26747C04A1A"
 				item: "gtceu:lv_combustion"
@@ -95,9 +95,9 @@
 			y: 2.0d
 		}
 		{
-			description: ["Consumes liquid fuels to generate 128 EU/t."]
+			description: ["{sg.energy_generation.quests6.description0}"]
 			id: "7A36C0DA68D24DC9"
-			subtitle: "MV!"
+			subtitle: "{sg.energy_generation.quests6.subtitle}"
 			tasks: [{
 				id: "185ECE380F11D720"
 				item: "gtceu:mv_combustion"
@@ -107,9 +107,9 @@
 			y: 3.0d
 		}
 		{
-			description: ["Consumes liquid fuels to generate 512 EU/t."]
+			description: ["{sg.energy_generation.quests7.description0}"]
 			id: "6C9FBE8022A39BE4"
-			subtitle: "HV!"
+			subtitle: "{sg.energy_generation.quests7.subtitle}"
 			tasks: [{
 				id: "1CD1770799484D96"
 				item: "gtceu:hv_combustion"
@@ -119,9 +119,9 @@
 			y: 4.0d
 		}
 		{
-			description: ["Consumes liquid fuels and Lubricant to generate 2048 EU/t."]
+			description: ["{sg.energy_generation.quests8.description0}"]
 			id: "47654BACEE394C6B"
-			subtitle: "EV!"
+			subtitle: "{sg.energy_generation.quests8.subtitle}"
 			tasks: [{
 				id: "264F567C9F0331B9"
 				item: "gtceu:large_combustion_engine"
@@ -132,7 +132,7 @@
 		}
 		{
 			id: "12C4695BDD858AA4"
-			subtitle: "IV!"
+			subtitle: "{sg.energy_generation.quests9.subtitle}"
 			tasks: [{
 				id: "6CF63866F898E8F8"
 				item: "gtceu:extreme_combustion_engine"
@@ -142,9 +142,9 @@
 			y: 6.0d
 		}
 		{
-			description: ["Consumes gas fuels to generate 32 EU/t."]
+			description: ["{sg.energy_generation.quests10.description0}"]
 			id: "2ED946D4F08F3E17"
-			subtitle: "LV!"
+			subtitle: "{sg.energy_generation.quests10.subtitle}"
 			tasks: [{
 				id: "1493F34284968270"
 				item: "gtceu:lv_gas_turbine"
@@ -154,9 +154,9 @@
 			y: 2.0d
 		}
 		{
-			description: ["Consumes gas fuels to generate 128 EU/t."]
+			description: ["{sg.energy_generation.quests11.description0}"]
 			id: "43C8AF734E1C35BE"
-			subtitle: "MV!"
+			subtitle: "{sg.energy_generation.quests11.subtitle}"
 			tasks: [{
 				id: "55E3CDE54094B12F"
 				item: "gtceu:mv_gas_turbine"
@@ -166,9 +166,9 @@
 			y: 3.0d
 		}
 		{
-			description: ["Consumes gas fuels to generate 512 EU/t."]
+			description: ["{sg.energy_generation.quests12.description0}"]
 			id: "1A8085FA9B2CA182"
-			subtitle: "HV!"
+			subtitle: "{sg.energy_generation.quests12.subtitle}"
 			tasks: [{
 				id: "5E99A0DF88AC0157"
 				item: "gtceu:hv_gas_turbine"
@@ -179,14 +179,14 @@
 		}
 		{
 			description: [
-				"Consumes gases to generate 4096 EU/t."
+				"{sg.energy_generation.quests13.description0}"
 				""
-				"Different Turbine Rotors effect the gas consumption and EU/t rates. These stats can be seen in the Turbine Rotor tooltip."
+				"{sg.energy_generation.quests13.description1}"
 				""
-				"Each Rotor Holder above EV adds 10% efficiency."
+				"{sg.energy_generation.quests13.description2}"
 			]
 			id: "36D586B5519D2A4D"
-			subtitle: "EV!"
+			subtitle: "{sg.energy_generation.quests13.subtitle}"
 			tasks: [{
 				id: "369B76044A5A9443"
 				item: "gtceu:gas_large_turbine"
@@ -197,15 +197,15 @@
 		}
 		{
 			description: [
-				"Batteries can be placed inside a Battery Buffer or directly into machines as an energy storage method. If a Battery Buffer or machine that contains a Battery receives energy the Battery will charge. If a machine needs energy and either the machine itself or a Battery Buffer contains a battery with energy, the Battery will send the energy to the machine. You must use the proper tier of Battery."
+				"{sg.energy_generation.quests14.description0}"
 				""
-				"You may also use Batteries to charge handheld items that require EU by sneak right clicking while holding a Battery which will enable or disable the discharge mode."
+				"{sg.energy_generation.quests14.description1}"
 				""
-				"There are often a few types of Batteries per voltage tier that hold different amounts of energy."
+				"{sg.energy_generation.quests14.description2}"
 			]
 			icon: "gtceu:lv_lithium_battery"
 			id: "0960A7AC750133A8"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests14.subtitle}"
 			tasks: [{
 				id: "7A58C9D81B49919E"
 				item: {
@@ -215,18 +215,18 @@
 						value: "gtceu:batteries/lv"
 					}
 				}
-				title: "Any #gtceu:batteries/lv"
+				title: "{sg.energy_generation.quests14.tasks0.title}"
 				type: "item"
 			}]
-			title: "LV Batteries"
+			title: "{sg.energy_generation.quests14.title}"
 			x: -4.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests15.description0}"]
 			icon: "gtceu:mv_lithium_battery"
 			id: "327D6CCB63904DC3"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests15.subtitle}"
 			tasks: [{
 				id: "412A2DD65E9DFBA3"
 				item: {
@@ -236,18 +236,18 @@
 						value: "gtceu:batteries/mv"
 					}
 				}
-				title: "Any #gtceu:batteries/mv"
+				title: "{sg.energy_generation.quests15.tasks0.title}"
 				type: "item"
 			}]
-			title: "MV Batteries"
+			title: "{sg.energy_generation.quests15.title}"
 			x: -3.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests16.description0}"]
 			icon: "gtceu:hv_lithium_battery"
 			id: "6FBFCD749301A8FA"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests16.subtitle}"
 			tasks: [{
 				id: "44C83B5722B9EFAD"
 				item: {
@@ -257,18 +257,18 @@
 						value: "gtceu:batteries/hv"
 					}
 				}
-				title: "Any #gtceu:batteries/hv"
+				title: "{sg.energy_generation.quests16.tasks0.title}"
 				type: "item"
 			}]
-			title: "HV Batteries"
+			title: "{sg.energy_generation.quests16.title}"
 			x: -2.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests17.description0}"]
 			icon: "gtceu:ev_vanadium_battery"
 			id: "3F28F5A6B9973665"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests17.subtitle}"
 			tasks: [{
 				id: "08FA6FA6B4B48B4B"
 				item: {
@@ -278,18 +278,18 @@
 						value: "gtceu:batteries/ev"
 					}
 				}
-				title: "Any #gtceu:batteries/ev"
+				title: "{sg.energy_generation.quests17.tasks0.title}"
 				type: "item"
 			}]
-			title: "EV Batteries"
+			title: "{sg.energy_generation.quests17.title}"
 			x: -1.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests18.description0}"]
 			icon: "gtceu:iv_vanadium_battery"
 			id: "712A3EE989775569"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests18.subtitle}"
 			tasks: [{
 				id: "12CE75CE5AA8271A"
 				item: {
@@ -299,18 +299,18 @@
 						value: "gtceu:batteries/iv"
 					}
 				}
-				title: "Any #gtceu:batteries/iv"
+				title: "{sg.energy_generation.quests18.tasks0.title}"
 				type: "item"
 			}]
-			title: "IV Batteries"
+			title: "{sg.energy_generation.quests18.title}"
 			x: 0.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests19.description0}"]
 			icon: "gtceu:luv_vanadium_battery"
 			id: "3E475A430EBA78F4"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests19.subtitle}"
 			tasks: [{
 				id: "1CF81E7F73766743"
 				item: {
@@ -320,18 +320,18 @@
 						value: "gtceu:batteries/luv"
 					}
 				}
-				title: "Any #gtceu:batteries/luv"
+				title: "{sg.energy_generation.quests19.tasks0.title}"
 				type: "item"
 			}]
-			title: "LuV Batteries"
+			title: "{sg.energy_generation.quests19.title}"
 			x: 1.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests20.description0}"]
 			icon: "gtceu:zpm_naquadria_battery"
 			id: "30300B2D0D4327BB"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests20.subtitle}"
 			tasks: [{
 				id: "4DADBBFE1C0D7710"
 				item: {
@@ -341,18 +341,18 @@
 						value: "gtceu:batteries/zpm"
 					}
 				}
-				title: "Any #gtceu:batteries/zpm"
+				title: "{sg.energy_generation.quests20.tasks0.title}"
 				type: "item"
 			}]
-			title: "ZPM Batteries"
+			title: "{sg.energy_generation.quests20.title}"
 			x: 2.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests21.description0}"]
 			icon: "gtceu:uv_naquadria_battery"
 			id: "5500DA4CFFFB969A"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests21.subtitle}"
 			tasks: [{
 				id: "41099E5B5B2E56E3"
 				item: {
@@ -362,18 +362,18 @@
 						value: "gtceu:batteries/uv"
 					}
 				}
-				title: "Any #gtceu:batteries/uv"
+				title: "{sg.energy_generation.quests21.tasks0.title}"
 				type: "item"
 			}]
-			title: "UV Batteries"
+			title: "{sg.energy_generation.quests21.title}"
 			x: 3.0d
 			y: -2.0d
 		}
 		{
-			description: ["See the \"LV Batteries\" quest for more information on Batteries."]
+			description: ["{sg.energy_generation.quests22.description0}"]
 			icon: "gtceu:max_battery"
 			id: "12A920473F3B1ECE"
-			subtitle: "Energy storage!"
+			subtitle: "{sg.energy_generation.quests22.subtitle}"
 			tasks: [{
 				id: "759BBE13D3481C61"
 				item: {
@@ -383,23 +383,23 @@
 						value: "gtceu:batteries/uhv"
 					}
 				}
-				title: "Any #gtceu:batteries/uhv"
+				title: "{sg.energy_generation.quests22.tasks0.title}"
 				type: "item"
 			}]
-			title: "UHV Batteries"
+			title: "{sg.energy_generation.quests22.title}"
 			x: 4.0d
 			y: -2.0d
 		}
 		{
 			description: [
-				"The Power Substation is an expandable multiblock designed to hold mass amounts of energy. The output rate depends on the Dynamo Hatch you use. Can support multiple different Dynamo Hatches to supply different energy ratings at the same time."
+				"{sg.energy_generation.quests23.description0}"
 				""
-				"The multiblock can be expanded to having 18 layers of Capacitors. The Capacitors do not have to be the same tier."
+				"{sg.energy_generation.quests23.description1}"
 				""
-				"Has a passive drain of 1% of the total capacity every 24 hours."
+				"{sg.energy_generation.quests23.description2}"
 			]
 			id: "5984D8577AAC3E97"
-			subtitle: "Expandable mass energy storage!"
+			subtitle: "{sg.energy_generation.quests23.subtitle}"
 			tasks: [{
 				id: "2B9B7217BB1071D0"
 				item: "gtceu:power_substation"
@@ -420,14 +420,14 @@
 		}
 		{
 			description: [
-				"Consumes Plasma to generate 16,384 EU/t."
+				"{sg.energy_generation.quests25.description0}"
 				""
-				"Different Turbine Rotors effect the Plasma consumption and EU/t rates. These stats can be seen in the Turbine Rotor tooltip."
+				"{sg.energy_generation.quests25.description1}"
 				""
-				"Each Rotor Holder above IV adds 10% efficiency."
+				"{sg.energy_generation.quests25.description2}"
 			]
 			id: "740E058E286AE5D1"
-			subtitle: "LuV!"
+			subtitle: "{sg.energy_generation.quests25.subtitle}"
 			tasks: [{
 				id: "502AEAB0EAC81E11"
 				item: "gtceu:plasma_large_turbine"
@@ -437,125 +437,125 @@
 			y: 8.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests26.description0}"]
 			id: "43E21CF3A81E6A53"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests26.subtitle}"
 			tasks: [{
 				id: "69C66C4E79BD5323"
 				item: "gtceu:manganese_phosphide_single_wire"
 				type: "item"
 			}]
-			title: "LV Superconductor"
+			title: "{sg.energy_generation.quests26.title}"
 			x: -4.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests27.description0}"]
 			id: "738C37738EB8FB35"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests27.subtitle}"
 			tasks: [{
 				id: "187BBC70BD730F74"
 				item: "gtceu:magnesium_diboride_single_wire"
 				type: "item"
 			}]
-			title: "MV Superconductor"
+			title: "{sg.energy_generation.quests27.title}"
 			x: -3.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests28.description0}"]
 			id: "3CFB4F21CC0170FC"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests28.subtitle}"
 			tasks: [{
 				id: "1144E5EC2E113FA8"
 				item: "gtceu:mercury_barium_calcium_cuprate_single_wire"
 				type: "item"
 			}]
-			title: "HV Superconductor"
+			title: "{sg.energy_generation.quests28.title}"
 			x: -2.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests29.description0}"]
 			id: "157AEBF3E53A0246"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests29.subtitle}"
 			tasks: [{
 				id: "1B27451CA1C48750"
 				item: "gtceu:uranium_triplatinum_single_wire"
 				type: "item"
 			}]
-			title: "EV Superconductor"
+			title: "{sg.energy_generation.quests29.title}"
 			x: -1.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests30.description0}"]
 			id: "7A4C80702FB850D0"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests30.subtitle}"
 			tasks: [{
 				id: "4621075EA1CF33B9"
 				item: "gtceu:samarium_iron_arsenic_oxide_single_wire"
 				type: "item"
 			}]
-			title: "IV Superconductor"
+			title: "{sg.energy_generation.quests30.title}"
 			x: 0.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests31.description0}"]
 			id: "010DF958BC636339"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests31.subtitle}"
 			tasks: [{
 				id: "05952BBB08294446"
 				item: "gtceu:indium_tin_barium_titanium_cuprate_single_wire"
 				type: "item"
 			}]
-			title: "LuV Superconductor"
+			title: "{sg.energy_generation.quests31.title}"
 			x: 1.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests32.description0}"]
 			id: "0B6FA3455400DEA4"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests32.subtitle}"
 			tasks: [{
 				id: "0E64CD89FE40C0C9"
 				item: "gtceu:uranium_rhodium_dinaquadide_single_wire"
 				type: "item"
 			}]
-			title: "ZPM Superconductor"
+			title: "{sg.energy_generation.quests32.title}"
 			x: 2.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests33.description0}"]
 			id: "2C9BA1D7048EBC9B"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests33.subtitle}"
 			tasks: [{
 				id: "17E4FE9B5D467DD7"
 				item: "gtceu:enriched_naquadah_trinium_europium_duranide_single_wire"
 				type: "item"
 			}]
-			title: "UV Superconductor"
+			title: "{sg.energy_generation.quests33.title}"
 			x: 3.0d
 			y: -3.0d
 		}
 		{
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.energy_generation.quests34.description0}"]
 			id: "00A6AC24EC1F1E09"
-			subtitle: "0 loss per block!"
+			subtitle: "{sg.energy_generation.quests34.subtitle}"
 			tasks: [{
 				id: "536A71AA1E7BEC3E"
 				item: "gtceu:ruthenium_trinium_americium_neutronate_single_wire"
 				type: "item"
 			}]
-			title: "UHV Superconductor"
+			title: "{sg.energy_generation.quests34.title}"
 			x: 4.0d
 			y: -3.0d
 		}
 		{
 			id: "362AF6497DA53159"
-			subtitle: "LV/MV!"
+			subtitle: "{sg.energy_generation.quests35.subtitle}"
 			tasks: [{
 				id: "67D9056ED3F3349A"
 				item: "gtceu:lv_transformer_1a"
@@ -566,7 +566,7 @@
 		}
 		{
 			id: "320DD399BCE5A0FC"
-			subtitle: "MV/HV!"
+			subtitle: "{sg.energy_generation.quests36.subtitle}"
 			tasks: [{
 				id: "50BD536CAF32F73A"
 				item: "gtceu:mv_transformer_1a"
@@ -577,7 +577,7 @@
 		}
 		{
 			id: "6D43206358F4C413"
-			subtitle: "HV/EV!"
+			subtitle: "{sg.energy_generation.quests37.subtitle}"
 			tasks: [{
 				id: "04B11908B14BC6B2"
 				item: "gtceu:hv_transformer_1a"
@@ -588,7 +588,7 @@
 		}
 		{
 			id: "689D938C10F7BF92"
-			subtitle: "EV/IV!"
+			subtitle: "{sg.energy_generation.quests38.subtitle}"
 			tasks: [{
 				id: "544E64A16D6C80CD"
 				item: "gtceu:ev_transformer_1a"
@@ -599,7 +599,7 @@
 		}
 		{
 			id: "50533D8302752FC6"
-			subtitle: "IV/LuV!"
+			subtitle: "{sg.energy_generation.quests39.subtitle}"
 			tasks: [{
 				id: "33BE058C1333D2DB"
 				item: "gtceu:iv_transformer_1a"
@@ -610,7 +610,7 @@
 		}
 		{
 			id: "534A6845439A86C3"
-			subtitle: "LuV/ZPM!"
+			subtitle: "{sg.energy_generation.quests40.subtitle}"
 			tasks: [{
 				id: "5D0E2F54417F288F"
 				item: "gtceu:luv_transformer_1a"
@@ -621,7 +621,7 @@
 		}
 		{
 			id: "4419EC560D9004D7"
-			subtitle: "ZPM/UV!"
+			subtitle: "{sg.energy_generation.quests41.subtitle}"
 			tasks: [{
 				id: "47D2DCEFFA063957"
 				item: "gtceu:zpm_transformer_1a"
@@ -632,7 +632,7 @@
 		}
 		{
 			id: "3957EBE64100EA54"
-			subtitle: "UV/UHV!"
+			subtitle: "{sg.energy_generation.quests42.subtitle}"
 			tasks: [{
 				id: "52E5EBED1B200575"
 				item: "gtceu:uv_transformer_1a"
@@ -643,12 +643,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests43.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests43.description1}"
 			]
 			id: "70D724ED2A297BDC"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests43.subtitle}"
 			tasks: [{
 				id: "06AA15AC2FAC7948"
 				item: "gtceu:lv_1a_energy_converter"
@@ -659,7 +659,7 @@
 		}
 		{
 			id: "443AF3EFC5DED7ED"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests44.subtitle}"
 			tasks: [{
 				id: "0BF17C0A7FF9B411"
 				item: "gtceu:mv_1a_energy_converter"
@@ -670,12 +670,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests45.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests45.description1}"
 			]
 			id: "046BEFE4C7841422"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests45.subtitle}"
 			tasks: [{
 				id: "275932791BC3AA66"
 				item: "gtceu:hv_1a_energy_converter"
@@ -686,12 +686,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests46.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests46.description1}"
 			]
 			id: "122CF6BC293472B1"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests46.subtitle}"
 			tasks: [{
 				id: "7664BA6FD33A0EA6"
 				item: "gtceu:iv_1a_energy_converter"
@@ -702,12 +702,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests47.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests47.description1}"
 			]
 			id: "3A744A2EC3163FB4"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests47.subtitle}"
 			tasks: [{
 				id: "061284475B07FD1D"
 				item: "gtceu:ev_1a_energy_converter"
@@ -718,12 +718,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests48.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests48.description1}"
 			]
 			id: "1F1305838AD7C3AF"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests48.subtitle}"
 			tasks: [{
 				id: "15F8B5B959CAE5F8"
 				item: "gtceu:luv_1a_energy_converter"
@@ -734,12 +734,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests49.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests49.description1}"
 			]
 			id: "0555A98C1E49DC82"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests49.subtitle}"
 			tasks: [{
 				id: "6EEAE6B79B686894"
 				item: "gtceu:zpm_1a_energy_converter"
@@ -750,12 +750,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests50.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests50.description1}"
 			]
 			id: "79E8E796B22E2A35"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests50.subtitle}"
 			tasks: [{
 				id: "3697BF9A45004422"
 				item: "gtceu:uv_1a_energy_converter"
@@ -766,12 +766,12 @@
 		}
 		{
 			description: [
-				"Converts energy between EU and FE."
+				"{sg.energy_generation.quests51.description0}"
 				""
-				"Starts as FE converter, use Soft Mallet to change."
+				"{sg.energy_generation.quests51.description1}"
 			]
 			id: "75C8FD4FF2D59DD6"
-			subtitle: "EU <-> FE"
+			subtitle: "{sg.energy_generation.quests51.subtitle}"
 			tasks: [{
 				id: "3E1139D868D007CA"
 				item: "gtceu:uhv_1a_energy_converter"
@@ -782,33 +782,33 @@
 		}
 		{
 			description: [
-				"GregTech uses a special energy system called EU that generally does not interact with FE. They can be converted between each other at a 1:4 ratio though. 1 EU = 4 FE."
+				"{sg.energy_generation.quests52.description0}"
 				""
-				"GregTech also uses something called Amperage, or amps for short. An amp is basically a channel for an electrical current. You cannot just add 4 LV Steam Turbines together that are producing 32 EU/t to reach 128 EU/t. Instead you will end up with 4 amps of 32 EU/t. Wires/Cables and machines also have an amp rating. Single Block machines are usually only able to accept 1 amp of energy. Supplying too much EU/t or amps to a Wire/Cable will make them burn up and supplying too much EU/t to a machine will casuse the machine to explode."
+				"{sg.energy_generation.quests52.description1}"
 				""
-				"It is very important to know how much energy you are sending to have the proper sized cables and proper tier of machines."
+				"{sg.energy_generation.quests52.description2}"
 				""
-				"FE works completely differently, if you had 4 generators all producing 60 FE/t, you would end up just adding the numbers together and you would be producing 240 FE/t. There are no amps or electrical channels when it comes to FE."
+				"{sg.energy_generation.quests52.description3}"
 				""
-				"You can convert between the 2 using an Energy Converter, be sure to match the tier of the EU you require with the right tier Energy Converter as there is one for each voltage tier. Check the tooltip of the Energy Converter to see the conversion rates and tiers."
+				"{sg.energy_generation.quests52.description4}"
 				""
-				"You can stay completely with EU and use only GregTech if you wish, or you could convert FE generated using Advanced Genertors, however this would not be available until the IV age. If you wish to transfer your energy as FE you could generate EU, convert it to FE, transfer the FE wirelessly using a few methods like a Tesseract, then convert back to EU where you require it. This makes it so you could make a central bank of energy as FE and wirelessly transmit it where you need EU and convert it on site."
+				"{sg.energy_generation.quests52.description5}"
 			]
 			id: "3A15F06E67782700"
-			subtitle: "1:4!"
+			subtitle: "{sg.energy_generation.quests52.subtitle}"
 			tasks: [{
 				id: "2D400A84C687B09E"
-				title: "RF - EU"
+				title: "{sg.energy_generation.quests52.tasks0.title}"
 				type: "checkmark"
 			}]
-			title: "EU/RF"
+			title: "{sg.energy_generation.quests52.title}"
 			x: 0.0d
 			y: -5.5d
 		}
 		{
-			description: ["Burns liquids and gasses to generate FE. All fuels from the Gas Turbines and Combustion Generators have been added. "]
+			description: ["{sg.energy_generation.quests53.description0}"]
 			id: "7F048FCDB9E7A7EF"
-			subtitle: "Liquids/Gasses - FE!"
+			subtitle: "{sg.energy_generation.quests53.subtitle}"
 			tasks: [{
 				id: "094F08253A3E7751"
 				item: "advgenerators:fuel_turbine_controller"
@@ -818,9 +818,9 @@
 			y: -7.5d
 		}
 		{
-			description: ["Burns Steam to generate FE. Steam from GregTech or Advanced Generators is acceptable."]
+			description: ["{sg.energy_generation.quests54.description0}"]
 			id: "0150CAB597759564"
-			subtitle: "Steam - FE!"
+			subtitle: "{sg.energy_generation.quests54.subtitle}"
 			tasks: [{
 				id: "0A46AB3BC14F4205"
 				item: "advgenerators:steam_turbine_controller"
@@ -830,9 +830,9 @@
 			y: -7.5d
 		}
 		{
-			description: ["Burns Carbon to generate Syngas, which can be burned in a Gas Turbine Controller"]
+			description: ["{sg.energy_generation.quests55.description0}"]
 			id: "76B203993AFC1C58"
-			subtitle: "Carbon - Syngas!"
+			subtitle: "{sg.energy_generation.quests55.subtitle}"
 			tasks: [{
 				id: "178C78906E931092"
 				item: "advgenerators:syngas_controller"
@@ -843,23 +843,23 @@
 		}
 		{
 			description: [
-				"Available in the IV age, Advanced Generators offers flexible multiblock FE generators. The multiblocks are completely flexible as any block can go anywhere as long as they are all touching each other."
+				"{sg.energy_generation.quests56.description0}"
 				""
-				"See the tooltips of the different controllers to see what blocks can be installed in the multiblock and how many of each block."
+				"{sg.energy_generation.quests56.description1}"
 				""
-				"See the uses for the Controller blocks in EMI to see their fuels and energy generation rates."
+				"{sg.energy_generation.quests56.description2}"
 			]
 			id: "1894FB51BAF307CA"
-			subtitle: "Generate FE!"
+			subtitle: "{sg.energy_generation.quests56.subtitle}"
 			tasks: [{
 				id: "2438DC5121109D19"
-				title: "Advanced Generators"
+				title: "{sg.energy_generation.quests56.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
 			y: -6.5d
 		}
 	]
-	subtitle: ["An overview!"]
-	title: "Energy Generation"
+	subtitle: ["{sg.energy_generation.subtitle0}"]
+	title: "{sg.energy_generation.title}"
 }

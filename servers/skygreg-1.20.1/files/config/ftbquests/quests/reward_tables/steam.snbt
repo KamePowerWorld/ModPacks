@@ -4,13 +4,26 @@
 	loot_size: 1
 	order_index: 3
 	rewards: [
-		{ item: "gtceu:lv_electric_pump" }
-		{ item: "gtceu:lv_fluid_regulator" }
-		{ item: "gtceu:lv_conveyor_module" }
-		{ item: "gtceu:lv_robot_arm" }
-		{ item: "gtceu:bronze_brick_casing" }
-		{ count: 8, item: "gtceu:potin_normal_fluid_pipe" }
+		{
+			item: "gtceu:lv_electric_pump"
+		}
+		{
+			item: "gtceu:lv_fluid_regulator"
+		}
+		{
+			item: "gtceu:lv_conveyor_module"
+		}
+		{
+			item: "gtceu:lv_robot_arm"
+		}
+		{
+			item: "gtceu:bronze_brick_casing"
+		}
+		{
+			count: 8
+			item: "gtceu:potin_normal_fluid_pipe"
+		}
 	]
-	title: "Steam Rewards"
+	title: "{sg.steam.title}"
 	use_title: true
 }

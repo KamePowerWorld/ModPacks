@@ -11,17 +11,17 @@
 	quests: [
 		{
 			description: [
-				"The idea of this pack is to get right into GregTech ASAP while making resource generation as easy as possible, GregTech with unlimited resources."
+				"{sg.intro.quests0.description0}"
 				""
-				"Your starter island and inventory has everything you need to jump right into everything."
+				"{sg.intro.quests0.description1}"
 				""
-				"Grab your Netherite Hammer and get to work! You even have an ME Crafting Terminal with a full ME Drive and a Creative Energy Cell!"
+				"{sg.intro.quests0.description2}"
 				""
-				"Almost all \"hard mode\" recipes have been enabled in the config file, but other than that no GregTech recipes have been altered. Some other mods have been changed slightly to fit more GregTech recipe styles and fit the modpack better."
+				"{sg.intro.quests0.description3}"
 				""
-				"With GregTechCEu Modern still being rather new to 1.20.1 there are some bugs to be expected, I am doing my best to work around them."
+				"{sg.intro.quests0.description4}"
 				""
-				"Note that The Nether and The End dimensions are also void worlds but do still spawn structures and the Ender Dragon, although you may never find a need to go to either dimension."
+				"{sg.intro.quests0.description5}"
 			]
 			id: "4462E9F7062D4E87"
 			rewards: [{
@@ -31,7 +31,7 @@
 			}]
 			shape: "gear"
 			size: 2.0d
-			subtitle: "Go go GregTech!"
+			subtitle: "{sg.intro.quests0.subtitle}"
 			tasks: [{
 				id: "3F47ED63BF13E098"
 				item: "gtceu:rubber_log"
@@ -42,19 +42,19 @@
 		}
 		{
 			description: [
-				"Generates 1 random ore above it."
+				"{sg.intro.quests1.description0}"
 				""
-				"Mine the ore to generate another random ore."
+				"{sg.intro.quests1.description1}"
 				""
-				"Once you get a raw ore you want a lot of, toss it in the Raw Conversion Generator to produce unlimited amounts of that ore."
+				"{sg.intro.quests1.description2}"
 				""
-				"Keep in mind that with REI inventory highlighting on (or in AE2 terminals) you can search for items by their element name, like Cu for Copper."
+				"{sg.intro.quests1.description3}"
 				""
-				"You already have one of these on your platform. You need to pick it up and place it down to reset it for it to start working."
+				"{sg.intro.quests1.description4}"
 			]
 			id: "0DBCE651A4F464F7"
 			shape: "hexagon"
-			subtitle: "Unlimited random raw ores!"
+			subtitle: "{sg.intro.quests1.subtitle}"
 			tasks: [{
 				id: "70F2B92D6A00DB3D"
 				item: "simple_resource_generators:random_ore_block_generator_placement"
@@ -65,13 +65,13 @@
 		}
 		{
 			description: [
-				"Insert a raw ore of any kind in the GUI and the corresponding ore will be generated above it the Raw Conversion Generator."
+				"{sg.intro.quests2.description0}"
 				""
-				"The raw ore is &nnot consumed&r while generating ores."
+				"{sg.intro.quests2.description1}"
 				""
-				"You already have one of these on your platform. You need to pick it up and place it down to reset it for it to start working."
+				"{sg.intro.quests2.description2}"
 				""
-				"Try to remember to always keep at least 1 raw ore stored away."
+				"{sg.intro.quests2.description3}"
 			]
 			id: "482C15EC43DAAFBA"
 			rewards: [{
@@ -80,7 +80,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Raw ore not consumed!"
+			subtitle: "{sg.intro.quests2.subtitle}"
 			tasks: [{
 				id: "43231CAF17BAD975"
 				item: "simple_resource_generators:raw_conversion_generator"
@@ -91,29 +91,29 @@
 		}
 		{
 			description: [
-				"Does not actually hold Water but can fill Buckets and convert some items."
+				"{sg.intro.quests3.description0}"
 				""
-				"A lot of Clay is going to be needed at the start."
+				"{sg.intro.quests3.description1}"
 				""
-				"Conversions:"
+				"{sg.intro.quests3.description2}"
 				""
-				" - Dirt -> Mud"
-				" - Dust -> Clay"
-				" - Stone Dust (\\& variants) -> Clay Ball"
+				"{sg.intro.quests3.description3}"
+				"{sg.intro.quests3.description4}"
+				"{sg.intro.quests3.description5}"
 				""
-				"You already have one of these on your platform."
+				"{sg.intro.quests3.description6}"
 				""
-				"There are other blocks to help with Water generation later on."
+				"{sg.intro.quests3.description7}"
 			]
 			id: "0AD0B4EAC2AA5209"
 			shape: "hexagon"
-			subtitle: "Easy Clay!"
+			subtitle: "{sg.intro.quests3.subtitle}"
 			tasks: [{
 				icon: "simple_resource_generators:simple_water_condenser"
 				id: "677132354ED49F77"
 				observe_type: 0
 				timer: 0L
-				title: "Primitive Water Condenser"
+				title: "{sg.intro.quests3.tasks0.title}"
 				to_observe: "simple_resource_generators:simple_water_condenser"
 				type: "observation"
 			}]
@@ -125,10 +125,10 @@
 				"0DBCE651A4F464F7"
 				"67A71A946653F866"
 			]
-			description: ["Instead of placing an ore block in the world, this block will generate an ore in its 1 slot of inventory. You will need a way to extract the items, like a Hopper or Item Pipes."]
+			description: ["{sg.intro.quests4.description0}"]
 			id: "492FE38D3B2C2F20"
 			shape: "hexagon"
-			subtitle: "Automated!"
+			subtitle: "{sg.intro.quests4.subtitle}"
 			tasks: [{
 				id: "1B6C77D9E5C72ACA"
 				item: "simple_resource_generators:random_ore_generator"
@@ -143,15 +143,15 @@
 				"67A71A946653F866"
 			]
 			description: [
-				"Place under an ore block to generate that ore block as an item. "
+				"{sg.intro.quests5.description0}"
 				""
-				"Instead of placing an ore block in the world, this block will generate an ore in its 1 slot of inventory. You will need a way to extract the items, like a Hopper or Item Pipes."
+				"{sg.intro.quests5.description1}"
 				""
-				"You should really be getting in the habbit of having 1 of these feeding into a factory line for complete automation."
+				"{sg.intro.quests5.description2}"
 			]
 			id: "761E0D41EA3A4564"
 			shape: "hexagon"
-			subtitle: "Automated!"
+			subtitle: "{sg.intro.quests5.subtitle}"
 			tasks: [{
 				id: "1FB12E50A933BFCF"
 				item: "simple_resource_generators:simple_ore_generator"
@@ -162,15 +162,15 @@
 		}
 		{
 			description: [
-				"Crushing Hammers are used to crush Stone/Cobblestone into Gravel, Gravel into Sand, Sand into Dust, and Dirt into saplings and Plant Fiber."
+				"{sg.intro.quests6.description0}"
 				""
-				"Harvest blocks in world to convert them."
+				"{sg.intro.quests6.description1}"
 				""
-				"FTB Ultimine works for large groups at once."
+				"{sg.intro.quests6.description2}"
 				""
-				"They are also a multi tool, harvesting things that a pickaxe, shovel, and axe would."
+				"{sg.intro.quests6.description3}"
 				""
-				"GregTech Hammers also process blocks they harvest in the world as they would be in a Forge Hammer, allowing them to obtain Gravel, Sand, and Dust as well."
+				"{sg.intro.quests6.description4}"
 			]
 			id: "7F5745C91297CB3B"
 			rewards: [{
@@ -185,7 +185,7 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Crushes, mines, digs, and chops!"
+			subtitle: "{sg.intro.quests6.subtitle}"
 			tasks: [{
 				id: "1AA0896878FD6ACD"
 				item: {
@@ -197,27 +197,27 @@
 				}
 				type: "item"
 			}]
-			title: "Crushing Hammers"
+			title: "{sg.intro.quests6.title}"
 			x: 0.0d
 			y: 2.0d
 		}
 		{
 			description: [
-				"Does not actually hold Lava but can fill Buckets."
+				"{sg.intro.quests7.description0}"
 				""
-				"You already have one of these on your platform."
+				"{sg.intro.quests7.description1}"
 				""
-				"There are other blocks to help with Lava generation later on."
+				"{sg.intro.quests7.description2}"
 			]
 			id: "39D99BD0ACC2EEC1"
 			shape: "hexagon"
-			subtitle: "Lava Buckets!"
+			subtitle: "{sg.intro.quests7.subtitle}"
 			tasks: [{
 				icon: "simple_resource_generators:simple_lava_condenser"
 				id: "765BE631063173B9"
 				observe_type: 0
 				timer: 0L
-				title: "Primitive Lava Condenser"
+				title: "{sg.intro.quests7.tasks0.title}"
 				to_observe: "simple_resource_generators:simple_lava_condenser"
 				type: "observation"
 			}]
@@ -226,19 +226,19 @@
 		}
 		{
 			description: [
-				"Passive mobs can spawn on Grass Blocks with enough light while you are far enough away."
+				"{sg.intro.quests8.description0}"
 				""
-				"You may also craft a Golden Egg which can be used to create Delightful Dirt, which spawns passive mobs frequently as long as the biome allows it."
+				"{sg.intro.quests8.description1}"
 				""
-				"The Market block also sells (almost) every Spawn Egg, and Spawners are craftable. You can use a Spawn Egg to set a Spawner to that mob type."
+				"{sg.intro.quests8.description2}"
 			]
 			icon: "mob_grinding_utils:golden_egg"
 			id: "39A9C44A376EE7DE"
 			shape: "gear"
-			subtitle: "Where are all my Chickens?"
+			subtitle: "{sg.intro.quests8.subtitle}"
 			tasks: [{
 				id: "0BC51AF25C1008D0"
-				title: "Passive Mobs"
+				title: "{sg.intro.quests8.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 1.5d
@@ -246,29 +246,29 @@
 		}
 		{
 			description: [
-				"This modpack is meant to skip all of the early grind that in normally in skyblocks."
+				"{sg.intro.quests9.description0}"
 				""
-				"That being said, you start with infinite ore generators with a unique twist."
+				"{sg.intro.quests9.description1}"
 				""
-				"On the left is the Random Ore Generator which will constantly generate a random ore block above it if there is room, mine the block away and have another random ore generate. This may feel chaotic and too random at first, but once you get a material you want more of, place it in the block on the right, the Raw Conversion Generator."
+				"{sg.intro.quests9.description2}"
 				""
-				"The Raw Conversion Generator will accept 1 raw ore of any kind and generate an ore block of that type above it if there is room. &nThe raw ore is not consumed.&r"
+				"{sg.intro.quests9.description3}"
 				""
-				"&6Note you have to pick them up and place them down again for them to work, they are just set up as a display.&r"
+				"{sg.intro.quests9.description4}"
 				""
-				"Being very cheap the idea is to have one set up for each material you need, later having automatic options or just using a Block Breaker."
+				"{sg.intro.quests9.description5}"
 				""
-				"You have access to every raw ore in the modpack and the ability to generate infinite amounts of whichever ore you want."
+				"{sg.intro.quests9.description6}"
 				""
-				"Ore processing is less important than normal modpacks for obvious reasons, however some materials are only obtainable as a byproduct."
+				"{sg.intro.quests9.description7}"
 			]
 			icon: "gtceu:endstone_diamond_ore"
 			id: "14A6545CEE50C10F"
 			shape: "gear"
-			subtitle: "It's kind of like sieving..."
+			subtitle: "{sg.intro.quests9.subtitle}"
 			tasks: [{
 				id: "63BAA184B3B5F5C4"
-				title: "What is this?"
+				title: "{sg.intro.quests9.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -1.5d
@@ -277,18 +277,18 @@
 		{
 			dependencies: ["4462E9F7062D4E87"]
 			description: [
-				"Vanilla mechanics for Bone Meal in a Composter. You can easily automate it with a Random Sapling Generator and a couple Hoppers."
+				"{sg.intro.quests10.description0}"
 				""
-				"-Random Sapling Generator-"
-				"-Hopper-"
-				"-Composter-"
-				"-Hopper-"
-				"-Chest-"
+				"{sg.intro.quests10.description1}"
+				"{sg.intro.quests10.description2}"
+				"{sg.intro.quests10.description3}"
+				"{sg.intro.quests10.description4}"
+				"{sg.intro.quests10.description5}"
 			]
 			hide_dependency_lines: true
 			id: "54585C31FF2226A2"
 			shape: "hexagon"
-			subtitle: "Looking for Bone Meal?"
+			subtitle: "{sg.intro.quests10.subtitle}"
 			tasks: [{
 				id: "5240727B9A9A849C"
 				item: "minecraft:composter"
@@ -299,33 +299,33 @@
 		}
 		{
 			description: [
-				"Home Command - Type /sethome to set a home. Type /home to teleport to that home."
+				"{sg.intro.quests11.description0}"
 				""
-				"Twerking - Mash sneak to twerk and speed up plant/sapling growth."
+				"{sg.intro.quests11.description1}"
 				""
-				"FTB Ultimine - Hold the grave key [`] and harvest blocks to harvest up to 64 of that same block as long as they are connected. Just dont mine up your entire base!"
+				"{sg.intro.quests11.description2}"
 				""
-				"Void Garbage - There are actually 2 types of trash cans in your inventory, press [T] to enable a Trash Slot at the bottom of your inventory, or look in the top left of your screen to find the Trash Can, or just take advantage of the ability to hold the throw button [Q] to toss things as far as you can into the void. All options have their own benefits. There is also an Item Trash Can block you can place in the world to pipe items into."
+				"{sg.intro.quests11.description3}"
 				""
-				"Chunk Claiming - In the top left of your screen when you open your inventory there is a small button that looks like a grid map. This is FTB Chunks, left click a tile to \"Claim\" the chunk, preventing explosion damage (and more). Shift click a tile to \"Force Load\" the chunk, meaning it will stay loaded and operating when you are not nearby."
+				"{sg.intro.quests11.description4}"
 				""
-				"Quest Rewards - Quests will sometimes offer very useful things for the stage you are at but don't always expect rewards. Quests are mostly to show progression."
+				"{sg.intro.quests11.description5}"
 				""
-				"Phantoms - Phantoms exist, either build a roof or a Bed."
+				"{sg.intro.quests11.description6}"
 				""
-				"Extreme Sound Muffler - There are a lot of sounds in GregTech, especially in the steam age, you can mute any sound you wish by clicking on the volume icon in your inventory to the right of your player model. Note you can also just smack the machine with a Hammer if you want to only mute a single machine."
+				"{sg.intro.quests11.description7}"
 				""
-				"Peaceful Mode - It's a valid option, you may be thinking you need a bunch of Ender Pearls, Ender Pearl Dust is craftable in the LV age using ore material. &nEnder Pearl Dust can be converted into Ender Pearls in an Autoclave with Water&r. While Peaceful Mode may take some extra work, it is an option."
+				"{sg.intro.quests11.description8}"
 				""
-				"AE2 - Applied Energistics 2 is meant to be as accessible as possible with basically no changed recipes and access in the LV age. Recipes have only been added to fit a skyblock modpack and &nchannels have been disabled&r to allow easier automation for the mass amount of machines you will have."
+				"{sg.intro.quests11.description9}"
 			]
 			icon: "minecraft:writable_book"
 			id: "40436BC7CC08D144"
 			shape: "gear"
-			subtitle: "Read me!"
+			subtitle: "{sg.intro.quests11.subtitle}"
 			tasks: [{
 				id: "14524C8A4704DB86"
-				title: "Useful Things"
+				title: "{sg.intro.quests11.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -1.0d
@@ -334,13 +334,13 @@
 		{
 			dependencies: ["4462E9F7062D4E87"]
 			description: [
-				"The Nether is a void dimension as well but it still has structures."
+				"{sg.intro.quests12.description0}"
 				""
-				"Build a portal as normal with Obsidian or craft a Nether Painting. If using Paintings for travel, remember to bring an Overworld Painting with you to get back as they do not create a return."
+				"{sg.intro.quests12.description1}"
 				""
-				"The only reason you will probably need to go here is for Nether Air."
+				"{sg.intro.quests12.description2}"
 				""
-				"You have to &njump&r into the Painting."
+				"{sg.intro.quests12.description3}"
 			]
 			hide_dependency_lines: true
 			icon: "dimpaintings:nether_painting"
@@ -351,12 +351,12 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Void with structures!"
+			subtitle: "{sg.intro.quests12.subtitle}"
 			tasks: [
 				{
 					dimension: "minecraft:the_nether"
 					id: "0056CF14E6B5231B"
-					title: "The Nether"
+					title: "{sg.intro.quests12.tasks0.title}"
 					type: "dimension"
 				}
 				{
@@ -371,13 +371,13 @@
 		{
 			dependencies: ["560C7763B0AA9B02"]
 			description: [
-				"The End is a void dimension as well but it still has and End Island and Ender Dragon."
+				"{sg.intro.quests13.description0}"
 				""
-				"There is no Stronghold. Craft an End Painting. If using Paintings for travel, remember to bring an Overworld Painting with you to get back as they do not create a return."
+				"{sg.intro.quests13.description1}"
 				""
-				"The only reason you will probably need to go here is for Ender Air. An Enderman farm wouldn't hurt to have though."
+				"{sg.intro.quests13.description2}"
 				""
-				"You have to &njump&r into the Painting."
+				"{sg.intro.quests13.description3}"
 			]
 			icon: "dimpaintings:end_painting"
 			id: "4E97250754AE3B2B"
@@ -387,12 +387,12 @@
 				type: "item"
 			}]
 			shape: "hexagon"
-			subtitle: "Void with an Ender Dragon!"
+			subtitle: "{sg.intro.quests13.subtitle}"
 			tasks: [
 				{
 					dimension: "minecraft:the_end"
 					id: "2B4B7896B2A13CC0"
-					title: "The End"
+					title: "{sg.intro.quests13.tasks0.title}"
 					type: "dimension"
 				}
 				{
@@ -406,38 +406,38 @@
 		}
 		{
 			description: [
-				"GregTech Item Pipes and Fluid Pipes can be buggy, due to this Modular Routers, LaserIO and Conduits from EnderIO have been added for more transfer options."
+				"{sg.intro.quests14.description0}"
 				""
-				"In some situations they seem to work fine but in others they stop working and let's just say I'm tired of machines exploding."
+				"{sg.intro.quests14.description1}"
 			]
 			icon: "enderio:ender_fluid_conduit"
 			id: "36140838F3343E92"
 			shape: "gear"
-			subtitle: "IO!"
+			subtitle: "{sg.intro.quests14.subtitle}"
 			tasks: [{
 				id: "4FD65DAE8F7E832C"
-				title: "Pipez"
+				title: "{sg.intro.quests14.tasks0.title}"
 				type: "checkmark"
 			}]
-			title: "Transfer Options"
+			title: "{sg.intro.quests14.title}"
 			x: 1.0d
 			y: -1.0d
 		}
 		{
 			description: [
-				"Quests are being worked on constantly, quests and quest chapters will be added, updated, or removed."
+				"{sg.intro.quests15.description0}"
 				""
-				"Some quests have no text as of now but everything is to be finished rather soon."
+				"{sg.intro.quests15.description1}"
 				""
-				"Expect many quest updates."
+				"{sg.intro.quests15.description2}"
 			]
 			icon: "ftbquests:book"
 			id: "1B5738B5D13B5A64"
 			shape: "gear"
-			subtitle: "WIP!"
+			subtitle: "{sg.intro.quests15.subtitle}"
 			tasks: [{
 				id: "1D3DBB0EDA750461"
-				title: "Quests"
+				title: "{sg.intro.quests15.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -446,14 +446,14 @@
 		{
 			dependencies: ["7F5745C91297CB3B"]
 			description: [
-				"Harvest Cobblestone with a Crushing Hammer."
+				"{sg.intro.quests16.description0}"
 				""
-				"Harvest again to create Sand."
+				"{sg.intro.quests16.description1}"
 				""
-				"You already have an active Cobble Gen on your platform if you haven't found it yet."
+				"{sg.intro.quests16.description2}"
 			]
 			id: "3EA129DF35925916"
-			subtitle: "Cobblestone -> Gravel!"
+			subtitle: "{sg.intro.quests16.subtitle}"
 			tasks: [{
 				id: "061BD8FFC13F0A08"
 				item: "minecraft:gravel"
@@ -465,12 +465,12 @@
 		{
 			dependencies: ["3EA129DF35925916"]
 			description: [
-				"Harvest Gravel with a Crushing Hammer."
+				"{sg.intro.quests17.description0}"
 				""
-				"Harvest again to create Dust."
+				"{sg.intro.quests17.description1}"
 			]
 			id: "24E853EAA8010B8F"
-			subtitle: "Gravel -> Sand!"
+			subtitle: "{sg.intro.quests17.subtitle}"
 			tasks: [{
 				id: "41D9DBB8FA804633"
 				item: "minecraft:sand"
@@ -485,13 +485,13 @@
 				"5A979C11538C1E29"
 			]
 			description: [
-				"Use Dust on a Primitive Water Condenser to create Clay. Use the stone dust variants you get from mining ores on a Primitive Water Condenser to create Clay Balls."
+				"{sg.intro.quests18.description0}"
 				""
-				"You can also craft Clay with a GT Hammer to break the Clay down into Clay Balls."
+				"{sg.intro.quests18.description1}"
 			]
 			icon: "minecraft:clay"
 			id: "1BC846356EB47249"
-			subtitle: "Dust -> Clay!"
+			subtitle: "{sg.intro.quests18.subtitle}"
 			tasks: [
 				{
 					id: "0177C4ABDE5290EE"
@@ -510,12 +510,12 @@
 		{
 			dependencies: ["24E853EAA8010B8F"]
 			description: [
-				"Harvest Sand with a Crushing Hammer."
+				"{sg.intro.quests19.description0}"
 				""
-				"Use on the Primitive Water Condenser to create Clay."
+				"{sg.intro.quests19.description1}"
 			]
 			id: "5A979C11538C1E29"
-			subtitle: "Sand -> Dust!"
+			subtitle: "{sg.intro.quests19.subtitle}"
 			tasks: [{
 				id: "10BD2411EF227AD0"
 				item: "ex_hammers:dust"
@@ -527,14 +527,14 @@
 		{
 			dependencies: ["7F5745C91297CB3B"]
 			description: [
-				"Harvest Dirt with a Crushing Hammer."
+				"{sg.intro.quests20.description0}"
 				""
-				"You have a chance to get a random sapling or Plant Fibers, which can be used as and also turned into String."
+				"{sg.intro.quests20.description1}"
 				""
-				"You already have an active Dirt Gen on your platform if you haven't found it yet."
+				"{sg.intro.quests20.description2}"
 			]
 			id: "1FA571770C50B683"
-			subtitle: "Dirt -> Plant Fiber!"
+			subtitle: "{sg.intro.quests20.subtitle}"
 			tasks: [{
 				id: "417E7C485D572F33"
 				item: "ex_hammers:plant_fiber"
@@ -546,13 +546,13 @@
 		{
 			dependencies: ["4462E9F7062D4E87"]
 			description: [
-				"Phantoms are annoying, sleep to keep them away for a few more days. You can also just build a roof and they won't bother you. They will only spawn if your head can see the sky."
+				"{sg.intro.quests21.description0}"
 				""
-				"While a normal Bed requires Wool, if you get Leather instead you can craft a Furniture Station and make a Bed from Fantasy's Furniture using a Clay Ball, Planks, and Cobblestone."
+				"{sg.intro.quests21.description1}"
 			]
 			hide_dependency_lines: true
 			id: "29961CF6E960A4AB"
-			subtitle: "Stay away Phantoms!"
+			subtitle: "{sg.intro.quests21.subtitle}"
 			tasks: [{
 				icon: "minecraft:white_bed"
 				id: "7ACE8F902222A6D9"
@@ -563,7 +563,7 @@
 						value: "minecraft:beds"
 					}
 				}
-				title: "Bed"
+				title: "{sg.intro.quests21.tasks0.title}"
 				type: "item"
 			}]
 			x: 1.0d
@@ -572,14 +572,14 @@
 		{
 			dependencies: ["3EA129DF35925916"]
 			description: [
-				"Harvest Gravel with your hands for a chance of obtaining Flint."
+				"{sg.intro.quests22.description0}"
 				""
-				"Use FTB Ultimine to harvest a stack at once."
+				"{sg.intro.quests22.description1}"
 				""
-				"Once you can make Stone in a Furnace you can craft a Mortar to obtain Flint much easier."
+				"{sg.intro.quests22.description2}"
 			]
 			id: "053BC0E8213BE28A"
-			subtitle: "Vanilla mechanics!"
+			subtitle: "{sg.intro.quests22.subtitle}"
 			tasks: [{
 				id: "2D46DD4D0A96211F"
 				item: "minecraft:flint"
@@ -591,14 +591,14 @@
 		{
 			dependencies: ["4462E9F7062D4E87"]
 			description: [
-				"Pretty simple blocks, will generate 1 random sapling or seed per second and store it in its internal inventory. Use a Hopper or any other method to automate them."
+				"{sg.intro.quests23.description0}"
 				""
-				"If you need seeds look into the Composter quest for Bone Meal and use the Bone Meal on a Grass Block, or buy them from the Market block."
+				"{sg.intro.quests23.description1}"
 			]
 			hide_dependency_lines: true
 			icon: "simple_resource_generators:random_sapling_generator"
 			id: "4FBBE2E8A65A1AA9"
-			subtitle: "Saplings \\& seeds!"
+			subtitle: "{sg.intro.quests23.subtitle}"
 			tasks: [
 				{
 					id: "738098CB445D4E6A"
@@ -611,31 +611,31 @@
 					type: "item"
 				}
 			]
-			title: "More Random Generators"
+			title: "{sg.intro.quests23.title}"
 			x: 1.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["4E97250754AE3B2B"]
 			description: [
-				"Well it's day 641 and I finally killed that damned Ender Dragon, I made a sword for the first time just to kill that thing."
+				"{sg.intro.quests24.description0}"
 				""
-				"Ender Air is now mine."
+				"{sg.intro.quests24.description1}"
 			]
 			hide: true
 			hide_details_until_startable: true
 			id: "4ADEC0C6E2B60151"
 			shape: "gear"
-			subtitle: "Day 641..."
+			subtitle: "{sg.intro.quests24.subtitle}"
 			tasks: [{
 				id: "336F22CF8058A162"
-				title: "Captain's Log"
+				title: "{sg.intro.quests24.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 1.0d
 			y: 8.0d
 		}
 	]
-	subtitle: ["A different start!"]
-	title: "Basics"
+	subtitle: ["{sg.intro.subtitle0}"]
+	title: "{sg.intro.title}"
 }

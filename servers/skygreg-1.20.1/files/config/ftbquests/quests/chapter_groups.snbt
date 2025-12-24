@@ -1,6 +1,12 @@
 {
 	chapter_groups: [
-		{ id: "3483E4EBAD9C4714", title: "General" }
-		{ id: "226B543BC0A2CF0E", title: "GregTech" }
+		{
+			id: "3483E4EBAD9C4714"
+			title: "{sg.chapter_groups.chapter_groups0.title}"
+		}
+		{
+			id: "226B543BC0A2CF0E"
+			title: "{sg.chapter_groups.chapter_groups1.title}"
+		}
 	]
 }

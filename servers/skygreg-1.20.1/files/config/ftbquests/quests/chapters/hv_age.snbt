@@ -14,7 +14,7 @@
 				"3572CE7FB88DFD07"
 				"72EEEF8EC9D3693C"
 			]
-			description: ["I think you understand how Circuits work by now."]
+			description: ["{sg.hv_age.quests0.description0}"]
 			id: "01A3EB516A884B7C"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -23,7 +23,7 @@
 				type: "loot"
 			}]
 			size: 2.0d
-			subtitle: "EV Circuits!"
+			subtitle: "{sg.hv_age.quests0.subtitle}"
 			tasks: [{
 				id: "28C4164B6C2614F8"
 				item: "gtceu:micro_processor_computer"
@@ -37,7 +37,7 @@
 				"684FA75E5D8A941D"
 				"31C96EDE68DEAABC"
 			]
-			description: ["The second HV Circuit, can be used in place of the original HV Circuits."]
+			description: ["{sg.hv_age.quests1.description0}"]
 			id: "3572CE7FB88DFD07"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -45,7 +45,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "This is the second HV Circuit!"
+			subtitle: "{sg.hv_age.quests1.subtitle}"
 			tasks: [{
 				id: "2C0CA1BF9C22AA6F"
 				item: "gtceu:micro_processor_assembly"
@@ -59,7 +59,7 @@
 				"71AA8A822A5A2015"
 				"48F565D11CFD07E2"
 			]
-			description: ["The third MV Circuit, can be used in place of the original MV Circuits."]
+			description: ["{sg.hv_age.quests2.description0}"]
 			id: "684FA75E5D8A941D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -67,7 +67,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "This is the third MV Circuit!"
+			subtitle: "{sg.hv_age.quests2.subtitle}"
 			tasks: [{
 				id: "670EFBA56E182B6B"
 				item: "gtceu:micro_processor"
@@ -78,7 +78,7 @@
 		}
 		{
 			dependencies: ["10F79991569391D7"]
-			description: ["A new Circuit Board type, used in quite a few Circuit types."]
+			description: ["{sg.hv_age.quests3.description0}"]
 			id: "71AA8A822A5A2015"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -86,7 +86,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "A new Circuit board!"
+			subtitle: "{sg.hv_age.quests3.subtitle}"
 			tasks: [{
 				id: "04DE697F80E04EAC"
 				item: "gtceu:plastic_printed_circuit_board"
@@ -98,9 +98,9 @@
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"While Polyethylene Sheets can be used, Polyvinyl Chloride Sheets will produce twice as much. Look into getting a Liquid Polyvinyl Chloride production setup. For now it is completely optional but can help preserve Polyethylene."
+				"{sg.hv_age.quests4.description0}"
 				""
-				"If you have more Polyethylene than you can handle, there is no need for Polyvinyl Chloride for now, but it is highly recommended as you will require the Polyvinyl Chloride later on."
+				"{sg.hv_age.quests4.description1}"
 			]
 			id: "10F79991569391D7"
 			rewards: [{
@@ -109,7 +109,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.hv_age.quests4.subtitle}"
 			tasks: [{
 				id: "2BCC5F0CF6261397"
 				item: "gtceu:plastic_circuit_board"
@@ -120,7 +120,7 @@
 		}
 		{
 			dependencies: ["75D15295C7901382"]
-			description: ["There are 2 types of Inductors, both are valid for Circuits, both are obtainable. If you can craft the SMD Inductors then you probably should as you can craft 32 at a time."]
+			description: ["{sg.hv_age.quests5.description0}"]
 			id: "31C96EDE68DEAABC"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -128,7 +128,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.hv_age.quests5.subtitle}"
 			tasks: [{
 				icon: "gtceu:inductor"
 				id: "15FFC1EB5BEA46A7"
@@ -139,35 +139,35 @@
 						value: "gtceu:inductors"
 					}
 				}
-				title: "Inductors"
+				title: "{sg.hv_age.quests5.tasks0.title}"
 				type: "item"
 			}]
-			title: "Inductors"
+			title: "{sg.hv_age.quests5.title}"
 			x: 2.5d
 			y: 3.0d
 		}
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"Place machines inside the Cleanroom multiblock to perform Cleanroom recipes. Note that other blocks can be placed inside as well, like Quantum Rings, Travel Anchors, and Elevators."
+				"{sg.hv_age.quests6.description0}"
 				""
-				"Can be a minimum of 5x5x5 and maximum of 15x15x15. You will require many machines inside a Cleanroom eventually, and even some multiblocks."
+				"{sg.hv_age.quests6.description1}"
 				""
-				"Additional blocks that are not listed, Diode, Busses/Hatches, Passthrough Hatches, Machine Hull."
+				"{sg.hv_age.quests6.description2}"
 				""
-				"As per normal routine most of the Busses/Hatches are flexible. "
+				"{sg.hv_age.quests6.description3}"
 				""
-				"This multiblock requires a Machine Hull to provide energy to machines inside the Cleanroom. Power the Machine Hull from the outside and access the energy from the inside. If it is not working, spin it around. The red side should face inside the Cleanroom."
+				"{sg.hv_age.quests6.description4}"
 				""
-				"Note the multiblock will form with an LV Energy Hatch but it will not start the cleaning process unless it is at least an MV Energy Hatch."
+				"{sg.hv_age.quests6.description5}"
 				""
-				"Passthrough Hatches allow items or fluids to be \"passed through\" the walls of the multiblock, allowing transfer through the walls."
+				"{sg.hv_age.quests6.description6}"
 				""
-				"Interact with the Cleanroom block in the top center from either inside or outside to see the status of the Cleanroom. The status must be CLEAN in order for recipes to work."
+				"{sg.hv_age.quests6.description7}"
 				""
-				"Tip: You can get infinite Concrete from the Infinite Block Generator."
+				"{sg.hv_age.quests6.description8}"
 				""
-				"The items listed are the minimum requirements without Hatches or Busses."
+				"{sg.hv_age.quests6.description9}"
 			]
 			icon: "gtceu:cleanroom"
 			id: "72EEEF8EC9D3693C"
@@ -177,7 +177,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Place machines inside!"
+			subtitle: "{sg.hv_age.quests6.subtitle}"
 			tasks: [
 				{
 					id: "48F10AEB7FE95862"
@@ -193,13 +193,19 @@
 				{
 					count: 6L
 					id: "7A13FE3AAB552CFB"
-					item: { Count: 6b, id: "gtceu:cleanroom_glass" }
+					item: {
+						Count: 6b
+						id: "gtceu:cleanroom_glass"
+					}
 					type: "item"
 				}
 				{
 					count: 8L
 					id: "77AA5173D601A988"
-					item: { Count: 8b, id: "gtceu:filter_casing" }
+					item: {
+						Count: 8b
+						id: "gtceu:filter_casing"
+					}
 					type: "item"
 				}
 				{
@@ -214,13 +220,13 @@
 		{
 			dependencies: ["01A3EB516A884B7C"]
 			description: [
-				"An advanced multiblock version of the Distillery, capable of obtaining more fluid outputs."
+				"{sg.hv_age.quests7.description0}"
 				""
-				"The size of the multiblock can vary depending on the amount of outputs you are getting. If you are only getting 2 outputs, it only needs to be as tall as 2 Output Hatches, if you are getting 4 outputs, it needs to be as tall as 4 Output Hatches."
+				"{sg.hv_age.quests7.description1}"
 				""
-				"Every level higher must contain 1 Output Hatch and the bottom level cannot contain an Output Hatch."
+				"{sg.hv_age.quests7.description2}"
 				""
-				"The items listed are the minimum requirements without Hatches or Busses."
+				"{sg.hv_age.quests7.description3}"
 				"{image:kubejs:block/distillation_small width:200 height:100 align:1}"
 				"{image:kubejs:block/distillation_large width:200 height:100 align:1}"
 			]
@@ -232,7 +238,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "A multiblock Distillery!"
+			subtitle: "{sg.hv_age.quests7.subtitle}"
 			tasks: [
 				{
 					id: "7FE399B84E4411C6"
@@ -242,7 +248,10 @@
 				{
 					count: 21L
 					id: "4E827688F8538FE5"
-					item: { Count: 21b, id: "gtceu:clean_machine_casing" }
+					item: {
+						Count: 21b
+						id: "gtceu:clean_machine_casing"
+					}
 					type: "item"
 				}
 			]
@@ -252,9 +261,9 @@
 		{
 			dependencies: ["4AE575A11212921D"]
 			description: [
-				"SMD components basically replace your original Circuit components, being significantly easier to craft in larger amounts."
+				"{sg.hv_age.quests8.description0}"
 				""
-				"Boosts Circuit production rates significantly."
+				"{sg.hv_age.quests8.description1}"
 			]
 			icon: "gtceu:smd_transistor"
 			id: "429091621533FD72"
@@ -264,7 +273,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Circuits made easier!"
+			subtitle: "{sg.hv_age.quests8.subtitle}"
 			tasks: [
 				{
 					id: "419A6DBCACC40FDC"
@@ -292,7 +301,7 @@
 					type: "item"
 				}
 			]
-			title: "SMD Components"
+			title: "{sg.hv_age.quests8.title}"
 			x: 1.5d
 			y: -1.0d
 		}
@@ -305,7 +314,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "HV recipes!"
+			subtitle: "{sg.hv_age.quests9.subtitle}"
 			tasks: [{
 				id: "0A94B27B65DEB5A4"
 				item: "gtceu:hv_assembler"
@@ -316,7 +325,7 @@
 		}
 		{
 			dependencies: ["1BDC0AA4E8BF547A"]
-			description: ["Required to cut LPIC Wafers into LPIC Chips."]
+			description: ["{sg.hv_age.quests10.description0}"]
 			id: "7890F48BB3CDB0C8"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -324,7 +333,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "HV recipes!"
+			subtitle: "{sg.hv_age.quests10.subtitle}"
 			tasks: [{
 				id: "20ADA47906719192"
 				item: "gtceu:hv_cutter"
@@ -335,7 +344,7 @@
 		}
 		{
 			dependencies: ["74FF5231869BEF95"]
-			description: ["That's enough alloys for now, make some Blue Steel Plates and maybe some hand tools depending how much you crafted as they have a durability of 1024."]
+			description: ["{sg.hv_age.quests11.description0}"]
 			id: "1BDC0AA4E8BF547A"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -343,7 +352,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Durable tools!"
+			subtitle: "{sg.hv_age.quests11.subtitle}"
 			tasks: [{
 				id: "1A77507874CC21BB"
 				item: "gtceu:blue_steel_ingot"
@@ -357,7 +366,7 @@
 				"7890F48BB3CDB0C8"
 				"3A2EE50EC56A9C08"
 			]
-			description: ["Used for crafting HV energy related blocks, like the HV Energy Hatch."]
+			description: ["{sg.hv_age.quests12.description0}"]
 			id: "13F69B03F2EF5CBF"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -365,7 +374,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Finally!"
+			subtitle: "{sg.hv_age.quests12.subtitle}"
 			tasks: [{
 				id: "2288BC72A0D1731C"
 				item: "gtceu:lpic_chip"
@@ -376,7 +385,7 @@
 		}
 		{
 			dependencies: ["560C7763B0AA9B02"]
-			description: ["Required to craft LPIC Wafers."]
+			description: ["{sg.hv_age.quests13.description0}"]
 			id: "5CF0210609BCE0AA"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -384,7 +393,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Only 1 option this time!"
+			subtitle: "{sg.hv_age.quests13.subtitle}"
 			tasks: [{
 				id: "328EBC7359CAEFAB"
 				item: "gtceu:orange_glass_lens"
@@ -395,7 +404,7 @@
 		}
 		{
 			dependencies: ["75D15295C7901382"]
-			description: ["Required to craft different colored Glass Lenses."]
+			description: ["{sg.hv_age.quests14.description0}"]
 			id: "560C7763B0AA9B02"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -403,7 +412,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "HV recipes!"
+			subtitle: "{sg.hv_age.quests14.subtitle}"
 			tasks: [{
 				id: "48338B509E15A157"
 				item: "gtceu:hv_chemical_bath"
@@ -414,7 +423,7 @@
 		}
 		{
 			dependencies: ["5CF0210609BCE0AA"]
-			description: ["Cut into LPIC Chips in an HV Cutter."]
+			description: ["{sg.hv_age.quests15.description0}"]
 			id: "3A2EE50EC56A9C08"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -422,7 +431,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Cut me!"
+			subtitle: "{sg.hv_age.quests15.subtitle}"
 			tasks: [{
 				id: "4D8D4A911E5F681A"
 				item: "gtceu:lpic_wafer"
@@ -434,9 +443,9 @@
 		{
 			dependencies: ["071FE6997A8E1978"]
 			description: [
-				"Mostly used to craft an Advanced Cutter II as you need a Blue Steel Buzzsaw Blade."
+				"{sg.hv_age.quests16.description0}"
 				""
-				"Process in an EBF to obtain Blue Steel Ingots."
+				"{sg.hv_age.quests16.description1}"
 			]
 			id: "74FF5231869BEF95"
 			rewards: [{
@@ -445,7 +454,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Dust #3!"
+			subtitle: "{sg.hv_age.quests16.subtitle}"
 			tasks: [{
 				id: "6D10AB4BE326D133"
 				item: "gtceu:blue_steel_dust"
@@ -457,9 +466,9 @@
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"Required to craft Black Steel Dust."
+				"{sg.hv_age.quests17.description0}"
 				""
-				"Do not process into Black Bronze Ingots!"
+				"{sg.hv_age.quests17.description1}"
 			]
 			id: "48D114312B99C955"
 			rewards: [{
@@ -468,7 +477,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Dust #1!"
+			subtitle: "{sg.hv_age.quests17.subtitle}"
 			tasks: [{
 				id: "47408633B7354F72"
 				item: "gtceu:black_bronze_dust"
@@ -479,7 +488,7 @@
 		}
 		{
 			dependencies: ["48D114312B99C955"]
-			description: ["While it is mostly used to craft Blue Steel Dust, you will need some Fine Black Steel Wires to craft High Voltage Coils as well."]
+			description: ["{sg.hv_age.quests18.description0}"]
 			id: "071FE6997A8E1978"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -487,7 +496,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Dust #2!"
+			subtitle: "{sg.hv_age.quests18.subtitle}"
 			tasks: [{
 				id: "0CDEC6E9191264F2"
 				item: "gtceu:black_steel_dust"
@@ -504,11 +513,11 @@
 				"45AC05CB79B8FBB8"
 			]
 			description: [
-				"An HV Energy Hatch requires a bit of work."
+				"{sg.hv_age.quests19.description0}"
 				""
-				"Upgrade your EBF to have an HV Energy Hatch since you will need 2 in order to process EV recipes as well."
+				"{sg.hv_age.quests19.description1}"
 				""
-				"Note that Steam is not going to hold up to the HV age very well, you should have or may want to look into another liquid fuel source, such as Diesel or LPG, there are quite a few options."
+				"{sg.hv_age.quests19.description2}"
 			]
 			id: "61A11EE51B2DBF65"
 			rewards: [{
@@ -517,7 +526,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Upgrade the EBF!"
+			subtitle: "{sg.hv_age.quests19.subtitle}"
 			tasks: [{
 				id: "68C734DA05E94D13"
 				item: "gtceu:hv_energy_input_hatch"
@@ -529,9 +538,9 @@
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"A simple 1:1 mixture of Sodium Dust and Potassium Dust in a Chemical Reactor, both of which come from various sources in an Electrolyzer."
+				"{sg.hv_age.quests20.description0}"
 				""
-				"Salt Dust and Rock Salt Dust are the easier ways as they both come from ores and they are a 2:1 ratio. You will also be left with some Chlorine which can be useful down the road for making Titanium Tetrachloride."
+				"{sg.hv_age.quests20.description1}"
 			]
 			icon: "gtceu:sodium_potassium_bucket"
 			id: "5EACA8D832BC2E1E"
@@ -541,7 +550,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Exactly what it sounds like!"
+			subtitle: "{sg.hv_age.quests20.subtitle}"
 			tasks: [{
 				id: "52945F898985E280"
 				item: "gtceu:sodium_potassium_bucket"
@@ -556,9 +565,9 @@
 				"25592128DA52C5EC"
 			]
 			description: [
-				"Just as Stainless Steel was the main material for the HV age, Titanium is the main material for the EV age."
+				"{sg.hv_age.quests21.description0}"
 				""
-				"Note the byproduct of Magnesium Chloride Dust, you can process it in an Electrolyzer to get all of your Magnesium Dust and Chlorine back."
+				"{sg.hv_age.quests21.description1}"
 			]
 			id: "3C97B2BEF5077424"
 			rewards: [{
@@ -568,7 +577,7 @@
 				type: "loot"
 			}]
 			size: 1.5d
-			subtitle: "EV material!"
+			subtitle: "{sg.hv_age.quests21.subtitle}"
 			tasks: [{
 				id: "24ED67A16D341D2A"
 				item: "gtceu:titanium_ingot"
@@ -580,11 +589,11 @@
 		{
 			dependencies: ["01A3EB516A884B7C"]
 			description: [
-				"Some Hot Ingots must be cooled down in a Vacuum Freezer."
+				"{sg.hv_age.quests22.description0}"
 				""
-				"Surely you know how multiblocks work by now."
+				"{sg.hv_age.quests22.description1}"
 				""
-				"The items listed are the minimum requirements without Hatches or Busses."
+				"{sg.hv_age.quests22.description2}"
 			]
 			icon: "gtceu:vacuum_freezer"
 			id: "32C2CF87C7C52797"
@@ -594,7 +603,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Super cooling!"
+			subtitle: "{sg.hv_age.quests22.subtitle}"
 			tasks: [
 				{
 					id: "3CA7D4891B620DD7"
@@ -604,7 +613,10 @@
 				{
 					count: 18L
 					id: "5EAD25EA377CF28E"
-					item: { Count: 18b, id: "gtceu:frostproof_machine_casing" }
+					item: {
+						Count: 18b
+						id: "gtceu:frostproof_machine_casing"
+					}
 					type: "item"
 				}
 			]
@@ -616,7 +628,7 @@
 				"5027E1163D4DCC38"
 				"183432E7C28DCEA9"
 			]
-			description: ["Magnesium Dust can come from a variety of things but also Magnesite Ore."]
+			description: ["{sg.hv_age.quests23.description0}"]
 			icon: "gtceu:titanium_tetrachloride_bucket"
 			id: "25592128DA52C5EC"
 			rewards: [{
@@ -625,7 +637,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Liquid Titanium!"
+			subtitle: "{sg.hv_age.quests23.subtitle}"
 			tasks: [
 				{
 					id: "78D4B2DB84FC693F"
@@ -644,7 +656,7 @@
 		}
 		{
 			dependencies: ["75D15295C7901382"]
-			description: ["Required for producing Titanium Tetrachloride."]
+			description: ["{sg.hv_age.quests24.description0}"]
 			id: "5027E1163D4DCC38"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -652,7 +664,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "HV recipes!"
+			subtitle: "{sg.hv_age.quests24.subtitle}"
 			tasks: [{
 				id: "08C0F3926CB58A84"
 				item: "gtceu:hv_chemical_reactor"
@@ -664,9 +676,9 @@
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"There are a few ways to obtain Rutile Dust so I will leave that up to you."
+				"{sg.hv_age.quests25.description0}"
 				""
-				"Advised to set up a Simple Ore Generator for Bauxite Ore and run it through a processing chain for unlimited Rutile Dust."
+				"{sg.hv_age.quests25.description1}"
 			]
 			id: "183432E7C28DCEA9"
 			rewards: [{
@@ -675,7 +687,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.hv_age.quests25.subtitle}"
 			tasks: [{
 				id: "7E3F9ACF21F30E36"
 				item: "gtceu:rutile_dust"
@@ -686,15 +698,15 @@
 		}
 		{
 			dependencies: ["3572CE7FB88DFD07"]
-			description: ["Well it's day 373 and I still havn't left the Overworld, I havn't made any armor or weapons. The only things I've killed are Phantoms and that pesky Wandering Trader with his Llamas... I have 26 Leads..."]
+			description: ["{sg.hv_age.quests26.description0}"]
 			hide: true
 			hide_details_until_startable: true
 			id: "702AA7C0C22FF947"
 			shape: "gear"
-			subtitle: "Day 373..."
+			subtitle: "{sg.hv_age.quests26.subtitle}"
 			tasks: [{
 				id: "7327CF8473D49879"
-				title: "Captain's Log"
+				title: "{sg.hv_age.quests26.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 2.5d
@@ -703,9 +715,9 @@
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"Used to further process fuel types. Follow the EMI chains."
+				"{sg.hv_age.quests27.description0}"
 				""
-				"The items listed are the minimum requirements without Hatches or Busses."
+				"{sg.hv_age.quests27.description1}"
 			]
 			icon: "gtceu:cracker"
 			id: "1A882C54D81B9F08"
@@ -715,7 +727,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Fuel processing!"
+			subtitle: "{sg.hv_age.quests27.subtitle}"
 			tasks: [
 				{
 					id: "6671525832939837"
@@ -725,13 +737,19 @@
 				{
 					count: 16L
 					id: "20F8ECA60169A24E"
-					item: { Count: 16b, id: "gtceu:cupronickel_coil_block" }
+					item: {
+						Count: 16b
+						id: "gtceu:cupronickel_coil_block"
+					}
 					type: "item"
 				}
 				{
 					count: 19L
 					id: "729F33F5F16BEF06"
-					item: { Count: 19b, id: "gtceu:clean_machine_casing" }
+					item: {
+						Count: 19b
+						id: "gtceu:clean_machine_casing"
+					}
 					type: "item"
 				}
 			]
@@ -740,7 +758,7 @@
 		}
 		{
 			dependencies: ["071FE6997A8E1978"]
-			description: ["Used to craft HV Energy Hatches and HV Dynamo Hatches."]
+			description: ["{sg.hv_age.quests28.description0}"]
 			id: "45AC05CB79B8FBB8"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -748,7 +766,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "HV multiblocks!"
+			subtitle: "{sg.hv_age.quests28.subtitle}"
 			tasks: [{
 				id: "7965FEC725F806F5"
 				item: "gtceu:hv_voltage_coil"
@@ -759,7 +777,7 @@
 		}
 		{
 			dependencies: ["1E1F0F68C27D3891"]
-			description: ["Allows you to craft higher tier Circuits. The entire new Circuit line will require MV Circuit Assemblers."]
+			description: ["{sg.hv_age.quests29.description0}"]
 			id: "48F565D11CFD07E2"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -767,7 +785,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "New Circuit line!"
+			subtitle: "{sg.hv_age.quests29.subtitle}"
 			tasks: [{
 				id: "6933563691D30906"
 				item: "gtceu:mv_circuit_assembler"
@@ -779,9 +797,9 @@
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"You can either go the Laser Engraver route or the Sifter route, both viable options."
+				"{sg.hv_age.quests30.description0}"
 				""
-				"You will need Flawless Emeralds for MV Emitters and MV Sensors."
+				"{sg.hv_age.quests30.description1}"
 			]
 			id: "1E1F0F68C27D3891"
 			rewards: [{
@@ -790,7 +808,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.hv_age.quests30.subtitle}"
 			tasks: [{
 				id: "5549778CEE02E18F"
 				item: "gtceu:flawless_emerald_gem"
@@ -804,7 +822,7 @@
 				"588A50FF962E74DF"
 				"4AE575A11212921D"
 			]
-			description: ["The third tier of Coils."]
+			description: ["{sg.hv_age.quests31.description0}"]
 			id: "3422A397FA4B23FC"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -812,23 +830,26 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "HV Assembler!"
+			subtitle: "{sg.hv_age.quests31.subtitle}"
 			tasks: [{
 				count: 16L
 				id: "5E290F6DCE1EEC86"
-				item: { Count: 16b, id: "gtceu:nichrome_coil_block" }
+				item: {
+					Count: 16b
+					id: "gtceu:nichrome_coil_block"
+				}
 				type: "item"
 			}]
-			title: "Nichrome Coils"
+			title: "{sg.hv_age.quests31.title}"
 			x: 1.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["75D15295C7901382"]
 			description: [
-				"Process Nickel Dust and Chromium Dust in an MV Mixer to produce Nichrome Dust."
+				"{sg.hv_age.quests32.description0}"
 				""
-				"Process in an HV EBF to produce Hot Nichrome Ingots."
+				"{sg.hv_age.quests32.description1}"
 			]
 			id: "00CFCCAF68E65352"
 			rewards: [{
@@ -837,7 +858,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "MV Mixer!"
+			subtitle: "{sg.hv_age.quests32.subtitle}"
 			tasks: [{
 				id: "0F54A5950F358771"
 				item: "gtceu:nichrome_dust"
@@ -848,7 +869,7 @@
 		}
 		{
 			dependencies: ["00CFCCAF68E65352"]
-			description: ["Mostly used to make Coils but it has some other uses."]
+			description: ["{sg.hv_age.quests33.description0}"]
 			id: "588A50FF962E74DF"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -856,7 +877,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "New Coils!"
+			subtitle: "{sg.hv_age.quests33.subtitle}"
 			tasks: [{
 				id: "4886583B5054BBF6"
 				item: "gtceu:nichrome_ingot"
@@ -867,7 +888,7 @@
 		}
 		{
 			dependencies: ["3422A397FA4B23FC"]
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.hv_age.quests34.description0}"]
 			id: "1D33BD3CBB4CEE32"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -875,7 +896,7 @@
 				table_id: 4196523133245686518L
 				type: "loot"
 			}]
-			subtitle: "HV superconductor!"
+			subtitle: "{sg.hv_age.quests34.subtitle}"
 			tasks: [{
 				id: "58F1D0FB15EA6514"
 				item: "gtceu:mercury_barium_calcium_cuprate_single_wire"
@@ -885,6 +906,6 @@
 			y: 0.0d
 		}
 	]
-	subtitle: ["Stainless Steel!"]
-	title: "HV Age"
+	subtitle: ["{sg.hv_age.subtitle0}"]
+	title: "{sg.hv_age.title}"
 }

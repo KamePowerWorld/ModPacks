@@ -342,18 +342,18 @@
 		}
 		{
 			description: [
-				"Machine Hulls are used to build machines. There is almost always exactly 1 Machine Hull in a recipe for any single block machine, even some multiblocks use them in their patterns."
+				"{sg.progression.quests28.description0}"
 				""
-				"Each tier has its own Machine Hull, with Steam acting slightly differently, using Bronze Brick Casings for Low Pressure or Steel Brick Casings for High Pressure."
+				"{sg.progression.quests28.description1}"
 				""
-				"The ULV Age isn't really a thing, there are some multiblock parts that are ULV but that's about it. This is mostly so you can run some multiblocks at very low EU rating. There are very few ULV single block machines."
+				"{sg.progression.quests28.description2}"
 			]
 			id: "6D75F4A2619C544D"
 			shape: "gear"
-			subtitle: "Machines!"
+			subtitle: "{sg.progression.quests28.subtitle}"
 			tasks: [{
 				id: "5567D79B04A4B45E"
-				title: "Machine Hulls"
+				title: "{sg.progression.quests28.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -1.0d
@@ -361,59 +361,59 @@
 		}
 		{
 			description: [
-				"Multiblock Coil Blocks are used in a few multiblocks but most importantly the Electronic Blast Furnace (EBF). In any case where a multiblock has Coils in the pattern, you can increase the tier of Coils for an increased effect."
+				"{sg.progression.quests29.description0}"
 				""
-				"When used in the EBF, they will increase the maximum heat that the EBF can produce. This will allow for higher tiered Hot Ingots to be produced."
+				"{sg.progression.quests29.description1}"
 				""
-				"Increasing the tier of Coils you are using on your EBF should always be a priority."
+				"{sg.progression.quests29.description2}"
 				""
-				"They are always crafted in an Assembler of their same tier."
+				"{sg.progression.quests29.description3}"
 			]
 			id: "07710153423ED8F1"
 			shape: "gear"
-			subtitle: "Multiblock upgrades!"
+			subtitle: "{sg.progression.quests29.subtitle}"
 			tasks: [{
 				id: "75A33D35EE6D4F99"
-				title: "Coils"
+				title: "{sg.progression.quests29.tasks0.title}"
 				type: "checkmark"
 			}]
-			title: "Multiblock Coil Blocks"
+			title: "{sg.progression.quests29.title}"
 			x: -1.0d
 			y: 1.5d
 		}
 		{
 			description: [
-				"Voltage Coils are used in basically every Energy Hatch and Dynamo Hatch. They are ususally not the easiest thing to craft and are crucial for progressing with certain multiblocks, and most importantly increasing energy tiers."
+				"{sg.progression.quests30.description0}"
 				""
-				"They are always crafted in an Assembler of their same tier."
+				"{sg.progression.quests30.description1}"
 			]
 			id: "48084EBD92137C07"
 			shape: "gear"
-			subtitle: "EU!"
+			subtitle: "{sg.progression.quests30.subtitle}"
 			tasks: [{
 				id: "73291D8BD7AC9B9E"
-				title: "Energy Coils"
+				title: "{sg.progression.quests30.tasks0.title}"
 				type: "checkmark"
 			}]
-			title: "Voltage Coils"
+			title: "{sg.progression.quests30.title}"
 			x: -1.0d
 			y: -1.5d
 		}
 		{
 			description: [
-				"This quest chapter shows the general overall progression."
+				"{sg.progression.quests31.description0}"
 				""
-				"Refer to this if you start getting lost and don't know what to work towards."
+				"{sg.progression.quests31.description1}"
 				""
-				"The quest chapters have quite a bit, but are incomplete, this should always point you in the right direction at least."
+				"{sg.progression.quests31.description2}"
 			]
 			id: "41CD3ECCE2CBB8F0"
 			shape: "gear"
 			size: 1.5d
-			subtitle: "What next?"
+			subtitle: "{sg.progression.quests31.subtitle}"
 			tasks: [{
 				id: "6FF07DC0BD2B2FF7"
-				title: "Progression"
+				title: "{sg.progression.quests31.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -1.0d
@@ -423,7 +423,7 @@
 			dependencies: ["3DBEE547D261C385"]
 			dependency_requirement: "one_completed"
 			id: "1832CACE0C1711A2"
-			subtitle: "LV!"
+			subtitle: "{sg.progression.quests32.subtitle}"
 			tasks: [{
 				id: "5F994CECA4D73CF5"
 				item: "gtceu:basic_electronic_circuit"
@@ -435,7 +435,7 @@
 		{
 			dependencies: ["796FEA798DC0D7BE"]
 			id: "2CAB9D5F4E25C0FD"
-			subtitle: "LV!"
+			subtitle: "{sg.progression.quests33.subtitle}"
 			tasks: [{
 				id: "77B55AD57477EAA2"
 				item: "gtceu:basic_integrated_circuit"
@@ -448,7 +448,7 @@
 			dependencies: ["1832CACE0C1711A2"]
 			dependency_requirement: "one_completed"
 			id: "796FEA798DC0D7BE"
-			subtitle: "MV!"
+			subtitle: "{sg.progression.quests34.subtitle}"
 			tasks: [{
 				id: "1DE0ACAC8E3CCE15"
 				item: "gtceu:good_electronic_circuit"
@@ -460,7 +460,7 @@
 		{
 			dependencies: ["2CAB9D5F4E25C0FD"]
 			id: "370FF74143AA5FE5"
-			subtitle: "MV!"
+			subtitle: "{sg.progression.quests35.subtitle}"
 			tasks: [{
 				id: "3123743D2D9525E0"
 				item: "gtceu:good_integrated_circuit"
@@ -472,7 +472,7 @@
 		{
 			dependencies: ["6E28194D798B7271"]
 			id: "436403EF66524A2E"
-			subtitle: "LV!"
+			subtitle: "{sg.progression.quests36.subtitle}"
 			tasks: [{
 				id: "717EBE427D850030"
 				item: "gtceu:microchip_processor"
@@ -484,7 +484,7 @@
 		{
 			dependencies: ["6E28194D798B7271"]
 			id: "42B701743C3113FA"
-			subtitle: "MV!"
+			subtitle: "{sg.progression.quests37.subtitle}"
 			tasks: [{
 				id: "48295B1355A00626"
 				item: "gtceu:micro_processor"
@@ -496,7 +496,7 @@
 		{
 			dependencies: ["370FF74143AA5FE5"]
 			id: "6E28194D798B7271"
-			subtitle: "HV!"
+			subtitle: "{sg.progression.quests38.subtitle}"
 			tasks: [{
 				id: "23D5BC0E0FF25A3C"
 				item: "gtceu:advanced_integrated_circuit"
@@ -508,7 +508,7 @@
 		{
 			dependencies: ["42B701743C3113FA"]
 			id: "29E0D3CBACEBC421"
-			subtitle: "HV!"
+			subtitle: "{sg.progression.quests39.subtitle}"
 			tasks: [{
 				id: "51A4FC0B9BE7046D"
 				item: "gtceu:micro_processor_assembly"
@@ -520,7 +520,7 @@
 		{
 			dependencies: ["74498151D70237CE"]
 			id: "65BBD215A0592820"
-			subtitle: "HV!"
+			subtitle: "{sg.progression.quests40.subtitle}"
 			tasks: [{
 				id: "396D60884D6CF948"
 				item: "gtceu:nano_processor"
@@ -532,7 +532,7 @@
 		{
 			dependencies: ["29E0D3CBACEBC421"]
 			id: "797DE824B8D2B3B8"
-			subtitle: "EV!"
+			subtitle: "{sg.progression.quests41.subtitle}"
 			tasks: [{
 				id: "3C7DC67E1B97B9FA"
 				item: "gtceu:micro_processor_computer"
@@ -544,7 +544,7 @@
 		{
 			dependencies: ["65BBD215A0592820"]
 			id: "1FBDB429931CF69A"
-			subtitle: "EV!"
+			subtitle: "{sg.progression.quests42.subtitle}"
 			tasks: [{
 				id: "41C0A45A15FE9622"
 				item: "gtceu:nano_processor_assembly"
@@ -556,7 +556,7 @@
 		{
 			dependencies: ["05CC093AE3708040"]
 			id: "5C79FB932C896D15"
-			subtitle: "EV!"
+			subtitle: "{sg.progression.quests43.subtitle}"
 			tasks: [{
 				id: "18CF98ADBB807098"
 				item: "gtceu:quantum_processor"
@@ -568,7 +568,7 @@
 		{
 			dependencies: ["797DE824B8D2B3B8"]
 			id: "74498151D70237CE"
-			subtitle: "IV!"
+			subtitle: "{sg.progression.quests44.subtitle}"
 			tasks: [{
 				id: "61C825FD10D95DA0"
 				item: "gtceu:micro_processor_mainframe"
@@ -580,7 +580,7 @@
 		{
 			dependencies: ["1FBDB429931CF69A"]
 			id: "6B04490B2A00CE91"
-			subtitle: "IV!"
+			subtitle: "{sg.progression.quests45.subtitle}"
 			tasks: [{
 				id: "5026C1A99352DCDC"
 				item: "gtceu:nano_processor_computer"
@@ -592,7 +592,7 @@
 		{
 			dependencies: ["5C79FB932C896D15"]
 			id: "29755DD5D896C021"
-			subtitle: "IV!"
+			subtitle: "{sg.progression.quests46.subtitle}"
 			tasks: [{
 				id: "1EA2F55E7869E980"
 				item: "gtceu:quantum_processor_assembly"
@@ -604,7 +604,7 @@
 		{
 			dependencies: ["35D94861C1C17780"]
 			id: "626847809A73A0E3"
-			subtitle: "IV!"
+			subtitle: "{sg.progression.quests47.subtitle}"
 			tasks: [{
 				id: "40A7B5169A410CC6"
 				item: "gtceu:crystal_processor"
@@ -616,7 +616,7 @@
 		{
 			dependencies: ["6B04490B2A00CE91"]
 			id: "05CC093AE3708040"
-			subtitle: "LuV!"
+			subtitle: "{sg.progression.quests48.subtitle}"
 			tasks: [{
 				id: "457F22FBEE8783C5"
 				item: "gtceu:nano_processor_mainframe"
@@ -628,7 +628,7 @@
 		{
 			dependencies: ["29755DD5D896C021"]
 			id: "437B3D58F129A2DB"
-			subtitle: "LuV!"
+			subtitle: "{sg.progression.quests49.subtitle}"
 			tasks: [{
 				id: "6AF29EB5137CE70E"
 				item: "gtceu:quantum_processor_computer"
@@ -640,7 +640,7 @@
 		{
 			dependencies: ["626847809A73A0E3"]
 			id: "244858F51270FAED"
-			subtitle: "LuV!"
+			subtitle: "{sg.progression.quests50.subtitle}"
 			tasks: [{
 				id: "5781E67C85E6C1C1"
 				item: "gtceu:crystal_processor_assembly"
@@ -652,7 +652,7 @@
 		{
 			dependencies: ["5AC9C25BA677D3D5"]
 			id: "11E791F2547C39A4"
-			subtitle: "LuV!"
+			subtitle: "{sg.progression.quests51.subtitle}"
 			tasks: [{
 				id: "650E299DC0E9C8F9"
 				item: "gtceu:wetware_processor"
@@ -664,7 +664,7 @@
 		{
 			dependencies: ["437B3D58F129A2DB"]
 			id: "35D94861C1C17780"
-			subtitle: "ZPM!"
+			subtitle: "{sg.progression.quests52.subtitle}"
 			tasks: [{
 				id: "7B6DB4D8634D8AE2"
 				item: "gtceu:quantum_processor_mainframe"
@@ -676,7 +676,7 @@
 		{
 			dependencies: ["244858F51270FAED"]
 			id: "06D382C758D01F6F"
-			subtitle: "ZPM!"
+			subtitle: "{sg.progression.quests53.subtitle}"
 			tasks: [{
 				id: "4844CF6CF94EC5B5"
 				item: "gtceu:crystal_processor_computer"
@@ -688,7 +688,7 @@
 		{
 			dependencies: ["11E791F2547C39A4"]
 			id: "62826B0A76A9BF37"
-			subtitle: "ZPM!"
+			subtitle: "{sg.progression.quests54.subtitle}"
 			tasks: [{
 				id: "6C5E770D58E0CF79"
 				item: "gtceu:wetware_processor_assembly"
@@ -700,7 +700,7 @@
 		{
 			dependencies: ["06D382C758D01F6F"]
 			id: "5AC9C25BA677D3D5"
-			subtitle: "UV!"
+			subtitle: "{sg.progression.quests55.subtitle}"
 			tasks: [{
 				id: "17418CC6D060DCEF"
 				item: "gtceu:crystal_processor_mainframe"
@@ -712,7 +712,7 @@
 		{
 			dependencies: ["62826B0A76A9BF37"]
 			id: "0A0C1DC7A5D954C3"
-			subtitle: "UV!"
+			subtitle: "{sg.progression.quests56.subtitle}"
 			tasks: [{
 				id: "5231F61F9A273C84"
 				item: "gtceu:wetware_processor_computer"
@@ -723,14 +723,14 @@
 		}
 		{
 			dependencies: ["0A0C1DC7A5D954C3"]
-			description: ["Now automate the entire process."]
+			description: ["{sg.progression.quests57.description0}"]
 			id: "19C0AE458EF1D078"
 			rewards: [{
 				id: "6F8130EEE3A517F5"
 				item: "minecraft:cake"
 				type: "item"
 			}]
-			subtitle: "UHV!"
+			subtitle: "{sg.progression.quests57.subtitle}"
 			tasks: [{
 				id: "71B17186E6370DE1"
 				item: "gtceu:wetware_processor_mainframe"
@@ -742,7 +742,7 @@
 		{
 			dependencies: ["6E28194D798B7271"]
 			id: "46F7AED3047577B7"
-			subtitle: "ULV!"
+			subtitle: "{sg.progression.quests58.subtitle}"
 			tasks: [{
 				id: "5720ED473827EF7C"
 				item: "gtceu:nand_chip"
@@ -754,7 +754,7 @@
 		{
 			dependencies: ["42B0FC6BA95B3092"]
 			id: "3DBEE547D261C385"
-			subtitle: "ULV!"
+			subtitle: "{sg.progression.quests59.subtitle}"
 			tasks: [{
 				id: "1F27A1665DE6478C"
 				item: "gtceu:vacuum_tube"
@@ -765,24 +765,24 @@
 		}
 		{
 			description: [
-				"Circuits generally upgrade into other Circuits, but not forever. This chart shows which Circuits will upgrade into other Circuits, and which tiers the Circuits are."
+				"{sg.progression.quests60.description0}"
 				""
-				"As Circuits are used for everything throughout the mod, this should be helpful to visualize certain Circuit paths."
+				"{sg.progression.quests60.description1}"
 				""
-				"Each vertical line separates the different tiers. Each Circuit in the same tier can usually be used for anything Circuit related, except upgrading Circuits, that usually requires a specific Circuit type."
+				"{sg.progression.quests60.description2}"
 				""
-				"More advanced Circuits of the same tier (as in the third LV Circuit) are usually much easier to craft, but not available right away."
+				"{sg.progression.quests60.description3}"
 				""
-				"Things are slightly more open in the first few ages but once you get to the HV age Circuit paths become a bit more standardized."
+				"{sg.progression.quests60.description4}"
 				""
-				"Fully automating a Circuit from start to finish will really help you out in the long run."
+				"{sg.progression.quests60.description5}"
 			]
 			id: "4E81F1CE09055CDF"
 			shape: "gear"
-			subtitle: "Top to bottom, left to right!"
+			subtitle: "{sg.progression.quests60.subtitle}"
 			tasks: [{
 				id: "544ABE13C25786D3"
-				title: "Circuits"
+				title: "{sg.progression.quests60.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: -1.0d
@@ -790,10 +790,10 @@
 		}
 		{
 			dependencies: ["19C0AE458EF1D078"]
-			description: ["That's about 2.5 million days, which is almost 7000 years."]
+			description: ["{sg.progression.quests61.description0}"]
 			id: "2ED8A26D8B1617AB"
 			size: 2.0d
-			subtitle: "\"Fill this to win Minecraft\""
+			subtitle: "{sg.progression.quests61.subtitle}"
 			tasks: [{
 				id: "112CB41288E896D8"
 				item: {
@@ -812,15 +812,15 @@
 		{
 			dependencies: ["35D94861C1C17780"]
 			description: [
-				"You're going to want the best Extruder you can use, not to mention that's a lot of Neutronium."
+				"{sg.progression.quests62.description0}"
 				""
-				"15 billion EU is not a small amount, make sure you don't run out of energy during the craft or it will restart!"
+				"{sg.progression.quests62.description1}"
 				""
-				"Hang it above your Bed, you did well."
+				"{sg.progression.quests62.description2}"
 			]
 			id: "71D4D1C5CBA0AAD8"
 			size: 1.5d
-			subtitle: "It's official!"
+			subtitle: "{sg.progression.quests62.subtitle}"
 			tasks: [{
 				id: "5C96C192BF6685A9"
 				item: "gtceu:nan_certificate"
@@ -830,6 +830,6 @@
 			y: 12.0d
 		}
 	]
-	subtitle: ["What next?"]
-	title: "Progression"
+	subtitle: ["{sg.progression.subtitle0}"]
+	title: "{sg.progression.title}"
 }

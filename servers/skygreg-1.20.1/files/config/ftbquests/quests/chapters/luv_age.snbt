@@ -13,7 +13,7 @@
 			dependencies: ["0A462BB5304E1E82"]
 			id: "63493A70229956F4"
 			size: 2.0d
-			subtitle: "ZPM Circuits!"
+			subtitle: "{sg.luv_age.quests0.subtitle}"
 			tasks: [{
 				id: "418F757F44357DBB"
 				item: "gtceu:quantum_processor_mainframe"
@@ -27,10 +27,10 @@
 				"0F0196BE5D7B731A"
 				"0759334CF0F1E399"
 			]
-			description: ["Just as Rhodium Plated Palladium was the main material for the LuV age, Naquadah Alloy is the main material for the ZPM age."]
+			description: ["{sg.luv_age.quests1.description0}"]
 			id: "503F831E45C9A245"
 			size: 1.5d
-			subtitle: "ZPM material!"
+			subtitle: "{sg.luv_age.quests1.subtitle}"
 			tasks: [{
 				id: "297C61B6B75109D7"
 				item: "gtceu:naquadah_alloy_ingot"
@@ -56,9 +56,9 @@
 		}
 		{
 			dependencies: ["2595291E7F1986B9"]
-			description: ["Process Naquadah Ore in various ways to produce Naquadah Dust."]
+			description: ["{sg.luv_age.quests3.description0}"]
 			id: "602407E868224187"
-			subtitle: "Ore material!"
+			subtitle: "{sg.luv_age.quests3.subtitle}"
 			tasks: [{
 				id: "0323E44D845A1C48"
 				item: "gtceu:naquadah_dust"
@@ -94,24 +94,24 @@
 				"4B3DF802D007206C"
 				"364EEFAC2608C6D2"
 			]
-			description: ["The sixth tier of Coils."]
+			description: ["{sg.luv_age.quests6.description0}"]
 			id: "0759334CF0F1E399"
-			subtitle: "LuV Assembler!"
+			subtitle: "{sg.luv_age.quests6.subtitle}"
 			tasks: [{
 				count: 16L
 				id: "3EDA966E71E6D21E"
 				item: "gtceu:naquadah_coil_block"
 				type: "item"
 			}]
-			title: "Naquadah Coils"
+			title: "{sg.luv_age.quests6.title}"
 			x: -3.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["602407E868224187"]
-			description: ["Process Hot Naquadah Ingots in an MV Vacuum Freezer to produce Naquadah Ingots."]
+			description: ["{sg.luv_age.quests7.description0}"]
 			id: "4B3DF802D007206C"
-			subtitle: "MV Vacuum Freezer!"
+			subtitle: "{sg.luv_age.quests7.subtitle}"
 			tasks: [{
 				id: "39E317B862F5DB78"
 				item: "gtceu:naquadah_ingot"
@@ -144,7 +144,7 @@
 		}
 		{
 			dependencies: ["2595291E7F1986B9"]
-			description: ["You should already have this as a byproduct from producing Iridium Metal Residue in the Large Chemical Reactor."]
+			description: ["{sg.luv_age.quests10.description0}"]
 			id: "528B384CCFD87033"
 			tasks: [{
 				id: "017DC96CE1C4F744"
@@ -167,7 +167,7 @@
 		}
 		{
 			dependencies: ["602407E868224187"]
-			description: ["You can figure this one out, it's not too bad."]
+			description: ["{sg.luv_age.quests12.description0}"]
 			id: "55BA39D782793627"
 			tasks: [{
 				id: "6ED8F393D8E6F72E"
@@ -193,9 +193,9 @@
 		}
 		{
 			dependencies: ["167CF3F40D5F9C2C"]
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.luv_age.quests14.description0}"]
 			id: "63FB24F6E31F6CC8"
-			subtitle: "LuV superconductor!"
+			subtitle: "{sg.luv_age.quests14.subtitle}"
 			tasks: [{
 				id: "449DA9156F865C0A"
 				item: "gtceu:indium_tin_barium_titanium_cuprate_single_wire"
@@ -257,12 +257,12 @@
 				"1BE40B0F622D2750"
 			]
 			description: [
-				"Required for the Fusion Reactor multiblock."
+				"{sg.luv_age.quests19.description0}"
 				""
-				"&6These are not normal multiblock Coils.&r"
+				"{sg.luv_age.quests19.description1}"
 			]
 			id: "6A155BC6C97D8FEE"
-			subtitle: "Not your normal Coils!"
+			subtitle: "{sg.luv_age.quests19.subtitle}"
 			tasks: [{
 				id: "2A764DBF2489164A"
 				item: "gtceu:superconducting_coil"
@@ -277,14 +277,14 @@
 				"63493A70229956F4"
 			]
 			description: [
-				"Combines fluids together using a mass amount of energy."
+				"{sg.luv_age.quests20.description0}"
 				""
-				"Requires a significant amount of energy to start the process and more EU/t to keep the process going."
+				"{sg.luv_age.quests20.description1}"
 				""
-				"You can substitute some of the Fusion Machine Casings for Fusion Glass, but not all of them."
+				"{sg.luv_age.quests20.description2}"
 			]
 			id: "6002FB018BF5F5BC"
-			subtitle: "Combining fluids with mass energy!"
+			subtitle: "{sg.luv_age.quests20.subtitle}"
 			tasks: [{
 				id: "2B0C37ED9F01E7D5"
 				item: "gtceu:luv_fusion_reactor"
@@ -295,9 +295,9 @@
 		}
 		{
 			dependencies: ["2EF9C3B875214551"]
-			description: ["Process Liquid Europium in a ULV Fluid Solidifier to produce Europium Ingots."]
+			description: ["{sg.luv_age.quests21.description0}"]
 			id: "4512C0753ABC12C8"
-			subtitle: "ULV Fluid Solidifier!"
+			subtitle: "{sg.luv_age.quests21.subtitle}"
 			tasks: [{
 				id: "57A43DEC69E2B572"
 				item: "gtceu:europium_ingot"
@@ -311,9 +311,9 @@
 				"6002FB018BF5F5BC"
 				"1123402538658C35"
 			]
-			description: ["Process Liquid Neodymium and Hydrogen Gas in a LuV Fusion Reactor to produce Liquid Europium."]
+			description: ["{sg.luv_age.quests22.description0}"]
 			id: "2EF9C3B875214551"
-			subtitle: "LuV Fusion Reactor!"
+			subtitle: "{sg.luv_age.quests22.subtitle}"
 			tasks: [{
 				id: "4B34DDF3FFBAE341"
 				item: "gtceu:europium_bucket"
@@ -323,9 +323,9 @@
 			y: 5.0d
 		}
 		{
-			description: ["Process Neodymiun Ingots in an MV Extractor to produce Liquid Neodymium."]
+			description: ["{sg.luv_age.quests23.description0}"]
 			id: "1123402538658C35"
-			subtitle: "MV Extractor!"
+			subtitle: "{sg.luv_age.quests23.subtitle}"
 			tasks: [{
 				id: "548C394328F10EF8"
 				item: "gtceu:neodymium_bucket"
@@ -427,7 +427,7 @@
 		}
 		{
 			dependencies: ["364EEFAC2608C6D2"]
-			description: ["This multiblock is similar to the Electric Blast Furnace however it makes Molten alloys instead."]
+			description: ["{sg.luv_age.quests32.description0}"]
 			id: "615EB73383B84894"
 			tasks: [{
 				id: "2C619BFC3337F60E"
@@ -438,6 +438,6 @@
 			y: 5.0d
 		}
 	]
-	subtitle: ["Rhodium Plated Palladium!"]
-	title: "LuV Age"
+	subtitle: ["{sg.luv_age.subtitle0}"]
+	title: "{sg.luv_age.title}"
 }

@@ -12,10 +12,10 @@
 		{
 			dependencies: ["23E8354ADCDC88E7"]
 			id: "7AB9FBB9EDA9D6F0"
-			subtitle: "Neutronium!"
+			subtitle: "{sg.uhv_age.quests0.subtitle}"
 			tasks: [{
 				id: "2EB083060FA3571C"
-				title: "UHV Age"
+				title: "{sg.uhv_age.quests0.tasks0.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -23,10 +23,10 @@
 		}
 		{
 			dependencies: ["23E8354ADCDC88E7"]
-			description: ["That's about 2.5 million days, which is almost 7000 years."]
+			description: ["{sg.uhv_age.quests1.description0}"]
 			id: "7F52419274BB28BC"
 			size: 2.0d
-			subtitle: "\"Fill this to win Minecraft.\""
+			subtitle: "{sg.uhv_age.quests1.subtitle}"
 			tasks: [{
 				id: "5762626B5E666512"
 				item: "gtceu:max_battery"
@@ -37,7 +37,7 @@
 		}
 		{
 			dependencies: ["7F52419274BB28BC"]
-			description: ["For now, make a stack of Dragon Eggs, I'll make a better \"you win\" item when I think of one."]
+			description: ["{sg.uhv_age.quests2.description0}"]
 			id: "2B2DD55810D08C62"
 			size: 2.0d
 			tasks: [{
@@ -49,6 +49,6 @@
 			y: 6.5d
 		}
 	]
-	subtitle: ["Neutronium!"]
-	title: "UHV Age"
+	subtitle: ["{sg.uhv_age.subtitle0}"]
+	title: "{sg.uhv_age.title}"
 }

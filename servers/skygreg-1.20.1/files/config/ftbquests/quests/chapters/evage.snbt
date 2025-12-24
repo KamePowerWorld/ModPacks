@@ -11,7 +11,7 @@
 	quests: [
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["While you can basically jump right into making new Circuits, this is where your automations will be tested. If you are not automating at least most of your Circuits by now, that should be a priority."]
+			description: ["{sg.evage.quests0.description0}"]
 			id: "04BE1F878C713A9E"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -20,7 +20,7 @@
 				type: "loot"
 			}]
 			size: 2.0d
-			subtitle: "IV Circuits!"
+			subtitle: "{sg.evage.quests0.subtitle}"
 			tasks: [{
 				id: "00BE8B4201B6538A"
 				item: "gtceu:micro_processor_mainframe"
@@ -31,7 +31,7 @@
 		}
 		{
 			dependencies: ["5939E9725FB1D28D"]
-			description: ["Just as Titanium was the main material for the EV age, Tungstensteel is the main material for the IV age."]
+			description: ["{sg.evage.quests1.description0}"]
 			id: "601570809627DA2F"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -40,7 +40,7 @@
 				type: "loot"
 			}]
 			size: 1.5d
-			subtitle: "IV material!"
+			subtitle: "{sg.evage.quests1.subtitle}"
 			tasks: [{
 				id: "2181D41829A80FD5"
 				item: "gtceu:tungsten_steel_ingot"
@@ -51,7 +51,7 @@
 		}
 		{
 			dependencies: ["06B25AF165CADF77"]
-			description: ["Process in an EV EBF with Nichrome Coils to produce Hot Tungstensteel Ingtots."]
+			description: ["{sg.evage.quests2.description0}"]
 			id: "5939E9725FB1D28D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -59,7 +59,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV EBF!"
+			subtitle: "{sg.evage.quests2.subtitle}"
 			tasks: [{
 				id: "0B8F9DB3398A8434"
 				item: "gtceu:tungsten_steel_dust"
@@ -70,7 +70,7 @@
 		}
 		{
 			dependencies: ["0D82EBC15CA65CAF"]
-			description: ["Process Tungsten Dust and Steel Dust in an EV Mixer to produce Tungstensteel Dust."]
+			description: ["{sg.evage.quests3.description0}"]
 			icon: "gtceu:tungsten_dust"
 			id: "06B25AF165CADF77"
 			rewards: [{
@@ -79,7 +79,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV Mixer!"
+			subtitle: "{sg.evage.quests3.subtitle}"
 			tasks: [
 				{
 					id: "4157B9FBE175463D"
@@ -98,9 +98,9 @@
 		{
 			dependencies: ["01A3EB516A884B7C"]
 			description: [
-				"Process either Tungstate Dust or Scheelite Dust in an EV Chemical Bath with Hydrocloric Acid to produce Tungstic Acid Dust."
+				"{sg.evage.quests4.description0}"
 				""
-				"Process in an EV Electrolyzer to produce Tungsten Dust."
+				"{sg.evage.quests4.description1}"
 			]
 			id: "0D82EBC15CA65CAF"
 			rewards: [{
@@ -109,7 +109,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV Electrolyzer!"
+			subtitle: "{sg.evage.quests4.subtitle}"
 			tasks: [{
 				id: "2792491E0265ABBA"
 				item: "gtceu:tungstic_acid_dust"
@@ -124,7 +124,7 @@
 				"2D3AC686CE6911BB"
 				"7AD75FBC7F31057A"
 			]
-			description: ["Used in EV multiblock generators to generate EV energy."]
+			description: ["{sg.evage.quests5.description0}"]
 			icon: "gtceu:ev_energy_output_hatch"
 			id: "74442DAB3A512999"
 			rewards: [{
@@ -133,7 +133,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Multiblock energy!"
+			subtitle: "{sg.evage.quests5.subtitle}"
 			tasks: [{
 				id: "4F77070CD3F7A993"
 				item: "gtceu:ev_energy_output_hatch"
@@ -144,7 +144,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["You are going to want at least a small stock of these as they take 10 minutes to cook in the EBF with an HV energy rating and Kanthal Coils."]
+			description: ["{sg.evage.quests6.description0}"]
 			id: "4308EEC7497BAA63"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -152,7 +152,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "10 minutes."
+			subtitle: "{sg.evage.quests6.subtitle}"
 			tasks: [{
 				id: "6CBA809992769790"
 				item: "gtceu:phosphorus_boule"
@@ -164,9 +164,9 @@
 		{
 			dependencies: ["4308EEC7497BAA63"]
 			description: [
-				"Requires an HV Cutter in a Cleanroom."
+				"{sg.evage.quests7.description0}"
 				""
-				"Provides 4 Wafers instead of 1 in the Laser Engraver."
+				"{sg.evage.quests7.description1}"
 			]
 			id: "4F93404728CD5A69"
 			rewards: [{
@@ -175,7 +175,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "HV Cleanroom!"
+			subtitle: "{sg.evage.quests7.subtitle}"
 			tasks: [{
 				id: "4D12B412F6E607B2"
 				item: "gtceu:phosphorus_wafer"
@@ -190,9 +190,9 @@
 				"5D8EA9A0322BA708"
 			]
 			description: [
-				"Requires an HV Laser Engraver in a Cleanroom."
+				"{sg.evage.quests8.description0}"
 				""
-				"Some of these will be required to upgrade into HPIC Wafers in the IV age."
+				"{sg.evage.quests8.description1}"
 			]
 			id: "3F81A5891D96CA90"
 			rewards: [{
@@ -201,7 +201,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "HV Cleanroom!"
+			subtitle: "{sg.evage.quests8.subtitle}"
 			tasks: [{
 				id: "411A6177F74BD269"
 				item: "gtceu:mpic_wafer"
@@ -212,7 +212,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["You must know how these work by now."]
+			description: ["{sg.evage.quests9.description0}"]
 			id: "5D8EA9A0322BA708"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -220,7 +220,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Buy Cocoa Beans at the Market block!"
+			subtitle: "{sg.evage.quests9.subtitle}"
 			tasks: [{
 				id: "0CFF20C7CDF9848F"
 				item: "gtceu:brown_glass_lens"
@@ -231,7 +231,7 @@
 		}
 		{
 			dependencies: ["3F81A5891D96CA90"]
-			description: ["Requires an EV Cutter."]
+			description: ["{sg.evage.quests10.description0}"]
 			id: "2D3AC686CE6911BB"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -239,7 +239,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV Cutter!"
+			subtitle: "{sg.evage.quests10.subtitle}"
 			tasks: [{
 				id: "387A3F794A365234"
 				item: "gtceu:mpic_chip"
@@ -250,7 +250,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["Mix with Methane Gas in a Chemical Reactor to produce Chloroform."]
+			description: ["{sg.evage.quests11.description0}"]
 			id: "777D90395A3A0130"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -258,7 +258,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Chlorine + Methane!"
+			subtitle: "{sg.evage.quests11.subtitle}"
 			tasks: [{
 				id: "6123E673480827FD"
 				item: "gtceu:chlorine_bucket"
@@ -269,7 +269,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["Mix with Chlorine Gas in a Chemical Reactor to produce Chloroform."]
+			description: ["{sg.evage.quests12.description0}"]
 			id: "5F4A7804C9ECC7FF"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -277,7 +277,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Methane + Chlorine!"
+			subtitle: "{sg.evage.quests12.subtitle}"
 			tasks: [{
 				id: "20D869521DB09CD9"
 				item: "gtceu:methane_bucket"
@@ -288,7 +288,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["Mix with Hydrogen Gas in a Chemical Reactor to produce Hydrofluoric Acid."]
+			description: ["{sg.evage.quests13.description0}"]
 			id: "59F05A0D0AAED727"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -296,7 +296,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Fluorine + Hydrogen!"
+			subtitle: "{sg.evage.quests13.subtitle}"
 			tasks: [{
 				id: "6E851C04FB2248B3"
 				item: "gtceu:fluorine_bucket"
@@ -307,7 +307,7 @@
 		}
 		{
 			dependencies: ["59F05A0D0AAED727"]
-			description: ["Mix with Chloroform in a Chemical Reactor to produce Tetrafluoroethylene."]
+			description: ["{sg.evage.quests14.description0}"]
 			id: "79F079ECF289E0AD"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -315,7 +315,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Hydrofluoric Acid + Chloroform!"
+			subtitle: "{sg.evage.quests14.subtitle}"
 			tasks: [{
 				id: "4A4DA8F975AD59EB"
 				item: "gtceu:hydrofluoric_acid_bucket"
@@ -329,7 +329,7 @@
 				"5F4A7804C9ECC7FF"
 				"777D90395A3A0130"
 			]
-			description: ["Mix with Hydrofluoric Acid in a Chemical Reactor to produce Tetrafluoroethylene."]
+			description: ["{sg.evage.quests15.description0}"]
 			id: "39EC4571DA82304B"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -337,7 +337,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Chloroform + Hydrofluoric Acid!"
+			subtitle: "{sg.evage.quests15.subtitle}"
 			tasks: [{
 				id: "0192DE2DC9C1FC20"
 				item: "gtceu:chloroform_bucket"
@@ -351,7 +351,7 @@
 				"39EC4571DA82304B"
 				"79F079ECF289E0AD"
 			]
-			description: ["Mix with either Oxygen Gas or Air in a Chemical Reactor to produce liquid Polytetrafluoroethylene."]
+			description: ["{sg.evage.quests16.description0}"]
 			id: "53C8381DA10A2114"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -359,7 +359,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Just add the Poly!"
+			subtitle: "{sg.evage.quests16.subtitle}"
 			tasks: [{
 				id: "4DEA41607E1C59EC"
 				item: "gtceu:tetrafluoroethylene_bucket"
@@ -371,9 +371,9 @@
 		{
 			dependencies: ["53C8381DA10A2114"]
 			description: [
-				"This is basically your new Polyethylene, with that being said, you are going to want this entire process automated."
+				"{sg.evage.quests17.description0}"
 				""
-				"Required for quite a few things moving forward, like IV Machine Hulls, EV Batteries, and much more."
+				"{sg.evage.quests17.description1}"
 			]
 			id: "009C9B8976CC26CC"
 			rewards: [{
@@ -382,7 +382,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "\"Liquid Gotohell Bucket.\""
+			subtitle: "{sg.evage.quests17.subtitle}"
 			tasks: [{
 				id: "6FF3D89473BC28F2"
 				item: "gtceu:polytetrafluoroethylene_bucket"
@@ -393,7 +393,7 @@
 		}
 		{
 			dependencies: ["009C9B8976CC26CC"]
-			description: ["EV Batteries, which can store 4 minutes of EV energy each."]
+			description: ["{sg.evage.quests18.description0}"]
 			id: "1B81786DD7750C6E"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -401,7 +401,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "4 minutes!"
+			subtitle: "{sg.evage.quests18.subtitle}"
 			tasks: [{
 				id: "6895CAE810B47D16"
 				item: "gtceu:ev_vanadium_battery"
@@ -412,7 +412,7 @@
 		}
 		{
 			dependencies: ["601570809627DA2F"]
-			description: ["Used to craft EV related energy items."]
+			description: ["{sg.evage.quests19.description0}"]
 			id: "7AD75FBC7F31057A"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -420,7 +420,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV Assembler!"
+			subtitle: "{sg.evage.quests19.subtitle}"
 			tasks: [{
 				id: "06EB6F95B4FC0621"
 				item: "gtceu:ev_voltage_coil"
@@ -431,7 +431,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["Radon has 2 ways to obtain (for now), you can either go the Ender Air route in an IV Distillation Tower, or the Plutionium, Uranium, Air route in an HV Large Chemical Reactor. Look through REI and see what makes more sense to you."]
+			description: ["{sg.evage.quests20.description0}"]
 			id: "563801BD3C0ED91B"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -439,7 +439,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.evage.quests20.subtitle}"
 			tasks: [{
 				id: "3C64800677AF2690"
 				item: "gtceu:radon_bucket"
@@ -450,7 +450,7 @@
 		}
 		{
 			dependencies: ["563801BD3C0ED91B"]
-			description: ["Process Eyes of Ender and Radon Gas in an HV Chemical Bath to produce Quantum Eyes."]
+			description: ["{sg.evage.quests21.description0}"]
 			id: "21D739D6153D4ACE"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -458,7 +458,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Ender Eye + Radon Gas!"
+			subtitle: "{sg.evage.quests21.subtitle}"
 			tasks: [{
 				id: "5608047B872AC100"
 				item: "gtceu:quantum_eye"
@@ -469,7 +469,7 @@
 		}
 		{
 			dependencies: ["21D739D6153D4ACE"]
-			description: ["Used to craft the EV Circuit Assembler and the EV Laser Engraver."]
+			description: ["{sg.evage.quests22.description0}"]
 			id: "52B8AAE9920AA1E7"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -477,7 +477,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV Circuit Assembler!"
+			subtitle: "{sg.evage.quests22.subtitle}"
 			tasks: [{
 				id: "2D21BC501E151C32"
 				item: "gtceu:ev_emitter"
@@ -492,7 +492,7 @@
 				"72DF1D86A1D57C7A"
 				"0C84A87B76001394"
 			]
-			description: ["The whole Circuit line requires an EV Cleanroom."]
+			description: ["{sg.evage.quests23.description0}"]
 			id: "4905BD233329A325"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -500,7 +500,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "This is the third HV Circuit!"
+			subtitle: "{sg.evage.quests23.subtitle}"
 			tasks: [{
 				id: "472CF7C6885AE797"
 				item: "gtceu:nano_processor"
@@ -511,7 +511,7 @@
 		}
 		{
 			dependencies: ["3ABF274134C11EF7"]
-			description: ["Process Nano CPU Wafers in an HV Cutter to produce Nano CPU Chips."]
+			description: ["{sg.evage.quests24.description0}"]
 			id: "72DF1D86A1D57C7A"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -519,7 +519,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "HV Cutter!"
+			subtitle: "{sg.evage.quests24.subtitle}"
 			tasks: [{
 				id: "13330658BDECFF21"
 				item: "gtceu:nano_cpu_chip"
@@ -530,7 +530,7 @@
 		}
 		{
 			dependencies: ["61EFBBA3DD450167"]
-			description: ["Process Epoxy Circuit Boards, Electrum foil and either Sodium Persulfate or Iron Iii Chloride in an LV Chemical Reactor to produce Epoxy Printed Circuit Boards."]
+			description: ["{sg.evage.quests25.description0}"]
 			id: "69A31EB95C0628FE"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -538,7 +538,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Epoxy Circuit Board + Electrum Foil + Sodium Persulfate/Iron Iii Chloride!"
+			subtitle: "{sg.evage.quests25.subtitle}"
 			tasks: [{
 				id: "30C3C67D13380A96"
 				item: "gtceu:epoxy_printed_circuit_board"
@@ -549,7 +549,7 @@
 		}
 		{
 			dependencies: ["6EF4B7735358CC9B"]
-			description: ["Process Epoxy Sheets, Gold Foil, and Sulfuric Acid in an LV Chemical Reactor to produce Epoxy Circuit Boards."]
+			description: ["{sg.evage.quests26.description0}"]
 			id: "61EFBBA3DD450167"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -557,7 +557,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Epoxy Sheet + Gold Foil + Sulfuric Acid!"
+			subtitle: "{sg.evage.quests26.subtitle}"
 			tasks: [{
 				id: "23AD7979A398F35B"
 				item: "gtceu:epoxy_circuit_board"
@@ -568,7 +568,7 @@
 		}
 		{
 			dependencies: ["409480A145B21573"]
-			description: ["Process Liquid Epoxy in a ULV Fluid Solidifier to produce Epoxy Sheets."]
+			description: ["{sg.evage.quests27.description0}"]
 			id: "6EF4B7735358CC9B"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -576,7 +576,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "ULV Fluid Solidifer!"
+			subtitle: "{sg.evage.quests27.subtitle}"
 			tasks: [{
 				id: "368667FD2A8272B8"
 				item: "gtceu:epoxy_plate"
@@ -587,7 +587,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["Process CPU Wafers, Raw Carbon Fibers, and Liquid Glowstone in an EV Chemical Reactor in a Cleanroom to produce Nano CPU Wafers."]
+			description: ["{sg.evage.quests28.description0}"]
 			id: "3ABF274134C11EF7"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -595,7 +595,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "CPU Wafers + Raw Carbon Fibers + Liquid Glowstone!"
+			subtitle: "{sg.evage.quests28.subtitle}"
 			tasks: [{
 				id: "7F1676CBE3F21AFB"
 				item: "gtceu:nano_cpu_wafer"
@@ -606,7 +606,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["Process Salt Water in an LV Electrolyzer to produce Sodium Hydroxide Dust."]
+			description: ["{sg.evage.quests29.description0}"]
 			id: "1FAF3B79551AB1EC"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -614,7 +614,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "LV Electrolyzer!"
+			subtitle: "{sg.evage.quests29.subtitle}"
 			tasks: [{
 				id: "6D77ED446CCADC28"
 				item: "gtceu:sodium_hydroxide_dust"
@@ -646,7 +646,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["There are a few option to produce Epichlorohydrin. Look through REI to see what suits you best."]
+			description: ["{sg.evage.quests31.description0}"]
 			id: "17B7A7581CA89E16"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -654,7 +654,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.evage.quests31.subtitle}"
 			tasks: [{
 				id: "13EA56963448E069"
 				item: "gtceu:epichlorohydrin_bucket"
@@ -704,9 +704,9 @@
 		{
 			dependencies: ["01A3EB516A884B7C"]
 			description: [
-				"There are a few option to produce Hydrochloric Acid. Look through REI to see what suits you best."
+				"{sg.evage.quests34.description0}"
 				""
-				"Hydrochloric Acid is used a lot in many different chemical mixtures."
+				"{sg.evage.quests34.description1}"
 			]
 			id: "15C44E3815DCD6EA"
 			rewards: [{
@@ -715,7 +715,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.evage.quests34.subtitle}"
 			tasks: [{
 				id: "4033495FBA1CA420"
 				item: "gtceu:hydrochloric_acid_bucket"
@@ -743,7 +743,7 @@
 		}
 		{
 			dependencies: ["4905BD233329A325"]
-			description: ["Requires an EV Cleanroom."]
+			description: ["{sg.evage.quests36.description0}"]
 			id: "42A72E604FC572F6"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -751,7 +751,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "This is the second EV Circuit!"
+			subtitle: "{sg.evage.quests36.subtitle}"
 			tasks: [{
 				id: "6A54C72B6A25FAD4"
 				item: "gtceu:nano_processor_assembly"
@@ -782,7 +782,7 @@
 		}
 		{
 			dependencies: ["42A72E604FC572F6"]
-			description: ["Requires an EV Cleanroom."]
+			description: ["{sg.evage.quests38.description0}"]
 			id: "5B365AEDBF3CEAC0"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -790,7 +790,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "This is the second IV Circuit!"
+			subtitle: "{sg.evage.quests38.subtitle}"
 			tasks: [{
 				id: "0E065968A73FFC58"
 				item: "gtceu:nano_processor_computer"
@@ -801,7 +801,7 @@
 		}
 		{
 			dependencies: ["04BE1F878C713A9E"]
-			description: ["Works the same as the basic single block ore generators, but generates a stack at a time."]
+			description: ["{sg.evage.quests39.description0}"]
 			id: "49A3DEAF3B564ADF"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -809,7 +809,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Upgrading your ore generation!"
+			subtitle: "{sg.evage.quests39.subtitle}"
 			tasks: [{
 				id: "200FCA88FDF8D0AB"
 				item: "gtceu:large_resource_generator"
@@ -820,7 +820,7 @@
 		}
 		{
 			dependencies: ["1A420543054362B5"]
-			description: ["Has a loss of 0 EU per block."]
+			description: ["{sg.evage.quests40.description0}"]
 			id: "6A0C37CCF3E57623"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -828,7 +828,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV superconductor!"
+			subtitle: "{sg.evage.quests40.subtitle}"
 			tasks: [{
 				id: "130295AA4967A664"
 				item: "gtceu:uranium_triplatinum_single_wire"
@@ -839,7 +839,7 @@
 		}
 		{
 			dependencies: ["78652EEA6FF2DA08"]
-			description: ["Process Nitric Acid and Hydrochloric Acid in an LV Mixer to produce Aqua Regia."]
+			description: ["{sg.evage.quests41.description0}"]
 			id: "664FE261DB04E43C"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -847,7 +847,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Nitric Acid + Hydrochloric Acid!"
+			subtitle: "{sg.evage.quests41.subtitle}"
 			tasks: [{
 				id: "50C840443CA5B7B9"
 				item: "gtceu:aqua_regia_bucket"
@@ -861,7 +861,7 @@
 				"72046EB2A4005928"
 				"664FE261DB04E43C"
 			]
-			description: ["Process Platinum Group Sludge and Aqua Regia in an HV Centrifuge to produce Inert Metal Mixture."]
+			description: ["{sg.evage.quests42.description0}"]
 			id: "23AC2BBFD07F1695"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -869,7 +869,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Platinum Group Sludge + Aqua Regia!"
+			subtitle: "{sg.evage.quests42.subtitle}"
 			tasks: [{
 				id: "34ADD2491F2EB78E"
 				item: "gtceu:inert_metal_mixture_dust"
@@ -880,7 +880,7 @@
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["There are a few option to produce Nitric Acid. Look through EMI to see what suits you best."]
+			description: ["{sg.evage.quests43.description0}"]
 			id: "78652EEA6FF2DA08"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -888,7 +888,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Choices!"
+			subtitle: "{sg.evage.quests43.subtitle}"
 			tasks: [{
 				id: "601DE1136A30A221"
 				item: "gtceu:nitric_acid_bucket"
@@ -899,7 +899,7 @@
 		}
 		{
 			dependencies: ["78652EEA6FF2DA08"]
-			description: ["Process \"Platinum Group\" Purified Ores and Nitric Acid in an LV Chemical Reactor to produce Platinum Group Sludge."]
+			description: ["{sg.evage.quests44.description0}"]
 			id: "72046EB2A4005928"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -907,7 +907,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "\"Platinum Group\" Purified Ores + Nitric Acid!"
+			subtitle: "{sg.evage.quests44.subtitle}"
 			tasks: [{
 				id: "01A8F0930CC900BB"
 				item: "gtceu:platinum_group_sludge_dust"
@@ -955,7 +955,7 @@
 				"35BFB8ED93BDC8A8"
 				"45DAF3851B974F11"
 			]
-			description: ["The fourth tier of Coils."]
+			description: ["{sg.evage.quests47.description0}"]
 			id: "1A420543054362B5"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -963,20 +963,20 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "EV Assembler!"
+			subtitle: "{sg.evage.quests47.subtitle}"
 			tasks: [{
 				count: 16L
 				id: "00A355F39FFCB543"
 				item: "gtceu:rtm_alloy_coil_block"
 				type: "item"
 			}]
-			title: "RTM Alloy Coils"
+			title: "{sg.evage.quests47.title}"
 			x: -5.5d
 			y: -1.5d
 		}
 		{
 			dependencies: ["01A3EB516A884B7C"]
-			description: ["Process Vanadium dust, Steel Dust, and Chormium Dust in an MV Mixer to Produce Vanadium Steel Dust."]
+			description: ["{sg.evage.quests48.description0}"]
 			id: "35BFB8ED93BDC8A8"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -984,7 +984,7 @@
 				table_id: 2893369185808786999L
 				type: "loot"
 			}]
-			subtitle: "Vanadium Dust + Steel Dust + Chromium Dust!"
+			subtitle: "{sg.evage.quests48.subtitle}"
 			tasks: [{
 				id: "1D65BD52CA9CB69C"
 				item: "gtceu:vanadium_steel_dust"
@@ -994,6 +994,6 @@
 			y: -2.5d
 		}
 	]
-	subtitle: ["Titanium!"]
-	title: "EV Age"
+	subtitle: ["{sg.evage.subtitle0}"]
+	title: "{sg.evage.title}"
 }
