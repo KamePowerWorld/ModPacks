@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 7.5d,
+	dependencies: [
+		"239db57b"
+	],
+	tasks: [{
+		uid: "acc3181c",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:gear_stone"
+		}],
+		only_from_crafting: true
+	}]
+}

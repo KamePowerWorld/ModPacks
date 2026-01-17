@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: 2.0d,
+	dependencies: [
+		"9814776c"
+	],
+	optional: true,
+	tasks: [{
+		uid: "18b2e2e1",
+		type: "item",
+		items: [{
+			item: "irontanks:diamond_obsidian_upgrade"
+		}]
+	}]
+}

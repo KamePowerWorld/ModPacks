@@ -1,0 +1,10 @@
+{
+  "id": "com.latmod.mods:projectex:1.2.0.40@jar",
+  "name": "Project EX",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 383266,
+    "url": "https://edge.forgecdn.net/files/3014/173/ProjectEX-1.2.0.40.jar",
+    "MD5": "f6b4011e6f13bd688238447a407d56c5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bre.fpsreducer:fpsreducer:mc1.12.2-1.20@jar",
+  "name": "FPS Reducer",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 79700,
+    "url": "https://edge.forgecdn.net/files/3362/160/FpsReducer-mc1.12.2-1.20.jar",
+    "MD5": "7e88042f94dbfccba9e839b640cf592e"
+  }
+}

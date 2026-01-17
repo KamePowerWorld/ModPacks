@@ -1,0 +1,10 @@
+{
+  "id": "net.xalcon:torchmaster:1.8.5.0@jar",
+  "name": "TorchMaster",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 156406,
+    "url": "https://edge.forgecdn.net/files/3529/742/torchmaster_1.12.2-1.8.5.0.jar",
+    "MD5": "5d242ff1c4bd434f0b865abec8f7b4a0"
+  }
+}

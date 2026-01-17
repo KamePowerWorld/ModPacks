@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: -2.0d,
+	dependencies: [
+		"69b4251e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "be142912",
+		type: "item",
+		items: [{
+			item: "ironchest:diamond_crystal_chest_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 4.0d,
+	y: -3.5d,
+	dependencies: [
+		"6fb8fbd1"
+	],
+	tasks: [{
+		uid: "4111740c",
+		type: "item",
+		items: [{
+			item: "logisticspipes:sign_creator"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "net.quetzi:morpheus:1.12.2-3.5.106@jar",
+  "name": "Morpheus",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 21508,
+    "url": "https://edge.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar",
+    "MD5": "357dc3701a8c7d4109147c666f6a4300"
+  }
+}

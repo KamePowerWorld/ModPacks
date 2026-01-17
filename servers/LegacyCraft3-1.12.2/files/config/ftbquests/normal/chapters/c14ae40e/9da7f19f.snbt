@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "8ea7aed2",
+		type: "item",
+		items: [{
+			item: "akutoengine:enginechip"
+		}]
+	}]
+}

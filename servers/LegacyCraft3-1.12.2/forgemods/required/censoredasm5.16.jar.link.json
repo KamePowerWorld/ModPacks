@@ -1,0 +1,10 @@
+{
+  "id": "zone.rong:loliasm:5.16@jar",
+  "name": "LoliASM",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1641256,
+    "url": "https://edge.forgecdn.net/files/4769/330/censoredasm5.16.jar",
+    "MD5": "225e9ec7aaf7253fc22ff3b7b05912e3"
+  }
+}

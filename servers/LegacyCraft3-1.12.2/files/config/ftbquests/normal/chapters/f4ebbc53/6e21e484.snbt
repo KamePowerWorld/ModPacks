@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "12862240",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:tank"
+		}],
+		only_from_crafting: true
+	}]
+}

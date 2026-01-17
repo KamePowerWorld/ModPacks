@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	dependencies: [
+		"cdba4562",
+		"f6b368a9",
+		"3a2f41f8"
+	],
+	tasks: [{
+		uid: "8c226c6b",
+		type: "item",
+		items: [{
+			item: "ic2:itemmisc 1 451"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "f5eadb10",
+		type: "item",
+		item: "ic2:itemmisc 1 451"
+	}]
+}

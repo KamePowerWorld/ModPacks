@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: -1.0d,
+	shape: "gear",
+	dependencies: [
+		"69b4251e"
+	],
+	tasks: [{
+		uid: "03dbe6b9",
+		type: "item",
+		items: [{
+			item: "multipagechest:multipagechest"
+		}],
+		only_from_crafting: true
+	}]
+}

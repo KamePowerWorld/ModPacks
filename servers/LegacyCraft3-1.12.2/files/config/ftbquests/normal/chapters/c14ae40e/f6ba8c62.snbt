@@ -1,0 +1,17 @@
+{
+	x: -2.5d,
+	y: 4.0d,
+	dependencies: [
+		"dfe335f3",
+		"33716ce0"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8e63ecb1",
+		type: "item",
+		items: [{
+			item: "quarryplus:laserplus"
+		}],
+		only_from_crafting: false
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	title: "Logistics HUD Glasses",
+	icon: "logisticspipes:hud_glasses",
+	x: -0.5d,
+	y: -1.0d,
+	optional: true,
+	tasks: [{
+		uid: "c069d3a2",
+		type: "item",
+		items: [{
+			item: "logisticspipes:parts"
+		}],
+		count: 2L,
+		only_from_crafting: true
+	},
+	{
+		uid: "55e95510",
+		type: "item",
+		items: [{
+			item: "logisticspipes:parts 1 1"
+		}],
+		count: 2L,
+		only_from_crafting: true
+	},
+	{
+		uid: "37433bd0",
+		type: "item",
+		items: [{
+			item: "logisticspipes:parts 1 2"
+		}],
+		only_from_crafting: true
+	}]
+}

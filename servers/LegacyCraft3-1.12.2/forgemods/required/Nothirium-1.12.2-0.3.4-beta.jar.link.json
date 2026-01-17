@@ -1,0 +1,10 @@
+{
+  "id": "meldexun.nothirium.mc:nothirium:0.3.4-beta@jar",
+  "name": "Nothirium",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 191426,
+    "url": "https://edge.forgecdn.net/files/4710/696/Nothirium-1.12.2-0.3.4-beta.jar",
+    "MD5": "2e396173ed571d8a32dfbe0729c67850"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: 7.0d,
+	dependencies: [
+		"f0e490ce"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e25a5997",
+		type: "item",
+		items: [{
+			item: "peex:aegu/aeguexfinal_off"
+		}]
+	}]
+}

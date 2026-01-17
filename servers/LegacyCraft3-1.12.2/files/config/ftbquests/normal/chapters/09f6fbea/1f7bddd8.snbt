@@ -1,0 +1,11 @@
+{
+	x: 11.0d,
+	y: 4.5d,
+	tasks: [{
+		uid: "cfb15eb3",
+		type: "item",
+		items: [{
+			item: "vrgenerator:visibleraysolar 1 10"
+		}]
+	}]
+}

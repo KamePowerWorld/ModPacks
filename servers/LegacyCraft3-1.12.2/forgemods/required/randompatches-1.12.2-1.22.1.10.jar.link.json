@@ -1,0 +1,10 @@
+{
+  "id": "com.therandomlabs.randompatches.core:randompatches:1.12.2-1.22.1.10@jar",
+  "name": "RandomPatches",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 293231,
+    "url": "https://edge.forgecdn.net/files/3133/651/randompatches-1.12.2-1.22.1.10.jar",
+    "MD5": "dfbb30ff396e6426ba9a284b04c7bcf3"
+  }
+}

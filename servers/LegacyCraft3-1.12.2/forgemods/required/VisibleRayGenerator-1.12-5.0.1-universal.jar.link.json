@@ -1,0 +1,10 @@
+{
+  "id": "ce.vrgenerator:vrgenerator:5.0.1@jar",
+  "name": "VisibleRayGenerator",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 125086,
+    "url": "https://edge.forgecdn.net/files/2447/874/VisibleRayGenerator-1.12-5.0.1-universal.jar",
+    "MD5": "0ff6b9b72eab920569fa64256945dfb1"
+  }
+}

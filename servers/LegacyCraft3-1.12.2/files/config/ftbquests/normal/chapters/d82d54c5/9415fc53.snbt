@@ -1,0 +1,26 @@
+{
+	title: "Got of cheat",
+	icon: {
+		id: "projecte:item.pe_time_watch",
+		tag: {}
+	},
+	disable_toast: true,
+	x: 1.5d,
+	y: 6.0d,
+	can_repeat: true,
+	optional: true,
+	tasks: [{
+		uid: "fee8cda4",
+		type: "emc",
+		disable_toast: true,
+		value: 1000000000L
+	}],
+	rewards: [{
+		uid: "5f523cbc",
+		type: "item",
+		item: {
+			id: "projecte:item.pe_time_watch",
+			tag: {}
+		}
+	}]
+}

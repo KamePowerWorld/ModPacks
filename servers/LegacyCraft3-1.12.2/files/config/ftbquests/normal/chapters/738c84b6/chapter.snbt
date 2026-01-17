@@ -1,0 +1,7 @@
+{
+	title: "{quests.tech.ic2.lv.title}",
+	icon: "ic2:blockelectric 1 8",
+	always_invisible: false,
+	group: 167181290,
+	default_quest_shape: ""
+}

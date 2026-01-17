@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: 2.5d,
+	dependencies: [
+		"b388bc34"
+	],
+	tasks: [{
+		uid: "666bb7e8",
+		type: "item",
+		items: [{
+			item: "akutoengine:akutoengine 1 1"
+		}],
+		only_from_crafting: true
+	}]
+}

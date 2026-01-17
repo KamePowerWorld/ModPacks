@@ -1,0 +1,10 @@
+{
+  "id": "akuto2.akutoengine:akutoengine:2.0.13@jar",
+  "name": "AkutoEngine",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 302567,
+    "url": "https://edge.forgecdn.net/files/3532/353/AkutoEngine-2.0.13.jar",
+    "MD5": "c3d61dd3b44963282105cc79979c9fe3"
+  }
+}

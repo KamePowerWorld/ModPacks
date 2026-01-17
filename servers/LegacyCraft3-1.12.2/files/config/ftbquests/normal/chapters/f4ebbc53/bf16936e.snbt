@@ -1,0 +1,16 @@
+{
+	x: 9.5d,
+	y: 1.0d,
+	shape: "gear",
+	dependencies: [
+		"9814776c",
+		"4e2041bd"
+	],
+	tasks: [{
+		uid: "146fca9e",
+		type: "item",
+		items: [{
+			item: "irontanks:emerald_tank"
+		}]
+	}]
+}

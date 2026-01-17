@@ -1,0 +1,10 @@
+{
+  "id": "mezz.modnametooltip:modnametooltip:1.10.1@jar",
+  "name": "Mod Name Tooltip",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 12732,
+    "url": "https://edge.forgecdn.net/files/2739/582/modnametooltip_1.12.2-1.10.1.jar",
+    "MD5": "e36854d3c58af598ab3ce08d6cf0c760"
+  }
+}

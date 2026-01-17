@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 5.5d,
+	tasks: [{
+		uid: "483950ec",
+		type: "item",
+		items: [{
+			item: "ic2:blockmetal 1 1"
+		}]
+	}]
+}

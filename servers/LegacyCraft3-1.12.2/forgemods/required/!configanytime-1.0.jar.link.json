@@ -1,0 +1,10 @@
+{
+  "id": "com.cleanroommc:configanytime:1.0@jar",
+  "name": "ConfigAnytime",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 5092,
+    "url": "https://edge.forgecdn.net/files/4576/653/!configanytime-1.0.jar",
+    "MD5": "feab07e8b137b1087888a7ec99546b5d"
+  }
+}

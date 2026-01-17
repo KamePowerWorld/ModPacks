@@ -1,0 +1,10 @@
+{
+  "id": "shadows.placebo:placebo:1.12.2-1.6.1@jar",
+  "name": "Placebo",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 77207,
+    "url": "https://edge.forgecdn.net/files/4629/597/Placebo-1.12.2-1.6.1.jar",
+    "MD5": "5de720fd198f0d3db6d594eeb835fe63"
+  }
+}

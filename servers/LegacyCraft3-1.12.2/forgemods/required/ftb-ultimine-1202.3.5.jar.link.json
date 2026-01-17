@@ -1,0 +1,10 @@
+{
+  "id": "com.feed_the_beast.mods:ftbultimine:1202.3.5@jar",
+  "name": "FTB Ultimine",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 46952,
+    "url": "https://edge.forgecdn.net/files/3078/750/ftb-ultimine-1202.3.5.jar",
+    "MD5": "a1e6dbef8921119778493b891bace0ab"
+  }
+}

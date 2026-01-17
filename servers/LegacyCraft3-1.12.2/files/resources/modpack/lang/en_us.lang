@@ -1,0 +1,18 @@
+quests.did_you_know.title=Did you know...?
+quests.vanilla.title=Vanilla
+quests.storage.title=Storage
+quests.storage.logi=Logistics
+quests.farmer.title=Farmer
+quests.tech.ic2.title=Industrial Craft2
+quests.tech.ic2.lv.title=Low Voltage
+quests.tech.ic2.mv.title=Medium Voltage
+quests.tech.ic2.hv.title=High Voltage
+quests.tech.ic2.ev.title=Extreme Voltage
+quests.tech.ic2.iv.title=Insane Voltage
+quests.tech.bc.title=BuildCraft
+quests.magic.title=Magic
+
+
+quests.did_you_know.ftbquests.title=How to FTB Quests
+quests.did_you_know.ftbquests.desc.0=On the left side you can see what you need to complete the quest. On the right side is the reward.
+quests.did_you_know.ftbquests.desc.1=You may notice the little arrows on the left and right side. These show what quest you need to complete and what quests will be unlocked.

@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	dependencies: [
+		"a52e1eb3"
+	],
+	tasks: [{
+		uid: "8fada6d8",
+		type: "item",
+		items: [{
+			item: "ic2:itemcable 1 8"
+		}],
+		only_from_crafting: true
+	}]
+}

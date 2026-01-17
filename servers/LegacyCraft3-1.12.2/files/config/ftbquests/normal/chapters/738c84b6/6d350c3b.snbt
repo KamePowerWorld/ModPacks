@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"cdaa3bdf",
+		"045fb2c4"
+	],
+	tasks: [{
+		uid: "bf7e29c7",
+		type: "item",
+		items: [{
+			item: "ic2:blockmachinelv 1 4"
+		}],
+		only_from_crafting: true
+	}]
+}

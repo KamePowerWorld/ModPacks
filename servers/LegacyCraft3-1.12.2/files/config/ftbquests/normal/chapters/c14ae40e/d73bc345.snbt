@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"9b7e4164",
+		"5d4104a2"
+	],
+	tasks: [{
+		uid: "044eb649",
+		type: "item",
+		items: [{
+			item: "quarryplus:markerplus"
+		}]
+	}],
+	rewards: [{
+		uid: "53fa625c",
+		type: "item",
+		item: "quarryplus:markerplus",
+		count: 4
+	}]
+}

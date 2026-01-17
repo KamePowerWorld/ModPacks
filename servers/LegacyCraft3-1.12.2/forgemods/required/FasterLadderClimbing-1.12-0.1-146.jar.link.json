@@ -1,0 +1,10 @@
+{
+  "id": "net.jaspr:fasterladderclimbing:1.12-0.1-127@jar",
+  "name": "Faster Ladder Climbing",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 32750,
+    "url": "https://edge.forgecdn.net/files/2512/758/FasterLadderClimbing-1.12-0.1-146.jar",
+    "MD5": "9f7c289b438817d581a3825ef0015611"
+  }
+}

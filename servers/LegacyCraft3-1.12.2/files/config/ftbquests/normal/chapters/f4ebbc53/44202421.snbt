@@ -1,0 +1,17 @@
+{
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"ccebf7d9"
+	],
+	optional: true,
+	tasks: [{
+		uid: "5d9ded56",
+		type: "item",
+		items: [{
+			item: "ironchest:copper_silver_chest_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

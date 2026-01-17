@@ -1,0 +1,11 @@
+{
+	x: 11.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "95d031ac",
+		type: "item",
+		items: [{
+			item: "vrgenerator:visibleraysolar 1 8"
+		}]
+	}]
+}

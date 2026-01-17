@@ -1,0 +1,18 @@
+{
+	x: 11.5d,
+	y: -4.0d,
+	dependencies: [
+		"a12e8ff3",
+		"c30a4625"
+	],
+	dependency_requirement: "one_started",
+	optional: true,
+	tasks: [{
+		uid: "3adf4d4c",
+		type: "item",
+		items: [{
+			item: "peex:relays/relaymk5"
+		}],
+		only_from_crafting: true
+	}]
+}

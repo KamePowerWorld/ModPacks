@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: 7.0d,
+	dependencies: [
+		"dec3cb40"
+	],
+	tasks: [{
+		uid: "5cb18261",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:gear_diamond"
+		}],
+		only_from_crafting: true
+	}]
+}

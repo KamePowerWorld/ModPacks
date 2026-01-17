@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 6.5d,
+	shape: "gear",
+	dependencies: [
+		"23a3035f"
+	],
+	tasks: [{
+		uid: "65a99386",
+		type: "item",
+		items: [{
+			item: "akutoengine:akutoengine 1 5"
+		}],
+		only_from_crafting: true
+	}]
+}

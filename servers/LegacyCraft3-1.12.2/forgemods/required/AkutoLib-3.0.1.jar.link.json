@@ -1,0 +1,10 @@
+{
+  "id": "lib:akutolib:3.0.1@jar",
+  "name": "AkutoLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 10776,
+    "url": "https://edge.forgecdn.net/files/3097/735/AkutoLib-3.0.1.jar",
+    "MD5": "210321a205d6a74fa00085185b5b3d32"
+  }
+}

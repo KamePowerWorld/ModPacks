@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: 0.0d,
+	dependencies: [
+		"045fb2c4"
+	],
+	tasks: [{
+		uid: "6f2a14a0",
+		type: "item",
+		items: [{
+			item: "vrgenerator:visibleraysolar"
+		}]
+	}]
+}

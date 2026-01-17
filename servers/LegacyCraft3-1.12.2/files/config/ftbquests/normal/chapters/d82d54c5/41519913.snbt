@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: 2.0d,
+	dependencies: [
+		"5f2075e0",
+		"a02609f7"
+	],
+	tasks: [{
+		uid: "ce26e47b",
+		type: "item",
+		items: [{
+			item: "projecte:transmutation_table"
+		}],
+		only_from_crafting: true
+	}]
+}

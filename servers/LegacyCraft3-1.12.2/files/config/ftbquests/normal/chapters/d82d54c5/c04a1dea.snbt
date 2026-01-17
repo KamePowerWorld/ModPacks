@@ -1,0 +1,15 @@
+{
+	x: 12.5d,
+	y: -4.0d,
+	dependencies: [
+		"964a2d0f"
+	],
+	optional: true,
+	tasks: [{
+		uid: "d1b4dd06",
+		type: "item",
+		items: [{
+			item: "peex:relays/relay_final"
+		}]
+	}]
+}

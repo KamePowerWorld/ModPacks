@@ -1,0 +1,10 @@
+{
+  "id": "mrtjp.projectred:projectred-exploration:4.9.4.120@jar",
+  "name": "ProjectRed Exploration",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 501169,
+    "url": "https://edge.forgecdn.net/files/2745/551/ProjectRed-1.12.2-4.9.4.120-world.jar",
+    "MD5": "2ac24154b87ff4fbc97e5330c2ca11f7"
+  }
+}

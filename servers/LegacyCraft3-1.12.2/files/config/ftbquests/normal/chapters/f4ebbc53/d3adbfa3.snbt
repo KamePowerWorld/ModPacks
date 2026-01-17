@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: 2.0d,
+	dependencies: [
+		"8378eccd"
+	],
+	optional: true,
+	tasks: [{
+		uid: "f98fe014",
+		type: "item",
+		items: [{
+			item: "irontanks:copper_iron_upgrade"
+		}]
+	}]
+}

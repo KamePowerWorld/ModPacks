@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	dependencies: [
+		"86a3e8ec"
+	],
+	tasks: [{
+		uid: "17aa196b",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:marker_volume"
+		}]
+	}],
+	rewards: [{
+		uid: "619fba4c",
+		type: "item",
+		item: "buildcraftcore:marker_volume",
+		count: 4
+	}]
+}

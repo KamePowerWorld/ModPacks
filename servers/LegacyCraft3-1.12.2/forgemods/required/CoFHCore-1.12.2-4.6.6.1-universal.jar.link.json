@@ -1,0 +1,10 @@
+{
+  "id": "cofh:cofhcore:4.6.6.1@jar",
+  "name": "CoFH Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 848187,
+    "url": "https://edge.forgecdn.net/files/2920/433/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "MD5": "f147d3b87f97bb317e1c37cba0dde002"
+  }
+}

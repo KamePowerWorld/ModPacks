@@ -1,0 +1,17 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	dependencies: [
+		"73dfd0c5"
+	],
+	dependency_requirement: "one_started",
+	optional: true,
+	tasks: [{
+		uid: "0aed91de",
+		type: "item",
+		items: [{
+			item: "projectex:collector 1 2"
+		}],
+		only_from_crafting: true
+	}]
+}

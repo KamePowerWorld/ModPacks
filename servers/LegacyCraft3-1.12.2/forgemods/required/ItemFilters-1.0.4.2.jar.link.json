@@ -1,0 +1,10 @@
+{
+  "id": "com.latmod.mods:itemfilters:1.0.4.2@jar",
+  "name": "Item Filters",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 78935,
+    "url": "https://edge.forgecdn.net/files/3003/364/ItemFilters-1.0.4.2.jar",
+    "MD5": "c89d595cdef3cc93f2acbc31333e418b"
+  }
+}

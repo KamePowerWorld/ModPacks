@@ -1,0 +1,10 @@
+{
+  "id": "me.jellysquid.mods.phosphor.mod:phosphor-lighting:1.12.2-0.2.9.3-SNAPSHOT@jar",
+  "name": "Hesperus, fork from Phosphor",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 62371,
+    "url": "https://edge.forgecdn.net/files/4724/647/phosphor-1.12.2-0.2.9.3-SNAPSHOT.jar",
+    "MD5": "a694f15c9b318def5a02978d361a1fd6"
+  }
+}

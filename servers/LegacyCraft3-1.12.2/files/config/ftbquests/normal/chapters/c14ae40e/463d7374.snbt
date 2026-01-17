@@ -1,0 +1,11 @@
+{
+	x: -2.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "4cd8757a",
+		type: "item",
+		items: [{
+			item: "buildcraftsilicon:redstone_chipset 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "us.getfluxed.controlsearch:controlling:3.0.12.2@jar",
+  "name": "Controlling",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 28932,
+    "url": "https://edge.forgecdn.net/files/4428/378/Controlling-3.0.12.2.jar",
+    "MD5": "03eebdb2a835a829f0a269b8ec0254fe"
+  }
+}

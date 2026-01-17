@@ -1,0 +1,10 @@
+{
+  "id": "zone.rong.mixinbooter:mixinbooter:8.6@jar",
+  "name": "MixinBooter",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1728216,
+    "url": "https://edge.forgecdn.net/files/4752/579/!mixinbooter-8.6.jar",
+    "MD5": "a3e6042cd3193ced46a1297f31233357"
+  }
+}

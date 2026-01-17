@@ -1,0 +1,10 @@
+{
+  "id": "mrtjp.core.handler:mrtjpcore:2.1.4.43@jar",
+  "name": "MrTJPCore",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 803400,
+    "url": "https://edge.forgecdn.net/files/2735/197/MrTJPCore-1.12.2-2.1.4.43-universal.jar",
+    "MD5": "edff42a77c41f9191722b5b794e37668"
+  }
+}

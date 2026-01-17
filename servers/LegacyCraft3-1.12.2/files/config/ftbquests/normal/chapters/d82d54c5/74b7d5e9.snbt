@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: -3.0d,
+	dependencies: [
+		"fc3d5053"
+	],
+	tasks: [{
+		uid: "cea9794f",
+		type: "item",
+		items: [{
+			item: "projecte:collector_mk2"
+		}],
+		only_from_crafting: true
+	}]
+}

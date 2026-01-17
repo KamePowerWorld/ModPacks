@@ -1,0 +1,70 @@
+{
+	title: "Klein Star",
+	x: 8.5d,
+	y: 5.0d,
+	tasks: [{
+		uid: "3e59ce13",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_klein_star",
+			tag: {}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "fb681919",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_klein_star",
+			Damage: 1s,
+			tag: {}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "f9a6c2f0",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_klein_star",
+			Damage: 2s,
+			tag: {}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "ca83d6d7",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_klein_star",
+			Damage: 3s,
+			tag: {}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "65495b45",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_klein_star",
+			Damage: 4s,
+			tag: {}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "bf6d4edd",
+		type: "item",
+		items: [{
+			id: "projecte:item.pe_klein_star",
+			Damage: 5s,
+			tag: {}
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

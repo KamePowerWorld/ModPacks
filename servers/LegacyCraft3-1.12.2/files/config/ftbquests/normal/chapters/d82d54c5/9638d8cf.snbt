@@ -1,0 +1,16 @@
+{
+	x: 6.5d,
+	y: 6.0d,
+	dependencies: [
+		"b396eb0b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "0a2a78c0",
+		type: "item",
+		items: [{
+			item: "peex:aegu/aeguexmk3_off"
+		}],
+		only_from_crafting: true
+	}]
+}

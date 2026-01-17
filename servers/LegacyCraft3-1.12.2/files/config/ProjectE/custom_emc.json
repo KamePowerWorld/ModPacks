@@ -1,0 +1,244 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:iron_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_ore|0",
+      "emc": 0
+    },
+    {
+      "item": "buildcrafttransport:pipe_stone_item|0",
+      "emc": 1
+    },
+    {
+      "item": "buildcrafttransport:pipe_structure|0",
+      "emc": 1
+    },
+    {
+      "item": "buildcrafttransport:plug_blocker|0",
+      "emc": 1
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|0",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|1",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|2",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|3",
+      "emc": 0
+    },
+    {
+      "item": "buildcraftsilicon:redstone_chipset|4",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:markerplus|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:tool|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:tool|1",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:tool|2",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:tool|3",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:template|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:torch_module|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:fuel_module_normal|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:quarry|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:standalonepump|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:pumpplus|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:laserplus|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:miningwellplus|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:refineryplus|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:chunkdestroyer|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:exppump|0",
+      "emc": 0
+    },
+    {
+      "item": "quarryplus:enchantmover|0",
+      "emc": 0
+    },
+    {
+      "item": "ic2:itemtreetap|0",
+      "emc": 40
+    },
+    {
+      "item": "ic2:itemmisc|6",
+      "emc": 0
+    },
+    {
+      "item": "ic2:itemmisc|12",
+      "emc": 0
+    },
+    {
+      "item": "ic2:itemmisc|53",
+      "emc": 0
+    },
+    {
+      "item": "ic2:blockcompactedgenerator|6",
+      "emc": 1652
+    },
+    {
+      "item": "ic2:blockcompactedgenerator|7",
+      "emc": 5048
+    },
+    {
+      "item": "ic2:blockcompactedgenerator|8",
+      "emc": 25260
+    },
+    {
+      "item": "vrgenerator:visibleraysolar|8",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:guide_book|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:parts|3",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:broken_item|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:item_card|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:upgrade_logic_controller|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:chip_basic_raw|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:chip_basic|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:chip_advanced_raw|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:chip_advanced|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:chip_fpga_raw|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:chip_fpga|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:logistics_programmer|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:sign_creator|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:module_blank|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:upgrade_power_transportation|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:remote_orderer|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:disk|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:pipe_transport_basic|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:pipe_basic|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:frame|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:crafting_table|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:power_junction|0",
+      "emc": 0
+    },
+    {
+      "item": "logisticspipes:program_compiler|0",
+      "emc": 0
+    },
+    {
+      "item": "projecte:item.pe_time_watch|0",
+      "emc": 1000000000
+    },
+    {
+      "item": "peex:aegu/aegumk3_off|0",
+      "emc": 788353456
+    }
+  ]
+}

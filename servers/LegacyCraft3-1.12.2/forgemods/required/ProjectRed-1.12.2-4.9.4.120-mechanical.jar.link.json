@@ -1,0 +1,10 @@
+{
+  "id": "mrtjp.projectred:projectred-expansion:4.9.4.120@jar",
+  "name": "ProjectRed Expansion",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2596509,
+    "url": "https://edge.forgecdn.net/files/2745/550/ProjectRed-1.12.2-4.9.4.120-mechanical.jar",
+    "MD5": "cafa40d180f86081e748d15ba5a0ffc9"
+  }
+}

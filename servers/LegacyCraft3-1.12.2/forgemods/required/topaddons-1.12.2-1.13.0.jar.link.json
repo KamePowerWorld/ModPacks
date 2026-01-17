@@ -1,0 +1,10 @@
+{
+  "id": "io.github.drmanganese:topaddons:1.12.2-1.13.0@jar",
+  "name": "TOP Addons",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 243603,
+    "url": "https://edge.forgecdn.net/files/2887/479/topaddons-1.12.2-1.13.0.jar",
+    "MD5": "e165a54c43f48b42725225b87530b168"
+  }
+}

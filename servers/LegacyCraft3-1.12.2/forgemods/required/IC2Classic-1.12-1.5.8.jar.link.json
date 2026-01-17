@@ -1,0 +1,10 @@
+{
+  "id": "ic2.core:ic2:2.8.1001@jar",
+  "name": "IndustrialCraft 2 Classic",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 6220092,
+    "url": "https://edge.forgecdn.net/files/4476/676/IC2Classic-1.12-1.5.8.jar",
+    "MD5": "42960e1cef4db7d2c797920ccad8e0ae"
+  }
+}

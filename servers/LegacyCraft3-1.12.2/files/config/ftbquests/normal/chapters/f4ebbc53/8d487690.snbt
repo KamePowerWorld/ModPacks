@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	dependencies: [
+		"9cbf7433"
+	],
+	optional: true,
+	tasks: [{
+		uid: "8727c18a",
+		type: "item",
+		items: [{
+			item: "irontanks:obsidian_tank"
+		}]
+	}]
+}

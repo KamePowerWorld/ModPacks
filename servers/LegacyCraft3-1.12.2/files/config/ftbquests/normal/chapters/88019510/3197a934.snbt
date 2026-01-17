@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "cc9ee4d8",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_controller"
+		}],
+		only_from_crafting: true
+	}]
+}

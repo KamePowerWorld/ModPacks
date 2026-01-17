@@ -1,0 +1,12 @@
+{
+	x: 3.5d,
+	y: 1.5d,
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "1045cc16",
+		type: "item",
+		items: [{
+			item: "ic2:itemmisc 1 53"
+		}]
+	}]
+}

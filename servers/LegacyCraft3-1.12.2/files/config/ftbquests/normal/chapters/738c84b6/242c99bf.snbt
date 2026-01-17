@@ -1,0 +1,19 @@
+{
+	icon: "vrgenerator:visibleraysolar 1 1",
+	x: 3.5d,
+	y: 0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"0168c024",
+		"9944e41a"
+	],
+	tasks: [{
+		uid: "549043e9",
+		type: "item",
+		items: [{
+			item: "vrgenerator:visibleraysolar 1 1"
+		}]
+	}]
+}

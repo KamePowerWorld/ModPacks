@@ -1,0 +1,10 @@
+{
+  "id": "mrtjp.projectred:projectred-core:4.9.4.120@jar",
+  "name": "ProjectRed Core",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2036136,
+    "url": "https://edge.forgecdn.net/files/2745/545/ProjectRed-1.12.2-4.9.4.120-Base.jar",
+    "MD5": "1380ad8d4ffbc3f1189078473f6f10f9"
+  }
+}

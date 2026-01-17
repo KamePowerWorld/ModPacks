@@ -1,0 +1,10 @@
+{
+	title: "{quests.tech.bc.title}",
+	icon: "buildcraftcore:wrench",
+	description: [
+		"Quest create progress 25%"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

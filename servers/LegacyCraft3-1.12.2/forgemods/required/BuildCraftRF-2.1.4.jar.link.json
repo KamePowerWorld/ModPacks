@@ -1,0 +1,10 @@
+{
+  "id": "dev.jackraidenph:bcrf:2.1.4@jar",
+  "name": "BuildCraftRF",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 28012,
+    "url": "https://edge.forgecdn.net/files/4631/742/BuildCraftRF-2.1.4.jar",
+    "MD5": "5532b5144ed1275b5f9279a44640498b"
+  }
+}

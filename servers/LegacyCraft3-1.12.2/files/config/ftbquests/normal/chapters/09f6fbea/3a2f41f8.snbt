@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: 1.5d,
+	dependencies: [
+		"cdba4562"
+	],
+	tasks: [{
+		uid: "c8841362",
+		type: "item",
+		items: [{
+			item: "ic2:itemcable 1 1"
+		}],
+		only_from_crafting: true
+	}]
+}

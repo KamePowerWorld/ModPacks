@@ -1,0 +1,15 @@
+{
+	x: -2.5d,
+	y: 7.5d,
+	dependencies: [
+		"629b0096"
+	],
+	tasks: [{
+		uid: "ab79a238",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:gear_gold"
+		}],
+		only_from_crafting: true
+	}]
+}

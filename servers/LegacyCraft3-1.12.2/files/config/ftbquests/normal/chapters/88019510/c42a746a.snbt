@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: 3.5d,
+	dependencies: [
+		"36df6c9f",
+		"d6af4c7d",
+		"3e08b2c5",
+		"c926c5f0",
+		"4c268c19"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "5470da46",
+		type: "item",
+		items: [{
+			item: "logisticspipes:upgrade_module_upgrade"
+		}]
+	}]
+}

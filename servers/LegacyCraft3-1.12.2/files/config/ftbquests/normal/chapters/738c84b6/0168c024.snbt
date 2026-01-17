@@ -1,0 +1,12 @@
+{
+	x: 2.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "57202706",
+		type: "item",
+		items: [{
+			item: "ic2:blockelectric 1 8"
+		}],
+		only_from_crafting: true
+	}]
+}

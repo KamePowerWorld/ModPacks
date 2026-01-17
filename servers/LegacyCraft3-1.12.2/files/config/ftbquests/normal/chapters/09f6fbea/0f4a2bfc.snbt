@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"fe122892"
+	],
+	tasks: [{
+		uid: "f116c6a9",
+		type: "item",
+		items: [{
+			item: "ic2:blockrubwood"
+		}],
+		only_from_crafting: false
+	}]
+}

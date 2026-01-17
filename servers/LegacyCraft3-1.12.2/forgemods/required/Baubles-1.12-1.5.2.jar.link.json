@@ -1,0 +1,10 @@
+{
+  "id": "baubles:baubles:1.12-1.5.2@jar",
+  "name": "Baubles",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 108450,
+    "url": "https://edge.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar",
+    "MD5": "944dec4ef3fbfd4d498d94a7047af201"
+  }
+}

@@ -1,0 +1,17 @@
+{
+	x: 9.0d,
+	y: -2.0d,
+	dependencies: [
+		"69b4251e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "7f99e46b",
+		type: "item",
+		items: [{
+			item: "ironchest:diamond_obsidian_chest_upgrade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: -2.5d,
+	shape: "gear",
+	tasks: [{
+		uid: "c098a111",
+		type: "item",
+		items: [{
+			item: "ic2:itemmisc 1 202"
+		}]
+	}]
+}

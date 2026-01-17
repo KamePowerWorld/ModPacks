@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 5.0d,
+	dependencies: [
+		"e4765681"
+	],
+	tasks: [{
+		uid: "2bbc2f89",
+		type: "item",
+		items: [{
+			item: "peex:condenser_mk3"
+		}],
+		only_from_crafting: true
+	}]
+}

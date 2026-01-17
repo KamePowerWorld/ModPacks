@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	dependencies: [
+		"74b7d5e9"
+	],
+	tasks: [{
+		uid: "d88a1c92",
+		type: "item",
+		items: [{
+			item: "projecte:collector_mk3"
+		}],
+		only_from_crafting: true
+	}]
+}

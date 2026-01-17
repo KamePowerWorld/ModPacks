@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"0c0cee3e"
+	],
+	tasks: [{
+		uid: "30ce2047",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_request"
+		}],
+		only_from_crafting: true
+	}]
+}

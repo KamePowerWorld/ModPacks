@@ -1,0 +1,12 @@
+{
+	x: 1.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "1c92fedc",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}],
+		only_from_crafting: true
+	}]
+}

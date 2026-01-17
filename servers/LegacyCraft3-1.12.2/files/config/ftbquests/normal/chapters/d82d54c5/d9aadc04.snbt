@@ -1,0 +1,74 @@
+{
+	title: "Colossal Star",
+	x: 12.5d,
+	y: 5.0d,
+	dependencies: [
+		"0e00fd39"
+	],
+	tasks: [{
+		uid: "53fafb67",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_ein",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "9ec6f97e",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_zwei",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "abe6f70d",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_drei",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "857f31d7",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_vier",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "8ca382ca",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_sphere",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "bfcd26e1",
+		type: "item",
+		items: [{
+			id: "projectex:colossal_star_omega",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

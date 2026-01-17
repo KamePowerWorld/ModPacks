@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: -4.0d,
+	dependencies: [
+		"f7eaeb74",
+		"73dfd0c5"
+	],
+	tasks: [{
+		uid: "ec55db02",
+		type: "item",
+		items: [{
+			item: "projecte:relay_mk3"
+		}],
+		only_from_crafting: true
+	}]
+}

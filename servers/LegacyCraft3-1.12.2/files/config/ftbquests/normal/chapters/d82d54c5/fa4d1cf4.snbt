@@ -1,0 +1,12 @@
+{
+	x: 0.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "10f46248",
+		type: "item",
+		items: [{
+			item: "projecte:alchemical_chest"
+		}],
+		only_from_crafting: true
+	}]
+}

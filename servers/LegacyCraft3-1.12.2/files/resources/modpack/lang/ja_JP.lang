@@ -1,0 +1,18 @@
+quests.did_you_know.title=ご存知ですか？
+quests.vanilla.title=バニラ
+quests.storage.title=ストレージ
+quests.storage.logi=Logistics
+quests.farmer.title=農業
+quests.tech.ic2.title=Industrial Craft2
+quests.tech.ic2.lv.title=低圧
+quests.tech.ic2.mv.title=中圧
+quests.tech.ic2.hv.title=高圧
+quests.tech.ic2.ev.title=超高圧
+quests.tech.ic2.iv.title=超超高圧
+quests.tech.bc.title=BuildCraft
+quests.magic.title=魔術
+
+
+quests.did_you_know.ftbquests.title=FTB Questsについて
+quests.did_you_know.ftbquests.desc.0=左側には、クエストをクリアするために必要なものが表示されています。右側には報酬が表示されています。
+quests.did_you_know.ftbquests.desc.1=左側と右側に小さな矢印があるのに気づくでしょう。これは、どのクエストをクリアする必要があるのか、どのクエストがアンロックされるのかを示しています。

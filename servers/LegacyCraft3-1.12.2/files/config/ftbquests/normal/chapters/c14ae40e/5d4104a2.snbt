@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 4.0d,
+	dependencies: [
+		"33716ce0",
+		"86a3e8ec"
+	],
+	tasks: [{
+		uid: "4d7630e2",
+		type: "item",
+		items: [{
+			item: "quarryplus:quarry"
+		}]
+	}]
+}

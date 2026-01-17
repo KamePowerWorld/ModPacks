@@ -1,0 +1,10 @@
+{
+  "id": "mezz.jei:jei:4.25.0@jar",
+  "name": "Had Enough Items",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 692664,
+    "url": "https://edge.forgecdn.net/files/4571/247/HadEnoughItems_1.12.2-4.25.0.jar",
+    "MD5": "2de0f88cf353bcec6034748aa5b8da3b"
+  }
+}

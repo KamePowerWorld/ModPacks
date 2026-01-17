@@ -1,0 +1,10 @@
+{
+  "id": "cofh.cofhworld:cofhworld:1.4.0.1@jar",
+  "name": "CoFH World",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 505987,
+    "url": "https://edge.forgecdn.net/files/2920/434/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+    "MD5": "f2bfd74e76b71bdee8a20a9243dd5cdf"
+  }
+}

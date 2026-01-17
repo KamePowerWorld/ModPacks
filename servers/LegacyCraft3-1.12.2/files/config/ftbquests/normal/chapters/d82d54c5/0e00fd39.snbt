@@ -1,0 +1,75 @@
+{
+	title: "Magnum Star",
+	x: 10.5d,
+	y: 5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"331ac5fd"
+	],
+	tasks: [{
+		uid: "dd1787d1",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_ein",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "24709d2d",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_zwei",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "ca70a495",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_drei",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "0cdfe685",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_vier",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	},
+	{
+		uid: "ef8c63ce",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_sphere",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ad540f63",
+		type: "item",
+		items: [{
+			id: "projectex:magnum_star_omega",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

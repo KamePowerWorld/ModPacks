@@ -1,0 +1,10 @@
+{
+  "id": "com.feed_the_beast:ftblib:5.4.7.2@jar",
+  "name": "FTB Library",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 934370,
+    "url": "https://edge.forgecdn.net/files/2985/811/FTBLib-5.4.7.2.jar",
+    "MD5": "ea749a3a3391d490ffcdf025e5de48d9"
+  }
+}

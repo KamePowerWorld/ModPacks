@@ -1,0 +1,10 @@
+{
+  "id": "mrtjp.projectred:projectred-transmission:4.9.4.120@jar",
+  "name": "ProjectRed Transmission",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3923751,
+    "url": "https://edge.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar",
+    "MD5": "0d8259b233ab89d2171b6337167e7e6f"
+  }
+}

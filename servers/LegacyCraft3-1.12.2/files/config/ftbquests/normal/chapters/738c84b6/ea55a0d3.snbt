@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	dependencies: [
+		"dd8680aa"
+	],
+	tasks: [{
+		uid: "bf716c66",
+		type: "item",
+		items: [{
+			item: "ic2:itemtoolwrenchelectric"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

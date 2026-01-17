@@ -1,0 +1,10 @@
+{
+  "id": "org.embeddedt:vintagefix:0.3.2@jar",
+  "name": "VintageFix",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 778627,
+    "url": "https://edge.forgecdn.net/files/4753/319/vintagefix-0.3.2.jar",
+    "MD5": "b52f3c0bed4f8dbd0ce0b4941044ee49"
+  }
+}

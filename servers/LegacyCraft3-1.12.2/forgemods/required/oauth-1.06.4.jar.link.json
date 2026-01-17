@@ -1,0 +1,10 @@
+{
+  "id": "com.sintinium:oauth:1.06.4@jar",
+  "name": "OAuth",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 124249,
+    "url": "https://edge.forgecdn.net/files/3739/783/oauth-1.06.4.jar",
+    "MD5": "17eb5f25e3bde2b350ba06f746616d6f"
+  }
+}

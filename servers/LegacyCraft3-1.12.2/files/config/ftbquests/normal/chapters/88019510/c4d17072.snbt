@@ -1,0 +1,16 @@
+{
+	x: -4.0d,
+	y: -1.5d,
+	dependencies: [
+		"7f7e7e6b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "fcea147a",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_fluid_satellite"
+		}],
+		only_from_crafting: true
+	}]
+}

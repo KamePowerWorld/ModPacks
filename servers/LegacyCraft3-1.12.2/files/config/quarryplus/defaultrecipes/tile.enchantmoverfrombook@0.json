@@ -1,0 +1,39 @@
+{
+  "id": "quarryplus:builtin_enchantmoverfrombook",
+  "type": "quarryplus:workbench_recipe",
+  "ingredients": [
+    {
+      "item": "quarryplus:enchantmover",
+      "data": 0,
+      "count": 4
+    },
+    {
+      "item": "minecraft:beacon",
+      "data": 0,
+      "count": 2
+    },
+    {
+      "item": "minecraft:bookshelf",
+      "data": 0,
+      "count": 128
+    },
+    {
+      "item": "minecraft:diamond",
+      "data": 0,
+      "count": 16
+    }
+  ],
+  "energy": 50000.0,
+  "showInJEI": true,
+  "result": {
+    "item": "quarryplus:enchantmoverfrombook",
+    "data": 0,
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "quarryplus:machine_enabled",
+      "value": "EnchantMoverFromBook"
+    }
+  ]
+}

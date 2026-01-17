@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: -1.0d,
+	dependencies: [
+		"fa4d1cf4"
+	],
+	tasks: [{
+		uid: "7bb8d559",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_alchemical_bag"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

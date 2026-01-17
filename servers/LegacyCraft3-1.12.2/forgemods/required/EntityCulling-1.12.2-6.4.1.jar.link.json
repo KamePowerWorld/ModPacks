@@ -1,0 +1,10 @@
+{
+  "id": "meldexun.entityculling:entityculling:6.4.1@jar",
+  "name": "EntityCulling",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 61287,
+    "url": "https://edge.forgecdn.net/files/4620/881/EntityCulling-1.12.2-6.4.1.jar",
+    "MD5": "3120ceab1d55af70305d4c1e1eada107"
+  }
+}

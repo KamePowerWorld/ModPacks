@@ -1,0 +1,15 @@
+{
+	x: 12.5d,
+	y: -3.0d,
+	dependencies: [
+		"a12e8ff3"
+	],
+	optional: true,
+	tasks: [{
+		uid: "73569761",
+		type: "item",
+		items: [{
+			item: "peex:collectors/collector_final"
+		}]
+	}]
+}

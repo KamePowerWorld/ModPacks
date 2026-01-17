@@ -1,0 +1,10 @@
+{
+  "id": "com.cleanroommc:bogosorter:1.3.4@jar",
+  "name": "Inventory Bogo Sorter",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 231913,
+    "url": "https://edge.forgecdn.net/files/4761/867/bogosorter-1.3.4.jar",
+    "MD5": "f968d64cfadd72ab85d4c1acbe246da8"
+  }
+}

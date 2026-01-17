@@ -1,0 +1,10 @@
+{
+  "id": "com.indemnity83:irontanks:1.12.2-2.1.0-beta.18@jar",
+  "name": "Iron Tank",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 63604,
+    "url": "https://edge.forgecdn.net/files/2811/195/irontanks-1.12.2-2.1.0-beta.18.jar",
+    "MD5": "136ffffb0a0ee0e24375c5f4722e8e16"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	x: 9.5d,
+	y: -3.0d,
+	dependencies: [
+		"19c8fb34"
+	],
+	tasks: [{
+		uid: "d3fff96e",
+		type: "item",
+		items: [{
+			item: "peex:collectors/collectormk8"
+		}],
+		only_from_crafting: true
+	}]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "wanion.lib:wanionlib:1.12.2-2.91@jar",
+  "name": "WanionLib",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 223035,
+    "url": "https://edge.forgecdn.net/files/4623/135/WanionLib-1.12.2-2.91.jar",
+    "MD5": "a41aeddecb2e002bef2f19fe7aae9093"
+  }
+}

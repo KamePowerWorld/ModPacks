@@ -1,0 +1,10 @@
+{
+  "id": "mrtjp.projectred:projectred-illumination:4.9.4.120@jar",
+  "name": "ProjectRed Illumination",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 724477,
+    "url": "https://edge.forgecdn.net/files/2745/549/ProjectRed-1.12.2-4.9.4.120-lighting.jar",
+    "MD5": "b9ead4f7e70dd4c0f68cd8c690249753"
+  }
+}

@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 8.5d,
+	dependencies: [
+		"cc7e7566"
+	],
+	optional: true,
+	tasks: [{
+		uid: "c72065df",
+		type: "item",
+		items: [{
+			item: "akutoengine:akutoengine 1 7"
+		}],
+		only_from_crafting: true
+	}]
+}

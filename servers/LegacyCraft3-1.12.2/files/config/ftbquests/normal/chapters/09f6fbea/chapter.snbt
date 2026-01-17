@@ -1,0 +1,54 @@
+{
+	title: "{quests.tech.ic2.title}",
+	icon: "ic2:itemtoolwrench",
+	description: [
+		"Quest create progress 20%"
+	],
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -1.0d,
+		y: 0.0d,
+		width: 2.0d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "modpack:textures/ic2/rubber_tree.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 1.0d,
+		y: 3.5d,
+		width: 2.0d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "modpack:textures/ic2/copper_ore.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 1.0d,
+		y: 5.5d,
+		width: 2.0d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "modpack:textures/ic2/tin_ore.png",
+		hover: [],
+		click: "",
+		dev: false
+	},
+	{
+		x: 1.0d,
+		y: 7.5d,
+		width: 2.0d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "modpack:textures/ic2/silver_ore.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

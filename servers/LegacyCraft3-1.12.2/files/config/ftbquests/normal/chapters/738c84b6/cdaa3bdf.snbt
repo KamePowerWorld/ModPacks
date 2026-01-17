@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -3.0d,
+	tasks: [{
+		uid: "0c05e3b9",
+		type: "item",
+		items: [{
+			item: "ic2:blockmachinelv"
+		}],
+		only_from_crafting: true
+	}]
+}

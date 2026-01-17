@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 2.0d,
+	dependencies: [
+		"c3b9dc26"
+	],
+	tasks: [{
+		uid: "2cad4a5d",
+		type: "item",
+		items: [{
+			item: "projecte:condenser_mk2"
+		}],
+		only_from_crafting: true
+	}]
+}

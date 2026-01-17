@@ -1,0 +1,16 @@
+{
+	x: 6.5d,
+	y: 2.0d,
+	dependencies: [
+		"e4765681"
+	],
+	optional: true,
+	tasks: [{
+		uid: "1e2020e1",
+		type: "item",
+		items: [{
+			item: "peex:aegu/aegumk2_off"
+		}],
+		only_from_crafting: true
+	}]
+}

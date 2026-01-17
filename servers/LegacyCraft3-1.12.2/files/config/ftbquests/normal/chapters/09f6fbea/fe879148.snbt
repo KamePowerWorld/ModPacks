@@ -1,0 +1,21 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"0f4a2bfc"
+	],
+	tasks: [{
+		uid: "fc520c4d",
+		type: "item",
+		items: [{
+			item: "ic2:itemharz"
+		}],
+		only_from_crafting: false
+	}],
+	rewards: [{
+		uid: "6b1decae",
+		type: "item",
+		item: "ic2:itemharz",
+		count: 9
+	}]
+}

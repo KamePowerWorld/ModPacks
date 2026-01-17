@@ -1,0 +1,10 @@
+{
+  "id": "cubex2.mods:MultiPageChest:1.12-1.9.1@jar",
+  "name": "Multi Page Chest",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 35770,
+    "url": "https://edge.forgecdn.net/files/2441/299/MultiPageChest-1.12-1.9.1.jar",
+    "MD5": "afce3a1a798152d9de127e3fc0e304f9"
+  }
+}

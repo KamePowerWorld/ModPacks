@@ -1,0 +1,18 @@
+{
+	title: "{quests.magic.title}",
+	icon: "projecte:item.pe_transmutation_tablet",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: 2.0d,
+		y: 3.5d,
+		width: 5.0d,
+		height: 3.0d,
+		rotation: 0.0d,
+		image: "modpack:textures/ee2/box.png",
+		hover: [],
+		click: "",
+		dev: false
+	}]
+}

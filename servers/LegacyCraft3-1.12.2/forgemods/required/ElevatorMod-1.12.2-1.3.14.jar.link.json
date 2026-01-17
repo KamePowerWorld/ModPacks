@@ -1,0 +1,10 @@
+{
+  "id": "xyz.vsngamer.elevator:elevatorid:1.12.2-1.3.14@jar",
+  "name": "Elevator Mod",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 108444,
+    "url": "https://edge.forgecdn.net/files/2845/365/ElevatorMod-1.12.2-1.3.14.jar",
+    "MD5": "3726325984b2f3d35ee284fcaeed21c1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "buildcraft.additionalpipes:additionalpipes:6.0.0.8@jar",
+  "name": "Additional Pipes",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 227670,
+    "url": "https://edge.forgecdn.net/files/2615/327/additionalpipes-6.0.0.8.jar",
+    "MD5": "4122cbeeae8738667008cb04828872c2"
+  }
+}

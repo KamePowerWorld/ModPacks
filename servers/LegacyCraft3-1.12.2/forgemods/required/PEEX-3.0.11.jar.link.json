@@ -1,0 +1,10 @@
+{
+  "id": "akuto2.peex:peex:3.0.11@jar",
+  "name": "PEEX",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 315256,
+    "url": "https://edge.forgecdn.net/files/3508/258/PEEX-3.0.11.jar",
+    "MD5": "12cf514b899ac27527afe664a4e29f53"
+  }
+}

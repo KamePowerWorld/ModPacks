@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: 3.5d,
+	dependencies: [
+		"dd8680aa",
+		"1c52b657",
+		"0dfd6153"
+	],
+	tasks: [{
+		uid: "14176814",
+		type: "item",
+		items: [{
+			item: "ic2:itemtreetapelectric"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

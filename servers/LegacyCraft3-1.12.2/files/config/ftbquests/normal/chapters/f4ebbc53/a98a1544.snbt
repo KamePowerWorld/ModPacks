@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	dependencies: [
+		"6e21e484"
+	],
+	optional: true,
+	tasks: [{
+		uid: "9ea6a0f0",
+		type: "item",
+		items: [{
+			item: "irontanks:glass_copper_upgrade"
+		}]
+	}]
+}

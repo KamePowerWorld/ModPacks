@@ -1,0 +1,10 @@
+{
+  "id": "com.yogpc.qp:quarryplus:12.5.7@jar",
+  "name": "QuarryPlus",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2101518,
+    "url": "https://edge.forgecdn.net/files/3851/282/AdditionalEnchantedMiner-1.12.2-12.5.7.jar",
+    "MD5": "4d8e10fb07c4bb4ea24c8e8d1aad51d1"
+  }
+}

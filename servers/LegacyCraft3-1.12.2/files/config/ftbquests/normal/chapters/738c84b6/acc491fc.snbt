@@ -1,0 +1,17 @@
+{
+	x: 1.5d,
+	y: 2.0d,
+	dependencies: [
+		"dd8680aa"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "c823b8d5",
+		type: "item",
+		items: [{
+			item: "ic2:itemdrills"
+		}],
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

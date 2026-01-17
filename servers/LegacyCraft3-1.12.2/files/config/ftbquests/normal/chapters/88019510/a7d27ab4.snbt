@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"0c0cee3e"
+	],
+	tasks: [{
+		uid: "b0c02e44",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_inventory_system_connector"
+		}],
+		only_from_crafting: true
+	}],
+	rewards: [{
+		uid: "258427d0",
+		type: "item",
+		item: "logisticspipes:pipe_inventory_system_connector"
+	}]
+}

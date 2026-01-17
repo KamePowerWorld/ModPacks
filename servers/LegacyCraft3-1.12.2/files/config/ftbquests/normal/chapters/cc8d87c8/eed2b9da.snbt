@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "4ee936c2",
+		type: "item",
+		items: [{
+			item: "ic2:blockelectric 1 12"
+		}]
+	}]
+}

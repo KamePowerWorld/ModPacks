@@ -1,0 +1,12 @@
+{
+	x: -1.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "0b50b4bb",
+		type: "item",
+		items: [{
+			item: "logisticspipes:pipe_manager"
+		}],
+		only_from_crafting: true
+	}]
+}

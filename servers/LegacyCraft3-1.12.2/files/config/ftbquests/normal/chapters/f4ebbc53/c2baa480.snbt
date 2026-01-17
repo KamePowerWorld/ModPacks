@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: 2.0d,
+	dependencies: [
+		"7ea4a43a"
+	],
+	optional: true,
+	tasks: [{
+		uid: "568f8ad6",
+		type: "item",
+		items: [{
+			item: "irontanks:gold_diamond_upgrade"
+		}]
+	}]
+}

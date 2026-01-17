@@ -1,0 +1,14 @@
+{
+	x: 8.5d,
+	y: 1.0d,
+	dependencies: [
+		"7ea4a43a"
+	],
+	tasks: [{
+		uid: "62460fc5",
+		type: "item",
+		items: [{
+			item: "irontanks:diamond_tank"
+		}]
+	}]
+}

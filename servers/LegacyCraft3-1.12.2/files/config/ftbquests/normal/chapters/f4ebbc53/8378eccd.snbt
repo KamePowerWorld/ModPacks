@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: 1.0d,
+	dependencies: [
+		"6e21e484"
+	],
+	tasks: [{
+		uid: "fc797e66",
+		type: "item",
+		items: [{
+			item: "irontanks:copper_tank"
+		}]
+	}]
+}

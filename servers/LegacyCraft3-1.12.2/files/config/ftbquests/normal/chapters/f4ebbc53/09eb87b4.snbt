@@ -1,0 +1,16 @@
+{
+	x: 10.0d,
+	y: -3.0d,
+	dependencies: [
+		"ecc9461a"
+	],
+	optional: true,
+	tasks: [{
+		uid: "0edef57f",
+		type: "item",
+		items: [{
+			item: "enderstorage:ender_storage"
+		}],
+		only_from_crafting: true
+	}]
+}

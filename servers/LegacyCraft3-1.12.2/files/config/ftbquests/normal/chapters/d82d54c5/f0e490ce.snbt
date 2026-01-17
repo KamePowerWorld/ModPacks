@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 7.0d,
+	dependencies: [
+		"b396eb0b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "bdb29b2c",
+		type: "item",
+		items: [{
+			item: "peex:condenser_grade0"
+		}]
+	}]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.cleanroommc:modularui:2.1.0@jar",
+  "name": "ModularUI",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 743453,
+    "url": "https://edge.forgecdn.net/files/4692/436/modularui-2.1.0.jar",
+    "MD5": "b7f082ae18dd125db22fbbf976de864d"
+  }
+}

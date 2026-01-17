@@ -1,0 +1,12 @@
+{
+	x: 2.5d,
+	y: 0.5d,
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "d82ce837",
+		type: "item",
+		items: [{
+			item: "ic2:blockelectric 1 10"
+		}]
+	}]
+}

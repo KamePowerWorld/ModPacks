@@ -1,0 +1,18 @@
+{
+	x: 4.5d,
+	y: -0.5d,
+	dependencies: [
+		"b913f051"
+	],
+	optional: true,
+	tasks: [{
+		uid: "84932bad",
+		type: "item",
+		items: [{
+			item: "emcbaubles:collector_mk3_necklace"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

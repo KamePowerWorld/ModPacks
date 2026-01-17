@@ -1,0 +1,14 @@
+{
+	x: -4.0d,
+	y: 4.0d,
+	tasks: [{
+		uid: "69d74154",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b,
+		only_from_crafting: true
+	}]
+}

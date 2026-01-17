@@ -1,0 +1,10 @@
+{
+  "id": "mrtjp.projectred:projectred-compatibility:4.9.4.120@jar",
+  "name": "ProjectRed Compatibility",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 67384,
+    "url": "https://edge.forgecdn.net/files/2745/546/ProjectRed-1.12.2-4.9.4.120-compat.jar",
+    "MD5": "56c34f44395c918926fc5751f82d70b9"
+  }
+}

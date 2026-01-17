@@ -1,0 +1,10 @@
+{
+  "id": "jpan.emcbaubles:emcbaubles:1.0@jar",
+  "name": "EMC Baubles",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 124278,
+    "url": "https://edge.forgecdn.net/files/3021/747/emcbaubles-1.12-1.0.jar",
+    "MD5": "15756ee475fe85cb665eb0eeb2d435ee"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	title: "{quests.did_you_know.ftbquests.title}",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"{quests.did_you_know.ftbquests.desc.0}",
+		"{quests.did_you_know.ftbquests.desc.1}"
+	],
+	tasks: [{
+		uid: "4dcb201c",
+		type: "checkmark",
+		title: "{quests.did_you_know.ftbquests.title}"
+	}]
+}
